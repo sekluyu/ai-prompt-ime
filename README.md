@@ -14,20 +14,22 @@
 
 ## 版本与验收
 
-0.2.0 已完成 Windows 小狼毫本机实机验收。上述输入与输出展示方案的使用方式；本页未附实机截图。词库覆盖和模型效果的边界见下文。
+0.2.1 新增独立 EXE 安装器，方案与词库沿用已完成 Windows 小狼毫本机实机验收的 0.2.0；新安装器已通过隔离目录的自动安装、备份与回滚测试。上述输入与输出展示方案的使用方式；本页未附实机截图。词库覆盖和模型效果的边界见下文。
 
 ## 安装
 
-前置条件：Windows、已安装的[小狼毫](https://github.com/rime/weasel/releases)、可在终端运行的 Python 3。安装方案只用 Python 标准库，不需要 API key、LLM 或在线服务。
+前置条件：Windows 10/11 x64、已安装的[小狼毫](https://github.com/rime/weasel/releases)。**普通用户无需安装 Python、.NET、Go 或其他运行环境，安装过程无需联网。** 本方案不需要 API key、LLM 或在线服务。
 
-从 [v0.2.0 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.0) 下载[默认安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.0/ai-prompt-ime-0.2.0.zip)并完整解压。默认包够日常使用；扩展包和词库追溯包见下文。也可以下载仓库源码 ZIP 并解压，仓库已包含默认词库。
+从 [v0.2.1 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.1) 下载[默认独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1-setup.exe)，单独这个 EXE 即可安装；也可以下载[默认 ZIP 包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1.zip)，完整解压后使用包内的 EXE。默认词库够日常使用；扩展词库与词库追溯包见下文。
 
-1. 安装小狼毫并确认能正常输入中文；安装 Python 3，使 `py -3` 或 `python` 命令可用。
-2. 完整解压默认安装包，双击根目录的 **`安装绘画提示词.exe`**。它是现有 Python 安装器的启动入口，仍需要 Python 3；请保留同包的 `tools/`、`rime/` 等文件。也可以在解压目录打开 PowerShell，运行 `python tools/install.py`；源码 ZIP 使用此命令安装。
+1. 安装小狼毫并确认能正常输入中文。
+2. 双击 **`ai-prompt-ime-0.2.1-setup.exe`**，或 ZIP 解压目录里的 **`安装绘画提示词.exe`**。方案文件和词库均已内置，不依赖旁边的脚本或数据文件，不需要管理员权限。
 3. 看到安装成功提示后，右键托盘小狼毫图标，选择“重新部署”。
 4. 部署完成后切到小狼毫，按 **F4** 打开方案菜单，选“绘画提示词”，输入 `shuangmawei`，选词后得到 `twintails, `。
 
 安装器默认使用 `%APPDATA%\Rime`，先备份同名方案文件及方案列表，再添加绘画方案；不安装或替换小狼毫。自定义用户目录、错误处理与备份位置见[安装与回滚](docs/安装与回滚.md)。
+
+仓库源码仍提供 `tools/install.py`，需要 Python 3；它是可选的源码安装入口。词库转换、构建及开发测试所需的 Python/Go 不属于普通用户安装依赖。
 
 ## 使用
 
@@ -40,7 +42,7 @@
 
 ## 回滚
 
-在安装时使用的解压目录运行 `python tools/install.py --rollback-latest`，看到恢复成功后重新部署小狼毫。自定义用户目录需要再带同一个 `--user-dir` 参数。回滚只撤销最近一次方案挂载/更新，不卸载小狼毫；若文件安装后被手工改过或删除，会停止并报告冲突，避免覆盖后续改动。旧备份和手动回滚步骤见[安装与回滚](docs/安装与回滚.md)。
+在安装器所在目录打开 PowerShell，运行 `.\ai-prompt-ime-0.2.1-setup.exe --rollback-latest`；使用 ZIP 内安装器时，运行 `.\安装绘画提示词.exe --rollback-latest`。看到恢复成功后重新部署小狼毫。自定义用户目录需要再带同一个 `--user-dir` 参数。新安装器兼容 0.2.0 Python 安装器的备份格式。回滚只撤销最近一次方案挂载/更新，不卸载小狼毫；若文件安装后被手工改过或删除，会停止并报告冲突，避免覆盖后续改动。旧备份和手动回滚步骤见[安装与回滚](docs/安装与回滚.md)。
 
 ## 词库与下载内容
 
@@ -48,11 +50,11 @@
 
 | 内容 | tag数 / 拼音映射数 | 获取位置 |
 |---|---:|---|
-| 默认常用库 | 20002 / 20063 | 源码中的 rime 目录；[默认安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.0/ai-prompt-ime-0.2.0.zip) |
-| 扩展可检索库 | 81359 / 81420 | [扩展安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.0/ai-prompt-ime-0.2.0-searchable.zip)，词库更大，替换默认库使用 |
-| 完整来源与处理记录 | 336155条来源记录 | [词库追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.0/ai-prompt-ime-0.2.0-dictionary.zip)，约 45 MiB，用于数据溯源，不需要安装 |
+| 默认常用库 | 20002 / 20063 | [独立 EXE](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1-setup.exe) / [ZIP 包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1.zip)；源码中的 rime 目录 |
+| 扩展可检索库 | 81359 / 81420 | [独立 EXE](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1-searchable-setup.exe) / [ZIP 包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1-searchable.zip)，词库更大，替换默认库使用 |
+| 完整来源与处理记录 | 336155条来源记录 | [词库追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/ai-prompt-ime-0.2.1-dictionary.zip)，约 45 MiB，用于数据溯源，不需要安装 |
 
-三个 ZIP 的 SHA-256 校验值见 [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.0/SHA256SUMS.txt)；每个 ZIP 内另附所含文件的校验清单。
+两个独立 EXE 与三个 ZIP 的 SHA-256 校验值见 [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.1/SHA256SUMS.txt)；每个 ZIP 内另附所含文件的校验清单。独立 EXE 内置项目、词库和 Go 运行时的许可，可运行 `安装器文件名.exe --license` 查看。
 
 默认库为一般类可检索词按源热度取前20000个，再加核心别名所需的额外2个 tag；不是逐条人工精选。完整来源已遍历归档，但254796个 tag 仍无可用拼音映射，主要涉及混合文本或读音处理，未盲目去字符猜译。**两万常用词不等于全量标签都能输入。** 自动拼音也未全部人工审读。
 
@@ -64,7 +66,7 @@
 
 第三方词库采用 **MIT**，完整声明保留在 [licenses/ffdkj-LICENSE.txt](licenses/ffdkj-LICENSE.txt)。小狼毫与librime由使用者自行安装，本仓库和方案ZIP不捆绑其二进制。
 
-本项目自有 YAML、Lua、Python 代码采用 **MIT License**，完整文本见根目录 [LICENSE](LICENSE)。第三方数据与依赖保留各自版权及许可声明，见[第三方许可](docs/第三方许可.md)。
+本项目自有 YAML、Lua、Python 和 Go 代码采用 **MIT License**，完整文本见根目录 [LICENSE](LICENSE)。第三方数据与依赖保留各自版权及许可声明，见[第三方许可](docs/第三方许可.md)。
 
 ## 开发与维护署名
 
