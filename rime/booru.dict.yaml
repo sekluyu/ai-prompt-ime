@@ -1,6 +1,6 @@
 ---
 name: booru
-version: "0.2.0"
+version: "0.2.2"
 sort: by_weight
 use_preset_vocabulary: false
 columns: [text, code, weight]
@@ -184,33 +184,43 @@ pug	bagequan	2435
 trigram	bagua	3112
 bagua	bagua	2550
 tug_of_war	bahe	2213
+__prompt__:white	bai	10000
 white_lily	baibaihe	3581
 whiteboard	baiban	3254
 white_spider_lily	baibianhua	2398
 kashiwa_mochi_(food)	baibing	2433
+__prompt__:white and orange color scheme	baichengpeise	10000
 white_shirt	baichenshan	6167
 white_lips	baichun	2620
 lab_coat	baidagua	4636
 white_cloak	baidoupeng	3965
 white_hair	baifa	10000
+__prompt__:white and pink color scheme	baifenhongpeise	10000
+__prompt__:white and pink color scheme	baifenpeise	10000
 dove	baige	3754
 white_dog	baigou	3132
 yuri	baihe	5534
 lily_(flower)	baihehua	4091
 fleur-de-lis	baihehuashi	3119
 lily_print	baihehuawen	2495
+__prompt__:white and black color scheme	baiheipeise	10000
+__prompt__:white and brown color scheme	baihepeise	10000
+__prompt__:white and red color scheme	baihongpeise	10000
 white_tiger	baihu	3247
 white_flower	baihua	5195
 albino	baihua	3927
+__prompt__:white and yellow color scheme	baihuangpeise	10000
 hakuo_school_uniform	baihuangxueyuanxiaofu	2773
 hyakkaou_academy_school_uniform	baihuawangxueyuanxiaofu	2818
 shirahana_school_uniform	baihuaxiaofu	2251
 white_butterfly	baihudie	3530
+__prompt__:white and gray color scheme	baihuipeise	10000
 white_fire	baihuo	2233
 white_tiger_print	baihuwen	2631
 white_beard	baihuzi	2624
 white_horns	baijiao	4046
 beluga_whale	baijing	2144
+__prompt__:white and gold color scheme	baijinpeise	10000
 spread_toes	baikaijiaozhi	3874
 spreading_another's_anus	baikaitarendegangmen	3134
 spreading_another's_ass	baikaitarendetunbu	2455
@@ -222,8 +232,10 @@ spreading_own_ass	baikaizijidepigu	2975
 spreading_own_pussy	baikaizijideyinbu	4348
 white-framed_eyewear	baikuangyanjing	3867
 white_wolf	bailang	2688
+__prompt__:white and blue color scheme	bailanpeise	10000
 hakuryou_high_school_uniform	bailingxueyuanzhifu	2576
 daikon	bailuobo	2959
+__prompt__:white and green color scheme	bailvpeise	10000
 white_horse	baima	2925
 white_hair	baimao	10000
 white_cat	baimao	4012
@@ -235,12 +247,15 @@ white_panties	baineiku	5398
 cataracts	baineizhang	2246
 white_bird	bainiao	3818
 white_robe	baipao	4189
+__prompt__:white	baipeise	10000
 pocky	baiqi	4326
 white_flag	baiqi	2954
 white_chocolate	baiqiaokeli	2578
 pachinko	baiqingge	2398
+__prompt__:white and cyan color scheme	baiqingpeise	10000
 pocky_kiss	baiqizhiwen	3462
 white_umbrella	baisan	3585
+__prompt__:white	baise	10000
 white_ascot	baiseasiketelingjin	4467
 white_bag	baisebao	3826
 white_gem	baisebaoshi	2837
@@ -253,6 +268,7 @@ white_armband	baisebizhang	3387
 white_polka_dots	baisebodian	2395
 white_pants	baisechangku	4877
 white_gown	baisechangpao	2291
+__prompt__:white and orange color scheme	baisechengsepeise	10000
 white_shirt	baisechenshan	10000
 white_wings	baisechibang	4864
 white_slingshot_swimsuit	baisedangongyongyi	3076
@@ -270,6 +286,8 @@ white_capelet	baiseduanpijian	4551
 white_shrug	baiseduanzhaoshan	3857
 white_hairband	baisefagu	4811
 white_scrunchie	baisefaquan	3886
+__prompt__:white and pink color scheme	baisefenhongsepeise	10000
+__prompt__:white and pink color scheme	baisefensepeise	10000
 white_halo	baiseguanghuan	3982
 white_trim	baisegunbian	3904
 white_bandeau	baiseguoxiong	3402
@@ -277,20 +295,27 @@ white_thighhighs	baiseguoxiwa	5558
 white_hanfu	baisehanfu	3843
 white_hanbok	baisehanfu	2615
 white_kimono	baisehefu	4780
+__prompt__:white and black color scheme	baiseheisepeise	10000
+__prompt__:white and brown color scheme	baisehesepeise	10000
+__prompt__:white and red color scheme	baisehongsepeise	10000
 white_petals	baisehuaban	3277
+__prompt__:white and yellow color scheme	baisehuangsepeise	10000
 white_bow	baisehudiejie	5214
+__prompt__:white and gray color scheme	baisehuisepeise	10000
 white_coif	baisehutoujin	2681
 white_facial_hair	baisehuxu	2482
 white_jacket	baisejiake	5311
 white_eyelashes	baisejiemao	3959
 white_choker	baisejingquan	4481
 white_collar	baisejingquan	4439
+__prompt__:white and gold color scheme	baisejinsepeise	10000
 white_leggings	baisejinshenku	3516
 white_bodysuit	baisejinshenliantiyi	4296
 white_armor	baisekaijia	3772
 white_cardigan	baisekaishan	3871
 white_mouth	baisekouqiang	3634
 white_hakama	baiseku	3122
+__prompt__:white and blue color scheme	baiselansepeise	10000
 white_sandals	baiseliangxie	3829
 white_hoodie	baiselianmaoshan	4423
 white_romper	baiselianshenduanku	3699
@@ -305,6 +330,7 @@ white_bowtie	baiselingjie	4433
 white_neckerchief	baiselingjin	4182
 white_scales	baiselinpian	3205
 white_outline	baiselunkuo	4806
+__prompt__:white and green color scheme	baiselvsepeise	10000
 white_vest	baisemajia	4103
 white_sweater	baisemaoyi	4628
 white_sweater_vest	baisemaoyibeixin	2912
@@ -315,6 +341,7 @@ white_tube_top	baisemoxiong	3605
 white_male_underwear	baisenanshineiku	3621
 white_male_swimwear	baisenanshiyongzhuang	2756
 white_chemise	baiseneiyishan	2810
+__prompt__:white	baisepeise	10000
 white_cape	baisepifeng	4495
 white_shawl	baisepijian	3421
 white_fur	baisepimao	4570
@@ -322,6 +349,7 @@ white_car	baiseqiche	2910
 white_negligee	baiseqingboshuipao	2573
 white_day	baiseqingrenjie	3205
 happy_white_day	baiseqingrenjiekuaile	2239
+__prompt__:white and cyan color scheme	baiseqingsepeise	10000
 white_skirt	baisequnzi	10000
 white_bonnet	baiseruanmao	3408
 white_sarong	baiseshalong	3451
@@ -367,16 +395,34 @@ white_eyeshadow	baiseyanying	2319
 white_belt	baiseyaodai	4441
 white_armpit_hair	baiseyemao	2215
 white_pubic_hair	baiseyinmao	3247
+__prompt__:white and silver color scheme	baiseyinsepeise	10000
+__prompt__:white and orange color scheme	baiseyuchengse	10000
+__prompt__:white and pink color scheme	baiseyufenhongse	10000
+__prompt__:white and pink color scheme	baiseyufense	10000
+__prompt__:white and black color scheme	baiseyuheise	10000
+__prompt__:white and brown color scheme	baiseyuhese	10000
+__prompt__:white and red color scheme	baiseyuhongse	10000
+__prompt__:white and yellow color scheme	baiseyuhuangse	10000
+__prompt__:white and gray color scheme	baiseyuhuise	10000
+__prompt__:white and gold color scheme	baiseyujinse	10000
+__prompt__:white and blue color scheme	baiseyulanse	10000
+__prompt__:white and green color scheme	baiseyulvse	10000
 white_sports_bra	baiseyundongneiyi	3842
 white_bathrobe	baiseyupao	2171
+__prompt__:white and cyan color scheme	baiseyuqingse	10000
 white_raincoat	baiseyuyi	2721
+__prompt__:white and silver color scheme	baiseyuyinse	10000
 white_haori	baiseyuzhi	3165
+__prompt__:white and purple color scheme	baiseyuzise	10000
+__prompt__:white and brown color scheme	baiseyuzongse	10000
 white_overskirt	baisezhaoqun	2589
 white_tabard	baisezhaoshan	3321
 white_visor_cap	baisezheyangmao	2207
 white_uniform	baisezhifu	2693
 white_nails	baisezhijia	3821
 white_theme	baisezhuti	3663
+__prompt__:white and purple color scheme	baisezisepeise	10000
+__prompt__:white and brown color scheme	baisezongsepeise	10000
 white_snake	baishe	3681
 white_rope	baisheng	3166
 type_100_smg	baishichongfengqiang	2268
@@ -401,6 +447,7 @@ aries_(symbol)	baiyangzuofuhao	2647
 window_blinds	baiyechuang	3608
 window_shutter	baiyechuang	2674
 shutter_shades	baiyechuangyanjing	2449
+__prompt__:white and silver color scheme	baiyinpeise	10000
 ermine	baiyou	2684
 white_tulip	baiyujinxiang	3040
 white_feathers	baiyumao	4028
@@ -412,7 +459,9 @@ cracking_knuckles	baizhiguanjie	2930
 virtuous_contract	baizhiqiyue	2865
 pendulum_clock	baizhong	2349
 shiroshouzoku	baizhuangshu	2823
+__prompt__:white and purple color scheme	baizipeise	10000
 posing	baizishi	3300
+__prompt__:white and brown color scheme	baizongpeise	10000
 jacket_around_neck	bajiakeweizaibozishang	2366
 drawing_sword	bajian	3477
 palm_leaf_fan	bajiaoshan	2597
@@ -1739,7 +1788,9 @@ morning_wood	chenbo	2207
 shipwreck	chenchuan	2627
 padded_cloak	chendiandoupeng	2185
 car_interior	chenei	3811
+__prompt__:orange	cheng	10000
 weighing_scale	cheng	3497
+__prompt__:orange and white color scheme	chengbaipeise	10000
 castle	chengbao	4033
 oran_berry	chengchengguo	3025
 matching_accessory	chengduishipin	2162
@@ -1747,13 +1798,27 @@ battlement	chengduo	2277
 orange_hair	chengfa	10000
 punishment	chengfa	2749
 punishment_sex	chengfaxingxingwei	2343
+__prompt__:orange and pink color scheme	chengfenhongpeise	10000
+__prompt__:orange and pink color scheme	chengfenpeise	10000
+__prompt__:orange and black color scheme	chengheipeise	10000
+__prompt__:orange and brown color scheme	chenghepeise	10000
+__prompt__:orange and red color scheme	chenghongpeise	10000
+__prompt__:orange and yellow color scheme	chenghuangpeise	10000
+__prompt__:orange and gray color scheme	chenghuipeise	10000
+__prompt__:orange and gold color scheme	chengjinpeise	10000
 achievement_unlocked	chengjiudacheng	2335
 spread_navel	chengkaiduqi	2998
 orange-framed_eyewear	chengkuangyanjing	2979
+__prompt__:orange and blue color scheme	chenglanpeise	10000
+__prompt__:orange and green color scheme	chenglvpeise	10000
+__prompt__:orange	chengpeise	10000
 bursting_breasts	chengpoyiwudexiongbu	3934
+__prompt__:orange and cyan color scheme	chengqingpeise	10000
 pornography_production	chengrenyingpianzhizuo	3329
 holding_umbrella	chengsan	10000
+__prompt__:orange	chengse	10000
 orange_ascot	chengseasiketelingjin	3351
+__prompt__:orange and white color scheme	chengsebaisepeise	10000
 orange_bag	chengsebao	2901
 orange_gem	chengsebaoshi	3165
 orange_overalls	chengsebeidaiku	2627
@@ -1776,24 +1841,33 @@ orange_shrug	chengseduankaishan	2642
 orange_shorts	chengseduanku	3863
 orange_hairband	chengsefagu	3794
 orange_scrunchie	chengsefaquan	3592
+__prompt__:orange and pink color scheme	chengsefenhongsepeise	10000
+__prompt__:orange and pink color scheme	chengsefensepeise	10000
 orange_sclera	chengsegongmo	3060
 orange_light	chengseguang	2188
 orange_halo	chengseguanghuan	3579
 orange_thighhighs	chengseguoxiwa	3639
 orange_hanfu	chengsehanfu	2182
 orange_kimono	chengsehefu	3747
+__prompt__:orange and black color scheme	chengseheisepeise	10000
+__prompt__:orange and brown color scheme	chengsehesepeise	10000
+__prompt__:orange and red color scheme	chengsehongsepeise	10000
 orange_petals	chengsehuaban	2438
 orange_flower	chengsehuaduo	4186
+__prompt__:orange and yellow color scheme	chengsehuangsepeise	10000
 orange_butterfly	chengsehudie	2827
 orange_bow	chengsehudiejie	4470
+__prompt__:orange and gray color scheme	chengsehuisepeise	10000
 orange_goggles	chengsehumujing	2971
 orange_jacket	chengsejiake	4156
 orange_horns	chengsejiao	3187
 orange-tinted_eyewear	chengsejingpianyanjing	3936
+__prompt__:orange and gold color scheme	chengsejinsepeise	10000
 orange_bodysuit	chengsejinshenliantiyi	3672
 orange_leotard	chengsejinshenyi	3189
 orange_armor	chengsekuijia	2647
 orange_pants	chengsekuzi	3738
+__prompt__:orange and blue color scheme	chengselansepeise	10000
 orange_sandals	chengseliangxie	2536
 orange_pantyhose	chengseliankuwa	3493
 orange_hoodie	chengselianmaoshan	3598
@@ -1806,6 +1880,7 @@ orange_bowtie	chengselingjie	3937
 orange_neckerchief	chengselingjin	3767
 orange_scales	chengselinpian	2335
 orange_outline	chengselunkuo	2947
+__prompt__:orange and green color scheme	chengselvsepeise	10000
 orange_vest	chengsemajia	3555
 orange_sweater	chengsemaoyi	3492
 orange_hat	chengsemaozi	3924
@@ -1816,9 +1891,11 @@ orange_male_underwear	chengsenanshineiku	2458
 orange_male_swimwear	chengsenanshiyongzhuang	2306
 orange_panties	chengseneiku	3346
 orange_leg_warmers	chengsenuantuiwa	2162
+__prompt__:orange	chengsepeise	10000
 orange_skin	chengsepifu	3601
 orange_shawl	chengsepijian	2177
 orange_car	chengseqiche	2156
+__prompt__:orange and cyan color scheme	chengseqingsepeise	10000
 orange_skirt	chengsequnzi	10000
 orange_umbrella	chengsesan	2446
 orange_sarong	chengseshalong	2598
@@ -1856,16 +1933,34 @@ orange_eyeliner	chengseyanxian	2893
 orange_eyeshadow	chengseyanying	2942
 orange_belt	chengseyaodai	3514
 orange_pubic_hair	chengseyinmao	2721
+__prompt__:orange and silver color scheme	chengseyinsepeise	10000
+__prompt__:orange and white color scheme	chengseyubaise	10000
+__prompt__:orange and pink color scheme	chengseyufenhongse	10000
+__prompt__:orange and pink color scheme	chengseyufense	10000
+__prompt__:orange and black color scheme	chengseyuheise	10000
+__prompt__:orange and brown color scheme	chengseyuhese	10000
+__prompt__:orange and red color scheme	chengseyuhongse	10000
+__prompt__:orange and yellow color scheme	chengseyuhuangse	10000
+__prompt__:orange and gray color scheme	chengseyuhuise	10000
+__prompt__:orange and gold color scheme	chengseyujinse	10000
 orange_tulip	chengseyujinxiang	2621
+__prompt__:orange and blue color scheme	chengseyulanse	10000
+__prompt__:orange and green color scheme	chengseyulvse	10000
 orange_feathers	chengseyumao	2769
 orange_buruma	chengseyundongduanku	2302
 orange_sports_bra	chengseyundongwenxiong	2759
 orange_clouds	chengseyunduo	2627
+__prompt__:orange and cyan color scheme	chengseyuqingse	10000
+__prompt__:orange and silver color scheme	chengseyuyinse	10000
+__prompt__:orange and purple color scheme	chengseyuzise	10000
+__prompt__:orange and brown color scheme	chengseyuzongse	10000
 orange_tabard	chengsezhaopao	3005
 orange_sweater_vest	chengsezhenzhibeixin	2664
 orange_cardigan	chengsezhenzhishan	2929
 orange_nails	chengsezhijia	3954
 orange_theme	chengsezhuti	3732
+__prompt__:orange and purple color scheme	chengsezisepeise	10000
+__prompt__:orange and brown color scheme	chengsezongsepeise	10000
 city	chengshi	10000
 city_lights	chengshidengguang	3851
 cityscape	chengshijingguan	4391
@@ -1878,11 +1973,14 @@ orange_eyes	chengtong	5423
 travel_attendant	chengwuyuan	3076
 boobplate	chengxingrufangjia	3492
 orange_eyes	chengyan	10000
+__prompt__:orange and silver color scheme	chengyinpeise	10000
 town	chengzhen	3689
 orange_juice	chengzhi	3045
 orange_(fruit)	chengzi	4013
+__prompt__:orange and purple color scheme	chengzipeise	10000
 orange_slice	chengziqiepian	3608
 orange_print	chengziyinhua	2576
+__prompt__:orange and brown color scheme	chengzongpeise	10000
 riding_roller_coaster	chengzuoguoshanche	2226
 twilight	chenhun	3962
 silence_glaive	chenmobingren	2673
@@ -4038,6 +4136,8 @@ soap_bubbles	feizaopao	3949
 soap_censor	feizaozhedang	3330
 gerbera	feizhouju	2947
 unwanted_creampie	feiziyuanneishe	2645
+__prompt__:pink	fen	10000
+__prompt__:pink and white color scheme	fenbaipeise	10000
 chalk	fenbi	3373
 chalk_drawing	fenbihua	2533
 compact_(cosmetics)	fenbinghe	2969
@@ -4046,6 +4146,7 @@ forked_eyebrows	fenchamei	3949
 forked_tongue	fenchashe	3676
 forked_tail	fenchawei	3252
 bifurcated_jaw	fenchaxiae	2199
+__prompt__:pink and orange color scheme	fenchengpeise	10000
 fanta	fenda	2547
 fender_jazzmaster	fendajueshidashijita	2749
 fender_mustang	fendayema	2691
@@ -4130,11 +4231,63 @@ minegahara_high_school_uniform	fengyuangaozhongxiaofu	2570
 kazekoshi_school_uniform	fengyuenvzigaozhongxiaofu	2655
 kite	fengzheng	2936
 toyogasaki_academy_school_uniform	fengzhiqixueyuanxiaofu	2962
+__prompt__:pink and black color scheme	fenheipeise	10000
+__prompt__:pink and brown color scheme	fenhepeise	10000
+__prompt__:pink	fenhong	10000
+__prompt__:pink and white color scheme	fenhongbaipeise	10000
+__prompt__:pink and orange color scheme	fenhongchengpeise	10000
+__prompt__:pink and black color scheme	fenhongheipeise	10000
+__prompt__:pink and brown color scheme	fenhonghepeise	10000
+__prompt__:pink and red color scheme	fenhonghongpeise	10000
+__prompt__:pink and yellow color scheme	fenhonghuangpeise	10000
+__prompt__:pink and gray color scheme	fenhonghuipeise	10000
+__prompt__:pink and gold color scheme	fenhongjinpeise	10000
+__prompt__:pink and blue color scheme	fenhonglanpeise	10000
+__prompt__:pink and green color scheme	fenhonglvpeise	10000
+__prompt__:pink	fenhongpeise	10000
+__prompt__:pink and cyan color scheme	fenhongqingpeise	10000
+__prompt__:pink	fenhongse	10000
+__prompt__:pink and white color scheme	fenhongsebaisepeise	10000
+__prompt__:pink and orange color scheme	fenhongsechengsepeise	10000
+__prompt__:pink and black color scheme	fenhongseheisepeise	10000
+__prompt__:pink and brown color scheme	fenhongsehesepeise	10000
+__prompt__:pink and red color scheme	fenhongsehongsepeise	10000
+__prompt__:pink and yellow color scheme	fenhongsehuangsepeise	10000
+__prompt__:pink and gray color scheme	fenhongsehuisepeise	10000
+__prompt__:pink and gold color scheme	fenhongsejinsepeise	10000
+__prompt__:pink and blue color scheme	fenhongselansepeise	10000
+__prompt__:pink and green color scheme	fenhongselvsepeise	10000
+__prompt__:pink	fenhongsepeise	10000
+__prompt__:pink and cyan color scheme	fenhongseqingsepeise	10000
+__prompt__:pink and silver color scheme	fenhongseyinsepeise	10000
+__prompt__:pink and white color scheme	fenhongseyubaise	10000
+__prompt__:pink and orange color scheme	fenhongseyuchengse	10000
+__prompt__:pink and black color scheme	fenhongseyuheise	10000
+__prompt__:pink and brown color scheme	fenhongseyuhese	10000
+__prompt__:pink and red color scheme	fenhongseyuhongse	10000
+__prompt__:pink and yellow color scheme	fenhongseyuhuangse	10000
+__prompt__:pink and gray color scheme	fenhongseyuhuise	10000
+__prompt__:pink and gold color scheme	fenhongseyujinse	10000
+__prompt__:pink and blue color scheme	fenhongseyulanse	10000
+__prompt__:pink and green color scheme	fenhongseyulvse	10000
+__prompt__:pink and cyan color scheme	fenhongseyuqingse	10000
+__prompt__:pink and silver color scheme	fenhongseyuyinse	10000
+__prompt__:pink and purple color scheme	fenhongseyuzise	10000
+__prompt__:pink and brown color scheme	fenhongseyuzongse	10000
+__prompt__:pink and purple color scheme	fenhongsezisepeise	10000
+__prompt__:pink and brown color scheme	fenhongsezongsepeise	10000
+__prompt__:pink and silver color scheme	fenhongyinpeise	10000
+__prompt__:pink and purple color scheme	fenhongzipeise	10000
+__prompt__:pink and brown color scheme	fenhongzongpeise	10000
+__prompt__:pink and yellow color scheme	fenhuangpeise	10000
+__prompt__:pink and gray color scheme	fenhuipeise	10000
+__prompt__:pink and gold color scheme	fenjinpeise	10000
 spreading_another's_legs	fenkaitarenshuangtui	2246
 pink-framed_eyewear	fenkuangyanjing	3725
 finland	fenlan	2207
 finnish_flag	fenlanguoqi	2400
 column_lineup	fenlanpailie	3562
+__prompt__:pink and blue color scheme	fenlanpeise	10000
 finnish_text	fenlanyuwenben	2604
 detached_wings	fenlichibang	4241
 detached_arm	fenlideshoubi	2792
@@ -4142,15 +4295,20 @@ detached_leggings	fenlishidadiku	3178
 detached_ahoge	fenlishidaimao	3354
 detached_legs	fenlitui	2351
 detached_sleeves	fenlixiu	5785
+__prompt__:pink and green color scheme	fenlvpeise	10000
 giving_birth	fenmian	2815
 grave	fenmu	3205
 angry	fennu	4807
 >:(	fennubiaoqing	3868
 anger_vein	fennufuhao	4929
 angry_sex	fennuxingai	2576
+__prompt__:pink	fenpeise	10000
 split_screen	fenping	3485
 powder_puff	fenpu	2279
 fen_cichlid_girls_academy_school_uniform	fenqilidenvzixueyuanxiaofu	2362
+__prompt__:pink and cyan color scheme	fenqingpeise	10000
+__prompt__:pink	fense	10000
+__prompt__:pink and white color scheme	fensebaisepeise	10000
 pink_bag	fensebao	3941
 pink_gem	fensebaoshi	3614
 pink_overalls	fensebeidaiku	2896
@@ -4161,6 +4319,7 @@ pink_bikini	fensebijini	4497
 pink_nose	fensebizi	2881
 pink_pants	fensechangku	3852
 pink_robe	fensechangpao	2934
+__prompt__:pink and orange color scheme	fensechengsepeise	10000
 pink_shirt	fensechenshan	10000
 pink_wings	fensechibang	3678
 pink_slingshot_swimsuit	fensedangongyongzhuang	2551
@@ -4182,17 +4341,23 @@ pink_light	fenseguangxiao	2339
 pink_thighhighs	fenseguoxiwa	4299
 pink_hanfu	fensehanfu	2706
 pink_kimono	fensehefu	4371
+__prompt__:pink and black color scheme	fenseheisepeise	10000
+__prompt__:pink and brown color scheme	fensehesepeise	10000
 pink_frills	fenseheyebian	2600
+__prompt__:pink and red color scheme	fensehongsepeise	10000
 pink_petals	fensehuaban	4011
 pink_flower	fensehuaduo	4990
 pink_crown	fensehuangguan	3075
+__prompt__:pink and yellow color scheme	fensehuangsepeise	10000
 pink_butterfly	fensehudie	3156
 pink_bow	fensehudiejie	5098
+__prompt__:pink and gray color scheme	fensehuisepeise	10000
 pink_fire	fensehuoyan	3042
 pink_jacket	fensejiake	4680
 pink_horns	fensejiao	3596
 pink_choker	fensejinglian	4156
 pink-tinted_eyewear	fensejingpianyanjing	3789
+__prompt__:pink and gold color scheme	fensejinsepeise	10000
 pink_leggings	fensejinshenku	2680
 pink_leotard	fensejinshenliantiyi	3948
 pink_bodysuit	fensejinshenyi	3684
@@ -4201,6 +4366,7 @@ pink_carnation	fensekangnaixin	2272
 pink_mask	fensekouzhao	2721
 pink_hakama	fenseku	3181
 pink_armor	fensekuijia	2882
+__prompt__:pink and blue color scheme	fenselansepeise	10000
 pink_sandals	fenseliangxie	3196
 pink_pantyhose	fenseliankuwa	3685
 pink_hoodie	fenselianmaoshan	3869
@@ -4214,6 +4380,7 @@ pink_neckerchief	fenselingjin	4092
 pink_ascot	fenselingjin	3516
 pink_scales	fenselinpian	2333
 pink_outline	fenselunkuo	3354
+__prompt__:pink and green color scheme	fenselvsepeise	10000
 pink_vest	fensemajia	3697
 pink_cat	fensemao	2690
 pink_fur	fensemaopi	3882
@@ -4226,11 +4393,13 @@ pink_tube_top	fensemoxiong	2819
 pink_bandeau	fensemoxiong	2427
 pink_male_underwear	fensenanshineiku	2341
 pink_panties	fenseneiku	4803
+__prompt__:pink	fensepeise	10000
 pink_cape	fensepifeng	3598
 pink_cloak	fensepifeng	2706
 pink_skin	fensepifu	4158
 pink_shawl	fensepijian	2852
 pink_car	fenseqiche	2299
+__prompt__:pink and cyan color scheme	fenseqingsepeise	10000
 pink_skirt	fensequnzi	10000
 pink_bonnet	fenseruanmao	2485
 pink_sarong	fenseshalong	3028
@@ -4279,19 +4448,36 @@ pink_eyeshadow	fenseyanying	3834
 pink_belt	fenseyaodai	3818
 pink_liquid	fenseyeti	2528
 pink_pubic_hair	fenseyinmao	3046
+__prompt__:pink and silver color scheme	fenseyinsepeise	10000
+__prompt__:pink and white color scheme	fenseyubaise	10000
+__prompt__:pink and orange color scheme	fenseyuchengse	10000
 pink_moon	fenseyueliang	2437
+__prompt__:pink and black color scheme	fenseyuheise	10000
+__prompt__:pink and brown color scheme	fenseyuhese	10000
+__prompt__:pink and red color scheme	fenseyuhongse	10000
+__prompt__:pink and yellow color scheme	fenseyuhuangse	10000
+__prompt__:pink and gray color scheme	fenseyuhuise	10000
+__prompt__:pink and gold color scheme	fenseyujinse	10000
 pink_tulip	fenseyujinxiang	3144
+__prompt__:pink and blue color scheme	fenseyulanse	10000
+__prompt__:pink and green color scheme	fenseyulvse	10000
 pink_feathers	fenseyumao	3032
 pink_track_suit	fenseyundongfu	3209
 pink_sports_bra	fenseyundongneiyi	3141
 pink_clouds	fenseyunduo	2746
+__prompt__:pink and cyan color scheme	fenseyuqingse	10000
 pink_umbrella	fenseyusan	3321
+__prompt__:pink and silver color scheme	fenseyuyinse	10000
 pink_haori	fenseyuzhi	2239
+__prompt__:pink and purple color scheme	fenseyuzise	10000
+__prompt__:pink and brown color scheme	fenseyuzongse	10000
 pink_pillow	fensezhentou	2768
 pink_visor_cap	fensezheyangmao	2659
 pink_nails	fensezhijia	4888
 pink_claws	fensezhuazi	2821
 pink_theme	fensezhuti	4312
+__prompt__:pink and purple color scheme	fensezisepeise	10000
+__prompt__:pink and brown color scheme	fensezongsepeise	10000
 pink_lips	fensezuichun	4696
 followers_favorite_challenge	fensizuiaitiaozhan	2951
 detached_pants	fentiku	3029
@@ -4299,6 +4485,9 @@ pink_eyes	fentong	5648
 sharing_food	fenxiangshiwu	2988
 distracted	fenxin	2261
 pink_eyes	fenyan	10000
+__prompt__:pink and silver color scheme	fenyinpeise	10000
+__prompt__:pink and purple color scheme	fenzipeise	10000
+__prompt__:pink and brown color scheme	fenzongpeise	10000
 buddhism	fojiao	2559
 denial	fouren	2207
 fatherly	fuai	2478
@@ -5197,12 +5386,17 @@ steam_from_mouth	haqi	2893
 hissing	haqi	2312
 breathing_on_hands	haqinuanshou	2829
 husky	hashiqi	2765
+__prompt__:brown	he	10000
 riverbank	hean	2933
+__prompt__:brown and white color scheme	hebaipeise	10000
 synthwave	hechengbo	2601
+__prompt__:brown and orange color scheme	hechengpeise	10000
 synthesizer	hechengqi	2523
 wa_lolita	hefengluolita	3307
 wa_maid	hefengnvpu	3870
 wa_bunny	hefengtunvlang	2174
+__prompt__:brown and pink color scheme	hefenhongpeise	10000
+__prompt__:brown and pink color scheme	hefenpeise	10000
 kimono	hefu	10000
 kimono_partially_removed	hefubantuo	2631
 shirt_under_kimono	hefuneichenchenshan	2811
@@ -5214,12 +5408,18 @@ obi_bow	hefuyaodaijie	2388
 yumi_(bow)	hegong	2989
 croupier	heguan	2407
 wagashi	heguozi	4242
+__prompt__:brown and black color scheme	heheipeise	10000
+__prompt__:brown and red color scheme	hehongpeise	10000
+__prompt__:brown and yellow color scheme	hehuangpeise	10000
+__prompt__:brown and gray color scheme	hehuipeise	10000
+__prompt__:black	hei	10000
 darkness	heian	3665
 dark_orb_(madoka_magica)	heianbaozhu	2636
 bad_food	heianliaoli	3265
 dusk_ball	heianqiu	3012
 black_vs_white	heibaiduibi	3066
 kamchatka_lily	heibaihe	2218
+__prompt__:black and white color scheme	heibaipeise	10000
 reversi	heibaiqi	2144
 chalkboard	heiban	4152
 board_eraser	heibanca	2970
@@ -5233,6 +5433,7 @@ panther_boy	heibaoshourenshaonian	2554
 panther_(tank)	heibaotanke	2244
 panther_tail	heibaowei	3605
 black_nose	heibi	2502
+__prompt__:black and orange color scheme	heichengpeise	10000
 black_shirt	heichenshan	5588
 black_lips	heichun	4030
 black_camisole	heidiaodaibeixin	4030
@@ -5241,18 +5442,27 @@ black_cloak	heidoupeng	4184
 black_ears	heierduo	2692
 black_hair	heifa	10000
 black_roots	heifagen	2370
+__prompt__:black and pink color scheme	heifenhongpeise	10000
+__prompt__:black and pink color scheme	heifenpeise	10000
 black_dog	heigou	2520
+__prompt__:black and brown color scheme	heihepeise	10000
+__prompt__:black and red color scheme	heihongpeise	10000
 dark_persona	heihua	4247
 black_flower	heihua	4186
+__prompt__:black and yellow color scheme	heihuangpeise	10000
 black_butterfly	heihudie	2981
+__prompt__:black and gray color scheme	heihuipeise	10000
 pop-up_pirate	heihuziweijiyifa	2196
 black_horns	heijiao	4854
 vinyl_record	heijiaochangpian	3226
+__prompt__:black and gold color scheme	heijinpeise	10000
 black_pants	heiku	5423
 black-framed_eyewear	heikuangyanjing	4776
 ganguro	heilamei	3182
+__prompt__:black and blue color scheme	heilanpeise	10000
 black_scales	heilin	3380
 kurokote	heilongshou	3895
+__prompt__:black and green color scheme	heilvpeise	10000
 black_horse	heima	2506
 monarch_butterfly	heimaijinbandie	2339
 black_hat	heimao	5419
@@ -5261,9 +5471,13 @@ black_rose	heimeigui	3778
 black_veil	heimiansha	4048
 black_bird	heiniao	3351
 black_robe	heipao	4179
+__prompt__:black	heipeise	10000
+__prompt__:black and cyan color scheme	heiqingpeise	10000
 black_sun	heiri	2691
 black_umbrella	heisan	3506
+__prompt__:black	heise	10000
 black_ascot	heiseasiketelingjin	4115
+__prompt__:black and white color scheme	heisebaisepeise	10000
 black_bag	heisebao	4226
 black_gem	heisebaoshi	2825
 black_suspenders	heisebeidai	2516
@@ -5277,6 +5491,7 @@ black_bikini	heisebijini	5231
 black_armband	heisebizhang	3635
 black_buruma	heisebuluma	3626
 black_changpao	heisechangpao	2182
+__prompt__:black and orange color scheme	heisechengsepeise	10000
 black_chemise	heisechenqun	2366
 black_shirt	heisechenshan	10000
 black_wings	heisechibang	4861
@@ -5296,21 +5511,28 @@ black_shorts	heiseduanku	5308
 black_hairband	heisefagu	5199
 monolith_(object)	heisefangbei	2194
 black_scrunchie	heisefaquan	3845
+__prompt__:black and pink color scheme	heisefenhongsepeise	10000
+__prompt__:black and pink color scheme	heisefensepeise	10000
 black_halo	heiseguanghuan	4303
 black_trim	heisegunbian	3472
 black_thighhighs	heiseguoxiwa	5716
 black_hanfu	heisehanfu	3829
 black_hanbok	heisehanfu	2415
 black_kimono	heisehefu	4518
+__prompt__:black and brown color scheme	heisehesepeise	10000
+__prompt__:black and red color scheme	heisehongsepeise	10000
 black_petals	heisehuaban	2144
 black_crown	heisehuangguan	3040
+__prompt__:black and yellow color scheme	heisehuangsepeise	10000
 black_bow	heisehudiejie	5372
+__prompt__:black and gray color scheme	heisehuisepeise	10000
 black_wrist_cuffs	heisehuwan	3627
 black_gauntlets	heisehuwan	2736
 black_jacket	heisejiake	5608
 black_order_uniform	heisejiaotuanzhifu	2881
 black_hiphighs	heisejikuawa	3169
 black_choker	heisejingquan	5452
+__prompt__:black and gold color scheme	heisejinsepeise	10000
 black_leotard	heisejinshenliantiyi	5067
 black_unitard	heisejinshenliantiyi	3208
 black_bodice	heisejinshenxiongyi	2279
@@ -5319,6 +5541,7 @@ black_cardigan	heisekaishan	3953
 black_mask	heisekouzhao	4206
 black_hakama	heiseku	3784
 black_fundoshi	heisekun	2499
+__prompt__:black and blue color scheme	heiselansepeise	10000
 black_tears	heiseleishui	2612
 black_lace_trim	heiseleisibian	2228
 black_sandals	heiseliangxie	4190
@@ -5335,6 +5558,7 @@ black_bowtie	heiselingjie	4857
 black_neckerchief	heiselingjin	4284
 black_claws	heiselizhua	3045
 black_outline	heiselunkuo	3433
+__prompt__:black and green color scheme	heiselvsepeise	10000
 black_vest	heisemajia	4896
 black_fur	heisemaopi	4207
 black_sweater	heisemaoyi	4577
@@ -5348,11 +5572,13 @@ black_panties	heiseneiku	5272
 black_undershirt	heiseneiyi	2666
 kuromorimine_military_uniform	heisenfengjunfu	3599
 kuromorimine_school_uniform	heisenfengnvzixueyuanxiaofu	3371
+__prompt__:black	heisepeise	10000
 black_cape	heisepifeng	4616
 black_shawl	heisepijian	3020
 black_chaps	heisepitaoku	2202
 black_wetsuit	heiseqianshuifu	2580
 black_car	heiseqiche	2708
+__prompt__:black and cyan color scheme	heiseqingsepeise	10000
 order_of_the_black_knights_uniform	heiseqishituanzhifu	2331
 black_skirt	heisequnzi	10000
 black_bonnet	heiseruanmao	3265
@@ -5402,16 +5628,34 @@ black_eyeshadow	heiseyanying	3490
 black_belt	heiseyaodai	5037
 black_liquid	heiseyeti	2995
 black_pubic_hair	heiseyinmao	3775
+__prompt__:black and silver color scheme	heiseyinsepeise	10000
 black_swim_trunks	heiseyongku	2291
+__prompt__:black and white color scheme	heiseyubaise	10000
+__prompt__:black and orange color scheme	heiseyuchengse	10000
+__prompt__:black and pink color scheme	heiseyufenhongse	10000
+__prompt__:black and pink color scheme	heiseyufense	10000
+__prompt__:black and brown color scheme	heiseyuhese	10000
+__prompt__:black and red color scheme	heiseyuhongse	10000
+__prompt__:black and yellow color scheme	heiseyuhuangse	10000
+__prompt__:black and gray color scheme	heiseyuhuise	10000
+__prompt__:black and gold color scheme	heiseyujinse	10000
+__prompt__:black and blue color scheme	heiseyulanse	10000
+__prompt__:black and green color scheme	heiseyulvse	10000
 black_track_suit	heiseyundongfu	2595
 black_sports_bra	heiseyundongneiyi	4259
+__prompt__:black and cyan color scheme	heiseyuqingse	10000
+__prompt__:black and silver color scheme	heiseyuyinse	10000
 black_haori	heiseyuzhi	3141
+__prompt__:black and purple color scheme	heiseyuzise	10000
+__prompt__:black and brown color scheme	heiseyuzongse	10000
 black_assault_visor	heisezhanshuhumujing	2472
 black_tabard	heisezhaopao	2670
 black_overskirt	heisezhaoqun	3139
 black_chastity_cage	heisezhencaolong	2182
 black_nails	heisezhijia	5101
 black_theme	heisezhuti	3379
+__prompt__:black and purple color scheme	heisezisepeise	10000
+__prompt__:black and brown color scheme	heisezongsepeise	10000
 black_snake	heishe	2473
 black_rope	heisheng	2400
 black_tongue	heishetou	2641
@@ -5437,16 +5681,22 @@ black_fire	heiyan	2626
 black_smoke	heiyan	2306
 black_sclera	heiyanbai	4590
 bags_under_eyes	heiyanquan	4654
+__prompt__:black and silver color scheme	heiyinpeise	10000
 black_feathers	heiyumao	3859
+__prompt__:black and purple color scheme	heizipeise	10000
+__prompt__:black and brown color scheme	heizongpeise	10000
 compilation	heji	2153
+__prompt__:brown and gold color scheme	hejinpeise	10000
 dutch_braided_ponytail	helanbianmayi	2341
 dutch_flag	helanguoqi	2171
 dutch_angle	helanjiao	5221
+__prompt__:brown and blue color scheme	helanpeise	10000
 beaver	heli	2218
 crane_stance	helishi	2168
 river	heliu	10000
 beaver_tail	heliweiba	2486
 eye_of_horus	helusizhiyan	3291
+__prompt__:brown and green color scheme	helvpeise	10000
 hippopotamus	hema	2637
 hippopotamus_ears	hemaer	2779
 hippopotamus_girl	hemaniang	2766
@@ -5464,15 +5714,47 @@ lined_paper	hengxianzhi	2578
 sukajan	hengxuhejiake	3368
 yokosuka_girls_marine_high_school_swimsuit	hengxuhenvzihaiyanggaozhongyongzhuang	2162
 yokosuka_girls_marine_high_school_uniform	hengxuhenvzihaiyangxuexiaozhifu	2830
+__prompt__:brown	hepeise	10000
 peace_symbol	hepingbiaozhi	3222
+__prompt__:brown and cyan color scheme	heqingpeise	10000
 hufflepuff	heqipaqi	2496
+__prompt__:brown	hese	10000
+__prompt__:brown and white color scheme	hesebaisepeise	10000
+__prompt__:brown and orange color scheme	hesechengsepeise	10000
 brown_loincloth	hesedoudangbu	2536
+__prompt__:brown and pink color scheme	hesefenhongsepeise	10000
+__prompt__:brown and pink color scheme	hesefensepeise	10000
+__prompt__:brown and black color scheme	heseheisepeise	10000
+__prompt__:brown and red color scheme	hesehongsepeise	10000
+__prompt__:brown and yellow color scheme	hesehuangsepeise	10000
+__prompt__:brown and gray color scheme	hesehuisepeise	10000
+__prompt__:brown and gold color scheme	hesejinsepeise	10000
+__prompt__:brown and blue color scheme	heselansepeise	10000
+__prompt__:brown and green color scheme	heselvsepeise	10000
 brown_rose	hesemeigui	2661
 brown_mask	hesemianju	2576
+__prompt__:brown	hesepeise	10000
+__prompt__:brown and cyan color scheme	heseqingsepeise	10000
 brown_sky	hesetiankong	2659
 brown_headscarf	hesetoujin	2319
 brown_sleeves	hesexiuzi	3505
+__prompt__:brown and silver color scheme	heseyinsepeise	10000
+__prompt__:brown and white color scheme	heseyubaise	10000
+__prompt__:brown and orange color scheme	heseyuchengse	10000
+__prompt__:brown and pink color scheme	heseyufenhongse	10000
+__prompt__:brown and pink color scheme	heseyufense	10000
+__prompt__:brown and black color scheme	heseyuheise	10000
+__prompt__:brown and red color scheme	heseyuhongse	10000
+__prompt__:brown and yellow color scheme	heseyuhuangse	10000
+__prompt__:brown and gray color scheme	heseyuhuise	10000
+__prompt__:brown and gold color scheme	heseyujinse	10000
+__prompt__:brown and blue color scheme	heseyulanse	10000
+__prompt__:brown and green color scheme	heseyulvse	10000
 brown_feathers	heseyumao	3151
+__prompt__:brown and cyan color scheme	heseyuqingse	10000
+__prompt__:brown and silver color scheme	heseyuyinse	10000
+__prompt__:brown and purple color scheme	heseyuzise	10000
+__prompt__:brown and purple color scheme	hesezisepeise	10000
 palms_together	heshi	3647
 washitsu	heshi	2816
 zaisu	heshikaobeiyi	2205
@@ -5558,14 +5840,18 @@ frilled_umbrella	heyebianyangsan	3226
 frilled_innertube	heyebianyouyongquan	2485
 frilled_pillow	heyebianzhentou	3807
 group_profile	heyingcexie	2341
+__prompt__:brown and silver color scheme	heyinpeise	10000
 group_picture	hezhao	3715
 box	hezi	4905
 hezi	hezi	2241
 nuka-cola	hezikele	2159
+__prompt__:brown and purple color scheme	hezipeise	10000
 cooperative_pussyjob	hezuosugu	2570
+__prompt__:red	hong	10000
 famicom	hongbaiji	2675
 famicom_controller	hongbaijishoubing	2299
 famicom_gamepad	hongbaijishoubing	2226
+__prompt__:red and white color scheme	hongbaipeise	10000
 kouhaku_nawa	hongbaisheng	3404
 hongbao	hongbao	2870
 humboldt_penguin	hongbaoqie	2207
@@ -5575,6 +5861,7 @@ red_trim	hongbian	4008
 red_nose	hongbizi	3328
 iridescent_hair	hongcaifase	2568
 black_tea	hongcha	2781
+__prompt__:red and orange color scheme	hongchengpeise	10000
 red_shirt	hongchenshan	5058
 red_lips	hongchun	4620
 grand_scale	hongdachidu	3071
@@ -5586,18 +5873,27 @@ red_cloak	hongdoupeng	3972
 red_bean_paste	hongdousha	2443
 shiruko_(food)	hongdoutang	2630
 red_hair	hongfa	10000
+__prompt__:red and pink color scheme	hongfenhongpeise	10000
+__prompt__:red and pink color scheme	hongfenpeise	10000
 honggaitou	honggaitou	2196
 red_sclera	honggongmo	4026
 red_light	hongguang	2975
+__prompt__:red and black color scheme	hongheipeise	10000
+__prompt__:red and brown color scheme	honghepeise	10000
 red_flower	honghua	5064
+__prompt__:red and yellow color scheme	honghuangpeise	10000
 red_butterfly	honghudie	3356
+__prompt__:red and gray color scheme	honghuipeise	10000
 red_fire	honghuo	2507
 red_feet	hongjiao	2861
+__prompt__:red and gold color scheme	hongjinpeise	10000
 roasting	hongkao	2458
 red_border	hongkuang	3539
 red-framed_eyewear	hongkuangyanjing	4656
+__prompt__:red and blue color scheme	honglanpeise	10000
 pioneer_neckerchief	honglingjin	2691
 traffic_light	honglvdeng	3596
+__prompt__:red and green color scheme	honglvpeise	10000
 red_hat	hongmaozi	4960
 red_rose	hongmeigui	4668
 mismatched_irises	hongmodaxiaobuyi	2368
@@ -5606,16 +5902,20 @@ red_prison_magic_school_uniform	hongmozumofaxuexiaoxiaofu	2345
 red_bird	hongniao	2213
 red_bull	hongniu	2922
 red_robe	hongpao	3468
+__prompt__:red	hongpeise	10000
 red_skin	hongpifu	4305
 red_wine	hongputaojiu	3337
 red_flag	hongqi	2733
+__prompt__:red and cyan color scheme	hongqingpeise	10000
 red_ball	hongqiu	2210
 red_circle	hongquan	2390
 red_skirt	hongqun	5234
 red_sun	hongri	2943
 red_umbrella	hongsan	3794
+__prompt__:red	hongse	10000
 red_button	hongseanniu	2177
 red_ascot	hongseasiketelingjin	4438
+__prompt__:red and white color scheme	hongsebaisepeise	10000
 red_bag	hongsebao	3905
 red_gem	hongsebaoshi	4293
 red_suspenders	hongsebeidai	2608
@@ -5626,6 +5926,7 @@ red_bandage	hongsebengdai	2842
 red_bikini	hongsebijini	4685
 red_armband	hongsebizhang	4120
 red_pants	hongsechangku	4400
+__prompt__:red and orange color scheme	hongsechengsepeise	10000
 red_shirt	hongsechenshan	10000
 red_wings	hongsechibang	4107
 red_sheet	hongsechuangdan	2415
@@ -5643,15 +5944,21 @@ red_shorts	hongseduanku	4371
 red_happi	hongsefabei	2236
 red_hairband	hongsefadai	4626
 red_scrunchie	hongsefaquan	3952
+__prompt__:red and pink color scheme	hongsefenhongsepeise	10000
+__prompt__:red and pink color scheme	hongsefensepeise	10000
 red_hiphighs	hongsegaotongwa	2529
 red_halo	hongseguanghuan	4616
 red_lightsaber	hongseguangjian	2732
 red_thighhighs	hongseguoxiwa	4461
 red_hanfu	hongsehanfu	3344
 red_kimono	hongsehefu	4452
+__prompt__:red and black color scheme	hongseheisepeise	10000
+__prompt__:red and brown color scheme	hongsehesepeise	10000
 red_petals	hongsehuaban	3639
 red_crown	hongsehuangguan	3180
+__prompt__:red and yellow color scheme	hongsehuangsepeise	10000
 red_bow	hongsehudiejie	5537
+__prompt__:red and gray color scheme	hongsehuisepeise	10000
 red_goggles	hongsehumujing	2699
 red_wrist_cuffs	hongsehuwan	3375
 red_facial_hair	hongsehuxu	2147
@@ -5659,6 +5966,7 @@ red_jacket	hongsejiake	4993
 red_horns	hongsejiao	4450
 red-tinted_eyewear	hongsejingpianyanjing	3924
 red_choker	hongsejingquan	4418
+__prompt__:red and gold color scheme	hongsejinsepeise	10000
 red_leggings	hongsejinshenku	2583
 red_leotard	hongsejinshenliantiyi	4363
 red_bodysuit	hongsejinshenyi	4198
@@ -5666,6 +5974,7 @@ red_armor	hongsekaijia	3899
 red_cardigan	hongsekaishan	3487
 red_carnation	hongsekangnaixin	2448
 red_fundoshi	hongsekun	2614
+__prompt__:red and blue color scheme	hongselansepeise	10000
 red_sandals	hongseliangxie	3523
 red_pantyhose	hongseliankuwa	3947
 red_hoodie	hongselianmaoshan	3862
@@ -5678,6 +5987,7 @@ red_bowtie	hongselingjie	5080
 red_neckerchief	hongselingjin	4902
 red_scales	hongselinpian	3177
 red_claws	hongselizhua	2777
+__prompt__:red and green color scheme	hongselvsepeise	10000
 red_vest	hongsemajia	4580
 red_fur	hongsemaopi	3797
 red_sweater	hongsemaoyi	4223
@@ -5690,12 +6000,14 @@ red_male_underwear	hongsenanshineiku	3117
 red_male_swimwear	hongsenanxingyongzhuang	2846
 red_panties	hongseneiku	4303
 red_buttons	hongseniukou	2928
+__prompt__:red	hongsepeise	10000
 red_cape	hongsepifeng	4669
 red_leather	hongsepige	2223
 red_shawl	hongsepijian	3199
 red_leash	hongseqianyinsheng	2541
 red_aura	hongseqichang	2564
 red_car	hongseqiche	3013
+__prompt__:red and cyan color scheme	hongseqingsepeise	10000
 red_skirt	hongsequnzi	10000
 red_bonnet	hongseruanmao	2992
 red_sarong	hongseshalong	2937
@@ -5733,14 +6045,32 @@ red_eyeliner	hongseyanxian	4330
 red_eyeshadow	hongseyanying	4346
 red_belt	hongseyaodai	4093
 red_pubic_hair	hongseyinmao	3099
+__prompt__:red and silver color scheme	hongseyinsepeise	10000
+__prompt__:red and white color scheme	hongseyubaise	10000
+__prompt__:red and orange color scheme	hongseyuchengse	10000
+__prompt__:red and pink color scheme	hongseyufenhongse	10000
+__prompt__:red and pink color scheme	hongseyufense	10000
+__prompt__:red and black color scheme	hongseyuheise	10000
+__prompt__:red and brown color scheme	hongseyuhese	10000
+__prompt__:red and yellow color scheme	hongseyuhuangse	10000
+__prompt__:red and gray color scheme	hongseyuhuise	10000
+__prompt__:red and gold color scheme	hongseyujinse	10000
+__prompt__:red and blue color scheme	hongseyulanse	10000
+__prompt__:red and green color scheme	hongseyulvse	10000
 red_track_suit	hongseyundongfu	3294
 red_sports_bra	hongseyundongneiyi	3284
+__prompt__:red and cyan color scheme	hongseyuqingse	10000
+__prompt__:red and silver color scheme	hongseyuyinse	10000
 red_haori	hongseyuzhi	3226
+__prompt__:red and purple color scheme	hongseyuzise	10000
+__prompt__:red and brown color scheme	hongseyuzongse	10000
 red_tabard	hongsezhaoshan	3406
 red_pillow	hongsezhentou	2213
 red_sweater_vest	hongsezhenzhibeixin	3045
 red_visor_cap	hongsezheyangmao	3033
 red_theme	hongsezhuti	4183
+__prompt__:red and purple color scheme	hongsezisepeise	10000
+__prompt__:red and brown color scheme	hongsezongsepeise	10000
 red_snake	hongshe	2577
 red_rope	hongsheng	3941
 red_cross	hongshizi	3578
@@ -5766,6 +6096,7 @@ red_sleeves	hongxiuzi	4137
 red_eyes	hongyan	10000
 red-eye_effect	hongyanxiaoying	2310
 red_leaf	hongye	2331
+__prompt__:red and silver color scheme	hongyinpeise	10000
 stingray	hongyu	2685
 red_moon	hongyue	3838
 red_tulip	hongyujinxiang	2990
@@ -5774,6 +6105,8 @@ red_clouds	hongyun	2613
 bomber	hongzhaji	2803
 anthurium	hongzhang	2279
 red_nails	hongzhijia	4966
+__prompt__:red and purple color scheme	hongzipeise	10000
+__prompt__:red and brown color scheme	hongzongpeise	10000
 back_bow	houbeihudiejie	4664
 sex_from_behind	houbeiwei	5044
 in_trunk	houbeixiangnei	2162
@@ -5949,6 +6282,9 @@ iridescent_clothes	huancaifushi	3147
 buffering	huanchongzhong	2333
 alternate_footwear	huanchuanxielv	2751
 badger_ears	huanerduo	2293
+__prompt__:yellow	huang	10000
+__prompt__:yellow and white color scheme	huangbaipeise	10000
+__prompt__:yellow and orange color scheme	huangchengpeise	10000
 yellow_lips	huangchun	2921
 oarfish	huangdaiyu	2438
 zodiac	huangdaoshiergong	3186
@@ -5958,6 +6294,8 @@ abandoned	huangfei	3193
 dilapidated	huangfei	2702
 wasp	huangfeng	2451
 wasp_girl	huangfengniang	2147
+__prompt__:yellow and pink color scheme	huangfenhongpeise	10000
+__prompt__:yellow and pink color scheme	huangfenpeise	10000
 yellow_dog	huanggou	2223
 cucumber	huanggua	3470
 crown	huangguan	5011
@@ -5971,13 +6309,18 @@ crown_ornament	huangguanshipin	2310
 crown_necklace	huangguanxianglian	2383
 crown_print	huangguanyinhua	2664
 cucumber_slice	huangguapian	2540
+__prompt__:yellow and black color scheme	huangheipeise	10000
+__prompt__:yellow and brown color scheme	huanghepeise	10000
+__prompt__:yellow and red color scheme	huanghongpeise	10000
 dazed	huanghu	2663
 yellow_butterfly	huanghudie	3450
+__prompt__:yellow and gray color scheme	huanghuipeise	10000
 dusk	huanghun	3797
 gold_diadem	huangjinguanmian	2207
 gold_gauntlets	huangjinhushou	2277
 gold_bracer	huangjinhuwan	3153
 golden_spiral	huangjinluoxuan	2492
+__prompt__:yellow and gold color scheme	huangjinpeise	10000
 gold_saint	huangjinshengdoushi	2713
 gold_cloth	huangjinshengyi	2288
 golden_hour	huangjinshike	2599
@@ -5987,12 +6330,18 @@ golden_shower	huangjinyu	2678
 gold_chastity_cage	huangjinzhencaodai	2147
 golden_week	huangjinzhou	3417
 yellow-framed_eyewear	huangkuangyanjing	3870
+__prompt__:yellow and blue color scheme	huanglanpeise	10000
 yellow_scales	huanglin	2542
 flustered	huangluan	3888
+__prompt__:yellow and green color scheme	huanglvpeise	10000
 yellow_cat	huangmao	2718
 yellow_rose	huangmeigui	3946
+__prompt__:yellow	huangpeise	10000
+__prompt__:yellow and cyan color scheme	huangqingpeise	10000
 yellow_umbrella	huangsan	3032
+__prompt__:yellow	huangse	10000
 yellow_ascot	huangseasiketelingjin	4633
+__prompt__:yellow and white color scheme	huangsebaisepeise	10000
 yellow_bag	huangsebao	3746
 yellow_gem	huangsebaoshi	3431
 yellow_overalls	huangsebeidaiku	2969
@@ -6003,6 +6352,7 @@ yellow_border	huangsebiankuang	3521
 yellow_bikini	huangsebijini	4353
 yellow_gauntlets	huangsebikai	2545
 yellow_robe	huangsechangpao	2815
+__prompt__:yellow and orange color scheme	huangsechengsepeise	10000
 yellow_shirt	huangsechenshan	10000
 yellow_wings	huangsechibang	3632
 yellow_slingshot_swimsuit	huangsedangongyongyi	2976
@@ -6019,26 +6369,34 @@ yellow_shrug	huangseduanwaizhao	2572
 yellow_happi	huangsefabei	2556
 yellow_hairband	huangsefagu	4238
 yellow_scrunchie	huangsefaquan	3749
+__prompt__:yellow and pink color scheme	huangsefenhongsepeise	10000
+__prompt__:yellow and pink color scheme	huangsefensepeise	10000
 yellow_sclera	huangsegongmo	4278
 yellow_halo	huangseguanghuan	4619
 yellow_thighhighs	huangseguoxiwa	3730
 yellow_hanfu	huangsehanfu	2562
 yellow_kimono	huangsehefu	3912
+__prompt__:yellow and black color scheme	huangseheisepeise	10000
+__prompt__:yellow and brown color scheme	huangsehesepeise	10000
+__prompt__:yellow and red color scheme	huangsehongsepeise	10000
 yellow_petals	huangsehuaban	3179
 yellow_flower	huangsehuaduo	4752
 yellow_crown	huangsehuangguan	2619
 yellow_bow	huangsehudiejie	4879
+__prompt__:yellow and gray color scheme	huangsehuisepeise	10000
 yellow_wrist_cuffs	huangsehuwan	2531
 yellow_jacket	huangsejiake	4623
 yellow_horns	huangsejiao	3903
 yellow-tinted_eyewear	huangsejingpianyanjing	3576
 yellow_choker	huangsejingquan	3642
+__prompt__:yellow and gold color scheme	huangsejinsepeise	10000
 yellow_leotard	huangsejinshenliantiyi	3469
 yellow_bodysuit	huangsejinshenyi	3538
 yellow_cardigan	huangsekaishan	4060
 yellow_hakama	huangseku	2196
 yellow_armor	huangsekuijia	3131
 yellow_pants	huangsekuzi	3691
+__prompt__:yellow and blue color scheme	huangselansepeise	10000
 yellow_sandals	huangseliangxie	3138
 yellow_pantyhose	huangseliankuwa	3324
 yellow_hoodie	huangselianmaoshan	3775
@@ -6049,6 +6407,7 @@ yellow_mittens	huangselianzhishoutao	2458
 yellow_necktie	huangselingdai	4388
 yellow_bowtie	huangselingjie	4291
 yellow_neckerchief	huangselingjin	4500
+__prompt__:yellow and green color scheme	huangselvsepeise	10000
 yellow_fur	huangsemaopi	4162
 yellow_sweater	huangsemaoyi	4194
 yellow_sweater_vest	huangsemaoyibeixin	3751
@@ -6061,10 +6420,12 @@ yellow_tube_top	huangsemoxiong	2331
 yellow_male_underwear	huangsenanshineiku	2578
 yellow_male_swimwear	huangsenanshiyongzhuang	2384
 yellow_panties	huangseneiku	3889
+__prompt__:yellow	huangsepeise	10000
 yellow_cape	huangsepifeng	3644
 yellow_skin	huangsepifu	3932
 yellow_shawl	huangsepijian	2866
 yellow_car	huangseqiche	2715
+__prompt__:yellow and cyan color scheme	huangseqingsepeise	10000
 yellow_skirt	huangsequnzi	10000
 yellow_pansy	huangsesansejin	2179
 yellow_sarong	huangseshalong	2690
@@ -6100,15 +6461,33 @@ yellow_eyeliner	huangseyanxian	2153
 yellow_eyeshadow	huangseyanying	2834
 yellow_belt	huangseyaodai	3857
 yellow_collar	huangseyiling	2926
+__prompt__:yellow and silver color scheme	huangseyinsepeise	10000
+__prompt__:yellow and white color scheme	huangseyubaise	10000
+__prompt__:yellow and orange color scheme	huangseyuchengse	10000
+__prompt__:yellow and pink color scheme	huangseyufenhongse	10000
+__prompt__:yellow and pink color scheme	huangseyufense	10000
+__prompt__:yellow and black color scheme	huangseyuheise	10000
+__prompt__:yellow and brown color scheme	huangseyuhese	10000
+__prompt__:yellow and red color scheme	huangseyuhongse	10000
+__prompt__:yellow and gray color scheme	huangseyuhuise	10000
+__prompt__:yellow and gold color scheme	huangseyujinse	10000
 yellow_tulip	huangseyujinxiang	3017
+__prompt__:yellow and blue color scheme	huangseyulanse	10000
+__prompt__:yellow and green color scheme	huangseyulvse	10000
 yellow_feathers	huangseyumao	3639
 yellow_sports_bra	huangseyundongneiyi	3103
 yellow_clouds	huangseyunduo	2147
+__prompt__:yellow and cyan color scheme	huangseyuqingse	10000
 yellow_raincoat	huangseyuyi	3365
+__prompt__:yellow and silver color scheme	huangseyuyinse	10000
 yellow_haori	huangseyuzhi	2564
+__prompt__:yellow and purple color scheme	huangseyuzise	10000
+__prompt__:yellow and brown color scheme	huangseyuzongse	10000
 yellow_visor_cap	huangsezheyangmao	3191
 yellow_nails	huangsezhijia	4204
 yellow_theme	huangsezhuti	3916
+__prompt__:yellow and purple color scheme	huangsezisepeise	10000
+__prompt__:yellow and brown color scheme	huangsezongsepeise	10000
 yellow_tongue	huangshetou	2829
 royal_robe	huangshichangpao	2905
 daffodil	huangshuixian	2890
@@ -6123,10 +6502,13 @@ yellow_blood	huangxue	2886
 yellow_teeth	huangya	3256
 yellow_eyes	huangyan	10000
 yellow_leaves	huangye	2557
+__prompt__:yellow and silver color scheme	huangyinpeise	10000
 butter	huangyou	3348
 butter_knife	huangyoudao	2646
 yellow_moon	huangyue	2742
 aramasa	huangzheng	2312
+__prompt__:yellow and purple color scheme	huangzipeise	10000
+__prompt__:yellow and brown color scheme	huangzongpeise	10000
 hallucination	huanjue	2251
 orbited	huanraowuti	2207
 chakram	huanren	3200
@@ -6291,32 +6673,48 @@ lemur_tail	huhouweiba	2194
 ankle_wrap	huhuai	3073
 calling	huhuan	2623
 hairstyle_switch	huhuanfaxing	3014
+__prompt__:gray	hui	10000
+__prompt__:gray and white color scheme	huibaipeise	10000
 picture_book	huiben	2244
 yebisu	huibishoupijiu	2277
 dust	huichen	3628
+__prompt__:gray and orange color scheme	huichengpeise	10000
 fai_chun	huichun	2182
 swinging_baseball_bat	huidongbangqiubang	2834
 greyscale	huidu	10000
 greyscale_with_colored_background	huiduzhuticaisebeijing	4145
 grey_hair	huifa	10000
 ehoumaki	huifangjuan	3076
+__prompt__:gray and pink color scheme	huifenhongpeise	10000
+__prompt__:gray and pink color scheme	huifenpeise	10000
 cinderella_girls_card_parody	huiguniangnvhaikapaiegao	2637
 cinderella_bust	huiguniangxiongwei	2451
+__prompt__:gray and black color scheme	huiheipeise	10000
+__prompt__:gray and brown color scheme	huihepeise	10000
+__prompt__:gray and red color scheme	huihongpeise	10000
 drawing	huihua	2533
 kirameki_high_school_uniform	huihuanggaoxiaozhifu	2333
+__prompt__:gray and yellow color scheme	huihuangpeise	10000
 grey_facial_hair	huihuxu	2251
 emblem	huiji	4364
 ashes	huijin	2673
+__prompt__:gray and gold color scheme	huijinpeise	10000
 grey-framed_eyewear	huikuangyanjing	3770
 grey_pantyhose	huikuwa	4174
 grey_wolf	huilang	2218
+__prompt__:gray and blue color scheme	huilanpeise	10000
+__prompt__:gray and green color scheme	huilvpeise	10000
 ema	huima	3379
 grey_cat	huimao	3356
 grey_hat	huimaozi	4245
 grey_rose	huimeigui	2883
 looking_back	huimou	5572
+__prompt__:gray	huipeise	10000
+__prompt__:gray and cyan color scheme	huiqingpeise	10000
 punching	huiquan	4077
+__prompt__:gray	huise	10000
 grey_ascot	huiseasiketelingjin	3104
+__prompt__:gray and white color scheme	huisebaisepeise	10000
 grey_bag	huisebao	3266
 grey_gem	huisebaoshi	2329
 grey_background	huisebeijing	10000
@@ -6326,6 +6724,7 @@ grey_bikini	huisebijini	3518
 grey_armband	huisebizhang	2337
 grey_robe	huisechangpao	3094
 grey_tunic	huisechangshan	2543
+__prompt__:gray and orange color scheme	huisechengsepeise	10000
 grey_shirt	huisechenshan	10000
 grey_wings	huisechibang	3492
 grey_leggings	huisedadiku	2619
@@ -6339,20 +6738,27 @@ grey_shrug	huiseduanzhaoshan	2663
 grey_headband	huisefadai	2526
 grey_hairband	huisefagu	3604
 grey_scrunchie	huisefaquan	2483
+__prompt__:gray and pink color scheme	huisefenhongsepeise	10000
+__prompt__:gray and pink color scheme	huisefensepeise	10000
 grey_sclera	huisegongmo	3177
 grey_overalls	huisegongzhuangku	2969
 grey_halo	huiseguanghuan	4193
 grey_thighhighs	huiseguoxiwa	4233
 grey_hanfu	huisehanfu	2486
 grey_kimono	huisehefu	3779
+__prompt__:gray and black color scheme	huiseheisepeise	10000
+__prompt__:gray and brown color scheme	huisehesepeise	10000
+__prompt__:gray and red color scheme	huisehongsepeise	10000
 grey_flower	huisehuaduo	3339
 grey_crown	huisehuangguan	2409
+__prompt__:gray and yellow color scheme	huisehuangsepeise	10000
 grey_bow	huisehudiejie	3833
 grey_wrist_cuffs	huisehuwan	2358
 grey_jacket	huisejiake	4833
 grey_horns	huisejiao	3778
 grey-tinted_eyewear	huisejingpianyanjing	2196
 grey_choker	huisejingquan	3323
+__prompt__:gray and gold color scheme	huisejinsepeise	10000
 grey_bodysuit	huisejinshenliantiyi	3687
 grey_leotard	huisejinshenyi	3437
 grey_armor	huisekaijia	3280
@@ -6360,6 +6766,7 @@ grey_cardigan	huisekaishan	4059
 grey_mask	huisekouzhao	2745
 grey_hakama	huiseku	2969
 grey_pants	huisekuzi	4653
+__prompt__:gray and blue color scheme	huiselansepeise	10000
 grey_sandals	huiseliangxie	2896
 grey_hoodie	huiselianmaoshan	4127
 grey_jumpsuit	huiseliantiyi	2672
@@ -6372,6 +6779,7 @@ grey_neckerchief	huiselingjin	3737
 grey_collar	huiselingzi	2887
 grey_scales	huiselinpian	2454
 grey_outline	huiselunkuo	3077
+__prompt__:gray and green color scheme	huiselvsepeise	10000
 grey_vest	huisemajia	4162
 grey_fur	huisemaofa	3960
 grey_sweater	huisemaoyi	4342
@@ -6381,10 +6789,12 @@ grey_tube_top	huisemoxiong	2515
 grey_bandeau	huisemoxiong	2174
 grey_male_underwear	huisenanshineiku	2994
 grey_panties	huiseneiku	3917
+__prompt__:gray	huisepeise	10000
 grey_cape	huisepifeng	3436
 grey_skin	huisepifu	4391
 grey_shawl	huisepijian	2742
 grey_car	huiseqiche	2557
+__prompt__:gray and cyan color scheme	huiseqingsepeise	10000
 grey_skirt	huisequnzi	10000
 grey_nipples	huiserutou	2205
 grey_sarong	huiseshalong	2286
@@ -6419,11 +6829,29 @@ grey_eyeshadow	huiseyanying	3060
 grey_belt	huiseyaodai	3728
 grey_sash	huiseyaodai	2831
 grey_pubic_hair	huiseyinmao	3030
+__prompt__:gray and silver color scheme	huiseyinsepeise	10000
+__prompt__:gray and white color scheme	huiseyubaise	10000
+__prompt__:gray and orange color scheme	huiseyuchengse	10000
+__prompt__:gray and pink color scheme	huiseyufenhongse	10000
+__prompt__:gray and pink color scheme	huiseyufense	10000
+__prompt__:gray and black color scheme	huiseyuheise	10000
+__prompt__:gray and brown color scheme	huiseyuhese	10000
+__prompt__:gray and red color scheme	huiseyuhongse	10000
+__prompt__:gray and yellow color scheme	huiseyuhuangse	10000
+__prompt__:gray and gold color scheme	huiseyujinse	10000
+__prompt__:gray and blue color scheme	huiseyulanse	10000
+__prompt__:gray and green color scheme	huiseyulvse	10000
 grey_feathers	huiseyumao	2872
 grey_sports_bra	huiseyundongneiyi	3638
+__prompt__:gray and cyan color scheme	huiseyuqingse	10000
 grey_umbrella	huiseyusan	2455
+__prompt__:gray and silver color scheme	huiseyuyinse	10000
+__prompt__:gray and purple color scheme	huiseyuzise	10000
+__prompt__:gray and brown color scheme	huiseyuzongse	10000
 grey_nails	huisezhijia	3539
 grey_theme	huisezhuti	3366
+__prompt__:gray and purple color scheme	huisezisepeise	10000
+__prompt__:gray and brown color scheme	huisezongsepeise	10000
 grey_lips	huisezuichun	2934
 waving	huishou	4623
 waving_hands	huishou	2640
@@ -6449,10 +6877,13 @@ grey_eyes	huiyan	10000
 remembering	huiyi	3110
 perineum	huiyin	4068
 perineum_peek	huiyinkuishi	2417
+__prompt__:gray and silver color scheme	huiyinpeise	10000
 badge	huizhang	4226
 insignia	huizhang	3623
 shining_needle_castle	huizhencheng	2165
 conveyor_belt_sushi	huizhuanshousi	2299
+__prompt__:gray and purple color scheme	huizipeise	10000
+__prompt__:gray and brown color scheme	huizongpeise	10000
 shoulder_guard	hujian	3133
 dr_pepper	hujiaoboshi	2776
 pepper_shaker	hujiaoping	2546
@@ -7292,11 +7723,13 @@ log_pose	jiluzhizhen	3250
 feather_duster	jimaodanzi	2787
 toy_block	jimu	2632
 jenga	jimudiediele	2339
+__prompt__:gold	jin	10000
 churro	jinabang	2629
 milking_machine	jinaiji	3448
 milking_handjob	jinaishishouyin	2923
 milk_churn	jinaitong	2610
 himedanshi	jinanzi	2299
+__prompt__:gold and white color scheme	jinbaipeise	10000
 clinging	jinbaopanfu	3002
 quimbaya_airplane	jinbayahuangjinfeiji	2694
 taut_shirt	jinbengchenshan	3944
@@ -7310,6 +7743,7 @@ gold_coin	jinbi	3449
 gold_border	jinbian	2768
 gold_armlet	jinbihuan	3722
 bikini_top_only	jinbijinishangzhuang	4647
+__prompt__:gold and orange color scheme	jinchengpeise	10000
 bikini_bottom_only	jinchuanbijinixiazhuang	4082
 bodystocking_only	jinchuanliantijinshenyi	2771
 underwear_only	jinchuanneiyi	4914
@@ -7321,6 +7755,8 @@ progress_bar	jindutiao	2592
 techwear	jinengfeng	2809
 gold_earrings	jinerhuan	4213
 blonde_hair	jinfa	10000
+__prompt__:gold and pink color scheme	jinfenhongpeise	10000
+__prompt__:gold and pink color scheme	jinfenpeise	10000
 vajra_(object)	jingangchu	2268
 diamond_clan_outfit	jingangduifuzhuang	2697
 macaw	jingangyingwu	2445
@@ -7463,12 +7899,17 @@ mirror	jingzi	4623
 sperm_cell	jingzi	3486
 tic-tac-toe	jingziqi	2557
 sperm_circle_tattoo	jingziyuanquanwenshen	2282
+__prompt__:gold and black color scheme	jinheipeise	10000
+__prompt__:gold and brown color scheme	jinhepeise	10000
 akeome	jinhexinnian	3379
+__prompt__:gold and red color scheme	jinhongpeise	10000
 boutonniere	jinhua	3125
 evolution	jinhua	2791
 evo_grim	jinhuagelimu	2329
 evolutionary_line	jinhualian	3935
+__prompt__:gold and yellow color scheme	jinhuangpeise	10000
 evolution_stone	jinhuazhishi	2556
+__prompt__:gold and gray color scheme	jinhuipeise	10000
 nearly_naked_apron	jinhuquanluoweiqun	3289
 year_of_the_rooster	jinian	2881
 mecha_musume	jiniang	4209
@@ -7479,52 +7920,70 @@ golden_sword	jinjian	2391
 gold_anklet	jinjiaolian	3101
 gold_ring	jinjiezhi	3757
 gold_buckle	jinkou	3037
+__prompt__:gold and blue color scheme	jinlanpeise	10000
 koi	jinli	3272
 gold_chain	jinlian	3930
 gold_bell	jinlingdang	2377
 upper_teeth_only	jinluchushangpaiyachi	5430
 lower_teeth_only	jinluxiachi	4294
+__prompt__:gold and green color scheme	jinlvpeise	10000
 golden_retriever	jinmaoxunhuiquan	2631
 immersed	jinmo	2174
 kotoyoro	jinnianyeqingduoguanzhao	3096
 taurus_(constellation)	jinniuzuo	2593
 taurus_(symbol)	jinniuzuofuhao	2649
 gold_medal	jinpai	2325
+__prompt__:gold	jinpeise	10000
 golden_apple	jinpingguo	3131
 konpeitou	jinpingtang	2779
 money	jinqian	3996
 spoken_money	jinqianfuhaoqipao	2308
 tuna	jinqiangyu	2933
 hair_intakes	jinqikoufaxing	5450
+__prompt__:gold and cyan color scheme	jinqingpeise	10000
 kinniku_buster	jinroupohuaiji	2231
+__prompt__:gold	jinse	10000
 gold	jinse	4241
+__prompt__:gold and white color scheme	jinsebaisepeise	10000
 gold_bikini	jinsebijini	4227
+__prompt__:gold and orange color scheme	jinsechengsepeise	10000
 gold_piercing	jinsechuankong	2308
 gold_slingshot_swimsuit	jinsedangongyongyi	2607
 gold_thighlet	jinsedatuihuan	3331
 gold_ribbon	jinseduandai	2706
 gold_circlet	jinseehuan	3327
 gold_headband	jinsefagu	2564
+__prompt__:gold and pink color scheme	jinsefenhongsepeise	10000
+__prompt__:gold and pink color scheme	jinsefensepeise	10000
 gold_halo	jinseguanghuan	2811
 gold_thighhighs	jinseguoxiwa	2830
+__prompt__:gold and black color scheme	jinseheisepeise	10000
+__prompt__:gold and brown color scheme	jinsehesepeise	10000
+__prompt__:gold and red color scheme	jinsehongsepeise	10000
 gold_flower	jinsehua	2299
+__prompt__:gold and yellow color scheme	jinsehuangsepeise	10000
 gold_bow	jinsehudiejie	2489
+__prompt__:gold and gray color scheme	jinsehuisepeise	10000
 blonde_facial_hair	jinsehuxu	2575
 gold_jacket	jinsejiake	2258
 gold_horns	jinsejiao	2875
 gold_choker	jinsejingquan	3846
 gold_leotard	jinsejinshenliantiyi	2865
 gold_armor	jinsekaijia	3751
+__prompt__:gold and blue color scheme	jinselansepeise	10000
 gold_sandals	jinseliangxie	2967
 gold_one-piece_swimsuit	jinseliantiyongyi	2417
 gold_dress	jinselianyiqun	2892
 gold_bowtie	jinselingjie	2489
+__prompt__:gold and green color scheme	jinselvsepeise	10000
 golden_rose	jinsemeigui	2703
 gold_mask	jinsemianju	2319
 gold_panties	jinseneiku	2497
 gold_buttons	jinseniukou	3431
+__prompt__:gold	jinsepeise	10000
 gold_cape	jinsepifeng	2407
 gold_skin	jinsepifu	2688
+__prompt__:gold and cyan color scheme	jinseqingsepeise	10000
 gold_gloves	jinseshoutao	2900
 gold_corset	jinseshuyao	2588
 blonde_streaks	jinsetiaoran	3753
@@ -7541,7 +8000,25 @@ gold_bra	jinsexiongzhao	3115
 gold_blood	jinsexueye	2306
 gold_boots	jinsexuezi	2986
 blonde_pubic_hair	jinseyinmao	3503
+__prompt__:gold and silver color scheme	jinseyinsepeise	10000
+__prompt__:gold and white color scheme	jinseyubaise	10000
+__prompt__:gold and orange color scheme	jinseyuchengse	10000
+__prompt__:gold and pink color scheme	jinseyufenhongse	10000
+__prompt__:gold and pink color scheme	jinseyufense	10000
+__prompt__:gold and black color scheme	jinseyuheise	10000
+__prompt__:gold and brown color scheme	jinseyuhese	10000
+__prompt__:gold and red color scheme	jinseyuhongse	10000
+__prompt__:gold and yellow color scheme	jinseyuhuangse	10000
+__prompt__:gold and gray color scheme	jinseyuhuise	10000
+__prompt__:gold and blue color scheme	jinseyulanse	10000
+__prompt__:gold and green color scheme	jinseyulvse	10000
+__prompt__:gold and cyan color scheme	jinseyuqingse	10000
+__prompt__:gold and silver color scheme	jinseyuyinse	10000
+__prompt__:gold and purple color scheme	jinseyuzise	10000
+__prompt__:gold and brown color scheme	jinseyuzongse	10000
 gold_nails	jinsezhijia	2858
+__prompt__:gold and purple color scheme	jinsezisepeise	10000
+__prompt__:gold and brown color scheme	jinsezongsepeise	10000
 kintsugi	jinshan	2168
 skin_tight	jinshen	4734
 bodycon	jinshenbaotunqun	2848
@@ -7603,6 +8080,7 @@ playing_sports	jinxingtiyuyundong	3670
 gold_teeth	jinya	2749
 gold_belt	jinyaodai	3251
 golden_wings	jinyi	2451
+__prompt__:gold and silver color scheme	jinyinpeise	10000
 disembodied_torso	jinyouqugan	2218
 sound_effects_only	jinyouyinxiao	3098
 goldfish	jinyu	3751
@@ -7620,7 +8098,9 @@ no_entry_sign	jinzhishirubiaozhi	2802
 no_parking_sign	jinzhitingchebiaozhi	2499
 no_smoking	jinzhixiyan	2719
 clutching_clothes	jinzhuayiwu	2147
+__prompt__:gold and purple color scheme	jinzipeise	10000
 pyramid_(structure)	jinzita	3086
+__prompt__:gold and brown color scheme	jinzongpeise	10000
 gunpod	jipaodiaocang	2748
 gibson_brands_inc	jipusenpinpai	2469
 machine	jiqi	3398
@@ -8501,13 +8981,18 @@ gyarugasaki	lameiqi	2478
 gyaru_makeup	lameizhuang	2351
 ramen	lamian	3793
 lamia	lamiya	3814
+__prompt__:blue	lan	10000
+__prompt__:blue and white color scheme	lanbaipeise	10000
 blue_nose	lanbizi	2441
 lamborghini	lanbojini	2601
+__prompt__:blue and orange color scheme	lanchengpeise	10000
 lanchester_smg	lanchesitechongfengqiang	2692
 blue_lips	lanchun	3920
 landsknecht	lancikeneihete	2275
 regal_blue_tang	landaodiao	2297
 blue_hair	lanfa	10000
+__prompt__:blue and pink color scheme	lanfenhongpeise	10000
+__prompt__:blue and pink color scheme	lanfenpeise	10000
 wolf	lang	4046
 railing	langan	4545
 baluster	langanzhu	2508
@@ -8531,23 +9016,32 @@ wolf_tail	langwei	4806
 wolf_cut	langweifaxing	3962
 spiked_club	langyabang	3417
 wolf_paws	langzhao	2901
+__prompt__:blue and black color scheme	lanheipeise	10000
+__prompt__:blue and brown color scheme	lanhepeise	10000
+__prompt__:blue and red color scheme	lanhongpeise	10000
 blue_flower	lanhua	4843
 orchid	lanhua	3042
+__prompt__:blue and yellow color scheme	lanhuangpeise	10000
 blue_butterfly	lanhudie	4160
+__prompt__:blue and gray color scheme	lanhuipeise	10000
 blue_fire	lanhuo	4136
 blue_horns	lanjiao	3844
 blue_whale	lanjing	2429
+__prompt__:blue and gold color scheme	lanjinpeise	10000
 basketball_hoop	lankuang	2938
 blue-framed_eyewear	lankuangyanjing	3778
 rags	lanlv	2722
+__prompt__:blue and green color scheme	lanlvpeise	10000
 blue_cat	lanmao	2552
 blueberry	lanmei	3647
 blueberry_hair_ornament	lanmeifashi	2153
 blue_rose	lanmeigui	4438
 blueberry_academy_school_uniform	lanmeixueyuanxiaofu	2944
+__prompt__:blue	lanpeise	10000
 blue_screen_of_death	lanpingsiji	2866
 blue_flag	lanqi	2182
 blue_rose_sword	lanqiangweizhijian	2210
+__prompt__:blue and cyan color scheme	lanqingpeise	10000
 basketball	lanqiu	3542
 blue_ball	lanqiu	2347
 basketball_jersey	lanqiubeixin	3165
@@ -8556,7 +9050,9 @@ basketball_shorts	lanqiuduanku	2277
 basketball_uniform	lanqiufu	3423
 bean_bag_chair	lanrenshafa	3261
 blue_umbrella	lansan	3307
+__prompt__:blue	lanse	10000
 blue_ascot	lanseasiketelingjin	4049
+__prompt__:blue and white color scheme	lansebaisepeise	10000
 blue_bag	lansebao	3862
 blue_gem	lansebaoshi	4487
 blue_overalls	lansebeidaiku	4059
@@ -8566,6 +9062,7 @@ blue_border	lansebiankuang	3706
 blue_bikini	lansebijini	4802
 blue_armband	lansebizhang	3739
 blue_robe	lansechangpao	3682
+__prompt__:blue and orange color scheme	lansechengsepeise	10000
 blue_shirt	lansechenshan	10000
 blue_leggings	lansedadiku	2829
 blue_slingshot_swimsuit	lansedangongyongzhuang	2844
@@ -8583,6 +9080,8 @@ blue_happi	lansefabei	2393
 blue_headband	lansefadai	3676
 blue_hairband	lansefagu	4523
 blue_scrunchie	lansefaquan	3980
+__prompt__:blue and pink color scheme	lansefenhongsepeise	10000
+__prompt__:blue and pink color scheme	lansefensepeise	10000
 blue_anus	lansegangmen	2368
 blue_sclera	lansegongmo	3631
 blue_halo	lanseguanghuan	4798
@@ -8590,13 +9089,19 @@ blue_lightsaber	lanseguangjian	2668
 blue_thighhighs	lanseguoxiwa	4418
 blue_hanfu	lansehanfu	3188
 blue_kimono	lansehefu	4618
+__prompt__:blue and black color scheme	lanseheisepeise	10000
+__prompt__:blue and brown color scheme	lansehesepeise	10000
+__prompt__:blue and red color scheme	lansehongsepeise	10000
 blue_petals	lansehuaban	3282
 blue_crown	lansehuangguan	2836
+__prompt__:blue and yellow color scheme	lansehuangsepeise	10000
 blue_bow	lansehudiejie	5270
+__prompt__:blue and gray color scheme	lansehuisepeise	10000
 blue_jacket	lansejiake	5215
 blue_theme	lansejidiao	4608
 blue-tinted_eyewear	lansejingpianyanjing	3707
 blue_choker	lansejingquan	4260
+__prompt__:blue and gold color scheme	lansejinsepeise	10000
 blue_leotard	lansejinshenliantiyi	4512
 blue_unitard	lansejinshenliantiyi	2386
 blue_bodysuit	lansejinshenyi	4173
@@ -8617,6 +9122,7 @@ blue_neckerchief	lanselingjin	4444
 blue_collar	lanselingzi	3712
 blue_scales	lanselinpian	3188
 blue_outline	lanselunkuo	3398
+__prompt__:blue and green color scheme	lanselvsepeise	10000
 blue_vest	lansemajia	4467
 blue_sweater	lansemaoyi	4286
 blue_hat	lansemaozi	4927
@@ -8627,6 +9133,7 @@ blue_tube_top	lansemoxiong	3028
 blue_male_swimwear	lansenanshiyongzhuang	3106
 blue_male_underwear	lansenanxingneiku	3068
 blue_panties	lanseneiku	4528
+__prompt__:blue	lansepeise	10000
 blue_cape	lansepifeng	4477
 blue_skin	lansepifu	4625
 blue_shawl	lansepijian	3367
@@ -8634,6 +9141,7 @@ blue_fur	lansepimao	4020
 blue_apple	lansepingguo	2507
 blue_aura	lanseqichang	2586
 blue_car	lanseqiche	2869
+__prompt__:blue and cyan color scheme	lanseqingsepeise	10000
 blue_bike_shorts	lanseqixingduanku	2788
 blue_skirt	lansequnzi	10000
 blue_bonnet	lanseruanmao	2697
@@ -8685,13 +9193,29 @@ blue_liquid	lanseyeti	2357
 blue_pussy	lanseyinbu	2589
 blue_penis	lanseyinjing	2542
 blue_pubic_hair	lanseyinmao	3237
+__prompt__:blue and silver color scheme	lanseyinsepeise	10000
 blue_swim_trunks	lanseyongku	2801
+__prompt__:blue and white color scheme	lanseyubaise	10000
+__prompt__:blue and orange color scheme	lanseyuchengse	10000
+__prompt__:blue and pink color scheme	lanseyufenhongse	10000
+__prompt__:blue and pink color scheme	lanseyufense	10000
+__prompt__:blue and black color scheme	lanseyuheise	10000
+__prompt__:blue and brown color scheme	lanseyuhese	10000
+__prompt__:blue and red color scheme	lanseyuhongse	10000
+__prompt__:blue and yellow color scheme	lanseyuhuangse	10000
+__prompt__:blue and gray color scheme	lanseyuhuise	10000
+__prompt__:blue and gold color scheme	lanseyujinse	10000
 blue_tulip	lanseyujinxiang	2297
+__prompt__:blue and green color scheme	lanseyulvse	10000
 blue_feathers	lanseyumao	3570
 blue_track_suit	lanseyundongfu	2722
 blue_sports_bra	lanseyundongneiyi	3512
+__prompt__:blue and cyan color scheme	lanseyuqingse	10000
 blue_raincoat	lanseyuyi	2231
+__prompt__:blue and silver color scheme	lanseyuyinse	10000
 blue_haori	lanseyuzhi	3293
+__prompt__:blue and purple color scheme	lanseyuzise	10000
+__prompt__:blue and brown color scheme	lanseyuzongse	10000
 blue_overskirt	lansezhaoqun	2789
 blue_tabard	lansezhaoshan	3575
 blue_surcoat	lansezhaoshan	2546
@@ -8699,6 +9223,8 @@ blue_jingasa	lansezhenli	2863
 blue_sweater_vest	lansezhenzhibeixin	3463
 blue_visor_cap	lansezheyangmao	2461
 blue_nails	lansezhijia	4893
+__prompt__:blue and purple color scheme	lansezisepeise	10000
+__prompt__:blue and brown color scheme	lansezongsepeise	10000
 blue_tongue	lanshetou	3663
 blue_hands	lanshou	2970
 blue_sky	lantian	10000
@@ -8711,11 +9237,14 @@ tweedia	lanxinghua	2207
 blue_blood	lanxue	3041
 blue_eyes	lanyan	10000
 blue_wings	lanyi	4036
+__prompt__:blue and silver color scheme	lanyinpeise	10000
 blue_moon	lanyue	2533
 blue_clouds	lanyun	2210
 bluebird	lanzhigengniao	2592
 basket	lanzi	4431
 in_basket	lanzili	2570
+__prompt__:blue and purple color scheme	lanzipeise	10000
+__prompt__:blue and brown color scheme	lanzongpeise	10000
 work_gloves	laobaoshoutao	2433
 prison_cell	laofang	3134
 in_cell	laofangnei	2443
@@ -9516,25 +10045,41 @@ open-toe_shoes	luzhixie	3439
 open-toe_boots	luzhixue	3689
 dew_drop	luzhu	2782
 kanoko_(pattern)	luziwen	2796
+__prompt__:green	lv	10000
 donkey	lv	2432
+__prompt__:green and white color scheme	lvbaipeise	10000
 green_gem	lvbaoshi	4106
 green_tea	lvcha	3221
+__prompt__:green and orange color scheme	lvchengpeise	10000
 caterpillar_tracks	lvdai	3565
 donkey_ears	lver	2486
 green_hair	lvfa	10000
 chloroform	lvfang	2502
+__prompt__:green and pink color scheme	lvfenhongpeise	10000
+__prompt__:green and pink color scheme	lvfenpeise	10000
 green_light	lvguang	2631
 deku's_photo_of_hagakure_toru	lvguchujiupaishedeyeyintouzhaopian	2179
+__prompt__:green and black color scheme	lvheipeise	10000
+__prompt__:green and brown color scheme	lvhepeise	10000
+__prompt__:green and red color scheme	lvhongpeise	10000
 green_flower	lvhua	3611
+__prompt__:green and yellow color scheme	lvhuangpeise	10000
 green_butterfly	lvhudie	2921
+__prompt__:green and gray color scheme	lvhuipeise	10000
 green_fire	lvhuo	3179
+__prompt__:green and gold color scheme	lvjinpeise	10000
 green-framed_eyewear	lvkuangyanjing	3583
+__prompt__:green and blue color scheme	lvlanpeise	10000
 green_cat	lvmao	2265
 green_rose	lvmeigui	3136
 green_screen	lvmu	2388
+__prompt__:green	lvpeise	10000
 green_skin	lvpifu	4511
+__prompt__:green and cyan color scheme	lvqingpeise	10000
 green_umbrella	lvsan	2873
+__prompt__:green	lvse	10000
 green_ascot	lvseasiketelingjin	3271
+__prompt__:green and white color scheme	lvsebaisepeise	10000
 green_bag	lvsebao	3593
 green_suspenders	lvsebeidai	2698
 green_overalls	lvsebeidaiku	3098
@@ -9545,6 +10090,7 @@ green_bikini	lvsebijini	4317
 green_armband	lvsebizhang	3409
 green_pants	lvsechangku	4304
 green_robe	lvsechangpao	3519
+__prompt__:green and orange color scheme	lvsechengsepeise	10000
 green_shirt	lvsechenshan	10000
 green_wings	lvsechibang	3497
 green_leggings	lvsedadiku	2182
@@ -9560,6 +10106,8 @@ green_shrug	lvseduanzhaoshan	2499
 green_hairband	lvsefagu	3940
 green_scrunchie	lvsefaquan	3340
 green_hair_ornament	lvsefashi	2639
+__prompt__:green and pink color scheme	lvsefenhongsepeise	10000
+__prompt__:green and pink color scheme	lvsefensepeise	10000
 green_sclera	lvsegongmo	3417
 green_halo	lvseguanghuan	4316
 green_lightsaber	lvseguangjian	2329
@@ -9567,16 +10115,23 @@ green_trim	lvsegunbian	3355
 green_thighhighs	lvseguoxiwa	3923
 green_hanfu	lvsehanfu	3049
 green_kimono	lvsehefu	4195
+__prompt__:green and black color scheme	lvseheisepeise	10000
+__prompt__:green and brown color scheme	lvsehesepeise	10000
+__prompt__:green and red color scheme	lvsehongsepeise	10000
+__prompt__:green and yellow color scheme	lvsehuangsepeise	10000
 green_bow	lvsehudiejie	4840
+__prompt__:green and gray color scheme	lvsehuisepeise	10000
 green_jacket	lvsejiake	4825
 green_horns	lvsejiao	3431
 green_bonnet	lvsejidairuanmao	3017
 green-tinted_eyewear	lvsejingpianyanjing	3407
+__prompt__:green and gold color scheme	lvsejinsepeise	10000
 green_leotard	lvsejinshenliantiyi	3829
 green_bodysuit	lvsejinshenyi	3594
 green_cardigan	lvsekaishan	3413
 green_hakama	lvseku	3336
 green_armor	lvsekuijia	3347
+__prompt__:green and blue color scheme	lvselansepeise	10000
 green_sandals	lvseliangxie	2794
 green_pantyhose	lvseliankuwa	3460
 green_hoodie	lvselianmaoshan	3863
@@ -9599,10 +10154,12 @@ green_bandeau	lvsemoxiong	2656
 green_male_swimwear	lvsenanshiyongzhuang	2605
 green_male_underwear	lvsenanyongneiku	2788
 green_panties	lvseneiku	4076
+__prompt__:green	lvsepeise	10000
 green_cape	lvsepifeng	4028
 green_shawl	lvsepijian	2733
 green_fur	lvsepimao	3605
 green_car	lvseqiche	2366
+__prompt__:green and cyan color scheme	lvseqingsepeise	10000
 green_skirt	lvsequnzi	10000
 green_nipples	lvserutou	2610
 green_sarong	lvseshalong	2812
@@ -9646,14 +10203,32 @@ green_belt	lvseyaodai	3531
 green_liquid	lvseyeti	2364
 green_penis	lvseyinjing	2532
 green_pubic_hair	lvseyinmao	2976
+__prompt__:green and silver color scheme	lvseyinsepeise	10000
+__prompt__:green and white color scheme	lvseyubaise	10000
+__prompt__:green and orange color scheme	lvseyuchengse	10000
+__prompt__:green and pink color scheme	lvseyufenhongse	10000
+__prompt__:green and pink color scheme	lvseyufense	10000
+__prompt__:green and black color scheme	lvseyuheise	10000
+__prompt__:green and brown color scheme	lvseyuhese	10000
+__prompt__:green and red color scheme	lvseyuhongse	10000
+__prompt__:green and yellow color scheme	lvseyuhuangse	10000
+__prompt__:green and gray color scheme	lvseyuhuise	10000
+__prompt__:green and gold color scheme	lvseyujinse	10000
+__prompt__:green and blue color scheme	lvseyulanse	10000
 green_feathers	lvseyumao	3294
 green_track_suit	lvseyundongfu	2611
 green_sports_bra	lvseyundongneiyi	2946
+__prompt__:green and cyan color scheme	lvseyuqingse	10000
 green_raincoat	lvseyuyi	2194
+__prompt__:green and silver color scheme	lvseyuyinse	10000
 green_haori	lvseyuzhi	2676
+__prompt__:green and purple color scheme	lvseyuzise	10000
+__prompt__:green and brown color scheme	lvseyuzongse	10000
 green_sweater_vest	lvsezhenzhibeixin	3488
 green_nails	lvsezhijia	4380
 green_theme	lvsezhuti	4066
+__prompt__:green and purple color scheme	lvsezisepeise	10000
+__prompt__:green and brown color scheme	lvsezongsepeise	10000
 green_lips	lvsezuichun	3723
 green_snake	lvshe	2150
 green_tongue	lvshetou	3059
@@ -9665,7 +10240,10 @@ green_sleeves	lvxiu	3939
 green_blood	lvxue	2627
 green_eyes	lvyan	10000
 green_leaf	lvye	2199
+__prompt__:green and silver color scheme	lvyinpeise	10000
 oasis	lvzhou	2205
+__prompt__:green and purple color scheme	lvzipeise	10000
+__prompt__:green and brown color scheme	lvzongpeise	10000
 horse	ma	4193
 saddle	maan	3337
 saddlebags	maandai	2171
@@ -11609,15 +12187,25 @@ riding_motorcycle	qimotuoche	2343
 okobo	qimuji	3915
 zener_card	qinakapian	2337
 piano_bench	qindeng	2938
+__prompt__:cyan	qing	10000
+__prompt__:cyan and white color scheme	qingbaipeise	10000
 moped	qingbianmotuoche	2627
 kiyosumi_school_uniform	qingchenggaozhongxiaofu	3184
+__prompt__:cyan and orange color scheme	qingchengpeise	10000
 qingdai_guanmao	qingdaiguanmao	3795
 pouring	qingdao	3966
 pouring_onto_another	qingdaozaitarenshenshang	2583
+__prompt__:cyan and pink color scheme	qingfenhongpeise	10000
+__prompt__:cyan and pink color scheme	qingfenpeise	10000
 blue_oni	qinggui	3040
 shawl_lapels	qingguoling	2592
 seigaiha	qinghaibo	3570
+__prompt__:cyan and black color scheme	qingheipeise	10000
+__prompt__:cyan and brown color scheme	qinghepeise	10000
+__prompt__:cyan and red color scheme	qinghongpeise	10000
 qinghua_(porcelain)	qinghuaci	2288
+__prompt__:cyan and yellow color scheme	qinghuangpeise	10000
+__prompt__:cyan and gray color scheme	qinghuipeise	10000
 bell_pepper	qingjiao	2984
 green_bell_pepper	qingjiao	2621
 bell_pepper_slice	qingjiaoqiepian	2147
@@ -11629,6 +12217,7 @@ veiny_hands	qingjinbaoqideshou	3229
 veiny_thighs	qingjindatui	2668
 veiny_testicles	qingjingaowan	2589
 veiny_crotch	qingjinkuaxia	2353
+__prompt__:cyan and gold color scheme	qingjinpeise	10000
 veiny_breasts	qingjinru	3716
 veiny_arms	qingjinshoubi	3765
 veiny_penis	qingjinyinjing	4636
@@ -11637,9 +12226,11 @@ sake	qingjiu	3946
 sake_bottle	qingjiuping	3738
 clear_sky	qingkong	3438
 aozora_middle_school_uniform	qingkongzhongxuexiaozhifu	2381
+__prompt__:cyan and blue color scheme	qinglanpeise	10000
 single_tear	qingleiyidi	3321
 cleaning_pool	qingliyongchi	2522
 couple	qinglv	5014
+__prompt__:cyan and green color scheme	qinglvpeise	10000
 aqua_bikini	qinglvsebijini	3770
 matching_outfits	qinglvzhuang	3772
 disdain	qingmie	2621
@@ -11649,12 +12240,45 @@ lime_(fruit)	qingning	3202
 lime_hair_ornament	qingningfashi	2171
 lime_slice	qingningpian	3090
 bow_(music)	qingong	3661
+__prompt__:cyan	qingpeise	10000
 green_apple	qingpingguo	2775
 request_inset	qingqiuchatu	3868
 requesting_internal_cumshot	qingqiuneishe	3133
 love_hotel	qingqujiudian	2920
 valentine	qingrenjie	4470
 happy_valentine	qingrenjiekuaile	3796
+__prompt__:cyan	qingse	10000
+__prompt__:cyan and white color scheme	qingsebaisepeise	10000
+__prompt__:cyan and orange color scheme	qingsechengsepeise	10000
+__prompt__:cyan and pink color scheme	qingsefenhongsepeise	10000
+__prompt__:cyan and pink color scheme	qingsefensepeise	10000
+__prompt__:cyan and black color scheme	qingseheisepeise	10000
+__prompt__:cyan and brown color scheme	qingsehesepeise	10000
+__prompt__:cyan and red color scheme	qingsehongsepeise	10000
+__prompt__:cyan and yellow color scheme	qingsehuangsepeise	10000
+__prompt__:cyan and gray color scheme	qingsehuisepeise	10000
+__prompt__:cyan and gold color scheme	qingsejinsepeise	10000
+__prompt__:cyan and blue color scheme	qingselansepeise	10000
+__prompt__:cyan and green color scheme	qingselvsepeise	10000
+__prompt__:cyan	qingsepeise	10000
+__prompt__:cyan and silver color scheme	qingseyinsepeise	10000
+__prompt__:cyan and white color scheme	qingseyubaise	10000
+__prompt__:cyan and orange color scheme	qingseyuchengse	10000
+__prompt__:cyan and pink color scheme	qingseyufenhongse	10000
+__prompt__:cyan and pink color scheme	qingseyufense	10000
+__prompt__:cyan and black color scheme	qingseyuheise	10000
+__prompt__:cyan and brown color scheme	qingseyuhese	10000
+__prompt__:cyan and red color scheme	qingseyuhongse	10000
+__prompt__:cyan and yellow color scheme	qingseyuhuangse	10000
+__prompt__:cyan and gray color scheme	qingseyuhuise	10000
+__prompt__:cyan and gold color scheme	qingseyujinse	10000
+__prompt__:cyan and blue color scheme	qingseyulanse	10000
+__prompt__:cyan and green color scheme	qingseyulvse	10000
+__prompt__:cyan and silver color scheme	qingseyuyinse	10000
+__prompt__:cyan and purple color scheme	qingseyuzise	10000
+__prompt__:cyan and brown color scheme	qingseyuzongse	10000
+__prompt__:cyan and purple color scheme	qingsezisepeise	10000
+__prompt__:cyan and brown color scheme	qingsezongsepeise	10000
 aogami_high_school_uniform	qingshengaoxiaozhifu	2529
 aoshidan_school_uniform	qingshituanxueyuanzhifu	2642
 love_letter	qingshu	3523
@@ -11679,9 +12303,12 @@ leaning	qingxiezhanli	3835
 qingxin_flower	qingxin	2975
 kei_truck	qingxinghuoche	2828
 emo_fashion	qingxuyaogunfeng	3167
+__prompt__:cyan and silver color scheme	qingyinpeise	10000
 mackerel_(fish)	qingyu	2185
 celebration	qingzhu	2809
 kei_car	qingzidongche	2248
+__prompt__:cyan and purple color scheme	qingzipeise	10000
+__prompt__:cyan and brown color scheme	qingzongpeise	10000
 riding_bird	qiniao	2473
 affectionate	qinni	3277
 kissing_back	qinwenbeibu	2386
@@ -17760,6 +18387,8 @@ elizabeth_tower	yilishabaita	2626
 pterosaur	yilong	2500
 pony_express_uniform	yimakuaixinzhifu	2304
 coat_rack	yimaojia	2503
+__prompt__:silver	yin	10000
+__prompt__:silver and white color scheme	yinbaipeise	10000
 silver_trim	yinbian	3359
 stealth_flashing	yinbibaolu	2792
 stealth_fellatio	yinbikoujiao	2590
@@ -17775,6 +18404,7 @@ ofuda_on_pussy	yinbutiefu	2943
 pussy_peek	yinbuweilu	3955
 mole_on_pussy	yinbuzhi	3113
 hidden_camera	yincangshexiangji	2771
+__prompt__:silver and orange color scheme	yinchengpeise	10000
 labia_piercing	yinchunchuankong	2762
 labia_ring	yinchunhuan	2605
 between_labia	yinchunjian	2808
@@ -17817,6 +18447,8 @@ paizuri_under_clothes	yineirujiao	3892
 tail_under_clothes	yineiweiba	2882
 masturbation_under_clothes	yineiziwei	3218
 silver_earrings	yinerhuan	3023
+__prompt__:silver and pink color scheme	yinfenhongpeise	10000
+__prompt__:silver and pink color scheme	yinfenpeise	10000
 musical_note	yinfu	4899
 mons_pubis	yinfu	2973
 musical_note_background	yinfubeijing	2223
@@ -17883,6 +18515,9 @@ team_galactic	yinhedui	2742
 galaxy_team_survey_corps_uniform	yinheduidiaochazuzhifu	3259
 galaxy_expedition_team_survey_corps_uniform	yinheduidiaochazuzhifu	3229
 team_galactic_uniform	yinheduizhifu	2500
+__prompt__:silver and black color scheme	yinheipeise	10000
+__prompt__:silver and brown color scheme	yinhepeise	10000
+__prompt__:silver and red color scheme	yinhongpeise	10000
 long-tailed_tit	yinhouzhangweishanque	2940
 print_bag	yinhuabao	2490
 print_pillow	yinhuabaozhen	2587
@@ -17926,6 +18561,7 @@ print_sweater	yinhuamaoyi	3212
 print_male_underwear	yinhuananshineiku	2645
 print_male_swimwear	yinhuananshiyongzhuang	2288
 print_panties	yinhuaneiku	4089
+__prompt__:silver and yellow color scheme	yinhuangpeise	10000
 print_cape	yinhuapifeng	2844
 print_skirt	yinhuaqun	4075
 print_pasties	yinhuarutie	2223
@@ -17955,6 +18591,7 @@ print_umbrella	yinhuayusan	2518
 print_haori	yinhuayuzhi	3296
 print_tabard	yinhuazhaoshan	2275
 print_fan	yinhuazheshan	2377
+__prompt__:silver and gray color scheme	yinhuipeise	10000
 implied_handjob	yinhuishouyin	2763
 cuntboy	yinhunanhai	3052
 stealth_sex	yinjian	3426
@@ -17993,6 +18630,8 @@ penis_peek	yinjingweilu	3384
 penis_shadow	yinjingyinying	3121
 penis_on_face	yinjingzailianshang	3950
 penis_over_eyes	yinjingzheyan	3315
+__prompt__:silver and gold color scheme	yinjinpeise	10000
+__prompt__:silver and blue color scheme	yinlanpeise	10000
 silver_chain	yinlian	2388
 shade	yinliangchu	4368
 volume_symbol	yinliangtubiao	2156
@@ -18000,6 +18639,7 @@ anemone_(flower)	yinlianhua	3217
 drink	yinliao	4559
 drink_can	yinliaoguan	4296
 spilled_drink	yinliaosachu	2299
+__prompt__:silver and green color scheme	yinlvpeise	10000
 pubic_hair	yinmao	5290
 hair_on_penis	yinmao	2261
 pubic_stubble	yinmaocha	3222
@@ -18017,20 +18657,37 @@ drinking_pee	yinniao	2558
 indonesian_clothes	yinnichuantongfushi	2308
 indonesian_high_school_uniform	yinnigaozhongzhifu	2610
 indonesian_text	yinniyuwenben	2755
+__prompt__:silver	yinpeise	10000
 audio_jack	yinpinchakong	3093
 audio_visualizer	yinpinkeshihua	2299
 audio_cable	yinpinxian	2321
 inseki	yinqi	3258
 engine	yinqing	2844
 open_car_hood	yinqinggaikaiqi	2153
+__prompt__:silver and cyan color scheme	yinqingpeise	10000
+__prompt__:silver	yinse	10000
+__prompt__:silver and white color scheme	yinsebaisepeise	10000
 silver_bikini	yinsebijini	2888
+__prompt__:silver and orange color scheme	yinsechengsepeise	10000
 silver_hairband	yinsefagu	3065
+__prompt__:silver and pink color scheme	yinsefenhongsepeise	10000
+__prompt__:silver and pink color scheme	yinsefensepeise	10000
+__prompt__:silver and black color scheme	yinseheisepeise	10000
+__prompt__:silver and brown color scheme	yinsehesepeise	10000
+__prompt__:silver and red color scheme	yinsehongsepeise	10000
+__prompt__:silver and yellow color scheme	yinsehuangsepeise	10000
+__prompt__:silver and gray color scheme	yinsehuisepeise	10000
 silver_bracer	yinsehuwan	2570
+__prompt__:silver and gold color scheme	yinsejinsepeise	10000
 silver_armor	yinsekaijia	2589
+__prompt__:silver and blue color scheme	yinselansepeise	10000
 silver_sandals	yinseliangxie	2325
 silver_bodysuit	yinseliantiyi	2390
 silver_dress	yinselifu	3122
+__prompt__:silver and green color scheme	yinselvsepeise	10000
+__prompt__:silver	yinsepeise	10000
 silver_skin	yinsepifu	3170
+__prompt__:silver and cyan color scheme	yinseqingsepeise	10000
 silver_gloves	yinseshoutao	2345
 silver_tiara	yinsetouguan	2801
 silver_circlet	yinsetouhuan	2497
@@ -18038,7 +18695,24 @@ silver_thighlet	yinsetuihuan	2150
 silver_choker	yinsexiangquan	2613
 silver_shoes	yinsexiezi	2615
 silver_belt	yinseyaodai	2504
+__prompt__:silver and white color scheme	yinseyubaise	10000
+__prompt__:silver and orange color scheme	yinseyuchengse	10000
+__prompt__:silver and pink color scheme	yinseyufenhongse	10000
+__prompt__:silver and pink color scheme	yinseyufense	10000
+__prompt__:silver and black color scheme	yinseyuheise	10000
+__prompt__:silver and brown color scheme	yinseyuhese	10000
+__prompt__:silver and red color scheme	yinseyuhongse	10000
+__prompt__:silver and yellow color scheme	yinseyuhuangse	10000
+__prompt__:silver and gray color scheme	yinseyuhuise	10000
+__prompt__:silver and gold color scheme	yinseyujinse	10000
+__prompt__:silver and blue color scheme	yinseyulanse	10000
+__prompt__:silver and green color scheme	yinseyulvse	10000
+__prompt__:silver and cyan color scheme	yinseyuqingse	10000
+__prompt__:silver and purple color scheme	yinseyuzise	10000
+__prompt__:silver and brown color scheme	yinseyuzongse	10000
 silver_nails	yinsezhijia	2409
+__prompt__:silver and purple color scheme	yinsezisepeise	10000
+__prompt__:silver and brown color scheme	yinsezongsepeise	10000
 invisible	yinshen	3130
 implied_tail_plug	yinshiweibasai	2440
 silver_bracelet	yinshouzhuo	2942
@@ -18078,6 +18752,8 @@ bard	yinyoushiren	2520
 ink_stamp	yinzhang	2535
 seal_impression	yinzhangyinji	3220
 silver_armlet	yinzhibihuan	2917
+__prompt__:silver and purple color scheme	yinzipeise	10000
+__prompt__:silver and brown color scheme	yinzongpeise	10000
 poinsettia	yipinhong	2751
 sleeping_on_person	yirenermian	3680
 alternate_color	yise	4547
@@ -19615,9 +20291,12 @@ pillar	zhuzi	4118
 bead_armlet	zhuzibihuan	2355
 bead_choker	zhuzixiangquan	3076
 bamboo_print	zhuziyinhua	2813
+__prompt__:purple	zi	10000
+__prompt__:purple and white color scheme	zibaipeise	10000
 purple_gem	zibaoshi	3969
 self-harm	zican	3447
 self-harm_scar	zicanshanghen	3296
+__prompt__:purple and orange color scheme	zichengpeise	10000
 bullet	zidan	3860
 bullet_earrings	zidanerhuan	2499
 bullet_necklace	zidanxianglian	2420
@@ -19629,6 +20308,8 @@ autocannon	zidongjipao	2637
 mechanical_pencil	zidongqianbi	3455
 automaton_(object)	zidongrenou	2199
 purple_hair	zifa	10000
+__prompt__:purple and pink color scheme	zifenhongpeise	10000
+__prompt__:purple and pink color scheme	zifenpeise	10000
 self_bondage	zifu	2335
 uterus	zigong	4087
 womb_massage	zigonganmo	2524
@@ -19638,16 +20319,24 @@ uterus_pose	zigongshoushi	2177
 selfcest	zigongzishou	3695
 purple_light	ziguang	2302
 proud	zihao	2327
+__prompt__:purple and black color scheme	ziheipeise	10000
+__prompt__:purple and brown color scheme	zihepeise	10000
+__prompt__:purple and red color scheme	zihongpeise	10000
+__prompt__:purple and yellow color scheme	zihuangpeise	10000
+__prompt__:purple and gray color scheme	zihuipeise	10000
 purple_fire	zihuo	3614
 self_hug	zijibaoziji	3146
 drying_own_hair	zijicatoufa	3245
 braiding_own_hair	zijigeizijibianfa	2596
 applying_own_makeup	zijihuazhuang	3237
 self_milking	zijinai	2398
+__prompt__:purple and gold color scheme	zijinpeise	10000
 digging_your_own_grave	zijuefenmu	3535
 genderswap_aware	zijuexingbiezhuanhuan	2165
 purple-framed_eyewear	zikuangyanjing	3317
+__prompt__:purple and blue color scheme	zilanpeise	10000
 narcissism	zilian	2400
+__prompt__:purple and green color scheme	zilvpeise	10000
 purple_cat	zimao	2727
 purple_rose	zimeigui	4001
 too_literal	zimianyisi	2981
@@ -19657,10 +20346,14 @@ fansub	zimuzu	2150
 selfie	zipai	4518
 selfie_stick	zipaigan	3098
 self-pornography	zipaiseqing	2196
+__prompt__:purple	zipeise	10000
+__prompt__:purple and cyan color scheme	ziqingpeise	10000
 nature	ziran	4837
 autoarousal	ziranchaochui	2772
 landscape	ziranfengjing	4019
 natural_wedgie	zirankadang	2996
+__prompt__:purple	zise	10000
+__prompt__:purple and white color scheme	zisebaisepeise	10000
 purple_bag	zisebao	3202
 purple_overalls	zisebeidaiku	2622
 purple_background	zisebeijing	10000
@@ -19670,6 +20363,7 @@ purple_bikini	zisebijini	4378
 purple_armband	zisebizhang	3129
 purple_buruma	zisebuluma	2665
 purple_robe	zisechangpao	3367
+__prompt__:purple and orange color scheme	zisechengsepeise	10000
 purple_shirt	zisechenshan	10000
 purple_wings	zisechibang	3969
 purple_slingshot_swimsuit	zisedangongyongyi	2714
@@ -19685,16 +20379,23 @@ purple_shrug	ziseduanzhaoshan	2699
 purple_headband	zisefadai	3079
 purple_hairband	zisefagu	4070
 purple_scrunchie	zisefaquan	3496
+__prompt__:purple and pink color scheme	zisefenhongsepeise	10000
+__prompt__:purple and pink color scheme	zisefensepeise	10000
 purple_sclera	zisegongmo	3095
 purple_halo	ziseguanghuan	4150
 purple_trim	zisegunbian	3401
 purple_thighhighs	ziseguoxiwa	4487
 purple_hanfu	zisehanfu	2645
 purple_kimono	zisehefu	4353
+__prompt__:purple and black color scheme	ziseheisepeise	10000
+__prompt__:purple and brown color scheme	zisehesepeise	10000
+__prompt__:purple and red color scheme	zisehongsepeise	10000
 purple_petals	zisehuaban	2960
 purple_flower	zisehuaduo	4740
+__prompt__:purple and yellow color scheme	zisehuangsepeise	10000
 purple_butterfly	zisehudie	3510
 purple_bow	zisehudiejie	4849
+__prompt__:purple and gray color scheme	zisehuisepeise	10000
 purple_wrist_cuffs	zisehuwan	3018
 purple_facial_hair	zisehuxu	2454
 purple_jacket	zisejiake	4522
@@ -19702,12 +20403,14 @@ purple_horns	zisejiao	3774
 purple_theme	zisejidiao	4145
 purple-tinted_eyewear	zisejingpianyanjing	3798
 purple_choker	zisejingquan	3946
+__prompt__:purple and gold color scheme	zisejinsepeise	10000
 purple_leggings	zisejinshenku	2633
 purple_bodysuit	zisejinshenliantiyi	3830
 purple_armor	zisekaijia	3289
 purple_cardigan	zisekaishan	3486
 purple_hakama	ziseku	3208
 purple_pants	zisekuzi	4009
+__prompt__:purple and blue color scheme	ziselansepeise	10000
 purple_sandals	ziseliangxie	2890
 purple_pantyhose	ziseliankuwa	4105
 purple_hoodie	ziselianmaoshan	3668
@@ -19722,6 +20425,7 @@ purple_ascot	ziselingjin	3614
 purple_neckerchief	ziselingjin	3585
 purple_scales	ziselinpian	2576
 purple_outline	ziselunkuo	3040
+__prompt__:purple and green color scheme	ziselvsepeise	10000
 purple_vest	zisemajia	4020
 purple_fur	zisemaopi	3678
 purple_sweater	zisemaoyi	3813
@@ -19732,10 +20436,12 @@ purple_veil	zisemiansha	3555
 purple_tube_top	zisemoxiong	2486
 purple_male_underwear	zisenanshineiyi	2358
 purple_panties	ziseneiku	4279
+__prompt__:purple	zisepeise	10000
 purple_cape	zisepifeng	3961
 purple_skin	zisepifu	4280
 purple_shawl	zisepijian	2819
 purple_aura	ziseqichang	2377
+__prompt__:purple and cyan color scheme	ziseqingsepeise	10000
 purple_skirt	zisequnzi	10000
 purple_bonnet	ziseruanmao	2644
 purple_nipples	ziserutou	2832
@@ -19783,13 +20489,30 @@ purple_liquid	ziseyeti	2433
 purple_pussy	ziseyinbu	2275
 purple_penis	ziseyinjing	2261
 purple_pubic_hair	ziseyinmao	3114
+__prompt__:purple and silver color scheme	ziseyinsepeise	10000
+__prompt__:purple and white color scheme	ziseyubaise	10000
+__prompt__:purple and orange color scheme	ziseyuchengse	10000
+__prompt__:purple and pink color scheme	ziseyufenhongse	10000
+__prompt__:purple and pink color scheme	ziseyufense	10000
+__prompt__:purple and black color scheme	ziseyuheise	10000
+__prompt__:purple and brown color scheme	ziseyuhese	10000
+__prompt__:purple and red color scheme	ziseyuhongse	10000
+__prompt__:purple and yellow color scheme	ziseyuhuangse	10000
+__prompt__:purple and gray color scheme	ziseyuhuise	10000
+__prompt__:purple and gold color scheme	ziseyujinse	10000
 purple_tulip	ziseyujinxiang	2407
+__prompt__:purple and blue color scheme	ziseyulanse	10000
+__prompt__:purple and green color scheme	ziseyulvse	10000
 purple_track_suit	ziseyundongfu	2162
 purple_sports_bra	ziseyundongneiyi	2883
+__prompt__:purple and cyan color scheme	ziseyuqingse	10000
 purple_umbrella	ziseyusan	3733
+__prompt__:purple and silver color scheme	ziseyuyinse	10000
 purple_haori	ziseyuzhi	2492
+__prompt__:purple and brown color scheme	ziseyuzongse	10000
 purple_tabard	zisezhaoshan	3439
 purple_nails	zisezhijia	4647
+__prompt__:purple and brown color scheme	zisezongsepeise	10000
 purple_lips	zisezuichun	4113
 suicide	zisha	3158
 attempted_suicide	zishaweisui	2228
@@ -19823,6 +20546,7 @@ self-propelled_artillery	zixinghuopao	2231
 opening_own_clothes	zixingjiekaiyiwu	3372
 opened_by_self	zixingjiekaiyiwu	3331
 purple_eyes	ziyan	10000
+__prompt__:purple and silver color scheme	ziyinpeise	10000
 statue_of_liberty	ziyounvshenxiang	2547
 freediving	ziyouqianshui	3321
 consensual_tentacles	ziyuanchushou	3277
@@ -19832,15 +20556,32 @@ mullet	ziyutou	3372
 ultra_instinct	zizaijiyigong	2698
 adhesive_bra	zizhanxiongzhao	2746
 laundromat	zizhuxiyidian	2798
+__prompt__:purple and brown color scheme	zizongpeise	10000
 told_you_not_to_do_that	zizuozishou	3475
+__prompt__:brown	zong	10000
+__prompt__:brown and white color scheme	zongbaipeise	10000
+__prompt__:brown and orange color scheme	zongchengpeise	10000
 brown_hair	zongfa	10000
+__prompt__:brown and pink color scheme	zongfenhongpeise	10000
+__prompt__:brown and pink color scheme	zongfenpeise	10000
 all-out_attack	zonggongji	2417
 mixed_martial_arts	zonghegedou	2261
+__prompt__:brown and black color scheme	zongheipeise	10000
 sepia	zonghese	4027
+__prompt__:brown and red color scheme	zonghongpeise	10000
+__prompt__:brown and yellow color scheme	zonghuangpeise	10000
+__prompt__:brown and gray color scheme	zonghuipeise	10000
+__prompt__:brown and gold color scheme	zongjinpeise	10000
+__prompt__:brown and blue color scheme	zonglanpeise	10000
+__prompt__:brown and green color scheme	zonglvpeise	10000
 palm_tree	zonglvshu	4522
 palm_leaf	zonglvye	3639
 brown_horse	zongma	2557
 mane	zongmao	3142
+__prompt__:brown	zongpeise	10000
+__prompt__:brown and cyan color scheme	zongqingpeise	10000
+__prompt__:brown	zongse	10000
+__prompt__:brown and white color scheme	zongsebaisepeise	10000
 brown_overalls	zongsebeidaiku	3020
 brown_background	zongsebeijing	10000
 brown_vest	zongsebeixin	4219
@@ -19850,6 +20591,7 @@ brown_bikini	zongsebijini	3475
 brown_arm_warmers	zongsebitao	2548
 brown_armband	zongsebizhang	2304
 brown_robe	zongsechangpao	3159
+__prompt__:brown and orange color scheme	zongsechengsepeise	10000
 brown_shirt	zongsechenshan	10000
 brown_wings	zongsechibang	3570
 brown_leggings	zongsedadiku	2457
@@ -19864,6 +20606,8 @@ brown_shorts	zongseduanku	4348
 brown_headband	zongsefadai	2891
 brown_hairband	zongsefagu	3763
 brown_scrunchie	zongsefaquan	2768
+__prompt__:brown and pink color scheme	zongsefenhongsepeise	10000
+__prompt__:brown and pink color scheme	zongsefensepeise	10000
 brown_sclera	zongsegongmo	2586
 brown_dog	zongsegou	2628
 brown_halo	zongseguanghuan	3494
@@ -19871,14 +20615,19 @@ brown_trim	zongsegunbian	2569
 brown_hiphighs	zongseguokuachangwa	2526
 brown_thighhighs	zongseguoxiwa	4547
 brown_kimono	zongsehefu	3675
+__prompt__:brown and black color scheme	zongseheisepeise	10000
+__prompt__:brown and red color scheme	zongsehongsepeise	10000
 brown_flower	zongsehua	3185
+__prompt__:brown and yellow color scheme	zongsehuangsepeise	10000
 brown_bow	zongsehudiejie	4109
+__prompt__:brown and gray color scheme	zongsehuisepeise	10000
 brown_wrist_cuffs	zongsehuwan	2241
 brown_facial_hair	zongsehuxu	2458
 brown_jacket	zongsejiake	4820
 brown_horns	zongsejiao	3962
 brown-tinted_eyewear	zongsejingpianyanjing	3080
 brown_choker	zongsejingquan	3461
+__prompt__:brown and gold color scheme	zongsejinsepeise	10000
 brown_corset	zongsejinshenxiongyi	3706
 brown_bodysuit	zongsejinshenyi	3082
 brown_cardigan	zongsekaishan	4363
@@ -19886,6 +20635,7 @@ brown_hakama	zongseku	2895
 brown-framed_eyewear	zongsekuangyanjing	3596
 brown_armor	zongsekuijia	2834
 brown_pants	zongsekuzi	4565
+__prompt__:brown and blue color scheme	zongselansepeise	10000
 brown_sandals	zongseliangxie	3905
 brown_pantyhose	zongseliankuwa	4792
 brown_hoodie	zongselianmaoshan	3522
@@ -19901,6 +20651,7 @@ brown_neckerchief	zongselingjin	3229
 brown_ascot	zongselingjin	3157
 brown_scales	zongselinpian	2231
 brown_outline	zongselunkuo	2578
+__prompt__:brown and green color scheme	zongselvsepeise	10000
 brown_cat	zongsemao	3178
 brown_fur	zongsemaopi	4255
 brown_sweater	zongsemaoyi	4339
@@ -19910,8 +20661,10 @@ brown_bandeau	zongsemoxiong	2409
 brown_male_underwear	zongsenanshineiku	2405
 brown_panties	zongseneiku	3344
 brown_bird	zongseniaolei	2177
+__prompt__:brown	zongsepeise	10000
 brown_cape	zongsepifeng	3794
 brown_shawl	zongsepijian	3079
+__prompt__:brown and cyan color scheme	zongseqingsepeise	10000
 brown_skirt	zongsequnzi	10000
 brown_bonnet	zongseruanmao	2223
 brown_sash	zongseshidai	3318
@@ -19941,17 +20694,35 @@ brown_boots	zongsexuezi	4900
 brown_eyeshadow	zongseyanying	2492
 brown_belt	zongseyaodai	4704
 brown_pubic_hair	zongseyinmao	3110
+__prompt__:brown and silver color scheme	zongseyinsepeise	10000
+__prompt__:brown and white color scheme	zongseyubaise	10000
+__prompt__:brown and orange color scheme	zongseyuchengse	10000
+__prompt__:brown and pink color scheme	zongseyufenhongse	10000
+__prompt__:brown and pink color scheme	zongseyufense	10000
+__prompt__:brown and black color scheme	zongseyuheise	10000
+__prompt__:brown and red color scheme	zongseyuhongse	10000
+__prompt__:brown and yellow color scheme	zongseyuhuangse	10000
+__prompt__:brown and gray color scheme	zongseyuhuise	10000
+__prompt__:brown and gold color scheme	zongseyujinse	10000
+__prompt__:brown and blue color scheme	zongseyulanse	10000
+__prompt__:brown and green color scheme	zongseyulvse	10000
 brown_sports_bra	zongseyundongneiyi	2571
+__prompt__:brown and cyan color scheme	zongseyuqingse	10000
 brown_umbrella	zongseyusan	2221
+__prompt__:brown and silver color scheme	zongseyuyinse	10000
+__prompt__:brown and purple color scheme	zongseyuzise	10000
 brown_nails	zongsezhijia	3383
 brown_theme	zongsezhuti	3702
+__prompt__:brown and purple color scheme	zongsezisepeise	10000
 brown_lips	zongsezuichun	3212
 brown_eyes	zongtong	6047
 sobu_high_school_uniform	zongwugaozhongxiaofu	3289
 vertical_anus	zongxianggangmen	2207
 brown_eyes	zongyan	10000
 souya_high_school_uniform	zongyegaozhongxiaofu	2872
+__prompt__:brown and silver color scheme	zongyinpeise	10000
 zongzi	zongzi	2433
+__prompt__:brown and purple color scheme	zongzipeise	10000
 wardrobe_malfunction	zouguang	4071
 walking_away	zoukai	2945
 hallway	zoulang	3817

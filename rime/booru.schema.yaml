@@ -1,8 +1,8 @@
 schema:
   schema_id: booru
   name: 绘画提示词
-  version: "0.2.0"
-  description: 离线中文拼音选英文标签；逐词选择；SDXL/Pony 常用词典
+  version: "0.2.2"
+  description: 离线中文拼音选英文标签与通用颜色配色短语；逐词选择
 switches:
   - name: ascii_mode
     reset: 0
@@ -10,6 +10,9 @@ switches:
   - name: booru_separator
     reset: 1
     states: [纯标签, 逗号分隔]
+  - name: booru_space
+    reset: 1
+    states: [不加空格, 添加空格]
 engine:
   processors: [ascii_composer, recognizer, key_binder, speller, punctuator, selector, navigator, express_editor]
   segmentors: [ascii_segmentor, matcher, abc_segmentor, punct_segmentor, fallback_segmentor]
@@ -39,7 +42,7 @@ key_binder:
   bindings:
     - {when: has_menu, accept: minus, send: Page_Up}
     - {when: has_menu, accept: equal, send: Page_Down}
-    - {when: always, accept: Control+Shift+comma, toggle: booru_separator}
+    - {when: always, accept: Control+Shift+comma, toggle: booru_space}
 ascii_composer:
   good_old_caps_lock: true
   switch_key:

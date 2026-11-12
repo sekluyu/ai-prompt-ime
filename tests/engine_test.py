@@ -6,6 +6,7 @@ import re
 import shutil
 import time
 import os
+import hashlib
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -97,7 +98,8 @@ def main():
             for ch in row['code']: e.key(ch)
             for page in range(100):
                 candidates,last=e.candidates()
-                expected=re.sub(r'([\\()])',r'\\\1',row['tag'])+', '
+                text=row['tag'].removeprefix('__prompt__:')
+                expected=re.sub(r'([\\()])',r'\\\1',text)+', '
                 found=next((i for i,c in enumerate(candidates) if c['text']==expected),None)
                 if found is not None: break
                 if last: raise AssertionError(f'Missing candidate {row}')
@@ -128,7 +130,8 @@ def main():
             e.key(' '); sequence+=e.commit() or ''
         assert sequence=='1girl, solo, white_hair, twintails, thighhighs, ',sequence
         version=e.call('get_version',S,[]).decode()
-        report=dict(status='PASS',engine='official librime '+version+' Windows x64, Lua enabled',dictionary_rows=total_rows,tested_rows=len(results),initialization_compile_seconds=round(initialized-start,3),elapsed_seconds=round(time.perf_counter()-start,3),core_sequence=sequence,checks=['bounded deterministic candidate sample + Chinese comments + selection commits','raw-tag option','Escape cancellation','unknown code','ASCII passthrough','multi-tag Space sequence'],results=results,limitation='One automated engine check, not exhaustive human acceptance; not proof of Windows TSF input or image quality')
+        source=Path(os.environ.get('BOORU_TEST_SOURCE',str(ROOT/'rime')))
+        report=dict(status='PASS',engine='official librime '+version+' Windows x64, Lua enabled',dictionary_rows=total_rows,dictionary_sha256=hashlib.sha256((source/'booru.tsv').read_bytes()).hexdigest(),tested_rows=len(results),initialization_compile_seconds=round(initialized-start,3),elapsed_seconds=round(time.perf_counter()-start,3),core_sequence=sequence,checks=['bounded deterministic candidate sample + Chinese comments + selection commits','raw-tag option','Escape cancellation','unknown code','ASCII passthrough','multi-tag Space sequence'],results=results,limitation='One automated engine check, not exhaustive human acceptance; not proof of Windows TSF input or image quality')
         import sys
         sys.path.insert(0,str(ROOT/'tools/pydeps'))
         import psutil

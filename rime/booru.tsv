@@ -178,33 +178,43 @@ pug	巴哥犬	bagequan	2435
 trigram	八卦	bagua	3112
 bagua	八卦	bagua	2550
 tug_of_war	拔河	bahe	2213
+__prompt__:white	白色〔通用短语〕	bai	10000
 white_lily	白百合	baibaihe	3581
 whiteboard	白板	baiban	3254
 white_spider_lily	白彼岸花	baibianhua	2398
 kashiwa_mochi_(food)	柏饼	baibing	2433
+__prompt__:white and orange color scheme	白＋橙配色〔通用短语〕	baichengpeise	10000
 white_shirt	白衬衫	baichenshan	6167
 white_lips	白唇	baichun	2620
 lab_coat	白大褂	baidagua	4636
 white_cloak	白斗篷	baidoupeng	3965
 white_hair	白发	baifa	10000
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baifenhongpeise	10000
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baifenpeise	10000
 dove	白鸽	baige	3754
 white_dog	白狗	baigou	3132
 yuri	百合	baihe	5534
 lily_(flower)	百合花	baihehua	4091
 fleur-de-lis	百合花饰	baihehuashi	3119
 lily_print	百合花纹	baihehuawen	2495
+__prompt__:white and black color scheme	白＋黑配色〔通用短语〕	baiheipeise	10000
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baihepeise	10000
+__prompt__:white and red color scheme	白＋红配色〔通用短语〕	baihongpeise	10000
 white_tiger	白虎	baihu	3247
 white_flower	白花	baihua	5195
 albino	白化	baihua	3927
+__prompt__:white and yellow color scheme	白＋黄配色〔通用短语〕	baihuangpeise	10000
 hakuo_school_uniform	白皇学院校服	baihuangxueyuanxiaofu	2773
 hyakkaou_academy_school_uniform	百花王学园校服	baihuawangxueyuanxiaofu	2818
 shirahana_school_uniform	白花校服	baihuaxiaofu	2251
 white_butterfly	白蝴蝶	baihudie	3530
+__prompt__:white and gray color scheme	白＋灰配色〔通用短语〕	baihuipeise	10000
 white_fire	白火	baihuo	2233
 white_tiger_print	白虎纹	baihuwen	2631
 white_beard	白胡子	baihuzi	2624
 white_horns	白角	baijiao	4046
 beluga_whale	白鲸	baijing	2144
+__prompt__:white and gold color scheme	白＋金配色〔通用短语〕	baijinpeise	10000
 spread_toes	掰开脚趾	baikaijiaozhi	3874
 spreading_another's_anus	掰开他人的肛门	baikaitarendegangmen	3134
 spreading_another's_ass	掰开他人的臀部	baikaitarendetunbu	2455
@@ -216,8 +226,10 @@ spreading_own_ass	掰开自己的屁股	baikaizijidepigu	2975
 spreading_own_pussy	掰开自己的阴部	baikaizijideyinbu	4348
 white-framed_eyewear	白框眼镜	baikuangyanjing	3867
 white_wolf	白狼	bailang	2688
+__prompt__:white and blue color scheme	白＋蓝配色〔通用短语〕	bailanpeise	10000
 hakuryou_high_school_uniform	白陵学园制服	bailingxueyuanzhifu	2576
 daikon	白萝卜	bailuobo	2959
+__prompt__:white and green color scheme	白＋绿配色〔通用短语〕	bailvpeise	10000
 white_horse	白马	baima	2925
 white_hair	白毛	baimao	10000
 white_cat	白猫	baimao	4012
@@ -229,12 +241,15 @@ white_panties	白内裤	baineiku	5398
 cataracts	白内障	baineizhang	2246
 white_bird	白鸟	bainiao	3818
 white_robe	白袍	baipao	4189
+__prompt__:white	白色〔通用短语〕	baipeise	10000
 pocky	百奇	baiqi	4326
 white_flag	白旗	baiqi	2954
 white_chocolate	白巧克力	baiqiaokeli	2578
 pachinko	柏青哥	baiqingge	2398
+__prompt__:white and cyan color scheme	白＋青配色〔通用短语〕	baiqingpeise	10000
 pocky_kiss	百奇之吻	baiqizhiwen	3462
 white_umbrella	白伞	baisan	3585
+__prompt__:white	白色〔通用短语〕	baise	10000
 white_ascot	白色阿斯科特领巾	baiseasiketelingjin	4467
 white_bag	白色包	baisebao	3826
 white_gem	白色宝石	baisebaoshi	2837
@@ -247,6 +262,7 @@ white_armband	白色臂章	baisebizhang	3387
 white_polka_dots	白色波点	baisebodian	2395
 white_pants	白色长裤	baisechangku	4877
 white_gown	白色长袍	baisechangpao	2291
+__prompt__:white and orange color scheme	白＋橙配色〔通用短语〕	baisechengsepeise	10000
 white_shirt	白色衬衫	baisechenshan	10000
 white_wings	白色翅膀	baisechibang	4864
 white_slingshot_swimsuit	白色弹弓泳衣	baisedangongyongyi	3076
@@ -264,6 +280,8 @@ white_capelet	白色短披肩	baiseduanpijian	4551
 white_shrug	白色短罩衫	baiseduanzhaoshan	3857
 white_hairband	白色发箍	baisefagu	4811
 white_scrunchie	白色发圈	baisefaquan	3886
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baisefenhongsepeise	10000
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baisefensepeise	10000
 white_halo	白色光环	baiseguanghuan	3982
 white_trim	白色滚边	baisegunbian	3904
 white_bandeau	白色裹胸	baiseguoxiong	3402
@@ -271,20 +289,27 @@ white_thighhighs	白色过膝袜	baiseguoxiwa	5558
 white_hanfu	白色汉服	baisehanfu	3843
 white_hanbok	白色韩服	baisehanfu	2615
 white_kimono	白色和服	baisehefu	4780
+__prompt__:white and black color scheme	白＋黑配色〔通用短语〕	baiseheisepeise	10000
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baisehesepeise	10000
+__prompt__:white and red color scheme	白＋红配色〔通用短语〕	baisehongsepeise	10000
 white_petals	白色花瓣	baisehuaban	3277
+__prompt__:white and yellow color scheme	白＋黄配色〔通用短语〕	baisehuangsepeise	10000
 white_bow	白色蝴蝶结	baisehudiejie	5214
+__prompt__:white and gray color scheme	白＋灰配色〔通用短语〕	baisehuisepeise	10000
 white_coif	白色护头巾	baisehutoujin	2681
 white_facial_hair	白色胡须	baisehuxu	2482
 white_jacket	白色夹克	baisejiake	5311
 white_eyelashes	白色睫毛	baisejiemao	3959
 white_choker	白色颈圈	baisejingquan	4481
 white_collar	白色颈圈	baisejingquan	4439
+__prompt__:white and gold color scheme	白＋金配色〔通用短语〕	baisejinsepeise	10000
 white_leggings	白色紧身裤	baisejinshenku	3516
 white_bodysuit	白色紧身连体衣	baisejinshenliantiyi	4296
 white_armor	白色铠甲	baisekaijia	3772
 white_cardigan	白色开衫	baisekaishan	3871
 white_mouth	白色口腔	baisekouqiang	3634
 white_hakama	白色袴	baiseku	3122
+__prompt__:white and blue color scheme	白＋蓝配色〔通用短语〕	baiselansepeise	10000
 white_sandals	白色凉鞋	baiseliangxie	3829
 white_hoodie	白色连帽衫	baiselianmaoshan	4423
 white_romper	白色连身短裤	baiselianshenduanku	3699
@@ -299,6 +324,7 @@ white_bowtie	白色领结	baiselingjie	4433
 white_neckerchief	白色领巾	baiselingjin	4182
 white_scales	白色鳞片	baiselinpian	3205
 white_outline	白色轮廓	baiselunkuo	4806
+__prompt__:white and green color scheme	白＋绿配色〔通用短语〕	baiselvsepeise	10000
 white_vest	白色马甲	baisemajia	4103
 white_sweater	白色毛衣	baisemaoyi	4628
 white_sweater_vest	白色毛衣背心	baisemaoyibeixin	2912
@@ -309,6 +335,7 @@ white_tube_top	白色抹胸	baisemoxiong	3605
 white_male_underwear	白色男式内裤	baisenanshineiku	3621
 white_male_swimwear	白色男式泳装	baisenanshiyongzhuang	2756
 white_chemise	白色内衣衫	baiseneiyishan	2810
+__prompt__:white	白色〔通用短语〕	baisepeise	10000
 white_cape	白色披风	baisepifeng	4495
 white_shawl	白色披肩	baisepijian	3421
 white_fur	白色皮毛	baisepimao	4570
@@ -316,6 +343,7 @@ white_car	白色汽车	baiseqiche	2910
 white_negligee	白色轻薄睡袍	baiseqingboshuipao	2573
 white_day	白色情人节	baiseqingrenjie	3205
 happy_white_day	白色情人节快乐	baiseqingrenjiekuaile	2239
+__prompt__:white and cyan color scheme	白＋青配色〔通用短语〕	baiseqingsepeise	10000
 white_skirt	白色裙子	baisequnzi	10000
 white_bonnet	白色软帽	baiseruanmao	3408
 white_sarong	白色纱笼	baiseshalong	3451
@@ -361,16 +389,34 @@ white_eyeshadow	白色眼影	baiseyanying	2319
 white_belt	白色腰带	baiseyaodai	4441
 white_armpit_hair	白色腋毛	baiseyemao	2215
 white_pubic_hair	白色阴毛	baiseyinmao	3247
+__prompt__:white and silver color scheme	白＋银配色〔通用短语〕	baiseyinsepeise	10000
+__prompt__:white and orange color scheme	白＋橙配色〔通用短语〕	baiseyuchengse	10000
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baiseyufenhongse	10000
+__prompt__:white and pink color scheme	白＋粉配色〔通用短语〕	baiseyufense	10000
+__prompt__:white and black color scheme	白＋黑配色〔通用短语〕	baiseyuheise	10000
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baiseyuhese	10000
+__prompt__:white and red color scheme	白＋红配色〔通用短语〕	baiseyuhongse	10000
+__prompt__:white and yellow color scheme	白＋黄配色〔通用短语〕	baiseyuhuangse	10000
+__prompt__:white and gray color scheme	白＋灰配色〔通用短语〕	baiseyuhuise	10000
+__prompt__:white and gold color scheme	白＋金配色〔通用短语〕	baiseyujinse	10000
+__prompt__:white and blue color scheme	白＋蓝配色〔通用短语〕	baiseyulanse	10000
+__prompt__:white and green color scheme	白＋绿配色〔通用短语〕	baiseyulvse	10000
 white_sports_bra	白色运动内衣	baiseyundongneiyi	3842
 white_bathrobe	白色浴袍	baiseyupao	2171
+__prompt__:white and cyan color scheme	白＋青配色〔通用短语〕	baiseyuqingse	10000
 white_raincoat	白色雨衣	baiseyuyi	2721
+__prompt__:white and silver color scheme	白＋银配色〔通用短语〕	baiseyuyinse	10000
 white_haori	白色羽织	baiseyuzhi	3165
+__prompt__:white and purple color scheme	白＋紫配色〔通用短语〕	baiseyuzise	10000
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baiseyuzongse	10000
 white_overskirt	白色罩裙	baisezhaoqun	2589
 white_tabard	白色罩衫	baisezhaoshan	3321
 white_visor_cap	白色遮阳帽	baisezheyangmao	2207
 white_uniform	白色制服	baisezhifu	2693
 white_nails	白色指甲	baisezhijia	3821
 white_theme	白色主题	baisezhuti	3663
+__prompt__:white and purple color scheme	白＋紫配色〔通用短语〕	baisezisepeise	10000
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baisezongsepeise	10000
 white_snake	白蛇	baishe	3681
 white_rope	白绳	baisheng	3166
 type_100_smg	百式冲锋枪	baishichongfengqiang	2268
@@ -395,6 +441,7 @@ aries_(symbol)	白羊座符号	baiyangzuofuhao	2647
 window_blinds	百叶窗	baiyechuang	3608
 window_shutter	百叶窗	baiyechuang	2674
 shutter_shades	百叶窗眼镜	baiyechuangyanjing	2449
+__prompt__:white and silver color scheme	白＋银配色〔通用短语〕	baiyinpeise	10000
 ermine	白鼬	baiyou	2684
 white_tulip	白郁金香	baiyujinxiang	3040
 white_feathers	白羽毛	baiyumao	4028
@@ -406,7 +453,9 @@ cracking_knuckles	掰指关节	baizhiguanjie	2930
 virtuous_contract	白之契约	baizhiqiyue	2865
 pendulum_clock	摆钟	baizhong	2349
 shiroshouzoku	白装束	baizhuangshu	2823
+__prompt__:white and purple color scheme	白＋紫配色〔通用短语〕	baizipeise	10000
 posing	摆姿势	baizishi	3300
+__prompt__:white and brown color scheme	白＋棕配色〔通用短语〕	baizongpeise	10000
 jacket_around_neck	把夹克围在脖子上	bajiakeweizaibozishang	2366
 drawing_sword	拔剑	bajian	3477
 palm_leaf_fan	芭蕉扇	bajiaoshan	2597
@@ -1733,7 +1782,9 @@ morning_wood	晨勃	chenbo	2207
 shipwreck	沉船	chenchuan	2627
 padded_cloak	衬垫斗篷	chendiandoupeng	2185
 car_interior	车内	chenei	3811
+__prompt__:orange	橙色〔通用短语〕	cheng	10000
 weighing_scale	秤	cheng	3497
+__prompt__:orange and white color scheme	橙＋白配色〔通用短语〕	chengbaipeise	10000
 castle	城堡	chengbao	4033
 oran_berry	橙橙果	chengchengguo	3025
 matching_accessory	成对饰品	chengduishipin	2162
@@ -1741,13 +1792,27 @@ battlement	城垛	chengduo	2277
 orange_hair	橙发	chengfa	10000
 punishment	惩罚	chengfa	2749
 punishment_sex	惩罚性行为	chengfaxingxingwei	2343
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengfenhongpeise	10000
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengfenpeise	10000
+__prompt__:orange and black color scheme	橙＋黑配色〔通用短语〕	chengheipeise	10000
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chenghepeise	10000
+__prompt__:orange and red color scheme	橙＋红配色〔通用短语〕	chenghongpeise	10000
+__prompt__:orange and yellow color scheme	橙＋黄配色〔通用短语〕	chenghuangpeise	10000
+__prompt__:orange and gray color scheme	橙＋灰配色〔通用短语〕	chenghuipeise	10000
+__prompt__:orange and gold color scheme	橙＋金配色〔通用短语〕	chengjinpeise	10000
 achievement_unlocked	成就达成	chengjiudacheng	2335
 spread_navel	撑开肚脐	chengkaiduqi	2998
 orange-framed_eyewear	橙框眼镜	chengkuangyanjing	2979
+__prompt__:orange and blue color scheme	橙＋蓝配色〔通用短语〕	chenglanpeise	10000
+__prompt__:orange and green color scheme	橙＋绿配色〔通用短语〕	chenglvpeise	10000
+__prompt__:orange	橙色〔通用短语〕	chengpeise	10000
 bursting_breasts	撑破衣物的胸部	chengpoyiwudexiongbu	3934
+__prompt__:orange and cyan color scheme	橙＋青配色〔通用短语〕	chengqingpeise	10000
 pornography_production	成人影片制作	chengrenyingpianzhizuo	3329
 holding_umbrella	撑伞	chengsan	10000
+__prompt__:orange	橙色〔通用短语〕	chengse	10000
 orange_ascot	橙色阿斯科特领巾	chengseasiketelingjin	3351
+__prompt__:orange and white color scheme	橙＋白配色〔通用短语〕	chengsebaisepeise	10000
 orange_bag	橙色包	chengsebao	2901
 orange_gem	橙色宝石	chengsebaoshi	3165
 orange_overalls	橙色背带裤	chengsebeidaiku	2627
@@ -1770,24 +1835,33 @@ orange_shrug	橙色短开衫	chengseduankaishan	2642
 orange_shorts	橙色短裤	chengseduanku	3863
 orange_hairband	橙色发箍	chengsefagu	3794
 orange_scrunchie	橙色发圈	chengsefaquan	3592
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengsefenhongsepeise	10000
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengsefensepeise	10000
 orange_sclera	橙色巩膜	chengsegongmo	3060
 orange_light	橙色光	chengseguang	2188
 orange_halo	橙色光环	chengseguanghuan	3579
 orange_thighhighs	橙色过膝袜	chengseguoxiwa	3639
 orange_hanfu	橙色汉服	chengsehanfu	2182
 orange_kimono	橙色和服	chengsehefu	3747
+__prompt__:orange and black color scheme	橙＋黑配色〔通用短语〕	chengseheisepeise	10000
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chengsehesepeise	10000
+__prompt__:orange and red color scheme	橙＋红配色〔通用短语〕	chengsehongsepeise	10000
 orange_petals	橙色花瓣	chengsehuaban	2438
 orange_flower	橙色花朵	chengsehuaduo	4186
+__prompt__:orange and yellow color scheme	橙＋黄配色〔通用短语〕	chengsehuangsepeise	10000
 orange_butterfly	橙色蝴蝶	chengsehudie	2827
 orange_bow	橙色蝴蝶结	chengsehudiejie	4470
+__prompt__:orange and gray color scheme	橙＋灰配色〔通用短语〕	chengsehuisepeise	10000
 orange_goggles	橙色护目镜	chengsehumujing	2971
 orange_jacket	橙色夹克	chengsejiake	4156
 orange_horns	橙色角	chengsejiao	3187
 orange-tinted_eyewear	橙色镜片眼镜	chengsejingpianyanjing	3936
+__prompt__:orange and gold color scheme	橙＋金配色〔通用短语〕	chengsejinsepeise	10000
 orange_bodysuit	橙色紧身连体衣	chengsejinshenliantiyi	3672
 orange_leotard	橙色紧身衣	chengsejinshenyi	3189
 orange_armor	橙色盔甲	chengsekuijia	2647
 orange_pants	橙色裤子	chengsekuzi	3738
+__prompt__:orange and blue color scheme	橙＋蓝配色〔通用短语〕	chengselansepeise	10000
 orange_sandals	橙色凉鞋	chengseliangxie	2536
 orange_pantyhose	橙色连裤袜	chengseliankuwa	3493
 orange_hoodie	橙色连帽衫	chengselianmaoshan	3598
@@ -1800,6 +1874,7 @@ orange_bowtie	橙色领结	chengselingjie	3937
 orange_neckerchief	橙色领巾	chengselingjin	3767
 orange_scales	橙色鳞片	chengselinpian	2335
 orange_outline	橙色轮廓	chengselunkuo	2947
+__prompt__:orange and green color scheme	橙＋绿配色〔通用短语〕	chengselvsepeise	10000
 orange_vest	橙色马甲	chengsemajia	3555
 orange_sweater	橙色毛衣	chengsemaoyi	3492
 orange_hat	橙色帽子	chengsemaozi	3924
@@ -1810,9 +1885,11 @@ orange_male_underwear	橙色男士内裤	chengsenanshineiku	2458
 orange_male_swimwear	橙色男式泳装	chengsenanshiyongzhuang	2306
 orange_panties	橙色内裤	chengseneiku	3346
 orange_leg_warmers	橙色暖腿袜	chengsenuantuiwa	2162
+__prompt__:orange	橙色〔通用短语〕	chengsepeise	10000
 orange_skin	橙色皮肤	chengsepifu	3601
 orange_shawl	橙色披肩	chengsepijian	2177
 orange_car	橙色汽车	chengseqiche	2156
+__prompt__:orange and cyan color scheme	橙＋青配色〔通用短语〕	chengseqingsepeise	10000
 orange_skirt	橙色裙子	chengsequnzi	10000
 orange_umbrella	橙色伞	chengsesan	2446
 orange_sarong	橙色纱笼	chengseshalong	2598
@@ -1850,16 +1927,34 @@ orange_eyeliner	橙色眼线	chengseyanxian	2893
 orange_eyeshadow	橙色眼影	chengseyanying	2942
 orange_belt	橙色腰带	chengseyaodai	3514
 orange_pubic_hair	橙色阴毛	chengseyinmao	2721
+__prompt__:orange and silver color scheme	橙＋银配色〔通用短语〕	chengseyinsepeise	10000
+__prompt__:orange and white color scheme	橙＋白配色〔通用短语〕	chengseyubaise	10000
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengseyufenhongse	10000
+__prompt__:orange and pink color scheme	橙＋粉配色〔通用短语〕	chengseyufense	10000
+__prompt__:orange and black color scheme	橙＋黑配色〔通用短语〕	chengseyuheise	10000
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chengseyuhese	10000
+__prompt__:orange and red color scheme	橙＋红配色〔通用短语〕	chengseyuhongse	10000
+__prompt__:orange and yellow color scheme	橙＋黄配色〔通用短语〕	chengseyuhuangse	10000
+__prompt__:orange and gray color scheme	橙＋灰配色〔通用短语〕	chengseyuhuise	10000
+__prompt__:orange and gold color scheme	橙＋金配色〔通用短语〕	chengseyujinse	10000
 orange_tulip	橙色郁金香	chengseyujinxiang	2621
+__prompt__:orange and blue color scheme	橙＋蓝配色〔通用短语〕	chengseyulanse	10000
+__prompt__:orange and green color scheme	橙＋绿配色〔通用短语〕	chengseyulvse	10000
 orange_feathers	橙色羽毛	chengseyumao	2769
 orange_buruma	橙色运动短裤	chengseyundongduanku	2302
 orange_sports_bra	橙色运动文胸	chengseyundongwenxiong	2759
 orange_clouds	橙色云朵	chengseyunduo	2627
+__prompt__:orange and cyan color scheme	橙＋青配色〔通用短语〕	chengseyuqingse	10000
+__prompt__:orange and silver color scheme	橙＋银配色〔通用短语〕	chengseyuyinse	10000
+__prompt__:orange and purple color scheme	橙＋紫配色〔通用短语〕	chengseyuzise	10000
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chengseyuzongse	10000
 orange_tabard	橙色罩袍	chengsezhaopao	3005
 orange_sweater_vest	橙色针织背心	chengsezhenzhibeixin	2664
 orange_cardigan	橙色针织衫	chengsezhenzhishan	2929
 orange_nails	橙色指甲	chengsezhijia	3954
 orange_theme	橙色主题	chengsezhuti	3732
+__prompt__:orange and purple color scheme	橙＋紫配色〔通用短语〕	chengsezisepeise	10000
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chengsezongsepeise	10000
 city	城市	chengshi	10000
 city_lights	城市灯光	chengshidengguang	3851
 cityscape	城市景观	chengshijingguan	4391
@@ -1872,11 +1967,14 @@ orange_eyes	橙瞳	chengtong	5423
 travel_attendant	乘务员	chengwuyuan	3076
 boobplate	成型乳房甲	chengxingrufangjia	3492
 orange_eyes	橙眼	chengyan	10000
+__prompt__:orange and silver color scheme	橙＋银配色〔通用短语〕	chengyinpeise	10000
 town	城镇	chengzhen	3689
 orange_juice	橙汁	chengzhi	3045
 orange_(fruit)	橙子	chengzi	4013
+__prompt__:orange and purple color scheme	橙＋紫配色〔通用短语〕	chengzipeise	10000
 orange_slice	橙子切片	chengziqiepian	3608
 orange_print	橙子印花	chengziyinhua	2576
+__prompt__:orange and brown color scheme	橙＋棕配色〔通用短语〕	chengzongpeise	10000
 riding_roller_coaster	乘坐过山车	chengzuoguoshanche	2226
 twilight	晨昏	chenhun	3962
 silence_glaive	沉默冰刃	chenmobingren	2673
@@ -4032,6 +4130,8 @@ soap_bubbles	肥皂泡	feizaopao	3949
 soap_censor	肥皂遮挡	feizaozhedang	3330
 gerbera	非洲菊	feizhouju	2947
 unwanted_creampie	非自愿内射	feiziyuanneishe	2645
+__prompt__:pink	粉色〔通用短语〕	fen	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fenbaipeise	10000
 chalk	粉笔	fenbi	3373
 chalk_drawing	粉笔画	fenbihua	2533
 compact_(cosmetics)	粉饼盒	fenbinghe	2969
@@ -4040,6 +4140,7 @@ forked_eyebrows	分叉眉	fenchamei	3949
 forked_tongue	分叉舌	fenchashe	3676
 forked_tail	分叉尾	fenchawei	3252
 bifurcated_jaw	分叉下颚	fenchaxiae	2199
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fenchengpeise	10000
 fanta	芬达	fenda	2547
 fender_jazzmaster	芬达爵士大师吉他	fendajueshidashijita	2749
 fender_mustang	芬达野马	fendayema	2691
@@ -4124,11 +4225,63 @@ minegahara_high_school_uniform	峰原高中校服	fengyuangaozhongxiaofu	2570
 kazekoshi_school_uniform	风越女子高中校服	fengyuenvzigaozhongxiaofu	2655
 kite	风筝	fengzheng	2936
 toyogasaki_academy_school_uniform	丰之崎学园校服	fengzhiqixueyuanxiaofu	2962
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenheipeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhepeise	10000
+__prompt__:pink	粉色〔通用短语〕	fenhong	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fenhongbaipeise	10000
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fenhongchengpeise	10000
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenhongheipeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhonghepeise	10000
+__prompt__:pink and red color scheme	粉＋红配色〔通用短语〕	fenhonghongpeise	10000
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fenhonghuangpeise	10000
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fenhonghuipeise	10000
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fenhongjinpeise	10000
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenhonglanpeise	10000
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenhonglvpeise	10000
+__prompt__:pink	粉色〔通用短语〕	fenhongpeise	10000
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenhongqingpeise	10000
+__prompt__:pink	粉色〔通用短语〕	fenhongse	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fenhongsebaisepeise	10000
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fenhongsechengsepeise	10000
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenhongseheisepeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhongsehesepeise	10000
+__prompt__:pink and red color scheme	粉＋红配色〔通用短语〕	fenhongsehongsepeise	10000
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fenhongsehuangsepeise	10000
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fenhongsehuisepeise	10000
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fenhongsejinsepeise	10000
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenhongselansepeise	10000
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenhongselvsepeise	10000
+__prompt__:pink	粉色〔通用短语〕	fenhongsepeise	10000
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenhongseqingsepeise	10000
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenhongseyinsepeise	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fenhongseyubaise	10000
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fenhongseyuchengse	10000
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenhongseyuheise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhongseyuhese	10000
+__prompt__:pink and red color scheme	粉＋红配色〔通用短语〕	fenhongseyuhongse	10000
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fenhongseyuhuangse	10000
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fenhongseyuhuise	10000
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fenhongseyujinse	10000
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenhongseyulanse	10000
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenhongseyulvse	10000
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenhongseyuqingse	10000
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenhongseyuyinse	10000
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fenhongseyuzise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhongseyuzongse	10000
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fenhongsezisepeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhongsezongsepeise	10000
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenhongyinpeise	10000
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fenhongzipeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenhongzongpeise	10000
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fenhuangpeise	10000
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fenhuipeise	10000
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fenjinpeise	10000
 spreading_another's_legs	分开他人双腿	fenkaitarenshuangtui	2246
 pink-framed_eyewear	粉框眼镜	fenkuangyanjing	3725
 finland	芬兰	fenlan	2207
 finnish_flag	芬兰国旗	fenlanguoqi	2400
 column_lineup	分栏排列	fenlanpailie	3562
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenlanpeise	10000
 finnish_text	芬兰语文本	fenlanyuwenben	2604
 detached_wings	分离翅膀	fenlichibang	4241
 detached_arm	分离的手臂	fenlideshoubi	2792
@@ -4136,15 +4289,20 @@ detached_leggings	分离式打底裤	fenlishidadiku	3178
 detached_ahoge	分离式呆毛	fenlishidaimao	3354
 detached_legs	分离腿	fenlitui	2351
 detached_sleeves	分离袖	fenlixiu	5785
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenlvpeise	10000
 giving_birth	分娩	fenmian	2815
 grave	坟墓	fenmu	3205
 angry	愤怒	fennu	4807
 >:(	愤怒表情	fennubiaoqing	3868
 anger_vein	愤怒符号	fennufuhao	4929
 angry_sex	愤怒性爱	fennuxingai	2576
+__prompt__:pink	粉色〔通用短语〕	fenpeise	10000
 split_screen	分屏	fenping	3485
 powder_puff	粉扑	fenpu	2279
 fen_cichlid_girls_academy_school_uniform	芬奇利德女子学院校服	fenqilidenvzixueyuanxiaofu	2362
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenqingpeise	10000
+__prompt__:pink	粉色〔通用短语〕	fense	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fensebaisepeise	10000
 pink_bag	粉色包	fensebao	3941
 pink_gem	粉色宝石	fensebaoshi	3614
 pink_overalls	粉色背带裤	fensebeidaiku	2896
@@ -4155,6 +4313,7 @@ pink_bikini	粉色比基尼	fensebijini	4497
 pink_nose	粉色鼻子	fensebizi	2881
 pink_pants	粉色长裤	fensechangku	3852
 pink_robe	粉色长袍	fensechangpao	2934
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fensechengsepeise	10000
 pink_shirt	粉色衬衫	fensechenshan	10000
 pink_wings	粉色翅膀	fensechibang	3678
 pink_slingshot_swimsuit	粉色弹弓泳装	fensedangongyongzhuang	2551
@@ -4176,17 +4335,23 @@ pink_light	粉色光效	fenseguangxiao	2339
 pink_thighhighs	粉色过膝袜	fenseguoxiwa	4299
 pink_hanfu	粉色汉服	fensehanfu	2706
 pink_kimono	粉色和服	fensehefu	4371
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenseheisepeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fensehesepeise	10000
 pink_frills	粉色荷叶边	fenseheyebian	2600
+__prompt__:pink and red color scheme	粉＋红配色〔通用短语〕	fensehongsepeise	10000
 pink_petals	粉色花瓣	fensehuaban	4011
 pink_flower	粉色花朵	fensehuaduo	4990
 pink_crown	粉色皇冠	fensehuangguan	3075
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fensehuangsepeise	10000
 pink_butterfly	粉色蝴蝶	fensehudie	3156
 pink_bow	粉色蝴蝶结	fensehudiejie	5098
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fensehuisepeise	10000
 pink_fire	粉色火焰	fensehuoyan	3042
 pink_jacket	粉色夹克	fensejiake	4680
 pink_horns	粉色角	fensejiao	3596
 pink_choker	粉色颈链	fensejinglian	4156
 pink-tinted_eyewear	粉色镜片眼镜	fensejingpianyanjing	3789
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fensejinsepeise	10000
 pink_leggings	粉色紧身裤	fensejinshenku	2680
 pink_leotard	粉色紧身连体衣	fensejinshenliantiyi	3948
 pink_bodysuit	粉色紧身衣	fensejinshenyi	3684
@@ -4195,6 +4360,7 @@ pink_carnation	粉色康乃馨	fensekangnaixin	2272
 pink_mask	粉色口罩	fensekouzhao	2721
 pink_hakama	粉色袴	fenseku	3181
 pink_armor	粉色盔甲	fensekuijia	2882
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenselansepeise	10000
 pink_sandals	粉色凉鞋	fenseliangxie	3196
 pink_pantyhose	粉色连裤袜	fenseliankuwa	3685
 pink_hoodie	粉色连帽衫	fenselianmaoshan	3869
@@ -4208,6 +4374,7 @@ pink_neckerchief	粉色领巾	fenselingjin	4092
 pink_ascot	粉色领巾	fenselingjin	3516
 pink_scales	粉色鳞片	fenselinpian	2333
 pink_outline	粉色轮廓	fenselunkuo	3354
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenselvsepeise	10000
 pink_vest	粉色马甲	fensemajia	3697
 pink_cat	粉色猫	fensemao	2690
 pink_fur	粉色毛皮	fensemaopi	3882
@@ -4220,11 +4387,13 @@ pink_tube_top	粉色抹胸	fensemoxiong	2819
 pink_bandeau	粉色抹胸	fensemoxiong	2427
 pink_male_underwear	粉色男士内裤	fensenanshineiku	2341
 pink_panties	粉色内裤	fenseneiku	4803
+__prompt__:pink	粉色〔通用短语〕	fensepeise	10000
 pink_cape	粉色披风	fensepifeng	3598
 pink_cloak	粉色披风	fensepifeng	2706
 pink_skin	粉色皮肤	fensepifu	4158
 pink_shawl	粉色披肩	fensepijian	2852
 pink_car	粉色汽车	fenseqiche	2299
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenseqingsepeise	10000
 pink_skirt	粉色裙子	fensequnzi	10000
 pink_bonnet	粉色软帽	fenseruanmao	2485
 pink_sarong	粉色纱笼	fenseshalong	3028
@@ -4273,19 +4442,36 @@ pink_eyeshadow	粉色眼影	fenseyanying	3834
 pink_belt	粉色腰带	fenseyaodai	3818
 pink_liquid	粉色液体	fenseyeti	2528
 pink_pubic_hair	粉色阴毛	fenseyinmao	3046
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenseyinsepeise	10000
+__prompt__:pink and white color scheme	粉＋白配色〔通用短语〕	fenseyubaise	10000
+__prompt__:pink and orange color scheme	粉＋橙配色〔通用短语〕	fenseyuchengse	10000
 pink_moon	粉色月亮	fenseyueliang	2437
+__prompt__:pink and black color scheme	粉＋黑配色〔通用短语〕	fenseyuheise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenseyuhese	10000
+__prompt__:pink and red color scheme	粉＋红配色〔通用短语〕	fenseyuhongse	10000
+__prompt__:pink and yellow color scheme	粉＋黄配色〔通用短语〕	fenseyuhuangse	10000
+__prompt__:pink and gray color scheme	粉＋灰配色〔通用短语〕	fenseyuhuise	10000
+__prompt__:pink and gold color scheme	粉＋金配色〔通用短语〕	fenseyujinse	10000
 pink_tulip	粉色郁金香	fenseyujinxiang	3144
+__prompt__:pink and blue color scheme	粉＋蓝配色〔通用短语〕	fenseyulanse	10000
+__prompt__:pink and green color scheme	粉＋绿配色〔通用短语〕	fenseyulvse	10000
 pink_feathers	粉色羽毛	fenseyumao	3032
 pink_track_suit	粉色运动服	fenseyundongfu	3209
 pink_sports_bra	粉色运动内衣	fenseyundongneiyi	3141
 pink_clouds	粉色云朵	fenseyunduo	2746
+__prompt__:pink and cyan color scheme	粉＋青配色〔通用短语〕	fenseyuqingse	10000
 pink_umbrella	粉色雨伞	fenseyusan	3321
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenseyuyinse	10000
 pink_haori	粉色羽织	fenseyuzhi	2239
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fenseyuzise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenseyuzongse	10000
 pink_pillow	粉色枕头	fensezhentou	2768
 pink_visor_cap	粉色遮阳帽	fensezheyangmao	2659
 pink_nails	粉色指甲	fensezhijia	4888
 pink_claws	粉色爪子	fensezhuazi	2821
 pink_theme	粉色主题	fensezhuti	4312
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fensezisepeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fensezongsepeise	10000
 pink_lips	粉色嘴唇	fensezuichun	4696
 followers_favorite_challenge	粉丝最爱挑战	fensizuiaitiaozhan	2951
 detached_pants	分体裤	fentiku	3029
@@ -4293,6 +4479,9 @@ pink_eyes	粉瞳	fentong	5648
 sharing_food	分享食物	fenxiangshiwu	2988
 distracted	分心	fenxin	2261
 pink_eyes	粉眼	fenyan	10000
+__prompt__:pink and silver color scheme	粉＋银配色〔通用短语〕	fenyinpeise	10000
+__prompt__:pink and purple color scheme	粉＋紫配色〔通用短语〕	fenzipeise	10000
+__prompt__:pink and brown color scheme	粉＋棕配色〔通用短语〕	fenzongpeise	10000
 buddhism	佛教	fojiao	2559
 denial	否认	fouren	2207
 fatherly	父爱	fuai	2478
@@ -5191,12 +5380,17 @@ steam_from_mouth	哈气	haqi	2893
 hissing	哈气	haqi	2312
 breathing_on_hands	哈气暖手	haqinuanshou	2829
 husky	哈士奇	hashiqi	2765
+__prompt__:brown	棕色〔通用短语〕	he	10000
 riverbank	河岸	hean	2933
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	hebaipeise	10000
 synthwave	合成波	hechengbo	2601
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	hechengpeise	10000
 synthesizer	合成器	hechengqi	2523
 wa_lolita	和风洛丽塔	hefengluolita	3307
 wa_maid	和风女仆	hefengnvpu	3870
 wa_bunny	和风兔女郎	hefengtunvlang	2174
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	hefenhongpeise	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	hefenpeise	10000
 kimono	和服	hefu	10000
 kimono_partially_removed	和服半脱	hefubantuo	2631
 shirt_under_kimono	和服内衬衬衫	hefuneichenchenshan	2811
@@ -5208,12 +5402,18 @@ obi_bow	和服腰带结	hefuyaodaijie	2388
 yumi_(bow)	和弓	hegong	2989
 croupier	荷官	heguan	2407
 wagashi	和菓子	heguozi	4242
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	heheipeise	10000
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	hehongpeise	10000
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	hehuangpeise	10000
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	hehuipeise	10000
+__prompt__:black	黑色〔通用短语〕	hei	10000
 darkness	黑暗	heian	3665
 dark_orb_(madoka_magica)	黑暗宝珠	heianbaozhu	2636
 bad_food	黑暗料理	heianliaoli	3265
 dusk_ball	黑暗球	heianqiu	3012
 black_vs_white	黑白对比	heibaiduibi	3066
 kamchatka_lily	黑百合	heibaihe	2218
+__prompt__:black and white color scheme	黑＋白配色〔通用短语〕	heibaipeise	10000
 reversi	黑白棋	heibaiqi	2144
 chalkboard	黑板	heiban	4152
 board_eraser	黑板擦	heibanca	2970
@@ -5227,6 +5427,7 @@ panther_boy	黑豹兽人少年	heibaoshourenshaonian	2554
 panther_(tank)	黑豹坦克	heibaotanke	2244
 panther_tail	黑豹尾	heibaowei	3605
 black_nose	黑鼻	heibi	2502
+__prompt__:black and orange color scheme	黑＋橙配色〔通用短语〕	heichengpeise	10000
 black_shirt	黑衬衫	heichenshan	5588
 black_lips	黑唇	heichun	4030
 black_camisole	黑吊带背心	heidiaodaibeixin	4030
@@ -5235,18 +5436,27 @@ black_cloak	黑斗篷	heidoupeng	4184
 black_ears	黑耳朵	heierduo	2692
 black_hair	黑发	heifa	10000
 black_roots	黑发根	heifagen	2370
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heifenhongpeise	10000
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heifenpeise	10000
 black_dog	黑狗	heigou	2520
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heihepeise	10000
+__prompt__:black and red color scheme	黑＋红配色〔通用短语〕	heihongpeise	10000
 dark_persona	黑化	heihua	4247
 black_flower	黑花	heihua	4186
+__prompt__:black and yellow color scheme	黑＋黄配色〔通用短语〕	heihuangpeise	10000
 black_butterfly	黑蝴蝶	heihudie	2981
+__prompt__:black and gray color scheme	黑＋灰配色〔通用短语〕	heihuipeise	10000
 pop-up_pirate	黑胡子危机一发	heihuziweijiyifa	2196
 black_horns	黑角	heijiao	4854
 vinyl_record	黑胶唱片	heijiaochangpian	3226
+__prompt__:black and gold color scheme	黑＋金配色〔通用短语〕	heijinpeise	10000
 black_pants	黑裤	heiku	5423
 black-framed_eyewear	黑框眼镜	heikuangyanjing	4776
 ganguro	黑辣妹	heilamei	3182
+__prompt__:black and blue color scheme	黑＋蓝配色〔通用短语〕	heilanpeise	10000
 black_scales	黑鳞	heilin	3380
 kurokote	黑笼手	heilongshou	3895
+__prompt__:black and green color scheme	黑＋绿配色〔通用短语〕	heilvpeise	10000
 black_horse	黑马	heima	2506
 monarch_butterfly	黑脉金斑蝶	heimaijinbandie	2339
 black_hat	黑帽	heimao	5419
@@ -5255,9 +5465,13 @@ black_rose	黑玫瑰	heimeigui	3778
 black_veil	黑面纱	heimiansha	4048
 black_bird	黑鸟	heiniao	3351
 black_robe	黑袍	heipao	4179
+__prompt__:black	黑色〔通用短语〕	heipeise	10000
+__prompt__:black and cyan color scheme	黑＋青配色〔通用短语〕	heiqingpeise	10000
 black_sun	黑日	heiri	2691
 black_umbrella	黑伞	heisan	3506
+__prompt__:black	黑色〔通用短语〕	heise	10000
 black_ascot	黑色阿斯科特领巾	heiseasiketelingjin	4115
+__prompt__:black and white color scheme	黑＋白配色〔通用短语〕	heisebaisepeise	10000
 black_bag	黑色包	heisebao	4226
 black_gem	黑色宝石	heisebaoshi	2825
 black_suspenders	黑色背带	heisebeidai	2516
@@ -5271,6 +5485,7 @@ black_bikini	黑色比基尼	heisebijini	5231
 black_armband	黑色臂章	heisebizhang	3635
 black_buruma	黑色布鲁马	heisebuluma	3626
 black_changpao	黑色长袍	heisechangpao	2182
+__prompt__:black and orange color scheme	黑＋橙配色〔通用短语〕	heisechengsepeise	10000
 black_chemise	黑色衬裙	heisechenqun	2366
 black_shirt	黑色衬衫	heisechenshan	10000
 black_wings	黑色翅膀	heisechibang	4861
@@ -5290,21 +5505,28 @@ black_shorts	黑色短裤	heiseduanku	5308
 black_hairband	黑色发箍	heisefagu	5199
 monolith_(object)	黑色方碑	heisefangbei	2194
 black_scrunchie	黑色发圈	heisefaquan	3845
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heisefenhongsepeise	10000
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heisefensepeise	10000
 black_halo	黑色光环	heiseguanghuan	4303
 black_trim	黑色滚边	heisegunbian	3472
 black_thighhighs	黑色过膝袜	heiseguoxiwa	5716
 black_hanfu	黑色汉服	heisehanfu	3829
 black_hanbok	黑色韩服	heisehanfu	2415
 black_kimono	黑色和服	heisehefu	4518
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heisehesepeise	10000
+__prompt__:black and red color scheme	黑＋红配色〔通用短语〕	heisehongsepeise	10000
 black_petals	黑色花瓣	heisehuaban	2144
 black_crown	黑色皇冠	heisehuangguan	3040
+__prompt__:black and yellow color scheme	黑＋黄配色〔通用短语〕	heisehuangsepeise	10000
 black_bow	黑色蝴蝶结	heisehudiejie	5372
+__prompt__:black and gray color scheme	黑＋灰配色〔通用短语〕	heisehuisepeise	10000
 black_wrist_cuffs	黑色护腕	heisehuwan	3627
 black_gauntlets	黑色护腕	heisehuwan	2736
 black_jacket	黑色夹克	heisejiake	5608
 black_order_uniform	黑色教团制服	heisejiaotuanzhifu	2881
 black_hiphighs	黑色及胯袜	heisejikuawa	3169
 black_choker	黑色颈圈	heisejingquan	5452
+__prompt__:black and gold color scheme	黑＋金配色〔通用短语〕	heisejinsepeise	10000
 black_leotard	黑色紧身连体衣	heisejinshenliantiyi	5067
 black_unitard	黑色紧身连体衣	heisejinshenliantiyi	3208
 black_bodice	黑色紧身胸衣	heisejinshenxiongyi	2279
@@ -5313,6 +5535,7 @@ black_cardigan	黑色开衫	heisekaishan	3953
 black_mask	黑色口罩	heisekouzhao	4206
 black_hakama	黑色袴	heiseku	3784
 black_fundoshi	黑色褌	heisekun	2499
+__prompt__:black and blue color scheme	黑＋蓝配色〔通用短语〕	heiselansepeise	10000
 black_tears	黑色泪水	heiseleishui	2612
 black_lace_trim	黑色蕾丝边	heiseleisibian	2228
 black_sandals	黑色凉鞋	heiseliangxie	4190
@@ -5329,6 +5552,7 @@ black_bowtie	黑色领结	heiselingjie	4857
 black_neckerchief	黑色领巾	heiselingjin	4284
 black_claws	黑色利爪	heiselizhua	3045
 black_outline	黑色轮廓	heiselunkuo	3433
+__prompt__:black and green color scheme	黑＋绿配色〔通用短语〕	heiselvsepeise	10000
 black_vest	黑色马甲	heisemajia	4896
 black_fur	黑色毛皮	heisemaopi	4207
 black_sweater	黑色毛衣	heisemaoyi	4577
@@ -5342,11 +5566,13 @@ black_panties	黑色内裤	heiseneiku	5272
 black_undershirt	黑色内衣	heiseneiyi	2666
 kuromorimine_military_uniform	黑森峰军服	heisenfengjunfu	3599
 kuromorimine_school_uniform	黑森峰女子学园校服	heisenfengnvzixueyuanxiaofu	3371
+__prompt__:black	黑色〔通用短语〕	heisepeise	10000
 black_cape	黑色披风	heisepifeng	4616
 black_shawl	黑色披肩	heisepijian	3020
 black_chaps	黑色皮套裤	heisepitaoku	2202
 black_wetsuit	黑色潜水服	heiseqianshuifu	2580
 black_car	黑色汽车	heiseqiche	2708
+__prompt__:black and cyan color scheme	黑＋青配色〔通用短语〕	heiseqingsepeise	10000
 order_of_the_black_knights_uniform	黑色骑士团制服	heiseqishituanzhifu	2331
 black_skirt	黑色裙子	heisequnzi	10000
 black_bonnet	黑色软帽	heiseruanmao	3265
@@ -5396,16 +5622,34 @@ black_eyeshadow	黑色眼影	heiseyanying	3490
 black_belt	黑色腰带	heiseyaodai	5037
 black_liquid	黑色液体	heiseyeti	2995
 black_pubic_hair	黑色阴毛	heiseyinmao	3775
+__prompt__:black and silver color scheme	黑＋银配色〔通用短语〕	heiseyinsepeise	10000
 black_swim_trunks	黑色泳裤	heiseyongku	2291
+__prompt__:black and white color scheme	黑＋白配色〔通用短语〕	heiseyubaise	10000
+__prompt__:black and orange color scheme	黑＋橙配色〔通用短语〕	heiseyuchengse	10000
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heiseyufenhongse	10000
+__prompt__:black and pink color scheme	黑＋粉配色〔通用短语〕	heiseyufense	10000
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heiseyuhese	10000
+__prompt__:black and red color scheme	黑＋红配色〔通用短语〕	heiseyuhongse	10000
+__prompt__:black and yellow color scheme	黑＋黄配色〔通用短语〕	heiseyuhuangse	10000
+__prompt__:black and gray color scheme	黑＋灰配色〔通用短语〕	heiseyuhuise	10000
+__prompt__:black and gold color scheme	黑＋金配色〔通用短语〕	heiseyujinse	10000
+__prompt__:black and blue color scheme	黑＋蓝配色〔通用短语〕	heiseyulanse	10000
+__prompt__:black and green color scheme	黑＋绿配色〔通用短语〕	heiseyulvse	10000
 black_track_suit	黑色运动服	heiseyundongfu	2595
 black_sports_bra	黑色运动内衣	heiseyundongneiyi	4259
+__prompt__:black and cyan color scheme	黑＋青配色〔通用短语〕	heiseyuqingse	10000
+__prompt__:black and silver color scheme	黑＋银配色〔通用短语〕	heiseyuyinse	10000
 black_haori	黑色羽织	heiseyuzhi	3141
+__prompt__:black and purple color scheme	黑＋紫配色〔通用短语〕	heiseyuzise	10000
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heiseyuzongse	10000
 black_assault_visor	黑色战术护目镜	heisezhanshuhumujing	2472
 black_tabard	黑色罩袍	heisezhaopao	2670
 black_overskirt	黑色罩裙	heisezhaoqun	3139
 black_chastity_cage	黑色贞操笼	heisezhencaolong	2182
 black_nails	黑色指甲	heisezhijia	5101
 black_theme	黑色主题	heisezhuti	3379
+__prompt__:black and purple color scheme	黑＋紫配色〔通用短语〕	heisezisepeise	10000
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heisezongsepeise	10000
 black_snake	黑蛇	heishe	2473
 black_rope	黑绳	heisheng	2400
 black_tongue	黑舌头	heishetou	2641
@@ -5431,16 +5675,22 @@ black_fire	黑炎	heiyan	2626
 black_smoke	黑烟	heiyan	2306
 black_sclera	黑眼白	heiyanbai	4590
 bags_under_eyes	黑眼圈	heiyanquan	4654
+__prompt__:black and silver color scheme	黑＋银配色〔通用短语〕	heiyinpeise	10000
 black_feathers	黑羽毛	heiyumao	3859
+__prompt__:black and purple color scheme	黑＋紫配色〔通用短语〕	heizipeise	10000
+__prompt__:black and brown color scheme	黑＋棕配色〔通用短语〕	heizongpeise	10000
 compilation	合集	heji	2153
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	hejinpeise	10000
 dutch_braided_ponytail	荷兰辫马尾	helanbianmayi	2341
 dutch_flag	荷兰国旗	helanguoqi	2171
 dutch_angle	荷兰角	helanjiao	5221
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	helanpeise	10000
 beaver	河狸	heli	2218
 crane_stance	鹤立式	helishi	2168
 river	河流	heliu	10000
 beaver_tail	河狸尾巴	heliweiba	2486
 eye_of_horus	荷鲁斯之眼	helusizhiyan	3291
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	helvpeise	10000
 hippopotamus	河马	hema	2637
 hippopotamus_ears	河马耳	hemaer	2779
 hippopotamus_girl	河马娘	hemaniang	2766
@@ -5458,15 +5708,47 @@ lined_paper	横线纸	hengxianzhi	2578
 sukajan	横须贺夹克	hengxuhejiake	3368
 yokosuka_girls_marine_high_school_swimsuit	横须贺女子海洋高中泳装	hengxuhenvzihaiyanggaozhongyongzhuang	2162
 yokosuka_girls_marine_high_school_uniform	横须贺女子海洋学校制服	hengxuhenvzihaiyangxuexiaozhifu	2830
+__prompt__:brown	棕色〔通用短语〕	hepeise	10000
 peace_symbol	和平标志	hepingbiaozhi	3222
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	heqingpeise	10000
 hufflepuff	赫奇帕奇	heqipaqi	2496
+__prompt__:brown	棕色〔通用短语〕	hese	10000
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	hesebaisepeise	10000
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	hesechengsepeise	10000
 brown_loincloth	褐色兜裆布	hesedoudangbu	2536
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	hesefenhongsepeise	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	hesefensepeise	10000
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	heseheisepeise	10000
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	hesehongsepeise	10000
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	hesehuangsepeise	10000
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	hesehuisepeise	10000
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	hesejinsepeise	10000
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	heselansepeise	10000
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	heselvsepeise	10000
 brown_rose	褐色玫瑰	hesemeigui	2661
 brown_mask	褐色面具	hesemianju	2576
+__prompt__:brown	棕色〔通用短语〕	hesepeise	10000
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	heseqingsepeise	10000
 brown_sky	褐色天空	hesetiankong	2659
 brown_headscarf	褐色头巾	hesetoujin	2319
 brown_sleeves	褐色袖子	hesexiuzi	3505
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	heseyinsepeise	10000
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	heseyubaise	10000
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	heseyuchengse	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	heseyufenhongse	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	heseyufense	10000
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	heseyuheise	10000
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	heseyuhongse	10000
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	heseyuhuangse	10000
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	heseyuhuise	10000
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	heseyujinse	10000
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	heseyulanse	10000
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	heseyulvse	10000
 brown_feathers	褐色羽毛	heseyumao	3151
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	heseyuqingse	10000
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	heseyuyinse	10000
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	heseyuzise	10000
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	hesezisepeise	10000
 palms_together	合十	heshi	3647
 washitsu	和室	heshi	2816
 zaisu	和式靠背椅	heshikaobeiyi	2205
@@ -5552,14 +5834,18 @@ frilled_umbrella	荷叶边洋伞	heyebianyangsan	3226
 frilled_innertube	荷叶边游泳圈	heyebianyouyongquan	2485
 frilled_pillow	荷叶边枕头	heyebianzhentou	3807
 group_profile	合影侧写	heyingcexie	2341
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	heyinpeise	10000
 group_picture	合照	hezhao	3715
 box	盒子	hezi	4905
 hezi	诃子	hezi	2241
 nuka-cola	核子可乐	hezikele	2159
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	hezipeise	10000
 cooperative_pussyjob	合作素股	hezuosugu	2570
+__prompt__:red	红色〔通用短语〕	hong	10000
 famicom	红白机	hongbaiji	2675
 famicom_controller	红白机手柄	hongbaijishoubing	2299
 famicom_gamepad	红白机手柄	hongbaijishoubing	2226
+__prompt__:red and white color scheme	红＋白配色〔通用短语〕	hongbaipeise	10000
 kouhaku_nawa	红白绳	hongbaisheng	3404
 hongbao	红包	hongbao	2870
 humboldt_penguin	洪堡企鹅	hongbaoqie	2207
@@ -5569,6 +5855,7 @@ red_trim	红边	hongbian	4008
 red_nose	红鼻子	hongbizi	3328
 iridescent_hair	虹彩发色	hongcaifase	2568
 black_tea	红茶	hongcha	2781
+__prompt__:red and orange color scheme	红＋橙配色〔通用短语〕	hongchengpeise	10000
 red_shirt	红衬衫	hongchenshan	5058
 red_lips	红唇	hongchun	4620
 grand_scale	宏大尺度	hongdachidu	3071
@@ -5580,18 +5867,27 @@ red_cloak	红斗篷	hongdoupeng	3972
 red_bean_paste	红豆沙	hongdousha	2443
 shiruko_(food)	红豆汤	hongdoutang	2630
 red_hair	红发	hongfa	10000
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongfenhongpeise	10000
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongfenpeise	10000
 honggaitou	红盖头	honggaitou	2196
 red_sclera	红巩膜	honggongmo	4026
 red_light	红光	hongguang	2975
+__prompt__:red and black color scheme	红＋黑配色〔通用短语〕	hongheipeise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	honghepeise	10000
 red_flower	红花	honghua	5064
+__prompt__:red and yellow color scheme	红＋黄配色〔通用短语〕	honghuangpeise	10000
 red_butterfly	红蝴蝶	honghudie	3356
+__prompt__:red and gray color scheme	红＋灰配色〔通用短语〕	honghuipeise	10000
 red_fire	红火	honghuo	2507
 red_feet	红脚	hongjiao	2861
+__prompt__:red and gold color scheme	红＋金配色〔通用短语〕	hongjinpeise	10000
 roasting	烘烤	hongkao	2458
 red_border	红框	hongkuang	3539
 red-framed_eyewear	红框眼镜	hongkuangyanjing	4656
+__prompt__:red and blue color scheme	红＋蓝配色〔通用短语〕	honglanpeise	10000
 pioneer_neckerchief	红领巾	honglingjin	2691
 traffic_light	红绿灯	honglvdeng	3596
+__prompt__:red and green color scheme	红＋绿配色〔通用短语〕	honglvpeise	10000
 red_hat	红帽子	hongmaozi	4960
 red_rose	红玫瑰	hongmeigui	4668
 mismatched_irises	虹膜大小不一	hongmodaxiaobuyi	2368
@@ -5600,16 +5896,20 @@ red_prison_magic_school_uniform	红魔族魔法学校校服	hongmozumofaxuexiaox
 red_bird	红鸟	hongniao	2213
 red_bull	红牛	hongniu	2922
 red_robe	红袍	hongpao	3468
+__prompt__:red	红色〔通用短语〕	hongpeise	10000
 red_skin	红皮肤	hongpifu	4305
 red_wine	红葡萄酒	hongputaojiu	3337
 red_flag	红旗	hongqi	2733
+__prompt__:red and cyan color scheme	红＋青配色〔通用短语〕	hongqingpeise	10000
 red_ball	红球	hongqiu	2210
 red_circle	红圈	hongquan	2390
 red_skirt	红裙	hongqun	5234
 red_sun	红日	hongri	2943
 red_umbrella	红伞	hongsan	3794
+__prompt__:red	红色〔通用短语〕	hongse	10000
 red_button	红色按钮	hongseanniu	2177
 red_ascot	红色阿斯科特领巾	hongseasiketelingjin	4438
+__prompt__:red and white color scheme	红＋白配色〔通用短语〕	hongsebaisepeise	10000
 red_bag	红色包	hongsebao	3905
 red_gem	红色宝石	hongsebaoshi	4293
 red_suspenders	红色背带	hongsebeidai	2608
@@ -5620,6 +5920,7 @@ red_bandage	红色绷带	hongsebengdai	2842
 red_bikini	红色比基尼	hongsebijini	4685
 red_armband	红色臂章	hongsebizhang	4120
 red_pants	红色长裤	hongsechangku	4400
+__prompt__:red and orange color scheme	红＋橙配色〔通用短语〕	hongsechengsepeise	10000
 red_shirt	红色衬衫	hongsechenshan	10000
 red_wings	红色翅膀	hongsechibang	4107
 red_sheet	红色床单	hongsechuangdan	2415
@@ -5637,15 +5938,21 @@ red_shorts	红色短裤	hongseduanku	4371
 red_happi	红色法被	hongsefabei	2236
 red_hairband	红色发带	hongsefadai	4626
 red_scrunchie	红色发圈	hongsefaquan	3952
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongsefenhongsepeise	10000
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongsefensepeise	10000
 red_hiphighs	红色高筒袜	hongsegaotongwa	2529
 red_halo	红色光环	hongseguanghuan	4616
 red_lightsaber	红色光剑	hongseguangjian	2732
 red_thighhighs	红色过膝袜	hongseguoxiwa	4461
 red_hanfu	红色汉服	hongsehanfu	3344
 red_kimono	红色和服	hongsehefu	4452
+__prompt__:red and black color scheme	红＋黑配色〔通用短语〕	hongseheisepeise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	hongsehesepeise	10000
 red_petals	红色花瓣	hongsehuaban	3639
 red_crown	红色皇冠	hongsehuangguan	3180
+__prompt__:red and yellow color scheme	红＋黄配色〔通用短语〕	hongsehuangsepeise	10000
 red_bow	红色蝴蝶结	hongsehudiejie	5537
+__prompt__:red and gray color scheme	红＋灰配色〔通用短语〕	hongsehuisepeise	10000
 red_goggles	红色护目镜	hongsehumujing	2699
 red_wrist_cuffs	红色护腕	hongsehuwan	3375
 red_facial_hair	红色胡须	hongsehuxu	2147
@@ -5653,6 +5960,7 @@ red_jacket	红色夹克	hongsejiake	4993
 red_horns	红色角	hongsejiao	4450
 red-tinted_eyewear	红色镜片眼镜	hongsejingpianyanjing	3924
 red_choker	红色颈圈	hongsejingquan	4418
+__prompt__:red and gold color scheme	红＋金配色〔通用短语〕	hongsejinsepeise	10000
 red_leggings	红色紧身裤	hongsejinshenku	2583
 red_leotard	红色紧身连体衣	hongsejinshenliantiyi	4363
 red_bodysuit	红色紧身衣	hongsejinshenyi	4198
@@ -5660,6 +5968,7 @@ red_armor	红色铠甲	hongsekaijia	3899
 red_cardigan	红色开衫	hongsekaishan	3487
 red_carnation	红色康乃馨	hongsekangnaixin	2448
 red_fundoshi	红色裈	hongsekun	2614
+__prompt__:red and blue color scheme	红＋蓝配色〔通用短语〕	hongselansepeise	10000
 red_sandals	红色凉鞋	hongseliangxie	3523
 red_pantyhose	红色连裤袜	hongseliankuwa	3947
 red_hoodie	红色连帽衫	hongselianmaoshan	3862
@@ -5672,6 +5981,7 @@ red_bowtie	红色领结	hongselingjie	5080
 red_neckerchief	红色领巾	hongselingjin	4902
 red_scales	红色鳞片	hongselinpian	3177
 red_claws	红色利爪	hongselizhua	2777
+__prompt__:red and green color scheme	红＋绿配色〔通用短语〕	hongselvsepeise	10000
 red_vest	红色马甲	hongsemajia	4580
 red_fur	红色毛皮	hongsemaopi	3797
 red_sweater	红色毛衣	hongsemaoyi	4223
@@ -5684,12 +5994,14 @@ red_male_underwear	红色男式内裤	hongsenanshineiku	3117
 red_male_swimwear	红色男性泳装	hongsenanxingyongzhuang	2846
 red_panties	红色内裤	hongseneiku	4303
 red_buttons	红色纽扣	hongseniukou	2928
+__prompt__:red	红色〔通用短语〕	hongsepeise	10000
 red_cape	红色披风	hongsepifeng	4669
 red_leather	红色皮革	hongsepige	2223
 red_shawl	红色披肩	hongsepijian	3199
 red_leash	红色牵引绳	hongseqianyinsheng	2541
 red_aura	红色气场	hongseqichang	2564
 red_car	红色汽车	hongseqiche	3013
+__prompt__:red and cyan color scheme	红＋青配色〔通用短语〕	hongseqingsepeise	10000
 red_skirt	红色裙子	hongsequnzi	10000
 red_bonnet	红色软帽	hongseruanmao	2992
 red_sarong	红色纱笼	hongseshalong	2937
@@ -5727,14 +6039,32 @@ red_eyeliner	红色眼线	hongseyanxian	4330
 red_eyeshadow	红色眼影	hongseyanying	4346
 red_belt	红色腰带	hongseyaodai	4093
 red_pubic_hair	红色阴毛	hongseyinmao	3099
+__prompt__:red and silver color scheme	红＋银配色〔通用短语〕	hongseyinsepeise	10000
+__prompt__:red and white color scheme	红＋白配色〔通用短语〕	hongseyubaise	10000
+__prompt__:red and orange color scheme	红＋橙配色〔通用短语〕	hongseyuchengse	10000
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongseyufenhongse	10000
+__prompt__:red and pink color scheme	红＋粉配色〔通用短语〕	hongseyufense	10000
+__prompt__:red and black color scheme	红＋黑配色〔通用短语〕	hongseyuheise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	hongseyuhese	10000
+__prompt__:red and yellow color scheme	红＋黄配色〔通用短语〕	hongseyuhuangse	10000
+__prompt__:red and gray color scheme	红＋灰配色〔通用短语〕	hongseyuhuise	10000
+__prompt__:red and gold color scheme	红＋金配色〔通用短语〕	hongseyujinse	10000
+__prompt__:red and blue color scheme	红＋蓝配色〔通用短语〕	hongseyulanse	10000
+__prompt__:red and green color scheme	红＋绿配色〔通用短语〕	hongseyulvse	10000
 red_track_suit	红色运动服	hongseyundongfu	3294
 red_sports_bra	红色运动内衣	hongseyundongneiyi	3284
+__prompt__:red and cyan color scheme	红＋青配色〔通用短语〕	hongseyuqingse	10000
+__prompt__:red and silver color scheme	红＋银配色〔通用短语〕	hongseyuyinse	10000
 red_haori	红色羽织	hongseyuzhi	3226
+__prompt__:red and purple color scheme	红＋紫配色〔通用短语〕	hongseyuzise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	hongseyuzongse	10000
 red_tabard	红色罩衫	hongsezhaoshan	3406
 red_pillow	红色枕头	hongsezhentou	2213
 red_sweater_vest	红色针织背心	hongsezhenzhibeixin	3045
 red_visor_cap	红色遮阳帽	hongsezheyangmao	3033
 red_theme	红色主题	hongsezhuti	4183
+__prompt__:red and purple color scheme	红＋紫配色〔通用短语〕	hongsezisepeise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	hongsezongsepeise	10000
 red_snake	红蛇	hongshe	2577
 red_rope	红绳	hongsheng	3941
 red_cross	红十字	hongshizi	3578
@@ -5760,6 +6090,7 @@ red_sleeves	红袖子	hongxiuzi	4137
 red_eyes	红眼	hongyan	10000
 red-eye_effect	红眼效应	hongyanxiaoying	2310
 red_leaf	红叶	hongye	2331
+__prompt__:red and silver color scheme	红＋银配色〔通用短语〕	hongyinpeise	10000
 stingray	魟鱼	hongyu	2685
 red_moon	红月	hongyue	3838
 red_tulip	红郁金香	hongyujinxiang	2990
@@ -5768,6 +6099,8 @@ red_clouds	红云	hongyun	2613
 bomber	轰炸机	hongzhaji	2803
 anthurium	红掌	hongzhang	2279
 red_nails	红指甲	hongzhijia	4966
+__prompt__:red and purple color scheme	红＋紫配色〔通用短语〕	hongzipeise	10000
+__prompt__:red and brown color scheme	红＋棕配色〔通用短语〕	hongzongpeise	10000
 back_bow	后背蝴蝶结	houbeihudiejie	4664
 sex_from_behind	后背位	houbeiwei	5044
 in_trunk	后备箱内	houbeixiangnei	2162
@@ -5943,6 +6276,9 @@ iridescent_clothes	幻彩服饰	huancaifushi	3147
 buffering	缓冲中	huanchongzhong	2333
 alternate_footwear	换穿鞋履	huanchuanxielv	2751
 badger_ears	獾耳朵	huanerduo	2293
+__prompt__:yellow	黄色〔通用短语〕	huang	10000
+__prompt__:yellow and white color scheme	黄＋白配色〔通用短语〕	huangbaipeise	10000
+__prompt__:yellow and orange color scheme	黄＋橙配色〔通用短语〕	huangchengpeise	10000
 yellow_lips	黄唇	huangchun	2921
 oarfish	皇带鱼	huangdaiyu	2438
 zodiac	黄道十二宫	huangdaoshiergong	3186
@@ -5952,6 +6288,8 @@ abandoned	荒废	huangfei	3193
 dilapidated	荒废	huangfei	2702
 wasp	黄蜂	huangfeng	2451
 wasp_girl	黄蜂娘	huangfengniang	2147
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangfenhongpeise	10000
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangfenpeise	10000
 yellow_dog	黄狗	huanggou	2223
 cucumber	黄瓜	huanggua	3470
 crown	皇冠	huangguan	5011
@@ -5965,13 +6303,18 @@ crown_ornament	皇冠饰品	huangguanshipin	2310
 crown_necklace	皇冠项链	huangguanxianglian	2383
 crown_print	皇冠印花	huangguanyinhua	2664
 cucumber_slice	黄瓜片	huangguapian	2540
+__prompt__:yellow and black color scheme	黄＋黑配色〔通用短语〕	huangheipeise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huanghepeise	10000
+__prompt__:yellow and red color scheme	黄＋红配色〔通用短语〕	huanghongpeise	10000
 dazed	恍惚	huanghu	2663
 yellow_butterfly	黄蝴蝶	huanghudie	3450
+__prompt__:yellow and gray color scheme	黄＋灰配色〔通用短语〕	huanghuipeise	10000
 dusk	黄昏	huanghun	3797
 gold_diadem	黄金冠冕	huangjinguanmian	2207
 gold_gauntlets	黄金护手	huangjinhushou	2277
 gold_bracer	黄金护腕	huangjinhuwan	3153
 golden_spiral	黄金螺旋	huangjinluoxuan	2492
+__prompt__:yellow and gold color scheme	黄＋金配色〔通用短语〕	huangjinpeise	10000
 gold_saint	黄金圣斗士	huangjinshengdoushi	2713
 gold_cloth	黄金圣衣	huangjinshengyi	2288
 golden_hour	黄金时刻	huangjinshike	2599
@@ -5981,12 +6324,18 @@ golden_shower	黄金浴	huangjinyu	2678
 gold_chastity_cage	黄金贞操带	huangjinzhencaodai	2147
 golden_week	黄金周	huangjinzhou	3417
 yellow-framed_eyewear	黄框眼镜	huangkuangyanjing	3870
+__prompt__:yellow and blue color scheme	黄＋蓝配色〔通用短语〕	huanglanpeise	10000
 yellow_scales	黄鳞	huanglin	2542
 flustered	慌乱	huangluan	3888
+__prompt__:yellow and green color scheme	黄＋绿配色〔通用短语〕	huanglvpeise	10000
 yellow_cat	黄猫	huangmao	2718
 yellow_rose	黄玫瑰	huangmeigui	3946
+__prompt__:yellow	黄色〔通用短语〕	huangpeise	10000
+__prompt__:yellow and cyan color scheme	黄＋青配色〔通用短语〕	huangqingpeise	10000
 yellow_umbrella	黄伞	huangsan	3032
+__prompt__:yellow	黄色〔通用短语〕	huangse	10000
 yellow_ascot	黄色阿斯科特领巾	huangseasiketelingjin	4633
+__prompt__:yellow and white color scheme	黄＋白配色〔通用短语〕	huangsebaisepeise	10000
 yellow_bag	黄色包	huangsebao	3746
 yellow_gem	黄色宝石	huangsebaoshi	3431
 yellow_overalls	黄色背带裤	huangsebeidaiku	2969
@@ -5997,6 +6346,7 @@ yellow_border	黄色边框	huangsebiankuang	3521
 yellow_bikini	黄色比基尼	huangsebijini	4353
 yellow_gauntlets	黄色臂铠	huangsebikai	2545
 yellow_robe	黄色长袍	huangsechangpao	2815
+__prompt__:yellow and orange color scheme	黄＋橙配色〔通用短语〕	huangsechengsepeise	10000
 yellow_shirt	黄色衬衫	huangsechenshan	10000
 yellow_wings	黄色翅膀	huangsechibang	3632
 yellow_slingshot_swimsuit	黄色弹弓泳衣	huangsedangongyongyi	2976
@@ -6013,26 +6363,34 @@ yellow_shrug	黄色短外罩	huangseduanwaizhao	2572
 yellow_happi	黄色法被	huangsefabei	2556
 yellow_hairband	黄色发箍	huangsefagu	4238
 yellow_scrunchie	黄色发圈	huangsefaquan	3749
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangsefenhongsepeise	10000
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangsefensepeise	10000
 yellow_sclera	黄色巩膜	huangsegongmo	4278
 yellow_halo	黄色光环	huangseguanghuan	4619
 yellow_thighhighs	黄色过膝袜	huangseguoxiwa	3730
 yellow_hanfu	黄色汉服	huangsehanfu	2562
 yellow_kimono	黄色和服	huangsehefu	3912
+__prompt__:yellow and black color scheme	黄＋黑配色〔通用短语〕	huangseheisepeise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huangsehesepeise	10000
+__prompt__:yellow and red color scheme	黄＋红配色〔通用短语〕	huangsehongsepeise	10000
 yellow_petals	黄色花瓣	huangsehuaban	3179
 yellow_flower	黄色花朵	huangsehuaduo	4752
 yellow_crown	黄色皇冠	huangsehuangguan	2619
 yellow_bow	黄色蝴蝶结	huangsehudiejie	4879
+__prompt__:yellow and gray color scheme	黄＋灰配色〔通用短语〕	huangsehuisepeise	10000
 yellow_wrist_cuffs	黄色护腕	huangsehuwan	2531
 yellow_jacket	黄色夹克	huangsejiake	4623
 yellow_horns	黄色角	huangsejiao	3903
 yellow-tinted_eyewear	黄色镜片眼镜	huangsejingpianyanjing	3576
 yellow_choker	黄色颈圈	huangsejingquan	3642
+__prompt__:yellow and gold color scheme	黄＋金配色〔通用短语〕	huangsejinsepeise	10000
 yellow_leotard	黄色紧身连体衣	huangsejinshenliantiyi	3469
 yellow_bodysuit	黄色紧身衣	huangsejinshenyi	3538
 yellow_cardigan	黄色开衫	huangsekaishan	4060
 yellow_hakama	黄色袴	huangseku	2196
 yellow_armor	黄色盔甲	huangsekuijia	3131
 yellow_pants	黄色裤子	huangsekuzi	3691
+__prompt__:yellow and blue color scheme	黄＋蓝配色〔通用短语〕	huangselansepeise	10000
 yellow_sandals	黄色凉鞋	huangseliangxie	3138
 yellow_pantyhose	黄色连裤袜	huangseliankuwa	3324
 yellow_hoodie	黄色连帽衫	huangselianmaoshan	3775
@@ -6043,6 +6401,7 @@ yellow_mittens	黄色连指手套	huangselianzhishoutao	2458
 yellow_necktie	黄色领带	huangselingdai	4388
 yellow_bowtie	黄色领结	huangselingjie	4291
 yellow_neckerchief	黄色领巾	huangselingjin	4500
+__prompt__:yellow and green color scheme	黄＋绿配色〔通用短语〕	huangselvsepeise	10000
 yellow_fur	黄色毛皮	huangsemaopi	4162
 yellow_sweater	黄色毛衣	huangsemaoyi	4194
 yellow_sweater_vest	黄色毛衣背心	huangsemaoyibeixin	3751
@@ -6055,10 +6414,12 @@ yellow_tube_top	黄色抹胸	huangsemoxiong	2331
 yellow_male_underwear	黄色男式内裤	huangsenanshineiku	2578
 yellow_male_swimwear	黄色男式泳装	huangsenanshiyongzhuang	2384
 yellow_panties	黄色内裤	huangseneiku	3889
+__prompt__:yellow	黄色〔通用短语〕	huangsepeise	10000
 yellow_cape	黄色披风	huangsepifeng	3644
 yellow_skin	黄色皮肤	huangsepifu	3932
 yellow_shawl	黄色披肩	huangsepijian	2866
 yellow_car	黄色汽车	huangseqiche	2715
+__prompt__:yellow and cyan color scheme	黄＋青配色〔通用短语〕	huangseqingsepeise	10000
 yellow_skirt	黄色裙子	huangsequnzi	10000
 yellow_pansy	黄色三色堇	huangsesansejin	2179
 yellow_sarong	黄色纱笼	huangseshalong	2690
@@ -6094,15 +6455,33 @@ yellow_eyeliner	黄色眼线	huangseyanxian	2153
 yellow_eyeshadow	黄色眼影	huangseyanying	2834
 yellow_belt	黄色腰带	huangseyaodai	3857
 yellow_collar	黄色衣领	huangseyiling	2926
+__prompt__:yellow and silver color scheme	黄＋银配色〔通用短语〕	huangseyinsepeise	10000
+__prompt__:yellow and white color scheme	黄＋白配色〔通用短语〕	huangseyubaise	10000
+__prompt__:yellow and orange color scheme	黄＋橙配色〔通用短语〕	huangseyuchengse	10000
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangseyufenhongse	10000
+__prompt__:yellow and pink color scheme	黄＋粉配色〔通用短语〕	huangseyufense	10000
+__prompt__:yellow and black color scheme	黄＋黑配色〔通用短语〕	huangseyuheise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huangseyuhese	10000
+__prompt__:yellow and red color scheme	黄＋红配色〔通用短语〕	huangseyuhongse	10000
+__prompt__:yellow and gray color scheme	黄＋灰配色〔通用短语〕	huangseyuhuise	10000
+__prompt__:yellow and gold color scheme	黄＋金配色〔通用短语〕	huangseyujinse	10000
 yellow_tulip	黄色郁金香	huangseyujinxiang	3017
+__prompt__:yellow and blue color scheme	黄＋蓝配色〔通用短语〕	huangseyulanse	10000
+__prompt__:yellow and green color scheme	黄＋绿配色〔通用短语〕	huangseyulvse	10000
 yellow_feathers	黄色羽毛	huangseyumao	3639
 yellow_sports_bra	黄色运动内衣	huangseyundongneiyi	3103
 yellow_clouds	黄色云朵	huangseyunduo	2147
+__prompt__:yellow and cyan color scheme	黄＋青配色〔通用短语〕	huangseyuqingse	10000
 yellow_raincoat	黄色雨衣	huangseyuyi	3365
+__prompt__:yellow and silver color scheme	黄＋银配色〔通用短语〕	huangseyuyinse	10000
 yellow_haori	黄色羽织	huangseyuzhi	2564
+__prompt__:yellow and purple color scheme	黄＋紫配色〔通用短语〕	huangseyuzise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huangseyuzongse	10000
 yellow_visor_cap	黄色遮阳帽	huangsezheyangmao	3191
 yellow_nails	黄色指甲	huangsezhijia	4204
 yellow_theme	黄色主题	huangsezhuti	3916
+__prompt__:yellow and purple color scheme	黄＋紫配色〔通用短语〕	huangsezisepeise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huangsezongsepeise	10000
 yellow_tongue	黄舌头	huangshetou	2829
 royal_robe	皇室长袍	huangshichangpao	2905
 daffodil	黄水仙	huangshuixian	2890
@@ -6117,10 +6496,13 @@ yellow_blood	黄血	huangxue	2886
 yellow_teeth	黄牙	huangya	3256
 yellow_eyes	黄眼	huangyan	10000
 yellow_leaves	黄叶	huangye	2557
+__prompt__:yellow and silver color scheme	黄＋银配色〔通用短语〕	huangyinpeise	10000
 butter	黄油	huangyou	3348
 butter_knife	黄油刀	huangyoudao	2646
 yellow_moon	黄月	huangyue	2742
 aramasa	荒正	huangzheng	2312
+__prompt__:yellow and purple color scheme	黄＋紫配色〔通用短语〕	huangzipeise	10000
+__prompt__:yellow and brown color scheme	黄＋棕配色〔通用短语〕	huangzongpeise	10000
 hallucination	幻觉	huanjue	2251
 orbited	环绕物体	huanraowuti	2207
 chakram	环刃	huanren	3200
@@ -6285,32 +6667,48 @@ lemur_tail	狐猴尾巴	huhouweiba	2194
 ankle_wrap	护踝	huhuai	3073
 calling	呼唤	huhuan	2623
 hairstyle_switch	互换发型	huhuanfaxing	3014
+__prompt__:gray	灰色〔通用短语〕	hui	10000
+__prompt__:gray and white color scheme	灰＋白配色〔通用短语〕	huibaipeise	10000
 picture_book	绘本	huiben	2244
 yebisu	惠比寿啤酒	huibishoupijiu	2277
 dust	灰尘	huichen	3628
+__prompt__:gray and orange color scheme	灰＋橙配色〔通用短语〕	huichengpeise	10000
 fai_chun	挥春	huichun	2182
 swinging_baseball_bat	挥动棒球棒	huidongbangqiubang	2834
 greyscale	灰度	huidu	10000
 greyscale_with_colored_background	灰度主体彩色背景	huiduzhuticaisebeijing	4145
 grey_hair	灰发	huifa	10000
 ehoumaki	惠方卷	huifangjuan	3076
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huifenhongpeise	10000
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huifenpeise	10000
 cinderella_girls_card_parody	灰姑娘女孩卡牌恶搞	huiguniangnvhaikapaiegao	2637
 cinderella_bust	灰姑娘胸围	huiguniangxiongwei	2451
+__prompt__:gray and black color scheme	灰＋黑配色〔通用短语〕	huiheipeise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huihepeise	10000
+__prompt__:gray and red color scheme	灰＋红配色〔通用短语〕	huihongpeise	10000
 drawing	绘画	huihua	2533
 kirameki_high_school_uniform	辉煌高校制服	huihuanggaoxiaozhifu	2333
+__prompt__:gray and yellow color scheme	灰＋黄配色〔通用短语〕	huihuangpeise	10000
 grey_facial_hair	灰胡须	huihuxu	2251
 emblem	徽记	huiji	4364
 ashes	灰烬	huijin	2673
+__prompt__:gray and gold color scheme	灰＋金配色〔通用短语〕	huijinpeise	10000
 grey-framed_eyewear	灰框眼镜	huikuangyanjing	3770
 grey_pantyhose	灰裤袜	huikuwa	4174
 grey_wolf	灰狼	huilang	2218
+__prompt__:gray and blue color scheme	灰＋蓝配色〔通用短语〕	huilanpeise	10000
+__prompt__:gray and green color scheme	灰＋绿配色〔通用短语〕	huilvpeise	10000
 ema	绘马	huima	3379
 grey_cat	灰猫	huimao	3356
 grey_hat	灰帽子	huimaozi	4245
 grey_rose	灰玫瑰	huimeigui	2883
 looking_back	回眸	huimou	5572
+__prompt__:gray	灰色〔通用短语〕	huipeise	10000
+__prompt__:gray and cyan color scheme	灰＋青配色〔通用短语〕	huiqingpeise	10000
 punching	挥拳	huiquan	4077
+__prompt__:gray	灰色〔通用短语〕	huise	10000
 grey_ascot	灰色阿斯科特领巾	huiseasiketelingjin	3104
+__prompt__:gray and white color scheme	灰＋白配色〔通用短语〕	huisebaisepeise	10000
 grey_bag	灰色包	huisebao	3266
 grey_gem	灰色宝石	huisebaoshi	2329
 grey_background	灰色背景	huisebeijing	10000
@@ -6320,6 +6718,7 @@ grey_bikini	灰色比基尼	huisebijini	3518
 grey_armband	灰色臂章	huisebizhang	2337
 grey_robe	灰色长袍	huisechangpao	3094
 grey_tunic	灰色长衫	huisechangshan	2543
+__prompt__:gray and orange color scheme	灰＋橙配色〔通用短语〕	huisechengsepeise	10000
 grey_shirt	灰色衬衫	huisechenshan	10000
 grey_wings	灰色翅膀	huisechibang	3492
 grey_leggings	灰色打底裤	huisedadiku	2619
@@ -6333,20 +6732,27 @@ grey_shrug	灰色短罩衫	huiseduanzhaoshan	2663
 grey_headband	灰色发带	huisefadai	2526
 grey_hairband	灰色发箍	huisefagu	3604
 grey_scrunchie	灰色发圈	huisefaquan	2483
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huisefenhongsepeise	10000
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huisefensepeise	10000
 grey_sclera	灰色巩膜	huisegongmo	3177
 grey_overalls	灰色工装裤	huisegongzhuangku	2969
 grey_halo	灰色光环	huiseguanghuan	4193
 grey_thighhighs	灰色过膝袜	huiseguoxiwa	4233
 grey_hanfu	灰色汉服	huisehanfu	2486
 grey_kimono	灰色和服	huisehefu	3779
+__prompt__:gray and black color scheme	灰＋黑配色〔通用短语〕	huiseheisepeise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huisehesepeise	10000
+__prompt__:gray and red color scheme	灰＋红配色〔通用短语〕	huisehongsepeise	10000
 grey_flower	灰色花朵	huisehuaduo	3339
 grey_crown	灰色皇冠	huisehuangguan	2409
+__prompt__:gray and yellow color scheme	灰＋黄配色〔通用短语〕	huisehuangsepeise	10000
 grey_bow	灰色蝴蝶结	huisehudiejie	3833
 grey_wrist_cuffs	灰色护腕	huisehuwan	2358
 grey_jacket	灰色夹克	huisejiake	4833
 grey_horns	灰色角	huisejiao	3778
 grey-tinted_eyewear	灰色镜片眼镜	huisejingpianyanjing	2196
 grey_choker	灰色颈圈	huisejingquan	3323
+__prompt__:gray and gold color scheme	灰＋金配色〔通用短语〕	huisejinsepeise	10000
 grey_bodysuit	灰色紧身连体衣	huisejinshenliantiyi	3687
 grey_leotard	灰色紧身衣	huisejinshenyi	3437
 grey_armor	灰色铠甲	huisekaijia	3280
@@ -6354,6 +6760,7 @@ grey_cardigan	灰色开衫	huisekaishan	4059
 grey_mask	灰色口罩	huisekouzhao	2745
 grey_hakama	灰色袴	huiseku	2969
 grey_pants	灰色裤子	huisekuzi	4653
+__prompt__:gray and blue color scheme	灰＋蓝配色〔通用短语〕	huiselansepeise	10000
 grey_sandals	灰色凉鞋	huiseliangxie	2896
 grey_hoodie	灰色连帽衫	huiselianmaoshan	4127
 grey_jumpsuit	灰色连体衣	huiseliantiyi	2672
@@ -6366,6 +6773,7 @@ grey_neckerchief	灰色领巾	huiselingjin	3737
 grey_collar	灰色领子	huiselingzi	2887
 grey_scales	灰色鳞片	huiselinpian	2454
 grey_outline	灰色轮廓	huiselunkuo	3077
+__prompt__:gray and green color scheme	灰＋绿配色〔通用短语〕	huiselvsepeise	10000
 grey_vest	灰色马甲	huisemajia	4162
 grey_fur	灰色毛发	huisemaofa	3960
 grey_sweater	灰色毛衣	huisemaoyi	4342
@@ -6375,10 +6783,12 @@ grey_tube_top	灰色抹胸	huisemoxiong	2515
 grey_bandeau	灰色抹胸	huisemoxiong	2174
 grey_male_underwear	灰色男士内裤	huisenanshineiku	2994
 grey_panties	灰色内裤	huiseneiku	3917
+__prompt__:gray	灰色〔通用短语〕	huisepeise	10000
 grey_cape	灰色披风	huisepifeng	3436
 grey_skin	灰色皮肤	huisepifu	4391
 grey_shawl	灰色披肩	huisepijian	2742
 grey_car	灰色汽车	huiseqiche	2557
+__prompt__:gray and cyan color scheme	灰＋青配色〔通用短语〕	huiseqingsepeise	10000
 grey_skirt	灰色裙子	huisequnzi	10000
 grey_nipples	灰色乳头	huiserutou	2205
 grey_sarong	灰色纱笼	huiseshalong	2286
@@ -6413,11 +6823,29 @@ grey_eyeshadow	灰色眼影	huiseyanying	3060
 grey_belt	灰色腰带	huiseyaodai	3728
 grey_sash	灰色腰带	huiseyaodai	2831
 grey_pubic_hair	灰色阴毛	huiseyinmao	3030
+__prompt__:gray and silver color scheme	灰＋银配色〔通用短语〕	huiseyinsepeise	10000
+__prompt__:gray and white color scheme	灰＋白配色〔通用短语〕	huiseyubaise	10000
+__prompt__:gray and orange color scheme	灰＋橙配色〔通用短语〕	huiseyuchengse	10000
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huiseyufenhongse	10000
+__prompt__:gray and pink color scheme	灰＋粉配色〔通用短语〕	huiseyufense	10000
+__prompt__:gray and black color scheme	灰＋黑配色〔通用短语〕	huiseyuheise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huiseyuhese	10000
+__prompt__:gray and red color scheme	灰＋红配色〔通用短语〕	huiseyuhongse	10000
+__prompt__:gray and yellow color scheme	灰＋黄配色〔通用短语〕	huiseyuhuangse	10000
+__prompt__:gray and gold color scheme	灰＋金配色〔通用短语〕	huiseyujinse	10000
+__prompt__:gray and blue color scheme	灰＋蓝配色〔通用短语〕	huiseyulanse	10000
+__prompt__:gray and green color scheme	灰＋绿配色〔通用短语〕	huiseyulvse	10000
 grey_feathers	灰色羽毛	huiseyumao	2872
 grey_sports_bra	灰色运动内衣	huiseyundongneiyi	3638
+__prompt__:gray and cyan color scheme	灰＋青配色〔通用短语〕	huiseyuqingse	10000
 grey_umbrella	灰色雨伞	huiseyusan	2455
+__prompt__:gray and silver color scheme	灰＋银配色〔通用短语〕	huiseyuyinse	10000
+__prompt__:gray and purple color scheme	灰＋紫配色〔通用短语〕	huiseyuzise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huiseyuzongse	10000
 grey_nails	灰色指甲	huisezhijia	3539
 grey_theme	灰色主题	huisezhuti	3366
+__prompt__:gray and purple color scheme	灰＋紫配色〔通用短语〕	huisezisepeise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huisezongsepeise	10000
 grey_lips	灰色嘴唇	huisezuichun	2934
 waving	挥手	huishou	4623
 waving_hands	挥手	huishou	2640
@@ -6443,10 +6871,13 @@ grey_eyes	灰眼	huiyan	10000
 remembering	回忆	huiyi	3110
 perineum	会阴	huiyin	4068
 perineum_peek	会阴窥视	huiyinkuishi	2417
+__prompt__:gray and silver color scheme	灰＋银配色〔通用短语〕	huiyinpeise	10000
 badge	徽章	huizhang	4226
 insignia	徽章	huizhang	3623
 shining_needle_castle	辉针城	huizhencheng	2165
 conveyor_belt_sushi	回转寿司	huizhuanshousi	2299
+__prompt__:gray and purple color scheme	灰＋紫配色〔通用短语〕	huizipeise	10000
+__prompt__:gray and brown color scheme	灰＋棕配色〔通用短语〕	huizongpeise	10000
 shoulder_guard	护肩	hujian	3133
 dr_pepper	胡椒博士	hujiaoboshi	2776
 pepper_shaker	胡椒瓶	hujiaoping	2546
@@ -7286,11 +7717,13 @@ log_pose	记录指针	jiluzhizhen	3250
 feather_duster	鸡毛掸子	jimaodanzi	2787
 toy_block	积木	jimu	2632
 jenga	积木叠叠乐	jimudiediele	2339
+__prompt__:gold	金色〔通用短语〕	jin	10000
 churro	吉拿棒	jinabang	2629
 milking_machine	挤奶机	jinaiji	3448
 milking_handjob	挤奶式手淫	jinaishishouyin	2923
 milk_churn	挤奶桶	jinaitong	2610
 himedanshi	姬男子	jinanzi	2299
+__prompt__:gold and white color scheme	金＋白配色〔通用短语〕	jinbaipeise	10000
 clinging	紧抱攀附	jinbaopanfu	3002
 quimbaya_airplane	金巴亚黄金飞机	jinbayahuangjinfeiji	2694
 taut_shirt	紧绷衬衫	jinbengchenshan	3944
@@ -7304,6 +7737,7 @@ gold_coin	金币	jinbi	3449
 gold_border	金边	jinbian	2768
 gold_armlet	金臂环	jinbihuan	3722
 bikini_top_only	仅比基尼上装	jinbijinishangzhuang	4647
+__prompt__:gold and orange color scheme	金＋橙配色〔通用短语〕	jinchengpeise	10000
 bikini_bottom_only	仅穿比基尼下装	jinchuanbijinixiazhuang	4082
 bodystocking_only	仅穿连体紧身衣	jinchuanliantijinshenyi	2771
 underwear_only	仅穿内衣	jinchuanneiyi	4914
@@ -7315,6 +7749,8 @@ progress_bar	进度条	jindutiao	2592
 techwear	机能风	jinengfeng	2809
 gold_earrings	金耳环	jinerhuan	4213
 blonde_hair	金发	jinfa	10000
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinfenhongpeise	10000
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinfenpeise	10000
 vajra_(object)	金刚杵	jingangchu	2268
 diamond_clan_outfit	金刚队服装	jingangduifuzhuang	2697
 macaw	金刚鹦鹉	jingangyingwu	2445
@@ -7457,12 +7893,17 @@ mirror	镜子	jingzi	4623
 sperm_cell	精子	jingzi	3486
 tic-tac-toe	井字棋	jingziqi	2557
 sperm_circle_tattoo	精子圆圈纹身	jingziyuanquanwenshen	2282
+__prompt__:gold and black color scheme	金＋黑配色〔通用短语〕	jinheipeise	10000
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinhepeise	10000
 akeome	谨贺新年	jinhexinnian	3379
+__prompt__:gold and red color scheme	金＋红配色〔通用短语〕	jinhongpeise	10000
 boutonniere	襟花	jinhua	3125
 evolution	进化	jinhua	2791
 evo_grim	进化格里姆	jinhuagelimu	2329
 evolutionary_line	进化链	jinhualian	3935
+__prompt__:gold and yellow color scheme	金＋黄配色〔通用短语〕	jinhuangpeise	10000
 evolution_stone	进化之石	jinhuazhishi	2556
+__prompt__:gold and gray color scheme	金＋灰配色〔通用短语〕	jinhuipeise	10000
 nearly_naked_apron	近乎全裸围裙	jinhuquanluoweiqun	3289
 year_of_the_rooster	鸡年	jinian	2881
 mecha_musume	机娘	jiniang	4209
@@ -7473,52 +7914,70 @@ golden_sword	金剑	jinjian	2391
 gold_anklet	金脚链	jinjiaolian	3101
 gold_ring	金戒指	jinjiezhi	3757
 gold_buckle	金扣	jinkou	3037
+__prompt__:gold and blue color scheme	金＋蓝配色〔通用短语〕	jinlanpeise	10000
 koi	锦鲤	jinli	3272
 gold_chain	金链	jinlian	3930
 gold_bell	金铃铛	jinlingdang	2377
 upper_teeth_only	仅露出上排牙齿	jinluchushangpaiyachi	5430
 lower_teeth_only	仅露下齿	jinluxiachi	4294
+__prompt__:gold and green color scheme	金＋绿配色〔通用短语〕	jinlvpeise	10000
 golden_retriever	金毛寻回犬	jinmaoxunhuiquan	2631
 immersed	浸没	jinmo	2174
 kotoyoro	今年也请多关照	jinnianyeqingduoguanzhao	3096
 taurus_(constellation)	金牛座	jinniuzuo	2593
 taurus_(symbol)	金牛座符号	jinniuzuofuhao	2649
 gold_medal	金牌	jinpai	2325
+__prompt__:gold	金色〔通用短语〕	jinpeise	10000
 golden_apple	金苹果	jinpingguo	3131
 konpeitou	金平糖	jinpingtang	2779
 money	金钱	jinqian	3996
 spoken_money	金钱符号气泡	jinqianfuhaoqipao	2308
 tuna	金枪鱼	jinqiangyu	2933
 hair_intakes	进气口发型	jinqikoufaxing	5450
+__prompt__:gold and cyan color scheme	金＋青配色〔通用短语〕	jinqingpeise	10000
 kinniku_buster	筋肉破坏技	jinroupohuaiji	2231
+__prompt__:gold	金色〔通用短语〕	jinse	10000
 gold	金色	jinse	4241
+__prompt__:gold and white color scheme	金＋白配色〔通用短语〕	jinsebaisepeise	10000
 gold_bikini	金色比基尼	jinsebijini	4227
+__prompt__:gold and orange color scheme	金＋橙配色〔通用短语〕	jinsechengsepeise	10000
 gold_piercing	金色穿孔	jinsechuankong	2308
 gold_slingshot_swimsuit	金色弹弓泳衣	jinsedangongyongyi	2607
 gold_thighlet	金色大腿环	jinsedatuihuan	3331
 gold_ribbon	金色缎带	jinseduandai	2706
 gold_circlet	金色额环	jinseehuan	3327
 gold_headband	金色发箍	jinsefagu	2564
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinsefenhongsepeise	10000
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinsefensepeise	10000
 gold_halo	金色光环	jinseguanghuan	2811
 gold_thighhighs	金色过膝袜	jinseguoxiwa	2830
+__prompt__:gold and black color scheme	金＋黑配色〔通用短语〕	jinseheisepeise	10000
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinsehesepeise	10000
+__prompt__:gold and red color scheme	金＋红配色〔通用短语〕	jinsehongsepeise	10000
 gold_flower	金色花	jinsehua	2299
+__prompt__:gold and yellow color scheme	金＋黄配色〔通用短语〕	jinsehuangsepeise	10000
 gold_bow	金色蝴蝶结	jinsehudiejie	2489
+__prompt__:gold and gray color scheme	金＋灰配色〔通用短语〕	jinsehuisepeise	10000
 blonde_facial_hair	金色胡须	jinsehuxu	2575
 gold_jacket	金色夹克	jinsejiake	2258
 gold_horns	金色角	jinsejiao	2875
 gold_choker	金色颈圈	jinsejingquan	3846
 gold_leotard	金色紧身连体衣	jinsejinshenliantiyi	2865
 gold_armor	金色铠甲	jinsekaijia	3751
+__prompt__:gold and blue color scheme	金＋蓝配色〔通用短语〕	jinselansepeise	10000
 gold_sandals	金色凉鞋	jinseliangxie	2967
 gold_one-piece_swimsuit	金色连体泳衣	jinseliantiyongyi	2417
 gold_dress	金色连衣裙	jinselianyiqun	2892
 gold_bowtie	金色领结	jinselingjie	2489
+__prompt__:gold and green color scheme	金＋绿配色〔通用短语〕	jinselvsepeise	10000
 golden_rose	金色玫瑰	jinsemeigui	2703
 gold_mask	金色面具	jinsemianju	2319
 gold_panties	金色内裤	jinseneiku	2497
 gold_buttons	金色纽扣	jinseniukou	3431
+__prompt__:gold	金色〔通用短语〕	jinsepeise	10000
 gold_cape	金色披风	jinsepifeng	2407
 gold_skin	金色皮肤	jinsepifu	2688
+__prompt__:gold and cyan color scheme	金＋青配色〔通用短语〕	jinseqingsepeise	10000
 gold_gloves	金色手套	jinseshoutao	2900
 gold_corset	金色束腰	jinseshuyao	2588
 blonde_streaks	金色挑染	jinsetiaoran	3753
@@ -7535,7 +7994,25 @@ gold_bra	金色胸罩	jinsexiongzhao	3115
 gold_blood	金色血液	jinsexueye	2306
 gold_boots	金色靴子	jinsexuezi	2986
 blonde_pubic_hair	金色阴毛	jinseyinmao	3503
+__prompt__:gold and silver color scheme	金＋银配色〔通用短语〕	jinseyinsepeise	10000
+__prompt__:gold and white color scheme	金＋白配色〔通用短语〕	jinseyubaise	10000
+__prompt__:gold and orange color scheme	金＋橙配色〔通用短语〕	jinseyuchengse	10000
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinseyufenhongse	10000
+__prompt__:gold and pink color scheme	金＋粉配色〔通用短语〕	jinseyufense	10000
+__prompt__:gold and black color scheme	金＋黑配色〔通用短语〕	jinseyuheise	10000
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinseyuhese	10000
+__prompt__:gold and red color scheme	金＋红配色〔通用短语〕	jinseyuhongse	10000
+__prompt__:gold and yellow color scheme	金＋黄配色〔通用短语〕	jinseyuhuangse	10000
+__prompt__:gold and gray color scheme	金＋灰配色〔通用短语〕	jinseyuhuise	10000
+__prompt__:gold and blue color scheme	金＋蓝配色〔通用短语〕	jinseyulanse	10000
+__prompt__:gold and green color scheme	金＋绿配色〔通用短语〕	jinseyulvse	10000
+__prompt__:gold and cyan color scheme	金＋青配色〔通用短语〕	jinseyuqingse	10000
+__prompt__:gold and silver color scheme	金＋银配色〔通用短语〕	jinseyuyinse	10000
+__prompt__:gold and purple color scheme	金＋紫配色〔通用短语〕	jinseyuzise	10000
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinseyuzongse	10000
 gold_nails	金色指甲	jinsezhijia	2858
+__prompt__:gold and purple color scheme	金＋紫配色〔通用短语〕	jinsezisepeise	10000
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinsezongsepeise	10000
 kintsugi	金缮	jinshan	2168
 skin_tight	紧身	jinshen	4734
 bodycon	紧身包臀裙	jinshenbaotunqun	2848
@@ -7597,6 +8074,7 @@ playing_sports	进行体育运动	jinxingtiyuyundong	3670
 gold_teeth	金牙	jinya	2749
 gold_belt	金腰带	jinyaodai	3251
 golden_wings	金翼	jinyi	2451
+__prompt__:gold and silver color scheme	金＋银配色〔通用短语〕	jinyinpeise	10000
 disembodied_torso	仅有躯干	jinyouqugan	2218
 sound_effects_only	仅有音效	jinyouyinxiao	3098
 goldfish	金鱼	jinyu	3751
@@ -7614,7 +8092,9 @@ no_entry_sign	禁止驶入标志	jinzhishirubiaozhi	2802
 no_parking_sign	禁止停车标志	jinzhitingchebiaozhi	2499
 no_smoking	禁止吸烟	jinzhixiyan	2719
 clutching_clothes	紧抓衣物	jinzhuayiwu	2147
+__prompt__:gold and purple color scheme	金＋紫配色〔通用短语〕	jinzipeise	10000
 pyramid_(structure)	金字塔	jinzita	3086
+__prompt__:gold and brown color scheme	金＋棕配色〔通用短语〕	jinzongpeise	10000
 gunpod	机炮吊舱	jipaodiaocang	2748
 gibson_brands_inc	吉普森品牌	jipusenpinpai	2469
 machine	机器	jiqi	3398
@@ -8495,13 +8975,18 @@ gyarugasaki	辣妹崎	lameiqi	2478
 gyaru_makeup	辣妹妆	lameizhuang	2351
 ramen	拉面	lamian	3793
 lamia	拉米亚	lamiya	3814
+__prompt__:blue	蓝色〔通用短语〕	lan	10000
+__prompt__:blue and white color scheme	蓝＋白配色〔通用短语〕	lanbaipeise	10000
 blue_nose	蓝鼻子	lanbizi	2441
 lamborghini	兰博基尼	lanbojini	2601
+__prompt__:blue and orange color scheme	蓝＋橙配色〔通用短语〕	lanchengpeise	10000
 lanchester_smg	兰彻斯特冲锋枪	lanchesitechongfengqiang	2692
 blue_lips	蓝唇	lanchun	3920
 landsknecht	兰茨克内赫特	lancikeneihete	2275
 regal_blue_tang	蓝倒吊	landaodiao	2297
 blue_hair	蓝发	lanfa	10000
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lanfenhongpeise	10000
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lanfenpeise	10000
 wolf	狼	lang	4046
 railing	栏杆	langan	4545
 baluster	栏杆柱	langanzhu	2508
@@ -8525,23 +9010,32 @@ wolf_tail	狼尾	langwei	4806
 wolf_cut	狼尾发型	langweifaxing	3962
 spiked_club	狼牙棒	langyabang	3417
 wolf_paws	狼爪	langzhao	2901
+__prompt__:blue and black color scheme	蓝＋黑配色〔通用短语〕	lanheipeise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lanhepeise	10000
+__prompt__:blue and red color scheme	蓝＋红配色〔通用短语〕	lanhongpeise	10000
 blue_flower	蓝花	lanhua	4843
 orchid	兰花	lanhua	3042
+__prompt__:blue and yellow color scheme	蓝＋黄配色〔通用短语〕	lanhuangpeise	10000
 blue_butterfly	蓝蝴蝶	lanhudie	4160
+__prompt__:blue and gray color scheme	蓝＋灰配色〔通用短语〕	lanhuipeise	10000
 blue_fire	蓝火	lanhuo	4136
 blue_horns	蓝角	lanjiao	3844
 blue_whale	蓝鲸	lanjing	2429
+__prompt__:blue and gold color scheme	蓝＋金配色〔通用短语〕	lanjinpeise	10000
 basketball_hoop	篮筐	lankuang	2938
 blue-framed_eyewear	蓝框眼镜	lankuangyanjing	3778
 rags	褴褛	lanlv	2722
+__prompt__:blue and green color scheme	蓝＋绿配色〔通用短语〕	lanlvpeise	10000
 blue_cat	蓝猫	lanmao	2552
 blueberry	蓝莓	lanmei	3647
 blueberry_hair_ornament	蓝莓发饰	lanmeifashi	2153
 blue_rose	蓝玫瑰	lanmeigui	4438
 blueberry_academy_school_uniform	蓝莓学园校服	lanmeixueyuanxiaofu	2944
+__prompt__:blue	蓝色〔通用短语〕	lanpeise	10000
 blue_screen_of_death	蓝屏死机	lanpingsiji	2866
 blue_flag	蓝旗	lanqi	2182
 blue_rose_sword	蓝蔷薇之剑	lanqiangweizhijian	2210
+__prompt__:blue and cyan color scheme	蓝＋青配色〔通用短语〕	lanqingpeise	10000
 basketball	篮球	lanqiu	3542
 blue_ball	蓝球	lanqiu	2347
 basketball_jersey	篮球背心	lanqiubeixin	3165
@@ -8550,7 +9044,9 @@ basketball_shorts	篮球短裤	lanqiuduanku	2277
 basketball_uniform	篮球服	lanqiufu	3423
 bean_bag_chair	懒人沙发	lanrenshafa	3261
 blue_umbrella	蓝伞	lansan	3307
+__prompt__:blue	蓝色〔通用短语〕	lanse	10000
 blue_ascot	蓝色阿斯科特领巾	lanseasiketelingjin	4049
+__prompt__:blue and white color scheme	蓝＋白配色〔通用短语〕	lansebaisepeise	10000
 blue_bag	蓝色包	lansebao	3862
 blue_gem	蓝色宝石	lansebaoshi	4487
 blue_overalls	蓝色背带裤	lansebeidaiku	4059
@@ -8560,6 +9056,7 @@ blue_border	蓝色边框	lansebiankuang	3706
 blue_bikini	蓝色比基尼	lansebijini	4802
 blue_armband	蓝色臂章	lansebizhang	3739
 blue_robe	蓝色长袍	lansechangpao	3682
+__prompt__:blue and orange color scheme	蓝＋橙配色〔通用短语〕	lansechengsepeise	10000
 blue_shirt	蓝色衬衫	lansechenshan	10000
 blue_leggings	蓝色打底裤	lansedadiku	2829
 blue_slingshot_swimsuit	蓝色弹弓泳装	lansedangongyongzhuang	2844
@@ -8577,6 +9074,8 @@ blue_happi	蓝色法被	lansefabei	2393
 blue_headband	蓝色发带	lansefadai	3676
 blue_hairband	蓝色发箍	lansefagu	4523
 blue_scrunchie	蓝色发圈	lansefaquan	3980
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lansefenhongsepeise	10000
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lansefensepeise	10000
 blue_anus	蓝色肛门	lansegangmen	2368
 blue_sclera	蓝色巩膜	lansegongmo	3631
 blue_halo	蓝色光环	lanseguanghuan	4798
@@ -8584,13 +9083,19 @@ blue_lightsaber	蓝色光剑	lanseguangjian	2668
 blue_thighhighs	蓝色过膝袜	lanseguoxiwa	4418
 blue_hanfu	蓝色汉服	lansehanfu	3188
 blue_kimono	蓝色和服	lansehefu	4618
+__prompt__:blue and black color scheme	蓝＋黑配色〔通用短语〕	lanseheisepeise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lansehesepeise	10000
+__prompt__:blue and red color scheme	蓝＋红配色〔通用短语〕	lansehongsepeise	10000
 blue_petals	蓝色花瓣	lansehuaban	3282
 blue_crown	蓝色皇冠	lansehuangguan	2836
+__prompt__:blue and yellow color scheme	蓝＋黄配色〔通用短语〕	lansehuangsepeise	10000
 blue_bow	蓝色蝴蝶结	lansehudiejie	5270
+__prompt__:blue and gray color scheme	蓝＋灰配色〔通用短语〕	lansehuisepeise	10000
 blue_jacket	蓝色夹克	lansejiake	5215
 blue_theme	蓝色基调	lansejidiao	4608
 blue-tinted_eyewear	蓝色镜片眼镜	lansejingpianyanjing	3707
 blue_choker	蓝色颈圈	lansejingquan	4260
+__prompt__:blue and gold color scheme	蓝＋金配色〔通用短语〕	lansejinsepeise	10000
 blue_leotard	蓝色紧身连体衣	lansejinshenliantiyi	4512
 blue_unitard	蓝色紧身连体衣	lansejinshenliantiyi	2386
 blue_bodysuit	蓝色紧身衣	lansejinshenyi	4173
@@ -8611,6 +9116,7 @@ blue_neckerchief	蓝色领巾	lanselingjin	4444
 blue_collar	蓝色领子	lanselingzi	3712
 blue_scales	蓝色鳞片	lanselinpian	3188
 blue_outline	蓝色轮廓	lanselunkuo	3398
+__prompt__:blue and green color scheme	蓝＋绿配色〔通用短语〕	lanselvsepeise	10000
 blue_vest	蓝色马甲	lansemajia	4467
 blue_sweater	蓝色毛衣	lansemaoyi	4286
 blue_hat	蓝色帽子	lansemaozi	4927
@@ -8621,6 +9127,7 @@ blue_tube_top	蓝色抹胸	lansemoxiong	3028
 blue_male_swimwear	蓝色男式泳装	lansenanshiyongzhuang	3106
 blue_male_underwear	蓝色男性内裤	lansenanxingneiku	3068
 blue_panties	蓝色内裤	lanseneiku	4528
+__prompt__:blue	蓝色〔通用短语〕	lansepeise	10000
 blue_cape	蓝色披风	lansepifeng	4477
 blue_skin	蓝色皮肤	lansepifu	4625
 blue_shawl	蓝色披肩	lansepijian	3367
@@ -8628,6 +9135,7 @@ blue_fur	蓝色皮毛	lansepimao	4020
 blue_apple	蓝色苹果	lansepingguo	2507
 blue_aura	蓝色气场	lanseqichang	2586
 blue_car	蓝色汽车	lanseqiche	2869
+__prompt__:blue and cyan color scheme	蓝＋青配色〔通用短语〕	lanseqingsepeise	10000
 blue_bike_shorts	蓝色骑行短裤	lanseqixingduanku	2788
 blue_skirt	蓝色裙子	lansequnzi	10000
 blue_bonnet	蓝色软帽	lanseruanmao	2697
@@ -8679,13 +9187,29 @@ blue_liquid	蓝色液体	lanseyeti	2357
 blue_pussy	蓝色阴部	lanseyinbu	2589
 blue_penis	蓝色阴茎	lanseyinjing	2542
 blue_pubic_hair	蓝色阴毛	lanseyinmao	3237
+__prompt__:blue and silver color scheme	蓝＋银配色〔通用短语〕	lanseyinsepeise	10000
 blue_swim_trunks	蓝色泳裤	lanseyongku	2801
+__prompt__:blue and white color scheme	蓝＋白配色〔通用短语〕	lanseyubaise	10000
+__prompt__:blue and orange color scheme	蓝＋橙配色〔通用短语〕	lanseyuchengse	10000
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lanseyufenhongse	10000
+__prompt__:blue and pink color scheme	蓝＋粉配色〔通用短语〕	lanseyufense	10000
+__prompt__:blue and black color scheme	蓝＋黑配色〔通用短语〕	lanseyuheise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lanseyuhese	10000
+__prompt__:blue and red color scheme	蓝＋红配色〔通用短语〕	lanseyuhongse	10000
+__prompt__:blue and yellow color scheme	蓝＋黄配色〔通用短语〕	lanseyuhuangse	10000
+__prompt__:blue and gray color scheme	蓝＋灰配色〔通用短语〕	lanseyuhuise	10000
+__prompt__:blue and gold color scheme	蓝＋金配色〔通用短语〕	lanseyujinse	10000
 blue_tulip	蓝色郁金香	lanseyujinxiang	2297
+__prompt__:blue and green color scheme	蓝＋绿配色〔通用短语〕	lanseyulvse	10000
 blue_feathers	蓝色羽毛	lanseyumao	3570
 blue_track_suit	蓝色运动服	lanseyundongfu	2722
 blue_sports_bra	蓝色运动内衣	lanseyundongneiyi	3512
+__prompt__:blue and cyan color scheme	蓝＋青配色〔通用短语〕	lanseyuqingse	10000
 blue_raincoat	蓝色雨衣	lanseyuyi	2231
+__prompt__:blue and silver color scheme	蓝＋银配色〔通用短语〕	lanseyuyinse	10000
 blue_haori	蓝色羽织	lanseyuzhi	3293
+__prompt__:blue and purple color scheme	蓝＋紫配色〔通用短语〕	lanseyuzise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lanseyuzongse	10000
 blue_overskirt	蓝色罩裙	lansezhaoqun	2789
 blue_tabard	蓝色罩衫	lansezhaoshan	3575
 blue_surcoat	蓝色罩衫	lansezhaoshan	2546
@@ -8693,6 +9217,8 @@ blue_jingasa	蓝色阵笠	lansezhenli	2863
 blue_sweater_vest	蓝色针织背心	lansezhenzhibeixin	3463
 blue_visor_cap	蓝色遮阳帽	lansezheyangmao	2461
 blue_nails	蓝色指甲	lansezhijia	4893
+__prompt__:blue and purple color scheme	蓝＋紫配色〔通用短语〕	lansezisepeise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lansezongsepeise	10000
 blue_tongue	蓝舌头	lanshetou	3663
 blue_hands	蓝手	lanshou	2970
 blue_sky	蓝天	lantian	10000
@@ -8705,11 +9231,14 @@ tweedia	蓝星花	lanxinghua	2207
 blue_blood	蓝血	lanxue	3041
 blue_eyes	蓝眼	lanyan	10000
 blue_wings	蓝翼	lanyi	4036
+__prompt__:blue and silver color scheme	蓝＋银配色〔通用短语〕	lanyinpeise	10000
 blue_moon	蓝月	lanyue	2533
 blue_clouds	蓝云	lanyun	2210
 bluebird	蓝知更鸟	lanzhigengniao	2592
 basket	篮子	lanzi	4431
 in_basket	篮子里	lanzili	2570
+__prompt__:blue and purple color scheme	蓝＋紫配色〔通用短语〕	lanzipeise	10000
+__prompt__:blue and brown color scheme	蓝＋棕配色〔通用短语〕	lanzongpeise	10000
 work_gloves	劳保手套	laobaoshoutao	2433
 prison_cell	牢房	laofang	3134
 in_cell	牢房内	laofangnei	2443
@@ -9510,25 +10039,41 @@ open-toe_shoes	露趾鞋	luzhixie	3439
 open-toe_boots	露趾靴	luzhixue	3689
 dew_drop	露珠	luzhu	2782
 kanoko_(pattern)	鹿子纹	luziwen	2796
+__prompt__:green	绿色〔通用短语〕	lv	10000
 donkey	驴	lv	2432
+__prompt__:green and white color scheme	绿＋白配色〔通用短语〕	lvbaipeise	10000
 green_gem	绿宝石	lvbaoshi	4106
 green_tea	绿茶	lvcha	3221
+__prompt__:green and orange color scheme	绿＋橙配色〔通用短语〕	lvchengpeise	10000
 caterpillar_tracks	履带	lvdai	3565
 donkey_ears	驴耳	lver	2486
 green_hair	绿发	lvfa	10000
 chloroform	氯仿	lvfang	2502
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvfenhongpeise	10000
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvfenpeise	10000
 green_light	绿光	lvguang	2631
 deku's_photo_of_hagakure_toru	绿谷出久拍摄的叶隐透照片	lvguchujiupaishedeyeyintouzhaopian	2179
+__prompt__:green and black color scheme	绿＋黑配色〔通用短语〕	lvheipeise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvhepeise	10000
+__prompt__:green and red color scheme	绿＋红配色〔通用短语〕	lvhongpeise	10000
 green_flower	绿花	lvhua	3611
+__prompt__:green and yellow color scheme	绿＋黄配色〔通用短语〕	lvhuangpeise	10000
 green_butterfly	绿蝴蝶	lvhudie	2921
+__prompt__:green and gray color scheme	绿＋灰配色〔通用短语〕	lvhuipeise	10000
 green_fire	绿火	lvhuo	3179
+__prompt__:green and gold color scheme	绿＋金配色〔通用短语〕	lvjinpeise	10000
 green-framed_eyewear	绿框眼镜	lvkuangyanjing	3583
+__prompt__:green and blue color scheme	绿＋蓝配色〔通用短语〕	lvlanpeise	10000
 green_cat	绿猫	lvmao	2265
 green_rose	绿玫瑰	lvmeigui	3136
 green_screen	绿幕	lvmu	2388
+__prompt__:green	绿色〔通用短语〕	lvpeise	10000
 green_skin	绿皮肤	lvpifu	4511
+__prompt__:green and cyan color scheme	绿＋青配色〔通用短语〕	lvqingpeise	10000
 green_umbrella	绿伞	lvsan	2873
+__prompt__:green	绿色〔通用短语〕	lvse	10000
 green_ascot	绿色阿斯科特领巾	lvseasiketelingjin	3271
+__prompt__:green and white color scheme	绿＋白配色〔通用短语〕	lvsebaisepeise	10000
 green_bag	绿色包	lvsebao	3593
 green_suspenders	绿色背带	lvsebeidai	2698
 green_overalls	绿色背带裤	lvsebeidaiku	3098
@@ -9539,6 +10084,7 @@ green_bikini	绿色比基尼	lvsebijini	4317
 green_armband	绿色臂章	lvsebizhang	3409
 green_pants	绿色长裤	lvsechangku	4304
 green_robe	绿色长袍	lvsechangpao	3519
+__prompt__:green and orange color scheme	绿＋橙配色〔通用短语〕	lvsechengsepeise	10000
 green_shirt	绿色衬衫	lvsechenshan	10000
 green_wings	绿色翅膀	lvsechibang	3497
 green_leggings	绿色打底裤	lvsedadiku	2182
@@ -9554,6 +10100,8 @@ green_shrug	绿色短罩衫	lvseduanzhaoshan	2499
 green_hairband	绿色发箍	lvsefagu	3940
 green_scrunchie	绿色发圈	lvsefaquan	3340
 green_hair_ornament	绿色发饰	lvsefashi	2639
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvsefenhongsepeise	10000
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvsefensepeise	10000
 green_sclera	绿色巩膜	lvsegongmo	3417
 green_halo	绿色光环	lvseguanghuan	4316
 green_lightsaber	绿色光剑	lvseguangjian	2329
@@ -9561,16 +10109,23 @@ green_trim	绿色滚边	lvsegunbian	3355
 green_thighhighs	绿色过膝袜	lvseguoxiwa	3923
 green_hanfu	绿色汉服	lvsehanfu	3049
 green_kimono	绿色和服	lvsehefu	4195
+__prompt__:green and black color scheme	绿＋黑配色〔通用短语〕	lvseheisepeise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvsehesepeise	10000
+__prompt__:green and red color scheme	绿＋红配色〔通用短语〕	lvsehongsepeise	10000
+__prompt__:green and yellow color scheme	绿＋黄配色〔通用短语〕	lvsehuangsepeise	10000
 green_bow	绿色蝴蝶结	lvsehudiejie	4840
+__prompt__:green and gray color scheme	绿＋灰配色〔通用短语〕	lvsehuisepeise	10000
 green_jacket	绿色夹克	lvsejiake	4825
 green_horns	绿色角	lvsejiao	3431
 green_bonnet	绿色系带软帽	lvsejidairuanmao	3017
 green-tinted_eyewear	绿色镜片眼镜	lvsejingpianyanjing	3407
+__prompt__:green and gold color scheme	绿＋金配色〔通用短语〕	lvsejinsepeise	10000
 green_leotard	绿色紧身连体衣	lvsejinshenliantiyi	3829
 green_bodysuit	绿色紧身衣	lvsejinshenyi	3594
 green_cardigan	绿色开衫	lvsekaishan	3413
 green_hakama	绿色袴	lvseku	3336
 green_armor	绿色盔甲	lvsekuijia	3347
+__prompt__:green and blue color scheme	绿＋蓝配色〔通用短语〕	lvselansepeise	10000
 green_sandals	绿色凉鞋	lvseliangxie	2794
 green_pantyhose	绿色连裤袜	lvseliankuwa	3460
 green_hoodie	绿色连帽衫	lvselianmaoshan	3863
@@ -9593,10 +10148,12 @@ green_bandeau	绿色抹胸	lvsemoxiong	2656
 green_male_swimwear	绿色男式泳装	lvsenanshiyongzhuang	2605
 green_male_underwear	绿色男用内裤	lvsenanyongneiku	2788
 green_panties	绿色内裤	lvseneiku	4076
+__prompt__:green	绿色〔通用短语〕	lvsepeise	10000
 green_cape	绿色披风	lvsepifeng	4028
 green_shawl	绿色披肩	lvsepijian	2733
 green_fur	绿色皮毛	lvsepimao	3605
 green_car	绿色汽车	lvseqiche	2366
+__prompt__:green and cyan color scheme	绿＋青配色〔通用短语〕	lvseqingsepeise	10000
 green_skirt	绿色裙子	lvsequnzi	10000
 green_nipples	绿色乳头	lvserutou	2610
 green_sarong	绿色纱笼	lvseshalong	2812
@@ -9640,14 +10197,32 @@ green_belt	绿色腰带	lvseyaodai	3531
 green_liquid	绿色液体	lvseyeti	2364
 green_penis	绿色阴茎	lvseyinjing	2532
 green_pubic_hair	绿色阴毛	lvseyinmao	2976
+__prompt__:green and silver color scheme	绿＋银配色〔通用短语〕	lvseyinsepeise	10000
+__prompt__:green and white color scheme	绿＋白配色〔通用短语〕	lvseyubaise	10000
+__prompt__:green and orange color scheme	绿＋橙配色〔通用短语〕	lvseyuchengse	10000
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvseyufenhongse	10000
+__prompt__:green and pink color scheme	绿＋粉配色〔通用短语〕	lvseyufense	10000
+__prompt__:green and black color scheme	绿＋黑配色〔通用短语〕	lvseyuheise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvseyuhese	10000
+__prompt__:green and red color scheme	绿＋红配色〔通用短语〕	lvseyuhongse	10000
+__prompt__:green and yellow color scheme	绿＋黄配色〔通用短语〕	lvseyuhuangse	10000
+__prompt__:green and gray color scheme	绿＋灰配色〔通用短语〕	lvseyuhuise	10000
+__prompt__:green and gold color scheme	绿＋金配色〔通用短语〕	lvseyujinse	10000
+__prompt__:green and blue color scheme	绿＋蓝配色〔通用短语〕	lvseyulanse	10000
 green_feathers	绿色羽毛	lvseyumao	3294
 green_track_suit	绿色运动服	lvseyundongfu	2611
 green_sports_bra	绿色运动内衣	lvseyundongneiyi	2946
+__prompt__:green and cyan color scheme	绿＋青配色〔通用短语〕	lvseyuqingse	10000
 green_raincoat	绿色雨衣	lvseyuyi	2194
+__prompt__:green and silver color scheme	绿＋银配色〔通用短语〕	lvseyuyinse	10000
 green_haori	绿色羽织	lvseyuzhi	2676
+__prompt__:green and purple color scheme	绿＋紫配色〔通用短语〕	lvseyuzise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvseyuzongse	10000
 green_sweater_vest	绿色针织背心	lvsezhenzhibeixin	3488
 green_nails	绿色指甲	lvsezhijia	4380
 green_theme	绿色主题	lvsezhuti	4066
+__prompt__:green and purple color scheme	绿＋紫配色〔通用短语〕	lvsezisepeise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvsezongsepeise	10000
 green_lips	绿色嘴唇	lvsezuichun	3723
 green_snake	绿蛇	lvshe	2150
 green_tongue	绿舌头	lvshetou	3059
@@ -9659,7 +10234,10 @@ green_sleeves	绿袖	lvxiu	3939
 green_blood	绿血	lvxue	2627
 green_eyes	绿眼	lvyan	10000
 green_leaf	绿叶	lvye	2199
+__prompt__:green and silver color scheme	绿＋银配色〔通用短语〕	lvyinpeise	10000
 oasis	绿洲	lvzhou	2205
+__prompt__:green and purple color scheme	绿＋紫配色〔通用短语〕	lvzipeise	10000
+__prompt__:green and brown color scheme	绿＋棕配色〔通用短语〕	lvzongpeise	10000
 horse	马	ma	4193
 saddle	马鞍	maan	3337
 saddlebags	马鞍袋	maandai	2171
@@ -11603,15 +12181,25 @@ riding_motorcycle	骑摩托车	qimotuoche	2343
 okobo	漆木屐	qimuji	3915
 zener_card	齐纳卡片	qinakapian	2337
 piano_bench	琴凳	qindeng	2938
+__prompt__:cyan	青色〔通用短语〕	qing	10000
+__prompt__:cyan and white color scheme	青＋白配色〔通用短语〕	qingbaipeise	10000
 moped	轻便摩托车	qingbianmotuoche	2627
 kiyosumi_school_uniform	清澄高中校服	qingchenggaozhongxiaofu	3184
+__prompt__:cyan and orange color scheme	青＋橙配色〔通用短语〕	qingchengpeise	10000
 qingdai_guanmao	清代官帽	qingdaiguanmao	3795
 pouring	倾倒	qingdao	3966
 pouring_onto_another	倾倒在他人身上	qingdaozaitarenshenshang	2583
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingfenhongpeise	10000
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingfenpeise	10000
 blue_oni	青鬼	qinggui	3040
 shawl_lapels	青果领	qingguoling	2592
 seigaiha	青海波	qinghaibo	3570
+__prompt__:cyan and black color scheme	青＋黑配色〔通用短语〕	qingheipeise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qinghepeise	10000
+__prompt__:cyan and red color scheme	青＋红配色〔通用短语〕	qinghongpeise	10000
 qinghua_(porcelain)	青花瓷	qinghuaci	2288
+__prompt__:cyan and yellow color scheme	青＋黄配色〔通用短语〕	qinghuangpeise	10000
+__prompt__:cyan and gray color scheme	青＋灰配色〔通用短语〕	qinghuipeise	10000
 bell_pepper	青椒	qingjiao	2984
 green_bell_pepper	青椒	qingjiao	2621
 bell_pepper_slice	青椒切片	qingjiaoqiepian	2147
@@ -11623,6 +12211,7 @@ veiny_hands	青筋暴起的手	qingjinbaoqideshou	3229
 veiny_thighs	青筋大腿	qingjindatui	2668
 veiny_testicles	青筋睾丸	qingjingaowan	2589
 veiny_crotch	青筋胯下	qingjinkuaxia	2353
+__prompt__:cyan and gold color scheme	青＋金配色〔通用短语〕	qingjinpeise	10000
 veiny_breasts	青筋乳	qingjinru	3716
 veiny_arms	青筋手臂	qingjinshoubi	3765
 veiny_penis	青筋阴茎	qingjinyinjing	4636
@@ -11631,9 +12220,11 @@ sake	清酒	qingjiu	3946
 sake_bottle	清酒瓶	qingjiuping	3738
 clear_sky	晴空	qingkong	3438
 aozora_middle_school_uniform	青空中学校制服	qingkongzhongxuexiaozhifu	2381
+__prompt__:cyan and blue color scheme	青＋蓝配色〔通用短语〕	qinglanpeise	10000
 single_tear	清泪一滴	qingleiyidi	3321
 cleaning_pool	清理泳池	qingliyongchi	2522
 couple	情侣	qinglv	5014
+__prompt__:cyan and green color scheme	青＋绿配色〔通用短语〕	qinglvpeise	10000
 aqua_bikini	青绿色比基尼	qinglvsebijini	3770
 matching_outfits	情侣装	qinglvzhuang	3772
 disdain	轻蔑	qingmie	2621
@@ -11643,12 +12234,45 @@ lime_(fruit)	青柠	qingning	3202
 lime_hair_ornament	青柠发饰	qingningfashi	2171
 lime_slice	青柠片	qingningpian	3090
 bow_(music)	琴弓	qingong	3661
+__prompt__:cyan	青色〔通用短语〕	qingpeise	10000
 green_apple	青苹果	qingpingguo	2775
 request_inset	请求插图	qingqiuchatu	3868
 requesting_internal_cumshot	请求内射	qingqiuneishe	3133
 love_hotel	情趣酒店	qingqujiudian	2920
 valentine	情人节	qingrenjie	4470
 happy_valentine	情人节快乐	qingrenjiekuaile	3796
+__prompt__:cyan	青色〔通用短语〕	qingse	10000
+__prompt__:cyan and white color scheme	青＋白配色〔通用短语〕	qingsebaisepeise	10000
+__prompt__:cyan and orange color scheme	青＋橙配色〔通用短语〕	qingsechengsepeise	10000
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingsefenhongsepeise	10000
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingsefensepeise	10000
+__prompt__:cyan and black color scheme	青＋黑配色〔通用短语〕	qingseheisepeise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qingsehesepeise	10000
+__prompt__:cyan and red color scheme	青＋红配色〔通用短语〕	qingsehongsepeise	10000
+__prompt__:cyan and yellow color scheme	青＋黄配色〔通用短语〕	qingsehuangsepeise	10000
+__prompt__:cyan and gray color scheme	青＋灰配色〔通用短语〕	qingsehuisepeise	10000
+__prompt__:cyan and gold color scheme	青＋金配色〔通用短语〕	qingsejinsepeise	10000
+__prompt__:cyan and blue color scheme	青＋蓝配色〔通用短语〕	qingselansepeise	10000
+__prompt__:cyan and green color scheme	青＋绿配色〔通用短语〕	qingselvsepeise	10000
+__prompt__:cyan	青色〔通用短语〕	qingsepeise	10000
+__prompt__:cyan and silver color scheme	青＋银配色〔通用短语〕	qingseyinsepeise	10000
+__prompt__:cyan and white color scheme	青＋白配色〔通用短语〕	qingseyubaise	10000
+__prompt__:cyan and orange color scheme	青＋橙配色〔通用短语〕	qingseyuchengse	10000
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingseyufenhongse	10000
+__prompt__:cyan and pink color scheme	青＋粉配色〔通用短语〕	qingseyufense	10000
+__prompt__:cyan and black color scheme	青＋黑配色〔通用短语〕	qingseyuheise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qingseyuhese	10000
+__prompt__:cyan and red color scheme	青＋红配色〔通用短语〕	qingseyuhongse	10000
+__prompt__:cyan and yellow color scheme	青＋黄配色〔通用短语〕	qingseyuhuangse	10000
+__prompt__:cyan and gray color scheme	青＋灰配色〔通用短语〕	qingseyuhuise	10000
+__prompt__:cyan and gold color scheme	青＋金配色〔通用短语〕	qingseyujinse	10000
+__prompt__:cyan and blue color scheme	青＋蓝配色〔通用短语〕	qingseyulanse	10000
+__prompt__:cyan and green color scheme	青＋绿配色〔通用短语〕	qingseyulvse	10000
+__prompt__:cyan and silver color scheme	青＋银配色〔通用短语〕	qingseyuyinse	10000
+__prompt__:cyan and purple color scheme	青＋紫配色〔通用短语〕	qingseyuzise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qingseyuzongse	10000
+__prompt__:cyan and purple color scheme	青＋紫配色〔通用短语〕	qingsezisepeise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qingsezongsepeise	10000
 aogami_high_school_uniform	青神高校制服	qingshengaoxiaozhifu	2529
 aoshidan_school_uniform	青师团学园制服	qingshituanxueyuanzhifu	2642
 love_letter	情书	qingshu	3523
@@ -11673,9 +12297,12 @@ leaning	倾斜站立	qingxiezhanli	3835
 qingxin_flower	清心	qingxin	2975
 kei_truck	轻型货车	qingxinghuoche	2828
 emo_fashion	情绪摇滚风	qingxuyaogunfeng	3167
+__prompt__:cyan and silver color scheme	青＋银配色〔通用短语〕	qingyinpeise	10000
 mackerel_(fish)	鲭鱼	qingyu	2185
 celebration	庆祝	qingzhu	2809
 kei_car	轻自动车	qingzidongche	2248
+__prompt__:cyan and purple color scheme	青＋紫配色〔通用短语〕	qingzipeise	10000
+__prompt__:cyan and brown color scheme	青＋棕配色〔通用短语〕	qingzongpeise	10000
 riding_bird	骑鸟	qiniao	2473
 affectionate	亲昵	qinni	3277
 kissing_back	亲吻背部	qinwenbeibu	2386
@@ -17754,6 +18381,8 @@ elizabeth_tower	伊丽莎白塔	yilishabaita	2626
 pterosaur	翼龙	yilong	2500
 pony_express_uniform	驿马快信制服	yimakuaixinzhifu	2304
 coat_rack	衣帽架	yimaojia	2503
+__prompt__:silver	银色〔通用短语〕	yin	10000
+__prompt__:silver and white color scheme	银＋白配色〔通用短语〕	yinbaipeise	10000
 silver_trim	银边	yinbian	3359
 stealth_flashing	隐蔽暴露	yinbibaolu	2792
 stealth_fellatio	隐蔽口交	yinbikoujiao	2590
@@ -17769,6 +18398,7 @@ ofuda_on_pussy	阴部贴符	yinbutiefu	2943
 pussy_peek	阴部微露	yinbuweilu	3955
 mole_on_pussy	阴部痣	yinbuzhi	3113
 hidden_camera	隐藏摄像机	yincangshexiangji	2771
+__prompt__:silver and orange color scheme	银＋橙配色〔通用短语〕	yinchengpeise	10000
 labia_piercing	阴唇穿孔	yinchunchuankong	2762
 labia_ring	阴唇环	yinchunhuan	2605
 between_labia	阴唇间	yinchunjian	2808
@@ -17811,6 +18441,8 @@ paizuri_under_clothes	衣内乳交	yineirujiao	3892
 tail_under_clothes	衣内尾巴	yineiweiba	2882
 masturbation_under_clothes	衣内自慰	yineiziwei	3218
 silver_earrings	银耳环	yinerhuan	3023
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinfenhongpeise	10000
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinfenpeise	10000
 musical_note	音符	yinfu	4899
 mons_pubis	阴阜	yinfu	2973
 musical_note_background	音符背景	yinfubeijing	2223
@@ -17877,6 +18509,9 @@ team_galactic	银河队	yinhedui	2742
 galaxy_team_survey_corps_uniform	银河队调查组制服	yinheduidiaochazuzhifu	3259
 galaxy_expedition_team_survey_corps_uniform	银河队调查组制服	yinheduidiaochazuzhifu	3229
 team_galactic_uniform	银河队制服	yinheduizhifu	2500
+__prompt__:silver and black color scheme	银＋黑配色〔通用短语〕	yinheipeise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinhepeise	10000
+__prompt__:silver and red color scheme	银＋红配色〔通用短语〕	yinhongpeise	10000
 long-tailed_tit	银喉长尾山雀	yinhouzhangweishanque	2940
 print_bag	印花包	yinhuabao	2490
 print_pillow	印花抱枕	yinhuabaozhen	2587
@@ -17920,6 +18555,7 @@ print_sweater	印花毛衣	yinhuamaoyi	3212
 print_male_underwear	印花男式内裤	yinhuananshineiku	2645
 print_male_swimwear	印花男士泳装	yinhuananshiyongzhuang	2288
 print_panties	印花内裤	yinhuaneiku	4089
+__prompt__:silver and yellow color scheme	银＋黄配色〔通用短语〕	yinhuangpeise	10000
 print_cape	印花披风	yinhuapifeng	2844
 print_skirt	印花裙	yinhuaqun	4075
 print_pasties	印花乳贴	yinhuarutie	2223
@@ -17949,6 +18585,7 @@ print_umbrella	印花雨伞	yinhuayusan	2518
 print_haori	印花羽织	yinhuayuzhi	3296
 print_tabard	印花罩衫	yinhuazhaoshan	2275
 print_fan	印花折扇	yinhuazheshan	2377
+__prompt__:silver and gray color scheme	银＋灰配色〔通用短语〕	yinhuipeise	10000
 implied_handjob	隐晦手淫	yinhuishouyin	2763
 cuntboy	阴户男孩	yinhunanhai	3052
 stealth_sex	隐奸	yinjian	3426
@@ -17987,6 +18624,8 @@ penis_peek	阴茎微露	yinjingweilu	3384
 penis_shadow	阴茎阴影	yinjingyinying	3121
 penis_on_face	阴茎在脸上	yinjingzailianshang	3950
 penis_over_eyes	阴茎遮眼	yinjingzheyan	3315
+__prompt__:silver and gold color scheme	银＋金配色〔通用短语〕	yinjinpeise	10000
+__prompt__:silver and blue color scheme	银＋蓝配色〔通用短语〕	yinlanpeise	10000
 silver_chain	银链	yinlian	2388
 shade	阴凉处	yinliangchu	4368
 volume_symbol	音量图标	yinliangtubiao	2156
@@ -17994,6 +18633,7 @@ anemone_(flower)	银莲花	yinlianhua	3217
 drink	饮料	yinliao	4559
 drink_can	饮料罐	yinliaoguan	4296
 spilled_drink	饮料洒出	yinliaosachu	2299
+__prompt__:silver and green color scheme	银＋绿配色〔通用短语〕	yinlvpeise	10000
 pubic_hair	阴毛	yinmao	5290
 hair_on_penis	阴毛	yinmao	2261
 pubic_stubble	阴毛茬	yinmaocha	3222
@@ -18011,20 +18651,37 @@ drinking_pee	饮尿	yinniao	2558
 indonesian_clothes	印尼传统服饰	yinnichuantongfushi	2308
 indonesian_high_school_uniform	印尼高中制服	yinnigaozhongzhifu	2610
 indonesian_text	印尼语文本	yinniyuwenben	2755
+__prompt__:silver	银色〔通用短语〕	yinpeise	10000
 audio_jack	音频插孔	yinpinchakong	3093
 audio_visualizer	音频可视化	yinpinkeshihua	2299
 audio_cable	音频线	yinpinxian	2321
 inseki	姻戚	yinqi	3258
 engine	引擎	yinqing	2844
 open_car_hood	引擎盖开启	yinqinggaikaiqi	2153
+__prompt__:silver and cyan color scheme	银＋青配色〔通用短语〕	yinqingpeise	10000
+__prompt__:silver	银色〔通用短语〕	yinse	10000
+__prompt__:silver and white color scheme	银＋白配色〔通用短语〕	yinsebaisepeise	10000
 silver_bikini	银色比基尼	yinsebijini	2888
+__prompt__:silver and orange color scheme	银＋橙配色〔通用短语〕	yinsechengsepeise	10000
 silver_hairband	银色发箍	yinsefagu	3065
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinsefenhongsepeise	10000
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinsefensepeise	10000
+__prompt__:silver and black color scheme	银＋黑配色〔通用短语〕	yinseheisepeise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinsehesepeise	10000
+__prompt__:silver and red color scheme	银＋红配色〔通用短语〕	yinsehongsepeise	10000
+__prompt__:silver and yellow color scheme	银＋黄配色〔通用短语〕	yinsehuangsepeise	10000
+__prompt__:silver and gray color scheme	银＋灰配色〔通用短语〕	yinsehuisepeise	10000
 silver_bracer	银色护腕	yinsehuwan	2570
+__prompt__:silver and gold color scheme	银＋金配色〔通用短语〕	yinsejinsepeise	10000
 silver_armor	银色铠甲	yinsekaijia	2589
+__prompt__:silver and blue color scheme	银＋蓝配色〔通用短语〕	yinselansepeise	10000
 silver_sandals	银色凉鞋	yinseliangxie	2325
 silver_bodysuit	银色连体衣	yinseliantiyi	2390
 silver_dress	银色礼服	yinselifu	3122
+__prompt__:silver and green color scheme	银＋绿配色〔通用短语〕	yinselvsepeise	10000
+__prompt__:silver	银色〔通用短语〕	yinsepeise	10000
 silver_skin	银色皮肤	yinsepifu	3170
+__prompt__:silver and cyan color scheme	银＋青配色〔通用短语〕	yinseqingsepeise	10000
 silver_gloves	银色手套	yinseshoutao	2345
 silver_tiara	银色头冠	yinsetouguan	2801
 silver_circlet	银色头环	yinsetouhuan	2497
@@ -18032,7 +18689,24 @@ silver_thighlet	银色腿环	yinsetuihuan	2150
 silver_choker	银色项圈	yinsexiangquan	2613
 silver_shoes	银色鞋子	yinsexiezi	2615
 silver_belt	银色腰带	yinseyaodai	2504
+__prompt__:silver and white color scheme	银＋白配色〔通用短语〕	yinseyubaise	10000
+__prompt__:silver and orange color scheme	银＋橙配色〔通用短语〕	yinseyuchengse	10000
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinseyufenhongse	10000
+__prompt__:silver and pink color scheme	银＋粉配色〔通用短语〕	yinseyufense	10000
+__prompt__:silver and black color scheme	银＋黑配色〔通用短语〕	yinseyuheise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinseyuhese	10000
+__prompt__:silver and red color scheme	银＋红配色〔通用短语〕	yinseyuhongse	10000
+__prompt__:silver and yellow color scheme	银＋黄配色〔通用短语〕	yinseyuhuangse	10000
+__prompt__:silver and gray color scheme	银＋灰配色〔通用短语〕	yinseyuhuise	10000
+__prompt__:silver and gold color scheme	银＋金配色〔通用短语〕	yinseyujinse	10000
+__prompt__:silver and blue color scheme	银＋蓝配色〔通用短语〕	yinseyulanse	10000
+__prompt__:silver and green color scheme	银＋绿配色〔通用短语〕	yinseyulvse	10000
+__prompt__:silver and cyan color scheme	银＋青配色〔通用短语〕	yinseyuqingse	10000
+__prompt__:silver and purple color scheme	银＋紫配色〔通用短语〕	yinseyuzise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinseyuzongse	10000
 silver_nails	银色指甲	yinsezhijia	2409
+__prompt__:silver and purple color scheme	银＋紫配色〔通用短语〕	yinsezisepeise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinsezongsepeise	10000
 invisible	隐身	yinshen	3130
 implied_tail_plug	隐式尾巴塞	yinshiweibasai	2440
 silver_bracelet	银手镯	yinshouzhuo	2942
@@ -18072,6 +18746,8 @@ bard	吟游诗人	yinyoushiren	2520
 ink_stamp	印章	yinzhang	2535
 seal_impression	印章印记	yinzhangyinji	3220
 silver_armlet	银质臂环	yinzhibihuan	2917
+__prompt__:silver and purple color scheme	银＋紫配色〔通用短语〕	yinzipeise	10000
+__prompt__:silver and brown color scheme	银＋棕配色〔通用短语〕	yinzongpeise	10000
 poinsettia	一品红	yipinhong	2751
 sleeping_on_person	依人而眠	yirenermian	3680
 alternate_color	异色	yise	4547
@@ -19609,9 +20285,12 @@ pillar	柱子	zhuzi	4118
 bead_armlet	珠子臂环	zhuzibihuan	2355
 bead_choker	珠子项圈	zhuzixiangquan	3076
 bamboo_print	竹子印花	zhuziyinhua	2813
+__prompt__:purple	紫色〔通用短语〕	zi	10000
+__prompt__:purple and white color scheme	紫＋白配色〔通用短语〕	zibaipeise	10000
 purple_gem	紫宝石	zibaoshi	3969
 self-harm	自残	zican	3447
 self-harm_scar	自残伤痕	zicanshanghen	3296
+__prompt__:purple and orange color scheme	紫＋橙配色〔通用短语〕	zichengpeise	10000
 bullet	子弹	zidan	3860
 bullet_earrings	子弹耳环	zidanerhuan	2499
 bullet_necklace	子弹项链	zidanxianglian	2420
@@ -19623,6 +20302,8 @@ autocannon	自动机炮	zidongjipao	2637
 mechanical_pencil	自动铅笔	zidongqianbi	3455
 automaton_(object)	自动人偶	zidongrenou	2199
 purple_hair	紫发	zifa	10000
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	zifenhongpeise	10000
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	zifenpeise	10000
 self_bondage	自缚	zifu	2335
 uterus	子宫	zigong	4087
 womb_massage	子宫按摩	zigonganmo	2524
@@ -19632,16 +20313,24 @@ uterus_pose	子宫手势	zigongshoushi	2177
 selfcest	自攻自受	zigongzishou	3695
 purple_light	紫光	ziguang	2302
 proud	自豪	zihao	2327
+__prompt__:purple and black color scheme	紫＋黑配色〔通用短语〕	ziheipeise	10000
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	zihepeise	10000
+__prompt__:purple and red color scheme	紫＋红配色〔通用短语〕	zihongpeise	10000
+__prompt__:purple and yellow color scheme	紫＋黄配色〔通用短语〕	zihuangpeise	10000
+__prompt__:purple and gray color scheme	紫＋灰配色〔通用短语〕	zihuipeise	10000
 purple_fire	紫火	zihuo	3614
 self_hug	自己抱自己	zijibaoziji	3146
 drying_own_hair	自己擦头发	zijicatoufa	3245
 braiding_own_hair	自己给自己编发	zijigeizijibianfa	2596
 applying_own_makeup	自己化妆	zijihuazhuang	3237
 self_milking	自挤奶	zijinai	2398
+__prompt__:purple and gold color scheme	紫＋金配色〔通用短语〕	zijinpeise	10000
 digging_your_own_grave	自掘坟墓	zijuefenmu	3535
 genderswap_aware	自觉性别转换	zijuexingbiezhuanhuan	2165
 purple-framed_eyewear	紫框眼镜	zikuangyanjing	3317
+__prompt__:purple and blue color scheme	紫＋蓝配色〔通用短语〕	zilanpeise	10000
 narcissism	自恋	zilian	2400
+__prompt__:purple and green color scheme	紫＋绿配色〔通用短语〕	zilvpeise	10000
 purple_cat	紫猫	zimao	2727
 purple_rose	紫玫瑰	zimeigui	4001
 too_literal	字面意思	zimianyisi	2981
@@ -19651,10 +20340,14 @@ fansub	字幕组	zimuzu	2150
 selfie	自拍	zipai	4518
 selfie_stick	自拍杆	zipaigan	3098
 self-pornography	自拍色情	zipaiseqing	2196
+__prompt__:purple	紫色〔通用短语〕	zipeise	10000
+__prompt__:purple and cyan color scheme	紫＋青配色〔通用短语〕	ziqingpeise	10000
 nature	自然	ziran	4837
 autoarousal	自然潮吹	ziranchaochui	2772
 landscape	自然风景	ziranfengjing	4019
 natural_wedgie	自然卡裆	zirankadang	2996
+__prompt__:purple	紫色〔通用短语〕	zise	10000
+__prompt__:purple and white color scheme	紫＋白配色〔通用短语〕	zisebaisepeise	10000
 purple_bag	紫色包	zisebao	3202
 purple_overalls	紫色背带裤	zisebeidaiku	2622
 purple_background	紫色背景	zisebeijing	10000
@@ -19664,6 +20357,7 @@ purple_bikini	紫色比基尼	zisebijini	4378
 purple_armband	紫色臂章	zisebizhang	3129
 purple_buruma	紫色布鲁马	zisebuluma	2665
 purple_robe	紫色长袍	zisechangpao	3367
+__prompt__:purple and orange color scheme	紫＋橙配色〔通用短语〕	zisechengsepeise	10000
 purple_shirt	紫色衬衫	zisechenshan	10000
 purple_wings	紫色翅膀	zisechibang	3969
 purple_slingshot_swimsuit	紫色弹弓泳衣	zisedangongyongyi	2714
@@ -19679,16 +20373,23 @@ purple_shrug	紫色短罩衫	ziseduanzhaoshan	2699
 purple_headband	紫色发带	zisefadai	3079
 purple_hairband	紫色发箍	zisefagu	4070
 purple_scrunchie	紫色发圈	zisefaquan	3496
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	zisefenhongsepeise	10000
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	zisefensepeise	10000
 purple_sclera	紫色巩膜	zisegongmo	3095
 purple_halo	紫色光环	ziseguanghuan	4150
 purple_trim	紫色滚边	zisegunbian	3401
 purple_thighhighs	紫色过膝袜	ziseguoxiwa	4487
 purple_hanfu	紫色汉服	zisehanfu	2645
 purple_kimono	紫色和服	zisehefu	4353
+__prompt__:purple and black color scheme	紫＋黑配色〔通用短语〕	ziseheisepeise	10000
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	zisehesepeise	10000
+__prompt__:purple and red color scheme	紫＋红配色〔通用短语〕	zisehongsepeise	10000
 purple_petals	紫色花瓣	zisehuaban	2960
 purple_flower	紫色花朵	zisehuaduo	4740
+__prompt__:purple and yellow color scheme	紫＋黄配色〔通用短语〕	zisehuangsepeise	10000
 purple_butterfly	紫色蝴蝶	zisehudie	3510
 purple_bow	紫色蝴蝶结	zisehudiejie	4849
+__prompt__:purple and gray color scheme	紫＋灰配色〔通用短语〕	zisehuisepeise	10000
 purple_wrist_cuffs	紫色护腕	zisehuwan	3018
 purple_facial_hair	紫色胡须	zisehuxu	2454
 purple_jacket	紫色夹克	zisejiake	4522
@@ -19696,12 +20397,14 @@ purple_horns	紫色角	zisejiao	3774
 purple_theme	紫色基调	zisejidiao	4145
 purple-tinted_eyewear	紫色镜片眼镜	zisejingpianyanjing	3798
 purple_choker	紫色颈圈	zisejingquan	3946
+__prompt__:purple and gold color scheme	紫＋金配色〔通用短语〕	zisejinsepeise	10000
 purple_leggings	紫色紧身裤	zisejinshenku	2633
 purple_bodysuit	紫色紧身连体衣	zisejinshenliantiyi	3830
 purple_armor	紫色铠甲	zisekaijia	3289
 purple_cardigan	紫色开衫	zisekaishan	3486
 purple_hakama	紫色袴	ziseku	3208
 purple_pants	紫色裤子	zisekuzi	4009
+__prompt__:purple and blue color scheme	紫＋蓝配色〔通用短语〕	ziselansepeise	10000
 purple_sandals	紫色凉鞋	ziseliangxie	2890
 purple_pantyhose	紫色连裤袜	ziseliankuwa	4105
 purple_hoodie	紫色连帽衫	ziselianmaoshan	3668
@@ -19716,6 +20419,7 @@ purple_ascot	紫色领巾	ziselingjin	3614
 purple_neckerchief	紫色领巾	ziselingjin	3585
 purple_scales	紫色鳞片	ziselinpian	2576
 purple_outline	紫色轮廓	ziselunkuo	3040
+__prompt__:purple and green color scheme	紫＋绿配色〔通用短语〕	ziselvsepeise	10000
 purple_vest	紫色马甲	zisemajia	4020
 purple_fur	紫色毛皮	zisemaopi	3678
 purple_sweater	紫色毛衣	zisemaoyi	3813
@@ -19726,10 +20430,12 @@ purple_veil	紫色面纱	zisemiansha	3555
 purple_tube_top	紫色抹胸	zisemoxiong	2486
 purple_male_underwear	紫色男式内衣	zisenanshineiyi	2358
 purple_panties	紫色内裤	ziseneiku	4279
+__prompt__:purple	紫色〔通用短语〕	zisepeise	10000
 purple_cape	紫色披风	zisepifeng	3961
 purple_skin	紫色皮肤	zisepifu	4280
 purple_shawl	紫色披肩	zisepijian	2819
 purple_aura	紫色气场	ziseqichang	2377
+__prompt__:purple and cyan color scheme	紫＋青配色〔通用短语〕	ziseqingsepeise	10000
 purple_skirt	紫色裙子	zisequnzi	10000
 purple_bonnet	紫色软帽	ziseruanmao	2644
 purple_nipples	紫色乳头	ziserutou	2832
@@ -19777,13 +20483,30 @@ purple_liquid	紫色液体	ziseyeti	2433
 purple_pussy	紫色阴部	ziseyinbu	2275
 purple_penis	紫色阴茎	ziseyinjing	2261
 purple_pubic_hair	紫色阴毛	ziseyinmao	3114
+__prompt__:purple and silver color scheme	紫＋银配色〔通用短语〕	ziseyinsepeise	10000
+__prompt__:purple and white color scheme	紫＋白配色〔通用短语〕	ziseyubaise	10000
+__prompt__:purple and orange color scheme	紫＋橙配色〔通用短语〕	ziseyuchengse	10000
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	ziseyufenhongse	10000
+__prompt__:purple and pink color scheme	紫＋粉配色〔通用短语〕	ziseyufense	10000
+__prompt__:purple and black color scheme	紫＋黑配色〔通用短语〕	ziseyuheise	10000
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	ziseyuhese	10000
+__prompt__:purple and red color scheme	紫＋红配色〔通用短语〕	ziseyuhongse	10000
+__prompt__:purple and yellow color scheme	紫＋黄配色〔通用短语〕	ziseyuhuangse	10000
+__prompt__:purple and gray color scheme	紫＋灰配色〔通用短语〕	ziseyuhuise	10000
+__prompt__:purple and gold color scheme	紫＋金配色〔通用短语〕	ziseyujinse	10000
 purple_tulip	紫色郁金香	ziseyujinxiang	2407
+__prompt__:purple and blue color scheme	紫＋蓝配色〔通用短语〕	ziseyulanse	10000
+__prompt__:purple and green color scheme	紫＋绿配色〔通用短语〕	ziseyulvse	10000
 purple_track_suit	紫色运动服	ziseyundongfu	2162
 purple_sports_bra	紫色运动内衣	ziseyundongneiyi	2883
+__prompt__:purple and cyan color scheme	紫＋青配色〔通用短语〕	ziseyuqingse	10000
 purple_umbrella	紫色雨伞	ziseyusan	3733
+__prompt__:purple and silver color scheme	紫＋银配色〔通用短语〕	ziseyuyinse	10000
 purple_haori	紫色羽织	ziseyuzhi	2492
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	ziseyuzongse	10000
 purple_tabard	紫色罩衫	zisezhaoshan	3439
 purple_nails	紫色指甲	zisezhijia	4647
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	zisezongsepeise	10000
 purple_lips	紫色嘴唇	zisezuichun	4113
 suicide	自杀	zisha	3158
 attempted_suicide	自杀未遂	zishaweisui	2228
@@ -19817,6 +20540,7 @@ self-propelled_artillery	自行火炮	zixinghuopao	2231
 opening_own_clothes	自行解开衣物	zixingjiekaiyiwu	3372
 opened_by_self	自行解开衣物	zixingjiekaiyiwu	3331
 purple_eyes	紫眼	ziyan	10000
+__prompt__:purple and silver color scheme	紫＋银配色〔通用短语〕	ziyinpeise	10000
 statue_of_liberty	自由女神像	ziyounvshenxiang	2547
 freediving	自由潜水	ziyouqianshui	3321
 consensual_tentacles	自愿触手	ziyuanchushou	3277
@@ -19826,15 +20550,32 @@ mullet	鲻鱼头	ziyutou	3372
 ultra_instinct	自在极意功	zizaijiyigong	2698
 adhesive_bra	自粘胸罩	zizhanxiongzhao	2746
 laundromat	自助洗衣店	zizhuxiyidian	2798
+__prompt__:purple and brown color scheme	紫＋棕配色〔通用短语〕	zizongpeise	10000
 told_you_not_to_do_that	自作自受	zizuozishou	3475
+__prompt__:brown	棕色〔通用短语〕	zong	10000
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	zongbaipeise	10000
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	zongchengpeise	10000
 brown_hair	棕发	zongfa	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongfenhongpeise	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongfenpeise	10000
 all-out_attack	总攻击	zonggongji	2417
 mixed_martial_arts	综合格斗	zonghegedou	2261
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	zongheipeise	10000
 sepia	棕褐色	zonghese	4027
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	zonghongpeise	10000
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	zonghuangpeise	10000
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	zonghuipeise	10000
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	zongjinpeise	10000
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	zonglanpeise	10000
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	zonglvpeise	10000
 palm_tree	棕榈树	zonglvshu	4522
 palm_leaf	棕榈叶	zonglvye	3639
 brown_horse	棕马	zongma	2557
 mane	鬃毛	zongmao	3142
+__prompt__:brown	棕色〔通用短语〕	zongpeise	10000
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	zongqingpeise	10000
+__prompt__:brown	棕色〔通用短语〕	zongse	10000
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	zongsebaisepeise	10000
 brown_overalls	棕色背带裤	zongsebeidaiku	3020
 brown_background	棕色背景	zongsebeijing	10000
 brown_vest	棕色背心	zongsebeixin	4219
@@ -19844,6 +20585,7 @@ brown_bikini	棕色比基尼	zongsebijini	3475
 brown_arm_warmers	棕色臂套	zongsebitao	2548
 brown_armband	棕色臂章	zongsebizhang	2304
 brown_robe	棕色长袍	zongsechangpao	3159
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	zongsechengsepeise	10000
 brown_shirt	棕色衬衫	zongsechenshan	10000
 brown_wings	棕色翅膀	zongsechibang	3570
 brown_leggings	棕色打底裤	zongsedadiku	2457
@@ -19858,6 +20600,8 @@ brown_shorts	棕色短裤	zongseduanku	4348
 brown_headband	棕色发带	zongsefadai	2891
 brown_hairband	棕色发箍	zongsefagu	3763
 brown_scrunchie	棕色发圈	zongsefaquan	2768
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongsefenhongsepeise	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongsefensepeise	10000
 brown_sclera	棕色巩膜	zongsegongmo	2586
 brown_dog	棕色狗	zongsegou	2628
 brown_halo	棕色光环	zongseguanghuan	3494
@@ -19865,14 +20609,19 @@ brown_trim	棕色滚边	zongsegunbian	2569
 brown_hiphighs	棕色过胯长袜	zongseguokuachangwa	2526
 brown_thighhighs	棕色过膝袜	zongseguoxiwa	4547
 brown_kimono	棕色和服	zongsehefu	3675
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	zongseheisepeise	10000
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	zongsehongsepeise	10000
 brown_flower	棕色花	zongsehua	3185
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	zongsehuangsepeise	10000
 brown_bow	棕色蝴蝶结	zongsehudiejie	4109
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	zongsehuisepeise	10000
 brown_wrist_cuffs	棕色护腕	zongsehuwan	2241
 brown_facial_hair	棕色胡须	zongsehuxu	2458
 brown_jacket	棕色夹克	zongsejiake	4820
 brown_horns	棕色角	zongsejiao	3962
 brown-tinted_eyewear	棕色镜片眼镜	zongsejingpianyanjing	3080
 brown_choker	棕色颈圈	zongsejingquan	3461
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	zongsejinsepeise	10000
 brown_corset	棕色紧身胸衣	zongsejinshenxiongyi	3706
 brown_bodysuit	棕色紧身衣	zongsejinshenyi	3082
 brown_cardigan	棕色开衫	zongsekaishan	4363
@@ -19880,6 +20629,7 @@ brown_hakama	棕色袴	zongseku	2895
 brown-framed_eyewear	棕色框眼镜	zongsekuangyanjing	3596
 brown_armor	棕色盔甲	zongsekuijia	2834
 brown_pants	棕色裤子	zongsekuzi	4565
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	zongselansepeise	10000
 brown_sandals	棕色凉鞋	zongseliangxie	3905
 brown_pantyhose	棕色连裤袜	zongseliankuwa	4792
 brown_hoodie	棕色连帽衫	zongselianmaoshan	3522
@@ -19895,6 +20645,7 @@ brown_neckerchief	棕色领巾	zongselingjin	3229
 brown_ascot	棕色领巾	zongselingjin	3157
 brown_scales	棕色鳞片	zongselinpian	2231
 brown_outline	棕色轮廓	zongselunkuo	2578
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	zongselvsepeise	10000
 brown_cat	棕色猫	zongsemao	3178
 brown_fur	棕色毛皮	zongsemaopi	4255
 brown_sweater	棕色毛衣	zongsemaoyi	4339
@@ -19904,8 +20655,10 @@ brown_bandeau	棕色抹胸	zongsemoxiong	2409
 brown_male_underwear	棕色男式内裤	zongsenanshineiku	2405
 brown_panties	棕色内裤	zongseneiku	3344
 brown_bird	棕色鸟类	zongseniaolei	2177
+__prompt__:brown	棕色〔通用短语〕	zongsepeise	10000
 brown_cape	棕色披风	zongsepifeng	3794
 brown_shawl	棕色披肩	zongsepijian	3079
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	zongseqingsepeise	10000
 brown_skirt	棕色裙子	zongsequnzi	10000
 brown_bonnet	棕色软帽	zongseruanmao	2223
 brown_sash	棕色饰带	zongseshidai	3318
@@ -19935,17 +20688,35 @@ brown_boots	棕色靴子	zongsexuezi	4900
 brown_eyeshadow	棕色眼影	zongseyanying	2492
 brown_belt	棕色腰带	zongseyaodai	4704
 brown_pubic_hair	棕色阴毛	zongseyinmao	3110
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	zongseyinsepeise	10000
+__prompt__:brown and white color scheme	棕＋白配色〔通用短语〕	zongseyubaise	10000
+__prompt__:brown and orange color scheme	棕＋橙配色〔通用短语〕	zongseyuchengse	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongseyufenhongse	10000
+__prompt__:brown and pink color scheme	棕＋粉配色〔通用短语〕	zongseyufense	10000
+__prompt__:brown and black color scheme	棕＋黑配色〔通用短语〕	zongseyuheise	10000
+__prompt__:brown and red color scheme	棕＋红配色〔通用短语〕	zongseyuhongse	10000
+__prompt__:brown and yellow color scheme	棕＋黄配色〔通用短语〕	zongseyuhuangse	10000
+__prompt__:brown and gray color scheme	棕＋灰配色〔通用短语〕	zongseyuhuise	10000
+__prompt__:brown and gold color scheme	棕＋金配色〔通用短语〕	zongseyujinse	10000
+__prompt__:brown and blue color scheme	棕＋蓝配色〔通用短语〕	zongseyulanse	10000
+__prompt__:brown and green color scheme	棕＋绿配色〔通用短语〕	zongseyulvse	10000
 brown_sports_bra	棕色运动内衣	zongseyundongneiyi	2571
+__prompt__:brown and cyan color scheme	棕＋青配色〔通用短语〕	zongseyuqingse	10000
 brown_umbrella	棕色雨伞	zongseyusan	2221
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	zongseyuyinse	10000
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	zongseyuzise	10000
 brown_nails	棕色指甲	zongsezhijia	3383
 brown_theme	棕色主题	zongsezhuti	3702
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	zongsezisepeise	10000
 brown_lips	棕色嘴唇	zongsezuichun	3212
 brown_eyes	棕瞳	zongtong	6047
 sobu_high_school_uniform	总武高中校服	zongwugaozhongxiaofu	3289
 vertical_anus	纵向肛门	zongxianggangmen	2207
 brown_eyes	棕眼	zongyan	10000
 souya_high_school_uniform	总耶高中校服	zongyegaozhongxiaofu	2872
+__prompt__:brown and silver color scheme	棕＋银配色〔通用短语〕	zongyinpeise	10000
 zongzi	粽子	zongzi	2433
+__prompt__:brown and purple color scheme	棕＋紫配色〔通用短语〕	zongzipeise	10000
 wardrobe_malfunction	走光	zouguang	4071
 walking_away	走开	zoukai	2945
 hallway	走廊	zoulang	3817

@@ -26,7 +26,7 @@ import (
 var embedded embed.FS
 
 var bundled fs.FS = embedded
-var version = "0.2.1"
+var version = "0.2.2"
 var variant = "default"
 var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "lua/booru_filter.lua"}
 

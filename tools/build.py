@@ -5,6 +5,7 @@ import hashlib
 import json
 import re
 from pathlib import Path
+from general_phrases import merge
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -216,8 +217,9 @@ comic|漫画|manhua'''
     return rows
 
 
-def build(source=None):
+def build(source=None, output_dir=None):
     rows = list(csv.DictReader(source.open(encoding='utf-8-sig'), delimiter='\t')) if source else bootstrap()
+    rows = merge(rows)
     clean, seen = [], set()
     for row in rows:
         tag, zh, code = (row[k].strip() for k in ('tag','zh','code'))
@@ -232,9 +234,9 @@ def build(source=None):
             raise ValueError('weight must be nonnegative')
         clean.append(dict(tag=tag,zh=zh,code=code,weight=weight))
     clean.sort(key=lambda x:(x['code'],-x['weight'],x['tag']))
-    out = ROOT/'rime'
+    out = output_dir or ROOT/'rime'
     out.mkdir(parents=True,exist_ok=True)
-    lines = ['---','name: booru','version: "0.2.0"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
+    lines = ['---','name: booru','version: "0.2.2"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
     # Underlying dictionary retains canonical tags. Lua adds separators only when committing.
     lines.extend(f"{r['tag']}\t{r['code']}\t{r['weight']}" for r in clean)
     (out/'booru.dict.yaml').write_text('\n'.join(lines)+'\n',encoding='utf-8')
@@ -250,4 +252,6 @@ def build(source=None):
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--source',type=Path)
-    build(parser.parse_args().source)
+    parser.add_argument('--output-dir',type=Path)
+    args=parser.parse_args()
+    build(args.source,args.output_dir)

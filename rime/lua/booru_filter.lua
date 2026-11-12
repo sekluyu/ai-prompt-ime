@@ -13,8 +13,11 @@ function M.func(input, env)
     local label = env.labels[cand.text]
     if label then
       -- Escape literal parentheses/backslashes used by SD prompt parsers.
-      local text = cand.text:gsub('([\\()])', '\\%1')
-      if env.engine.context:get_option('booru_separator') then text = text .. ', ' end
+      local text = cand.text:gsub('^__prompt__:', ''):gsub('([\\()])', '\\%1')
+      if env.engine.context:get_option('booru_separator') then
+        text = text .. ','
+        if env.engine.context:get_option('booru_space') then text = text .. ' ' end
+      end
       local out = Candidate(cand.type, cand.start, cand._end, text, label)
       out.quality = cand.quality
       out.preedit = cand.preedit
