@@ -1,6 +1,8 @@
 # 更新记录
 
-## v0.2.2（待发布）
+## v0.2.2 — 2026-11-12
+
+[Release 与下载](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.2)
 
 - 新增14种常见颜色及双色配色，包含196条不同通用英文表达、771条拼音映射；默认与扩展库均加载，候选标明“〔通用短语〕”。
 - 支持“黄色→yellow”“白色→white”“黄白配色→yellow and white color scheme”，保留原有来源tag。
