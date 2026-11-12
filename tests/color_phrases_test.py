@@ -3,6 +3,7 @@ import importlib.util
 import json
 import os
 import sys
+from collections import defaultdict
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -14,24 +15,31 @@ m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 def main():
     engine=m.Engine()
     rows=color_rows()
+    meanings=defaultdict(set)
+    for row in rows:meanings[row['code']].add(row['tag'])
     try:
         for row in rows:
             engine.reset()
             for ch in row['code']: engine.key(ch)
-            candidates,_=engine.candidates()
             expected=row['tag'].removeprefix(PREFIX)+', '
-            assert candidates and candidates[0]['text']==expected,(row,candidates[:3])
-            assert candidates[0]['comment']==row['zh'],(row,candidates[0])
-            engine.key(' ')
+            for page in range(100):
+                candidates,last=engine.candidates()
+                found=next((i for i,c in enumerate(candidates) if c['text']==expected and c['comment']==row['zh']),None)
+                if found is not None:break
+                if last:raise AssertionError((row,candidates))
+                engine.key('=')
+            else:raise AssertionError(('too many candidates',row))
+            if len(meanings[row['code']])==1:assert page==0 and found==0,(row,candidates[:3])
+            engine.key(str(found+1))
             assert engine.commit()==expected,row
-        # Exercise the actual configured Control+Shift+comma binding, not just set_option.
+        # Exercise the actual configured Control+Alt+F9 binding, not just set_option.
         engine.reset()
-        engine.call('process_key',m.I,[m.ID,m.I,m.I],engine.sid,ord(','),5)
+        engine.call('process_key',m.I,[m.ID,m.I,m.I],engine.sid,0xffc6,12)
         assert not engine.call('get_option',m.I,[m.ID,m.S],engine.sid,b'booru_space')
         for ch in 'huangbaipeise': engine.key(ch)
         engine.key(' ')
         assert engine.commit()=='yellow and white color scheme,'
-        engine.call('process_key',m.I,[m.ID,m.I,m.I],engine.sid,ord(','),5)
+        engine.call('process_key',m.I,[m.ID,m.I,m.I],engine.sid,0xffc6,12)
         assert engine.call('get_option',m.I,[m.ID,m.S],engine.sid,b'booru_space')
         for ch in 'huangse': engine.key(ch)
         engine.key(' ')
@@ -40,7 +48,7 @@ def main():
         for ch in 'baise': engine.key(ch)
         engine.key(' ')
         assert engine.commit()=='white'
-        report=dict(status='PASS',color_mappings=len(rows),general_phrases=len({r['tag'] for r in rows}),checks=['all generated spellings first candidate + marked comment + actual selection','real Control+Shift+comma switches only trailing space','comma retained when space disabled','plain mode retained'],source_variant=os.environ.get('BOORU_TEST_VARIANT','default'))
+        report=dict(status='PASS',color_mappings=len(rows),general_phrases=len({r['tag'] for r in rows}),ambiguous_color_codes=sum(len(tags)>1 for tags in meanings.values()),checks=['all generated spellings: marked comment + actual selection; unique color codes first candidate, ambiguous codes selectable','real Control+Alt+F9 switches only trailing space','comma retained when space disabled','plain mode retained'],source_variant=os.environ.get('BOORU_TEST_VARIANT','default'))
         target=ROOT/'validation/gpt'/('color-test-'+report['source_variant']+'.json')
         target.write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
         print(json.dumps(report,ensure_ascii=False))

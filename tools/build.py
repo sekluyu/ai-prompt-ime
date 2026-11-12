@@ -217,33 +217,49 @@ comic|漫画|manhua'''
     return rows
 
 
-def build(source=None, output_dir=None):
+def build(source=None, output_dir=None, variant='searchable'):
     rows = list(csv.DictReader(source.open(encoding='utf-8-sig'), delimiter='\t')) if source else bootstrap()
-    rows = merge(rows)
-    clean, seen = [], set()
+    rows = merge(rows,variant)
+    merged = {}
+    seen_source_keys = set()
+    duplicate_rows = 0
     for row in rows:
         tag, zh, code = (row[k].strip() for k in ('tag','zh','code'))
         if not re.fullmatch('[a-z]+', code) or any(c in tag+zh for c in '\t\r\n') or not tag or not zh:
             raise ValueError(f'Invalid row: {row!r}')
-        key = (tag,code)
-        if key in seen:
-            continue
-        seen.add(key)
         weight=int(row['weight'])
         if weight < 0:
             raise ValueError('weight must be nonnegative')
-        clean.append(dict(tag=tag,zh=zh,code=code,weight=weight))
+        source_key=(tag,code)
+        if source_key in seen_source_keys:
+            continue
+        seen_source_keys.add(source_key)
+        text=tag.removeprefix('__prompt__:')
+        key=(code,text)
+        item=dict(tag=tag,zh=zh,code=code,weight=weight)
+        if key not in merged:
+            merged[key]=item
+        else:
+            duplicate_rows+=1
+            old=merged[key]
+            # Keep the canonical source key where one exists. User-facing
+            # spelling and every distinct pinyin entry remain unchanged.
+            canonical=text if text in (old['tag'],tag) else old['tag']
+            if (weight,'〔' in zh) > (old['weight'],'〔' in old['zh']):
+                merged[key]=item
+            merged[key]['tag']=canonical
+    clean=list(merged.values())
     clean.sort(key=lambda x:(x['code'],-x['weight'],x['tag']))
     out = output_dir or ROOT/'rime'
     out.mkdir(parents=True,exist_ok=True)
-    lines = ['---','name: booru','version: "0.2.2"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
-    # Underlying dictionary retains canonical tags. Lua adds separators only when committing.
+    lines = ['---','name: booru','version: "0.2.3"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
+    # Source tags keep their keys; project phrases use a private output prefix.
     lines.extend(f"{r['tag']}\t{r['code']}\t{r['weight']}" for r in clean)
     (out/'booru.dict.yaml').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     with (out/'booru.tsv').open('w',encoding='utf-8',newline='') as f:
         writer=csv.DictWriter(f,fieldnames=['tag','zh','code','weight'],delimiter='\t',lineterminator='\n')
         writer.writeheader(); writer.writerows(clean)
-    report=dict(source=str(source) if source else 'GPT curated bootstrap (not ffdkj full data)',rows=len(clean),unique_tags=len({r['tag'] for r in clean}),sha256=hashlib.sha256((out/'booru.tsv').read_bytes()).hexdigest())
+    report=dict(source=str(source) if source else 'GPT curated bootstrap (not ffdkj full data)',rows=len(clean),unique_tags=len({r['tag'] for r in clean}),merged_duplicate_rows=duplicate_rows,sha256=hashlib.sha256((out/'booru.tsv').read_bytes()).hexdigest())
     report_dir=ROOT/'validation/gpt'
     report_dir.mkdir(parents=True,exist_ok=True)
     (report_dir/'build.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
@@ -253,5 +269,6 @@ def build(source=None, output_dir=None):
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--source',type=Path)
     parser.add_argument('--output-dir',type=Path)
+    parser.add_argument('--variant',choices=['default','searchable'],default='searchable',help='Complete corpus by default; default selects the historical smaller import scope')
     args=parser.parse_args()
-    build(args.source,args.output_dir)
+    build(args.source,args.output_dir,args.variant)

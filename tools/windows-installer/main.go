@@ -26,7 +26,7 @@ import (
 var embedded embed.FS
 
 var bundled fs.FS = embedded
-var version = "0.2.2"
+var version = "0.2.3"
 var variant = "default"
 var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "lua/booru_filter.lua"}
 
@@ -333,9 +333,17 @@ func run(args []string) error {
 	if err != nil {
 		return err
 	}
-	fmt.Println("Installed scheme files only. 方案安装完成；未安装或替换小狼毫。")
-	fmt.Println("Backup / rollback manifest: " + path)
-	fmt.Println("请右键小狼毫托盘图标 → 重新部署，再按 F4 选择“绘画提示词”。")
+	fmt.Println("【安装成功】绘画提示词文件已复制到小狼毫用户文件夹。")
+	kind := "默认词库"
+	if variant == "searchable" {
+		kind = "扩展词库"
+	}
+	fmt.Printf("本次安装：v%s · %s\n\n", version, kind)
+	fmt.Println("【请完成最后一步，让新版本生效】")
+	fmt.Println("1. 右键点击任务栏右下角的小狼毫图标，选择“重新部署”。")
+	fmt.Println("2. 等待部署完成后，按 F4，选择“绘画提示词”即可使用。")
+	fmt.Println("\n这是依托小狼毫运行的提示词输入方案，使用前需要已安装小狼毫。")
+	fmt.Println("安装前状态已备份到：" + path)
 	return nil
 }
 

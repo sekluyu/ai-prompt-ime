@@ -50,7 +50,7 @@ class Engine:
         self.traits.shared_data_dir=str(user).encode()
         self.traits.user_data_dir=str(user).encode()
         self.traits.app_name=b'rime.booru-test'
-        self.traits.log_dir=str(ROOT/'validation/gpt').encode()
+        self.traits.log_dir=os.environ.get('BOORU_TEST_LOG',str(ROOT/'validation/gpt')).encode()
         self.traits.min_log_level=1
         self.call('setup',None,[C.POINTER(Traits)],C.byref(self.traits))
         self.call('initialize',None,[C.POINTER(Traits)],C.byref(self.traits))
@@ -87,8 +87,10 @@ def main():
     start=time.perf_counter(); e=Engine(); initialized=time.perf_counter(); results=[]
     try:
         rows=list(csv.DictReader((Path(os.environ.get('BOORU_TEST_SOURCE',str(ROOT/'rime')))/'booru.tsv').open(encoding='utf-8'),delimiter='\t'))
-        labels={}
-        for r in rows: labels.setdefault(r['tag'],r['zh'])
+        labels={}; label_weights={}
+        for r in rows:
+            if r['tag'] not in labels or int(r['weight'])>label_weights[r['tag']]:
+                labels[r['tag']]=r['zh'];label_weights[r['tag']]=int(r['weight'])
         total_rows=len(rows)
         limit=int(os.environ.get('BOORU_TEST_LIMIT',len(rows)))
         if len(rows)>limit:
@@ -100,7 +102,7 @@ def main():
                 candidates,last=e.candidates()
                 text=row['tag'].removeprefix('__prompt__:')
                 expected=re.sub(r'([\\()])',r'\\\1',text)+', '
-                found=next((i for i,c in enumerate(candidates) if c['text']==expected),None)
+                found=next((i for i,c in enumerate(candidates) if c['text']==expected and c['comment']==labels[row['tag']]),None)
                 if found is not None: break
                 if last: raise AssertionError(f'Missing candidate {row}')
                 e.key('=')

@@ -47,11 +47,17 @@ def main():
             output = run(option)
             assert output.stdout or output.stderr
         license_text = run('--license').stdout
-        for text in ['MIT License', 'ffdkj', 'Google', 'DeepSeek']:
+        for text in ['MIT License', 'ffdkj', 'Google', 'DeepSeek', 'Physton', 'n714-LICENSE', 'e621-archive-UNLICENSE', 'mtt-search-LICENSE']:
             assert text in license_text
         assert not appdata.exists(), 'Read-only options touched the user directory'
 
-        run()  # Default APPDATA directory, with the EXE alone and no Python on PATH.
+        installed=run()  # Default APPDATA directory, with the EXE alone and no Python on PATH.
+        assert '【安装成功】绘画提示词文件已复制到小狼毫用户文件夹。' in installed.stdout
+        assert '【请完成最后一步，让新版本生效】' in installed.stdout and '重新部署' in installed.stdout
+        assert installed.stdout.index('请完成最后一步') < installed.stdout.index('安装前状态已备份到')
+        assert '未安装或替换小狼毫' not in installed.stdout
+        variant=run('--version').stdout.split('/')[1].strip()
+        assert ('扩展词库' if variant=='searchable' else '默认词库') in installed.stdout
         user = appdata/'Rime'
         for name in FILES:
             assert (user/name).read_bytes() == (args.source/name).read_bytes(), name

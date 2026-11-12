@@ -1,0 +1,395 @@
+{
+  "sources": [
+    {
+      "key": "n714",
+      "repo": "n714/stable-diffusion-prompt-library-zh_CN",
+      "commit": "31199613c8ed198eb6fa74b20cc63725d568e62f"
+    },
+    {
+      "key": "e621",
+      "repo": "DraconicDragon/dbr-e621-lists-archive",
+      "commit": "b46f08e5bc5ff98063c1f955786c43850a94b7c0"
+    },
+    {
+      "key": "mtt",
+      "repo": "MTT0731/e621-danbooru-search-mcp",
+      "commit": "3a55b884618e8fc479b6f78e7a1b63d4d694f1a0"
+    },
+    {
+      "key": "physton",
+      "repo": "Physton/sd-webui-prompt-all-in-one",
+      "commit": "266fdaf67c5c5c09eed5cb9aae84d2897ca42190"
+    }
+  ],
+  "source_files": [
+    {
+      "source": "n714",
+      "path": "tags/0 - 负面提示词.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/0%20-%20%E8%B4%9F%E9%9D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D.yml",
+      "bytes": 1990,
+      "sha256": "c8d87c51183536e95a0249b2fdc242ab629a333fc72317ade43f09361e2b7bc0"
+    },
+    {
+      "source": "n714",
+      "path": "tags/0 - 起手提示词.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/0%20-%20%E8%B5%B7%E6%89%8B%E6%8F%90%E7%A4%BA%E8%AF%8D.yml",
+      "bytes": 1157,
+      "sha256": "9d5dc7de22f997a2b4f2cae30829cd70e11897fc93e2caca1885fa0bbbbcb3e2"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9.yml",
+      "bytes": 3063,
+      "sha256": "6965d955279dc51109a04bd8efe645349556a8ccdea9c56b06ebe9fb981a12e4"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_五官.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E4%BA%94%E5%AE%98.yml",
+      "bytes": 3974,
+      "sha256": "cea221fed95f3d38bfb7c60ee7cf2497f346c31012f1a04bd7bda35c6acb39bf"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_头发.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E5%A4%B4%E5%8F%91.yml",
+      "bytes": 3865,
+      "sha256": "bc2608e613088c50c5b35c80f4e7aa9d2e2601057d8f51a2eed6159a630faa05"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_姿势.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E5%A7%BF%E5%8A%BF.yml",
+      "bytes": 3508,
+      "sha256": "5b246f7ae3d50fa042dbee79e968be7a039fcf3d2911c59010b6f442d4431ab5"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_尾 翅膀 角.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E5%B0%BE%20%E7%BF%85%E8%86%80%20%E8%A7%92.yml",
+      "bytes": 1264,
+      "sha256": "d7d9a04ec63d4ffc3d643cd985dca226e40a781ca6523464af131a91d7650dae"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_服装 - 汉服.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E6%9C%8D%E8%A3%85%20-%20%E6%B1%89%E6%9C%8D.yml",
+      "bytes": 6464,
+      "sha256": "c42215b527f5a2809a4bee767fa62e5d1a5c09230e336667caae2f3ec76b7275"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_服装.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E6%9C%8D%E8%A3%85.yml",
+      "bytes": 2126,
+      "sha256": "46ce3ba367641bef68f6d6bbcec9cee57eac695d04f055d97c74f51851a18737"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_表情.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E8%A1%A8%E6%83%85.yml",
+      "bytes": 1010,
+      "sha256": "97afeb00248f5b60fe04ba2551e59c66a149fd95dd52f5763bb73fd75d5cb934"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_装饰.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E8%A3%85%E9%A5%B0.yml",
+      "bytes": 1789,
+      "sha256": "7449c1e4853c182801f9753ff63dd994eafc56b7c2de3c5ebc56c5856a30acfd"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_角色.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E8%A7%92%E8%89%B2.yml",
+      "bytes": 1761,
+      "sha256": "486e76c9ed0b352e286f548048b29eb7b5a2617cdbc637142ad65af9f522b410"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 人物_鞋 袜 帽.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E4%BA%BA%E7%89%A9_%E9%9E%8B%20%E8%A2%9C%20%E5%B8%BD.yml",
+      "bytes": 2880,
+      "sha256": "cb5a8e323815ba996463d00848698c07e60996c45de7d7dba3c6c963a45e30d7"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 动物.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E5%8A%A8%E7%89%A9.yml",
+      "bytes": 4200,
+      "sha256": "8af1e5050982ee739d0b9fd1bf199aa128f415c1b11ddcec88205317514de173"
+    },
+    {
+      "source": "n714",
+      "path": "tags/1 - 神灵.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/1%20-%20%E7%A5%9E%E7%81%B5.yml",
+      "bytes": 321,
+      "sha256": "233ce5f9b7c2c3ecf7addd84cef0b475a225f0747a5aa95f81960bac20cc10a2"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 主题.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E4%B8%BB%E9%A2%98.yml",
+      "bytes": 3082,
+      "sha256": "ec77185c3df15befaba5d7440bbaaac0b034243865f89d346dd58b226a9ba827"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 建筑.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E5%BB%BA%E7%AD%91.yml",
+      "bytes": 6018,
+      "sha256": "4af3016a8700685255e0148ad54cb7ca832e72cdcc4bf749af99fd69d67f5cd2"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 技巧.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E6%8A%80%E5%B7%A7.yml",
+      "bytes": 4751,
+      "sha256": "da9b63f304b9f52abd26a88f481f3001b7ee8fb63013e2fc58f191836a31cac2"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 服装.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E6%9C%8D%E8%A3%85.yml",
+      "bytes": 4738,
+      "sha256": "0d2d245a2a6e487b0ed12ed2ecf4f81f2f49309a9908b4fe8e2844d01d807007"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 版图设计.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E7%89%88%E5%9B%BE%E8%AE%BE%E8%AE%A1.yml",
+      "bytes": 1718,
+      "sha256": "a4ee5405d65f5685d12ff88a7d16a983dc32fbd3c69c4c23484b19a00428a2f0"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 背景.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E8%83%8C%E6%99%AF.yml",
+      "bytes": 1510,
+      "sha256": "521572b28d6d217ee06f186196ab827b93021f7c255fa19036e2a1f9f72914d1"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 艺术家.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E8%89%BA%E6%9C%AF%E5%AE%B6.yml",
+      "bytes": 5890,
+      "sha256": "730373cae98981095e4dd4745de1b66b6f404787d884fd85e0efd0aa3c8fec00"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 角色.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E8%A7%92%E8%89%B2.yml",
+      "bytes": 2111,
+      "sha256": "bf55839e465a6114520738dd46c3d3e3aa59b5345b300fe8009330f9c8e0d585"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 角色设计.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E8%A7%92%E8%89%B2%E8%AE%BE%E8%AE%A1.yml",
+      "bytes": 1978,
+      "sha256": "c63ce7d5b6f922559263f62657aa8f8feb8bc8826042a79a12bc312172de9628"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 质感.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E8%B4%A8%E6%84%9F.yml",
+      "bytes": 3497,
+      "sha256": "9337a11514f615c720827e162f092bd203f80b9686112c792db2415a4c1168ab"
+    },
+    {
+      "source": "n714",
+      "path": "tags/2 - 创作 - 風格.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/2%20-%20%E5%88%9B%E4%BD%9C%20-%20%E9%A2%A8%E6%A0%BC.yml",
+      "bytes": 4197,
+      "sha256": "060789edaaa199c8a30469820a9ce8c31e47c892d635828193dab8730c82518f"
+    },
+    {
+      "source": "n714",
+      "path": "tags/3 - 场景.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/3%20-%20%E5%9C%BA%E6%99%AF.yml",
+      "bytes": 3635,
+      "sha256": "5daffcec97b72c7b4a0725b5781668cb236860ff08530dd3077a2b6e88d64939"
+    },
+    {
+      "source": "n714",
+      "path": "tags/3 - 艺术风格.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/3%20-%20%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC.yml",
+      "bytes": 2407,
+      "sha256": "5377a3702580b2180da6c1f7d5598a3406403d1c257dc3c4480b31620faca33b"
+    },
+    {
+      "source": "n714",
+      "path": "tags/3 - 视角和灯光 .yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/3%20-%20%E8%A7%86%E8%A7%92%E5%92%8C%E7%81%AF%E5%85%89%20.yml",
+      "bytes": 3005,
+      "sha256": "8505a0d4fcf862db558015183e57ac5b09f1c2bc50590ad187373a5d0c119061"
+    },
+    {
+      "source": "n714",
+      "path": "tags/3 - 食物.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/3%20-%20%E9%A3%9F%E7%89%A9.yml",
+      "bytes": 420,
+      "sha256": "eda32218898fa2352116cac9eae585fd074373454b1cb2b9a218b3533285f64c"
+    },
+    {
+      "source": "n714",
+      "path": "tags/4 - 艺术风格.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/4%20-%20%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC.yml",
+      "bytes": 2407,
+      "sha256": "5377a3702580b2180da6c1f7d5598a3406403d1c257dc3c4480b31620faca33b"
+    },
+    {
+      "source": "n714",
+      "path": "tags/4 - 视角 和 灯光.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/4%20-%20%E8%A7%86%E8%A7%92%20%E5%92%8C%20%E7%81%AF%E5%85%89.yml",
+      "bytes": 3564,
+      "sha256": "6eaf1f8af76d759927398af3cb9e23ba24755f6f424783a8db08bdfbc688089a"
+    },
+    {
+      "source": "n714",
+      "path": "tags/5 - 魔法系.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/5%20-%20%E9%AD%94%E6%B3%95%E7%B3%BB.yml",
+      "bytes": 12704,
+      "sha256": "1c1dc9bae5e46955a519690b5ba18be5326e8e17b94951b0560557da05ad3f2b"
+    },
+    {
+      "source": "n714",
+      "path": "tags/6 - 18禁.yml",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/tags/6%20-%2018%E7%A6%81.yml",
+      "bytes": 4134,
+      "sha256": "8df84b71cb121d2143df9c26b952bbd063289d6385a20824e7f6ba67f50bd174"
+    },
+    {
+      "source": "n714",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/LICENSE",
+      "bytes": 1061,
+      "sha256": "cf1afa6fd9fafa74228d9df6a6a44241953f032e6de4d91a0a8c3a062e3ff998"
+    },
+    {
+      "source": "n714",
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/n714/stable-diffusion-prompt-library-zh_CN/31199613c8ed198eb6fa74b20cc63725d568e62f/README.md",
+      "bytes": 1835,
+      "sha256": "b893415741f508c01d570561b02f605b3049b5c9dda9c670481fa8fc0162b57b"
+    },
+    {
+      "source": "e621",
+      "path": "tag-lists/e621/e621_2026-10-01_pt20-ia-ed.csv",
+      "url": "https://raw.githubusercontent.com/DraconicDragon/dbr-e621-lists-archive/b46f08e5bc5ff98063c1f955786c43850a94b7c0/tag-lists/e621/e621_2026-10-01_pt20-ia-ed.csv",
+      "bytes": 3800253,
+      "sha256": "36c382558a385c4430d9bfd1874a6db5c30f6259210b644ddfcc4e5c264897e7"
+    },
+    {
+      "source": "e621",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/DraconicDragon/dbr-e621-lists-archive/b46f08e5bc5ff98063c1f955786c43850a94b7c0/LICENSE",
+      "bytes": 1211,
+      "sha256": "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+    },
+    {
+      "source": "e621",
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/DraconicDragon/dbr-e621-lists-archive/b46f08e5bc5ff98063c1f955786c43850a94b7c0/README.md",
+      "bytes": 2980,
+      "sha256": "12c8b62864ff7e001423be030d61607a0d83019119c3ef7d94b8ad0218cea208"
+    },
+    {
+      "source": "mtt",
+      "path": "origin_database/tags_enhanced.csv",
+      "url": "https://raw.githubusercontent.com/MTT0731/e621-danbooru-search-mcp/3a55b884618e8fc479b6f78e7a1b63d4d694f1a0/origin_database/tags_enhanced.csv",
+      "bytes": 13617441,
+      "sha256": "96af26709b87593af3f5e84de52400410cc99fe1f8d4bd08803b21a4caf5d130"
+    },
+    {
+      "source": "mtt",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/MTT0731/e621-danbooru-search-mcp/3a55b884618e8fc479b6f78e7a1b63d4d694f1a0/LICENSE",
+      "bytes": 1060,
+      "sha256": "d9aaa7ef238e4cd41dc2bb7b4e68ed6c1ca9716f4fe9283700d22e475207bb83"
+    },
+    {
+      "source": "mtt",
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/MTT0731/e621-danbooru-search-mcp/3a55b884618e8fc479b6f78e7a1b63d4d694f1a0/README.md",
+      "bytes": 3161,
+      "sha256": "c9b22b04dba4ead2a47e7bc590e2fe2e82d23032bed16239369a18d456a44d17"
+    },
+    {
+      "source": "physton",
+      "path": "group_tags/zh_CN.yaml",
+      "url": "https://raw.githubusercontent.com/Physton/sd-webui-prompt-all-in-one/266fdaf67c5c5c09eed5cb9aae84d2897ca42190/group_tags/zh_CN.yaml",
+      "bytes": 159467,
+      "sha256": "7915f199752c1f3a8d42b6a6839000fee7e9a247c50a48564036147279e4b969"
+    },
+    {
+      "source": "physton",
+      "path": "group_tags/default.yaml",
+      "url": "https://raw.githubusercontent.com/Physton/sd-webui-prompt-all-in-one/266fdaf67c5c5c09eed5cb9aae84d2897ca42190/group_tags/default.yaml",
+      "bytes": 96981,
+      "sha256": "67d5c163ef8f50bc371059a458992639e0181dc8872f183eda71dcbe6cde63e9"
+    },
+    {
+      "source": "physton",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/Physton/sd-webui-prompt-all-in-one/266fdaf67c5c5c09eed5cb9aae84d2897ca42190/LICENSE",
+      "bytes": 1064,
+      "sha256": "c393dbb74fbb80f4de5dde799955ecea5373a8298b0ed4c97e7d66e2010644d7"
+    },
+    {
+      "source": "physton",
+      "path": "README_CN.MD",
+      "url": "https://raw.githubusercontent.com/Physton/sd-webui-prompt-all-in-one/266fdaf67c5c5c09eed5cb9aae84d2897ca42190/README_CN.MD",
+      "bytes": 12380,
+      "sha256": "3abbcf2ded7d0d54753521697721e3724ea274844aaeec778ff02ae53fed5f0a"
+    }
+  ],
+  "counts": {
+    "n714:scalar_entries": 3291,
+    "n714:accepted_aliases": 2970,
+    "duplicate_tag_code": 117152,
+    "n714:unweighted_single_term": 23,
+    "physton:source_entries": 3981,
+    "physton:accepted_aliases": 3707,
+    "physton:unweighted_single_term": 13,
+    "e621:source_rows": 149253,
+    "mtt:source_rows": 87670,
+    "mtt:broad_alias_names_excluded": 151,
+    "mtt:accepted_aliases": 182214,
+    "e621+mtt:accepted_aliases": 121139,
+    "mtt:rows_without_usable_chinese": 19556,
+    "e621:tags_with_chinese_join": 35517,
+    "e621:tags_without_chinese_join": 113736,
+    "output:mappings": 192878,
+    "output:terms": 73988,
+    "output:default_mappings": 137213,
+    "output:searchable_mappings": 192878,
+    "output:default_terms": 47125
+  },
+  "exclusions": {
+    "n714:non_chinese_key": 224,
+    "n714:template_or_markup": 96,
+    "n714:no_english": 1,
+    "physton:non_chinese_alias": 239,
+    "physton:no_english": 3,
+    "physton:template_or_markup": 90,
+    "mtt:broad_category_keyword": 30914,
+    "mtt:non_chinese_alias": 57568
+  },
+  "generated_file": "data/imported_terms.tsv.gz",
+  "generated_sha256": "4c72ebcd1499d03bfd14429fe203cc14639dcd4bb8fbe0e223c810c85853e683",
+  "uncompressed_sha256": "711b730fffe15a42129c8e20b6b0a3ca35eb66d70dc94a3aca42f4db7ce9c1a3",
+  "uncompressed_bytes": 12370728,
+  "compressed_bytes": 3219400,
+  "dependencies": {
+    "pypinyin": "0.55.0",
+    "PyYAML": "6.0.3"
+  },
+  "reading_status": "automatic pinyin; not individually human reviewed",
+  "content_filter": "No adult-content filtering, consistent with existing corpus.",
+  "n714_policy": "atomic words/short phrases; balanced single-term emphasis unwrapped; weighted/multi-tag templates excluded",
+  "physton_policy": "zh_CN tag mappings only; explicit Chinese aliases split on pipe/comma; machine translations inherited, not human verified; no upstream extension code executed",
+  "alias_policy": "MTT Chinese aliases shared by more than 64 distinct English tags are treated as category keywords and excluded; other aliases remain",
+  "e621_policy": "exact tag or explicit English alias join to MTT Chinese aliases; unmatched English tags are not claimed as Chinese-input entries"
+}

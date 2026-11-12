@@ -21,8 +21,9 @@ def build(source, output, go='go', variant='default', test=False):
         shutil.copytree(source, stage/'payload')
         (stage/'notices').mkdir()
         shutil.copy2(ROOT/'LICENSE', stage/'notices/LICENSE')
-        for name in ['ffdkj-LICENSE.txt', 'go-LICENSE.txt', 'go-PATENTS.txt']:
-            shutil.copy2(ROOT/'licenses'/name, stage/'notices'/name)
+        for notice in sorted((ROOT/'licenses').iterdir()):
+            if notice.is_file():
+                shutil.copy2(notice, stage/'notices'/notice.name)
         if test:
             subprocess.run([str(go), 'test', '-count=1', '-v', '.'], cwd=stage, env=env, check=True)
         subprocess.run([str(go), 'build', '-trimpath', '-buildvcs=false',

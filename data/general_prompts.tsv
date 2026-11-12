@@ -1,0 +1,218 @@
+english	zh	code	category
+masterpiece	杰作	jiezuo	质量词
+masterpiece	大师之作	dashizhizuo	质量词
+masterpiece	神作	shenzuo	质量词
+best quality	最佳质量	zuijiazhiliang	质量词
+best quality	最高质量	zuigaozhiliang	质量词
+best quality	最好画质	zuihaohuazhi	质量词
+high quality	高质量	gaozhiliang	质量词
+high quality	高画质	gaohuazhi	质量词
+high quality	质量更高	zhilianggenggao	质量词
+high quality	更高质量	genggaozhiliang	质量词
+high quality	画质更好	huazhigenghao	质量词
+amazing quality	惊艳质量	jingyanzhiliang	质量词
+amazing quality	出色画质	chusehuazhi	质量词
+very aesthetic	极具美感	jijumeigan	质量词
+very aesthetic	高美感	gaomeigan	质量词
+highres	高分辨率	gaofenbianlv	质量词
+highres	高清	gaoqing	质量词
+absurdres	超高分辨率	chaogaofenbianlv	质量词
+absurdres	超高清	chaogaoqing	质量词
+highly detailed	高度细致	gaoduxizhi	质量词
+highly detailed	高细节	gaoxijie	质量词
+highly detailed	更多细节	gengduoxijie	质量词
+ultra-detailed	超精细	chaojingxi	质量词
+ultra-detailed	极致细节	jizhixijie	质量词
+intricate details	复杂细节	fuzaxijie	质量词
+fine details	精细细节	jingxixijie	质量词
+sharp focus	清晰对焦	qingxiduijiao	质量词
+sharp focus	锐利对焦	ruiliduijiao	质量词
+crisp details	清晰细节	qingxixijie	质量词
+clean lines	干净线条	ganjingxiantiao	质量词
+clean lineart	干净线稿	ganjingxiangao	质量词
+beautiful composition	优美构图	youmeigoutu	质量词
+balanced composition	平衡构图	pinghenggoutu	质量词
+detailed background	精细背景	jingxibeijing	质量词
+rich colors	丰富色彩	fengfusecai	质量词
+vibrant colors	鲜艳色彩	xianyansecai	质量词
+natural colors	自然色彩	ziransecai	质量词
+smooth gradients	平滑渐变	pinghuajianbian	质量词
+professional lighting	专业布光	zhuanyebuguang	光照词
+soft lighting	柔和光照	rouheguangzhao	光照词
+soft lighting	柔光	rouguang	光照词
+natural lighting	自然光照	ziranguangzhao	光照词
+cinematic lighting	电影光照	dianyingguangzhao	光照词
+cinematic lighting	电影感光照	dianyingganguangzhao	光照词
+rim lighting	轮廓光	lunkuoguang	光照词
+backlighting	逆光	niguang	光照词
+volumetric lighting	体积光	tijiguang	光照词
+subsurface scattering	次表面散射	cibiaomiansanshe	材质词
+ambient occlusion	环境遮蔽	huanjingzhebi	光照词
+soft shadows	柔和阴影	rouheyinying	光照词
+dramatic lighting	戏剧性光照	xijuxingguangzhao	光照词
+studio lighting	摄影棚布光	sheyingpengbuguang	光照词
+depth of field	景深	jingshen	镜头词
+shallow depth of field	浅景深	qianjingshen	镜头词
+bokeh	散景	sanjing	镜头词
+close-up	特写	texie	镜头词
+close-up	近景特写	jinjingtexie	镜头词
+portrait	肖像	xiaoxiang	镜头词
+full body	全身	quanshen	镜头词
+realistic	写实	xieshi	材质词
+photorealistic	照片级写实	zhaopianjixieshi	材质词
+semi-realistic	半写实	banxieshi	材质词
+realistic skin	真实皮肤	zhenshipifu	材质词
+realistic skin	写实皮肤	xieshipifu	材质词
+realistic skin texture	真实皮肤质感	zhenshipifuzhigan	材质词
+realistic skin texture	写实皮肤纹理	xieshipifuwenli	材质词
+natural skin texture	自然皮肤纹理	ziranpifuwenli	材质词
+skin texture	皮肤纹理	pifuwenli	材质词
+skin texture	皮肤质感	pifuzhigan	材质词
+detailed skin	精细皮肤	jingxipifu	材质词
+detailed skin	皮肤细节	pifuxijie	材质词
+visible pores	可见毛孔	kejianmaokong	材质词
+visible pores	毛孔细节	maokongxijie	材质词
+skin pores	皮肤毛孔	pifumaokong	材质词
+smooth skin	光滑皮肤	guanghuapifu	材质词
+soft skin	柔软皮肤	rouruanpifu	材质词
+matte skin	哑光皮肤	yaguangpifu	材质词
+subtle skin imperfections	自然皮肤瑕疵	ziranpifuxiaci	材质词
+realistic fur	真实皮毛	zhenshipimao	皮毛词
+realistic fur	真实毛发	zhenshimaofa	皮毛词
+realistic fur	写实皮毛	xieshipimao	皮毛词
+realistic fur	真实皮草	zhenshipicao	皮毛词
+realistic fur texture	真实皮毛质感	zhenshipimaozhigan	皮毛词
+realistic fur texture	写实毛发纹理	xieshimaofawenli	皮毛词
+realistic fur texture	真实皮毛纹理	zhenshipimaowenli	皮毛词
+fur texture	皮毛纹理	pimaowenli	皮毛词
+fur texture	皮毛质感	pimaozhigan	皮毛词
+fur texture	毛发纹理	maofawenli	皮毛词
+detailed fur	精细皮毛	jingxipimao	皮毛词
+detailed fur	毛发细节	maofaxijie	皮毛词
+detailed fur	精细毛发	jingximaofa	皮毛词
+highly detailed fur	高细节皮毛	gaoxijiepimao	皮毛词
+fine fur texture	细腻毛发纹理	xinimaofawenli	皮毛词
+individual fur strands	根根分明的毛发	gengenfenmingdemaofa	皮毛词
+individual fur strands	毛发根根分明	maofagengenfenming	皮毛词
+individual fur strands	独立毛丝	dulimaosi	皮毛词
+soft fur	柔软皮毛	rouruanpimao	皮毛词
+soft fur	柔软毛发	rouruanmaofa	皮毛词
+fluffy fur	蓬松皮毛	pengsongpimao	皮毛词
+fluffy fur	蓬松毛发	pengsongmaofa	皮毛词
+fluffy fur	毛茸茸皮毛	maorongrongpimao	皮毛词
+thick fur	浓密皮毛	nongmipimao	皮毛词
+dense fur	密集毛发	mijimaofa	皮毛词
+short fur	短毛	duanmao	皮毛词
+long fur	长毛	changmao	皮毛词
+silky fur	丝滑皮毛	sihuapimao	皮毛词
+glossy fur	光泽皮毛	guangzepimao	皮毛词
+wet fur	湿润皮毛	shirunpimao	皮毛词
+ruffled fur	蓬乱皮毛	pengluanpimao	皮毛词
+fur highlights	毛发高光	maofagaoguang	皮毛词
+fur shading	毛发明暗	maofamingan	皮毛词
+layered fur	层次分明的皮毛	cengcifenmingdepimao	皮毛词
+soft fur shading	柔和皮毛阴影	rouhepimaoyinying	皮毛词
+tufted fur	簇状毛发	cuzhuangmaofa	皮毛词
+furry	福瑞	furui	兽人词
+furry	兽迷	shoumi	兽人词
+anthro	兽人	shouren	兽人词
+anthro	拟人兽	nirenshou	兽人词
+anthro	拟人化动物	nirenhuadongwu	兽人词
+kemono	兽系	shouxi	兽人词
+kemono	日式兽人	rishishouren	兽人词
+feral	兽形	shouxing	兽人词
+feral	非拟人动物	feinirendongwu	兽人词
+fluffy	毛茸茸	maorongrong	兽人词
+fluffy	蓬松	pengsong	兽人词
+paws	兽爪	shouzhua	兽人词
+paws	爪子	zhuazi	兽人词
+pawpads	肉垫	roudian	兽人词
+pawpads	爪垫	zhuadian	兽人词
+claws	利爪	lizhua	兽人词
+claws	爪尖	zhuajian	兽人词
+snout	兽吻	shouwen	兽人词
+snout	口鼻部	koubibu	兽人词
+muzzle	吻部	wenbu	兽人词
+whiskers	胡须	huxu	兽人词
+animal nose	兽鼻	shoubi	兽人词
+animal nose	动物鼻子	dongwubizi	兽人词
+nose leather	鼻镜	bijing	兽人词
+animal ears	兽耳	shouer	兽人词
+animal ear fluff	耳内绒毛	erneirongmao	兽人词
+fluffy cheeks	蓬松脸颊	pengsonglianjia	兽人词
+cheek fluff	颊毛	jiamao	兽人词
+neck fur	颈毛	jingmao	兽人词
+neck fur	脖颈毛发	bojingmaofa	兽人词
+chest fur	胸毛	xiongmao	兽人词
+tail fur	尾部毛发	weibumaofa	兽人词
+fluffy tail	蓬松尾巴	pengsongweiba	兽人词
+bushy tail	浓密尾巴	nongmiweiba	兽人词
+tufted ears	耳尖毛簇	erjianmaocu	兽人词
+fur tuft	毛簇	maocu	兽人词
+digitigrade	趾行	zhixing	兽人词
+digitigrade	趾行腿	zhixingtui	兽人词
+plantigrade	跖行	zhixing	兽人词
+plantigrade	跖行腿	zhixingtui	兽人词
+wolf	狼	lang	兽人词
+fox	狐狸	huli	兽人词
+canine	犬科	quanke	兽人词
+feline	猫科	maoke	兽人词
+furry wolf	狼兽人	langshouren	兽人词
+anthropomorphic fox	狐兽人	hushouren	兽人词
+scales	鳞片	linpian	材质词
+detailed scales	精细鳞片	jingxilinpian	材质词
+realistic scales	真实鳞片	zhenshilinpian	材质词
+feathers	羽毛	yumao	材质词
+detailed feathers	精细羽毛	jingxiyumao	材质词
+realistic feathers	真实羽毛	zhenshiyumao	材质词
+soft feathers	柔软羽毛	rouruanyumao	材质词
+worst quality	最差质量	zuichazhiliang	负面词
+low quality	低质量	dizhiliang	负面词
+lowres	低分辨率	difenbianlv	负面词
+blurry	模糊	mohu	负面词
+out of focus	失焦	shijiao	负面词
+jpeg artifacts	压缩伪影	yasuoweiying	负面词
+bad anatomy	解剖错误	jiepoucuowu	负面词
+bad hands	错误手部	cuowushoubu	负面词
+extra limbs	多余肢体	duoyuzhiti	负面词
+extra digits	多余手指	duoyushouzhi	负面词
+watermark	水印	shuiyin	负面词
+signature	签名	qianming	负面词
+text	文字	wenzi	负面词
+plastic skin	塑料皮肤	suliaopifu	负面词
+plastic fur	塑料皮毛	suliaopimao	负面词
+oversharpened	过度锐化	guoduruihua	负面词
+oversaturated	过度饱和	guodubaohe	负面词
+masterpiece	大师级	dashiji	质量词
+masterpiece	大师级作品	dashijizuopin	质量词
+best quality	最佳画质	zuijiahuazhi	质量词
+best quality	最佳品质	zuijiapinzhi	质量词
+best quality	最高品质	zuigaopinzhi	质量词
+high quality	提升画质	tishenghuazhi	质量词
+high quality	画质提升	huazhitisheng	质量词
+realistic fur	真实毛皮	zhenshimaopi	皮毛词
+realistic fur	写实毛皮	xieshimaopi	皮毛词
+realistic fur texture	真实毛皮质感	zhenshimaopizhigan	皮毛词
+realistic fur texture	真实毛皮纹理	zhenshimaopiwenli	皮毛词
+fur texture	毛皮纹理	maopiwenli	皮毛词
+fur texture	毛皮质感	maopizhigan	皮毛词
+detailed fur	精细毛皮	jingximaopi	皮毛词
+highly detailed fur	高细节毛皮	gaoxijiemaopi	皮毛词
+soft fur	柔软毛皮	rouruanmaopi	皮毛词
+fluffy fur	蓬松毛皮	pengsongmaopi	皮毛词
+fluffy fur	毛茸茸毛皮	maorongrongmaopi	皮毛词
+thick fur	浓密毛皮	nongmimaopi	皮毛词
+silky fur	丝滑毛皮	sihuamaopi	皮毛词
+glossy fur	光泽毛皮	guangzemaopi	皮毛词
+wet fur	湿润毛皮	shirunmaopi	皮毛词
+ruffled fur	蓬乱毛皮	pengluanmaopi	皮毛词
+layered fur	层次分明的毛皮	cengcifenmingdemaopi	皮毛词
+soft fur shading	柔和毛皮阴影	rouhemaopiyinying	皮毛词
+plastic fur	塑料毛皮	suliaomaopi	负面词
+paws	兽爪	shouzhao	兽人词
+pawpads	爪垫	zhaodian	兽人词
+claws	爪尖	zhaojian	兽人词
+high quality	提高质量	tigaozhiliang	质量词
+high quality	提高画质	tigaohuazhi	质量词
+high quality	更好画质	genghaohuazhi	质量词
+best quality	最高画质	zuigaohuazhi	质量词

@@ -54,9 +54,16 @@ def install(user):
     for item in manifest['files']: item['installed_sha256']=digest(user/item['name'])
     manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
     marker.write_text(str(manifest_path),encoding='utf-8')
-    print('Installed scheme files only. Existing Windows input method must already be installed.')
-    print('Backup / rollback manifest: '+str(manifest_path))
-    print('Next: run Weasel redeploy from its tray menu, then select 绘画提示词. No server was started or restarted.')
+    version=re.search(r'(?m)^\s+version:\s*[\'"]?([^\s\'"]+)',(ROOT/'rime/booru.schema.yaml').read_text(encoding='utf-8'))
+    print('【安装成功】绘画提示词文件已复制到小狼毫用户文件夹。')
+    package=ROOT/'PACKAGE_INFO.json'
+    variant=json.loads(package.read_text(encoding='utf-8')).get('variant','default') if package.is_file() else 'default'
+    print('本次安装：v'+(version.group(1) if version else '未标记')+' · '+('扩展词库' if variant=='searchable' else '默认词库')+'。\n')
+    print('【请完成最后一步，让新版本生效】')
+    print('1. 右键点击任务栏右下角的小狼毫图标，选择“重新部署”。')
+    print('2. 等待部署完成后，按 F4，选择“绘画提示词”即可使用。')
+    print('\n这是依托小狼毫运行的提示词输入方案，使用前需要已安装小狼毫。')
+    print('安装前状态已备份到：'+str(manifest_path))
     return manifest_path
 
 def rollback(manifest_path):
