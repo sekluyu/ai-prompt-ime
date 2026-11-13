@@ -36,14 +36,14 @@
 
 前置条件：Windows 10/11 x64、已安装并能正常输入中文的[小狼毫](https://github.com/rime/weasel/releases)。这是小狼毫（Rime）的扩展输入方案，不安装或替换小狼毫，不需要API key或在线服务。
 
-1. 从[v0.2.4 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.6)下载[独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.6/ai-prompt-ime-0.2.6-setup.exe)，对照同页SHA256SUMS.txt核对。也可完整解压方案ZIP，使用根目录的`安装绘画提示词.exe`；两者内容相同，无需重复安装。
+1. 从[v0.2.6 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.6)下载[独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.6/ai-prompt-ime-0.2.6-setup.exe)，对照同页SHA256SUMS.txt核对。也可完整解压方案ZIP，使用根目录的`安装绘画提示词.exe`；两者内容相同，无需重复安装。
 2. 双击EXE。方案和词库内置，无需Python、.NET、Go、联网或管理员权限。安装器先备份同名方案文件及`default.custom.yaml`，再写入更新。
 3. 看到“【安装成功】”后，右键小狼毫托盘图标，选择“重新部署”。文件复制完成不代表新版本已部署。
 4. 部署结束后按F4，选择“绘画提示词”；输入`shuangmawei`选词应得到`twintails, `。实际输入与网页表现由使用者验收。
 
 安装器默认使用`%APPDATA%\Rime`，自定义用户目录、回滚及手动安装步骤见[安装与回滚](docs/安装与回滚.md)。若安全软件告警，停止运行被检测EXE并保留日志，不将关闭防护作为安装步骤。
 
-本轮没有修改使用者的真实Rime目录。源码中的`tools/install.py`仍是可选Python入口，普通用户使用EXE不需要Python。
+安装器仅在使用者运行安装或回滚时修改指定的Rime用户目录。源码中的`tools/install.py`仍是可选Python入口，普通用户使用EXE不需要Python。
 
 ## 使用
 
@@ -70,9 +70,9 @@
 | [ai-prompt-ime-0.2.6-setup.exe](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.6/ai-prompt-ime-0.2.6-setup.exe) | 独立离线安装器，内置完整词库，无需Python |
 | [ai-prompt-ime-0.2.6.zip](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.6/ai-prompt-ime-0.2.6.zip) | 同一安装器、完整方案、词库、Lua和文档，也可手动复制 |
 | [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.6/SHA256SUMS.txt) | 独立EXE与方案ZIP的SHA-256；ZIP内另含文件校验清单，校验一致不等于安全认证 |
-| Release的Source code | 对应v0.2.4标签的源码，含构建脚本与俗称维护表 |
+| Release的Source code | 对应v0.2.6标签的源码，含构建脚本与维护词表 |
 
-本次不重新打包词库追溯附件；固定来源追溯仍见[v0.2.3追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.3/ai-prompt-ime-0.2.3-dictionary.zip)，本次新代码和俗称表以v0.2.4源码为准。不要用旧版EXE覆盖本版方案。
+本次不重新打包词库追溯附件；固定来源追溯仍见[v0.2.3追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.3/ai-prompt-ime-0.2.3-dictionary.zip)，本次新代码及姿态、俗称等维护表以v0.2.6源码为准。不要用旧版EXE覆盖本版方案。
 
 数据包括[ffdkj Danbooru中英对照表](https://github.com/ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table)（固定commit `d232b4ee431f13c6f34c7f31c35b937b26bb56c2`），以及n714、Physton、e621归档和MTT的固定文本快照。来源、许可与未覆盖部分见[补充词库来源](docs/补充词库来源.md)。ffdkj原81,359个可检索标签的检索/英文输出保留；完全重复的生成行合并，原始快照不改写。
 
@@ -98,7 +98,7 @@
 - 当前只交付并验收 Windows 小狼毫方案，未验收macOS或手机端。
 - 逐词选 tag 或固定的质量、材质、皮毛、配色短语，支持别名；不提供任意整句中文语义转换或LLM兜底。
 - 以SDXL/Pony常见标签使用场景为起点，不保证任意模型能识别每个词；同音词需要人工选候选。
-- 默认词库和扩展词库均未按成人内容做筛除，源数据含成人相关标签。
+- 完整词库未按成人内容做筛除，源数据含成人相关标签。
 - 仓库不含 librime 引擎。运行 `tests/engine_test.py` 需要自备 Windows x64 librime 及配套头文件，并按[开发与发布](docs/开发与发布.md)配置路径与依赖；未准备引擎时会因无法加载 `rime.dll` 报错。这不影响已安装小狼毫的用户安装方案。
 
 构建、可选测试和发布顺序见[开发与发布](docs/开发与发布.md)；版本发布审核项目见[发布检查清单](docs/发布检查清单.md)。
@@ -111,7 +111,7 @@
 
 俗称入口包括bi（逼／屄→pussy，vulva作为其他候选）、piyan（屁眼→anus）、jiba/diao（鸡巴/屌→penis），以及现有pigu（屁股）的butt优先、ass随后。候选标明俗称及部位，规范中文入口继续保留。
 
-本轮已通过数据、Lua模拟候选、Go单元测试及最终EXE的隔离安装/回滚检查；安全软件兼容仍未解决。真实小狼毫/网页排序由维护者验收。不修改狐狸等既有别名，不合并空格/下划线写法，不重建已删除的Issue。
+v0.2.4曾通过数据、Lua模拟候选、Go单元测试及最终EXE隔离安装/回滚检查，当时安全软件兼容尚未解决。后续v0.2.5调整内嵌资源格式；当前v0.2.6的本机输入和本轮EXE火绒扫描已由维护者确认通过。不修改狐狸等既有别名，不合并空格/下划线写法，不重建已删除的Issue。
 
 ## v0.2.6：姿势与双手动作
 

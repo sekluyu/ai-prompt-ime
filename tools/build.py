@@ -1,4 +1,4 @@
-"""Build the GPT-owned bootstrap dictionary or a colleague-supplied UTF-8 TSV."""
+"""Rebuild the complete dictionary; demo data requires an explicit output directory."""
 import argparse
 import csv
 import hashlib
@@ -218,8 +218,17 @@ comic|漫画|manhua'''
     return rows
 
 
-def build(source=None, output_dir=None, variant='searchable'):
-    rows = list(csv.DictReader(source.open(encoding='utf-8-sig'), delimiter='\t')) if source else bootstrap()
+def build(source=None, output_dir=None, variant='searchable', demo=False):
+    if demo:
+        if source is not None:
+            raise ValueError('--demo and --source cannot be combined')
+        if output_dir is None or output_dir.resolve().is_relative_to((ROOT/'rime').resolve()):
+            raise ValueError('--demo requires --output-dir outside the project rime directory')
+        rows = bootstrap()
+    else:
+        source = source or ROOT/'rime/booru.tsv'
+        with source.open(encoding='utf-8-sig') as stream:
+            rows = list(csv.DictReader(stream, delimiter='\t'))
     rows = merge(rows,variant)
     merged = {}
     seen_source_keys = set()
@@ -268,15 +277,20 @@ def build(source=None, output_dir=None, variant='searchable'):
         writer=csv.DictWriter(f,fieldnames=['tag','zh','code','weight','role'],delimiter='\t',lineterminator='\n')
         writer.writeheader(); writer.writerows(clean)
     report=dict(source=str(source) if source else 'GPT curated bootstrap (not ffdkj full data)',rows=len(clean),unique_tags=len({r['tag'] for r in clean}),merged_duplicate_rows=duplicate_rows,sha256=hashlib.sha256((out/'booru.tsv').read_bytes()).hexdigest())
-    report_dir=ROOT/'validation/gpt'
+    report_dir=out if output_dir is not None else ROOT/'validation/gpt'
     report_dir.mkdir(parents=True,exist_ok=True)
     (report_dir/'build.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(report,ensure_ascii=False))
 
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(); parser.add_argument('--source',type=Path)
+    parser=argparse.ArgumentParser(description=__doc__)
+    inputs=parser.add_mutually_exclusive_group()
+    inputs.add_argument('--source',type=Path,help='Source TSV; defaults to the complete rime/booru.tsv')
+    inputs.add_argument('--demo',action='store_true',help='Use demo base data; requires a separate --output-dir')
     parser.add_argument('--output-dir',type=Path)
     parser.add_argument('--variant',choices=['default','searchable'],default='searchable',help='Complete corpus by default; default selects the historical smaller import scope')
     args=parser.parse_args()
-    build(args.source,args.output_dir,args.variant)
+    if args.demo and (args.output_dir is None or args.output_dir.resolve().is_relative_to((ROOT/'rime').resolve())):
+        parser.error('--demo requires --output-dir outside the project rime directory')
+    build(args.source,args.output_dir,args.variant,args.demo)
