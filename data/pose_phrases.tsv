@@ -1,0 +1,325 @@
+english	zh	code	category
+upright torso	上半身直立	shangbanshenzhili	通用姿态·躯干
+upright torso	上身直立	shangshenzhili	通用姿态·躯干
+upright torso	上半身挺直	shangbanshentingzhi	通用姿态·躯干
+upright torso	上身挺直	shangshentingzhi	通用姿态·躯干
+sitting upright	坐直	zuozhi	通用姿态·躯干
+sitting upright	坐姿挺直	zuozitingzhi	通用姿态·躯干
+straight back	背部挺直	beibutingzhi	通用姿态·躯干
+straight back	挺直背部	tingzhibeibu	通用姿态·躯干
+sitting up	坐起	zuoqi	通用姿态·躯干
+kneeling upright	跪姿直立	guizizhili	通用姿态·躯干
+standing upright	身体直立	shentizhili	通用姿态·躯干
+leaning_forward	上身前倾	shangshenqianqing	通用姿态·躯干
+leaning_forward	身体前倾	shentiqianqing	通用姿态·躯干
+leaning_back	上身后仰	shangshenhouyang	通用姿态·躯干
+leaning_back	身体后仰	shentihouyang	通用姿态·躯干
+relaxed posture	放松姿态	fangsongzitai	通用姿态·躯干
+torso turned to side	上身侧转	shangshencezhuan	通用姿态·躯干
+twisted torso	上身扭转	shangshenniuzhuan	通用姿态·躯干
+body leaning to left	身体左倾	shentizuoqing	通用姿态·躯干
+body leaning to right	身体右倾	shentiyouqing	通用姿态·躯干
+level shoulders	双肩水平	shuangjianshuiping	通用姿态·躯干
+head held upright	头部端正	toubuduanzheng	通用姿态·躯干
+neutral standing pose	自然站姿	ziranzhanzi	通用姿态·躯干
+neutral sitting pose	自然坐姿	ziranzuozi	通用姿态·躯干
+left hand touching head	左手摸头	zuoshoumotou	通用姿态·单手
+left hand touching hair	左手摸头发	zuoshoumotoufa	通用姿态·单手
+left hand touching face	左手摸脸	zuoshoumolian	通用姿态·单手
+left hand touching cheek	左手摸脸颊	zuoshoumolianjia	通用姿态·单手
+left hand touching forehead	左手摸额头	zuoshoumoetou	通用姿态·单手
+left hand touching ear	左手摸耳朵	zuoshoumoerduo	通用姿态·单手
+left hand touching muzzle	左手摸口鼻	zuoshoumokoubi	通用姿态·单手
+left hand touching neck	左手摸脖子	zuoshoumobozi	通用姿态·单手
+left hand touching shoulder	左手摸肩膀	zuoshoumojianbang	通用姿态·单手
+left hand touching chest	左手摸胸口	zuoshoumoxiongkou	通用姿态·单手
+left hand touching abdomen	左手摸腹部	zuoshoumofubu	通用姿态·单手
+left hand touching back	左手摸后背	zuoshoumohoubei	通用姿态·单手
+left hand touching tail	左手摸尾巴	zuoshoumoweiba	通用姿态·单手
+left hand resting on hip	左手扶腰	zuoshoufuyao	通用姿态·单手
+left hand on waist	左手放腰上	zuoshoufangyaoshang	通用姿态·单手
+left hand resting on knee	左手扶膝	zuoshoufuxi	通用姿态·单手
+left hand resting on knee	左手放膝盖上	zuoshoufangxigaishang	通用姿态·单手
+left hand resting on thigh	左手放大腿上	zuoshoufangdatuishang	通用姿态·单手
+left hand resting on chest	左手放胸前	zuoshoufangxiongqian	通用姿态·单手
+left hand resting on abdomen	左手放腹部	zuoshoufangfubu	通用姿态·单手
+left hand supporting chin	左手托下巴	zuoshoutuoxiaba	通用姿态·单手
+left hand cupping cheek	左手托腮	zuoshoutuosai	通用姿态·单手
+left hand covering face	左手遮脸	zuoshouzhelian	通用姿态·单手
+left hand covering eyes	左手遮眼睛	zuoshouzheyanjing	通用姿态·单手
+left hand covering mouth	左手捂嘴	zuoshouwuzui	通用姿态·单手
+left hand raised	左手举起	zuoshoujuqi	通用姿态·单手
+left hand hanging loosely at side	左手自然下垂	zuoshouziranxiachui	通用姿态·单手
+left hand extended forward	左手向前伸出	zuoshouxiangqianshenchu	通用姿态·单手
+left hand clenched into a fist	左手握拳	zuoshouwoquan	通用姿态·单手
+left hand open	左手张开	zuoshouzhangkai	通用姿态·单手
+left hand behind back	左手放背后	zuoshoufangbeihou	通用姿态·单手
+left hand supporting back of head	左手扶后脑	zuoshoufuhounao	通用姿态·单手
+left hand touching chin	左手摸下巴	zuoshoumoxiaba	通用姿态·单手
+left hand resting on table	左手放桌上	zuoshoufangzhuoshang	通用姿态·单手
+left hand braced against wall	左手扶墙	zuoshoufuqiang	通用姿态·单手
+left hand holding an object	左手持物	zuoshouchiwu	通用姿态·单手
+right hand touching head	右手摸头	youshoumotou	通用姿态·单手
+right hand touching hair	右手摸头发	youshoumotoufa	通用姿态·单手
+right hand touching face	右手摸脸	youshoumolian	通用姿态·单手
+right hand touching cheek	右手摸脸颊	youshoumolianjia	通用姿态·单手
+right hand touching forehead	右手摸额头	youshoumoetou	通用姿态·单手
+right hand touching ear	右手摸耳朵	youshoumoerduo	通用姿态·单手
+right hand touching muzzle	右手摸口鼻	youshoumokoubi	通用姿态·单手
+right hand touching neck	右手摸脖子	youshoumobozi	通用姿态·单手
+right hand touching shoulder	右手摸肩膀	youshoumojianbang	通用姿态·单手
+right hand touching chest	右手摸胸口	youshoumoxiongkou	通用姿态·单手
+right hand touching abdomen	右手摸腹部	youshoumofubu	通用姿态·单手
+right hand touching back	右手摸后背	youshoumohoubei	通用姿态·单手
+right hand touching tail	右手摸尾巴	youshoumoweiba	通用姿态·单手
+right hand resting on hip	右手扶腰	youshoufuyao	通用姿态·单手
+right hand on waist	右手放腰上	youshoufangyaoshang	通用姿态·单手
+right hand resting on knee	右手扶膝	youshoufuxi	通用姿态·单手
+right hand resting on knee	右手放膝盖上	youshoufangxigaishang	通用姿态·单手
+right hand resting on thigh	右手放大腿上	youshoufangdatuishang	通用姿态·单手
+right hand resting on chest	右手放胸前	youshoufangxiongqian	通用姿态·单手
+right hand resting on abdomen	右手放腹部	youshoufangfubu	通用姿态·单手
+right hand supporting chin	右手托下巴	youshoutuoxiaba	通用姿态·单手
+right hand cupping cheek	右手托腮	youshoutuosai	通用姿态·单手
+right hand covering face	右手遮脸	youshouzhelian	通用姿态·单手
+right hand covering eyes	右手遮眼睛	youshouzheyanjing	通用姿态·单手
+right hand covering mouth	右手捂嘴	youshouwuzui	通用姿态·单手
+right hand raised	右手举起	youshoujuqi	通用姿态·单手
+right hand hanging loosely at side	右手自然下垂	youshouziranxiachui	通用姿态·单手
+right hand extended forward	右手向前伸出	youshouxiangqianshenchu	通用姿态·单手
+right hand clenched into a fist	右手握拳	youshouwoquan	通用姿态·单手
+right hand open	右手张开	youshouzhangkai	通用姿态·单手
+right hand behind back	右手放背后	youshoufangbeihou	通用姿态·单手
+right hand supporting back of head	右手扶后脑	youshoufuhounao	通用姿态·单手
+right hand touching chin	右手摸下巴	youshoumoxiaba	通用姿态·单手
+right hand resting on table	右手放桌上	youshoufangzhuoshang	通用姿态·单手
+right hand braced against wall	右手扶墙	youshoufuqiang	通用姿态·单手
+right hand holding an object	右手持物	youshouchiwu	通用姿态·单手
+one hand touching head	一只手摸头	yizhishoumotou	通用姿态·单手
+one hand touching hair	一只手摸头发	yizhishoumotoufa	通用姿态·单手
+one hand touching face	一只手摸脸	yizhishoumolian	通用姿态·单手
+one hand touching cheek	一只手摸脸颊	yizhishoumolianjia	通用姿态·单手
+one hand touching forehead	一只手摸额头	yizhishoumoetou	通用姿态·单手
+one hand touching ear	一只手摸耳朵	yizhishoumoerduo	通用姿态·单手
+one hand touching muzzle	一只手摸口鼻	yizhishoumokoubi	通用姿态·单手
+one hand touching neck	一只手摸脖子	yizhishoumobozi	通用姿态·单手
+one hand touching shoulder	一只手摸肩膀	yizhishoumojianbang	通用姿态·单手
+one hand touching chest	一只手摸胸口	yizhishoumoxiongkou	通用姿态·单手
+one hand touching abdomen	一只手摸腹部	yizhishoumofubu	通用姿态·单手
+one hand touching back	一只手摸后背	yizhishoumohoubei	通用姿态·单手
+one hand touching tail	一只手摸尾巴	yizhishoumoweiba	通用姿态·单手
+one hand resting on hip	一只手扶腰	yizhishoufuyao	通用姿态·单手
+one hand on waist	一只手放腰上	yizhishoufangyaoshang	通用姿态·单手
+one hand resting on knee	一只手扶膝	yizhishoufuxi	通用姿态·单手
+one hand resting on knee	一只手放膝盖上	yizhishoufangxigaishang	通用姿态·单手
+one hand resting on thigh	一只手放大腿上	yizhishoufangdatuishang	通用姿态·单手
+one hand resting on chest	一只手放胸前	yizhishoufangxiongqian	通用姿态·单手
+one hand resting on abdomen	一只手放腹部	yizhishoufangfubu	通用姿态·单手
+one hand supporting chin	一只手托下巴	yizhishoutuoxiaba	通用姿态·单手
+one hand cupping cheek	一只手托腮	yizhishoutuosai	通用姿态·单手
+one hand covering face	一只手遮脸	yizhishouzhelian	通用姿态·单手
+one hand covering eyes	一只手遮眼睛	yizhishouzheyanjing	通用姿态·单手
+one hand covering mouth	一只手捂嘴	yizhishouwuzui	通用姿态·单手
+one hand raised	一只手举起	yizhishoujuqi	通用姿态·单手
+one hand hanging loosely at side	一只手自然下垂	yizhishouziranxiachui	通用姿态·单手
+one hand extended forward	一只手向前伸出	yizhishouxiangqianshenchu	通用姿态·单手
+one hand clenched into a fist	一只手握拳	yizhishouwoquan	通用姿态·单手
+one hand open	一只手张开	yizhishouzhangkai	通用姿态·单手
+one hand behind back	一只手放背后	yizhishoufangbeihou	通用姿态·单手
+one hand supporting back of head	一只手扶后脑	yizhishoufuhounao	通用姿态·单手
+one hand touching chin	一只手摸下巴	yizhishoumoxiaba	通用姿态·单手
+one hand resting on table	一只手放桌上	yizhishoufangzhuoshang	通用姿态·单手
+one hand braced against wall	一只手扶墙	yizhishoufuqiang	通用姿态·单手
+one hand holding an object	一只手持物	yizhishouchiwu	通用姿态·单手
+the other hand touching head	另一只手摸头	lingyizhishoumotou	通用姿态·单手
+the other hand touching hair	另一只手摸头发	lingyizhishoumotoufa	通用姿态·单手
+the other hand touching face	另一只手摸脸	lingyizhishoumolian	通用姿态·单手
+the other hand touching cheek	另一只手摸脸颊	lingyizhishoumolianjia	通用姿态·单手
+the other hand touching forehead	另一只手摸额头	lingyizhishoumoetou	通用姿态·单手
+the other hand touching ear	另一只手摸耳朵	lingyizhishoumoerduo	通用姿态·单手
+the other hand touching muzzle	另一只手摸口鼻	lingyizhishoumokoubi	通用姿态·单手
+the other hand touching neck	另一只手摸脖子	lingyizhishoumobozi	通用姿态·单手
+the other hand touching shoulder	另一只手摸肩膀	lingyizhishoumojianbang	通用姿态·单手
+the other hand touching chest	另一只手摸胸口	lingyizhishoumoxiongkou	通用姿态·单手
+the other hand touching abdomen	另一只手摸腹部	lingyizhishoumofubu	通用姿态·单手
+the other hand touching back	另一只手摸后背	lingyizhishoumohoubei	通用姿态·单手
+the other hand touching tail	另一只手摸尾巴	lingyizhishoumoweiba	通用姿态·单手
+the other hand resting on hip	另一只手扶腰	lingyizhishoufuyao	通用姿态·单手
+the other hand on waist	另一只手放腰上	lingyizhishoufangyaoshang	通用姿态·单手
+the other hand resting on knee	另一只手扶膝	lingyizhishoufuxi	通用姿态·单手
+the other hand resting on knee	另一只手放膝盖上	lingyizhishoufangxigaishang	通用姿态·单手
+the other hand resting on thigh	另一只手放大腿上	lingyizhishoufangdatuishang	通用姿态·单手
+the other hand resting on chest	另一只手放胸前	lingyizhishoufangxiongqian	通用姿态·单手
+the other hand resting on abdomen	另一只手放腹部	lingyizhishoufangfubu	通用姿态·单手
+the other hand supporting chin	另一只手托下巴	lingyizhishoutuoxiaba	通用姿态·单手
+the other hand cupping cheek	另一只手托腮	lingyizhishoutuosai	通用姿态·单手
+the other hand covering face	另一只手遮脸	lingyizhishouzhelian	通用姿态·单手
+the other hand covering eyes	另一只手遮眼睛	lingyizhishouzheyanjing	通用姿态·单手
+the other hand covering mouth	另一只手捂嘴	lingyizhishouwuzui	通用姿态·单手
+the other hand raised	另一只手举起	lingyizhishoujuqi	通用姿态·单手
+the other hand hanging loosely at side	另一只手自然下垂	lingyizhishouziranxiachui	通用姿态·单手
+the other hand extended forward	另一只手向前伸出	lingyizhishouxiangqianshenchu	通用姿态·单手
+the other hand clenched into a fist	另一只手握拳	lingyizhishouwoquan	通用姿态·单手
+the other hand open	另一只手张开	lingyizhishouzhangkai	通用姿态·单手
+the other hand behind back	另一只手放背后	lingyizhishoufangbeihou	通用姿态·单手
+the other hand supporting back of head	另一只手扶后脑	lingyizhishoufuhounao	通用姿态·单手
+the other hand touching chin	另一只手摸下巴	lingyizhishoumoxiaba	通用姿态·单手
+the other hand resting on table	另一只手放桌上	lingyizhishoufangzhuoshang	通用姿态·单手
+the other hand braced against wall	另一只手扶墙	lingyizhishoufuqiang	通用姿态·单手
+the other hand holding an object	另一只手持物	lingyizhishouchiwu	通用姿态·单手
+one hand touching head	一手摸头	yishoumotou	通用姿态·单手
+one hand touching hair	一手摸头发	yishoumotoufa	通用姿态·单手
+one hand touching face	一手摸脸	yishoumolian	通用姿态·单手
+one hand touching cheek	一手摸脸颊	yishoumolianjia	通用姿态·单手
+one hand touching forehead	一手摸额头	yishoumoetou	通用姿态·单手
+one hand touching ear	一手摸耳朵	yishoumoerduo	通用姿态·单手
+one hand touching muzzle	一手摸口鼻	yishoumokoubi	通用姿态·单手
+one hand touching neck	一手摸脖子	yishoumobozi	通用姿态·单手
+one hand touching shoulder	一手摸肩膀	yishoumojianbang	通用姿态·单手
+one hand touching chest	一手摸胸口	yishoumoxiongkou	通用姿态·单手
+one hand touching abdomen	一手摸腹部	yishoumofubu	通用姿态·单手
+one hand touching back	一手摸后背	yishoumohoubei	通用姿态·单手
+one hand touching tail	一手摸尾巴	yishoumoweiba	通用姿态·单手
+one hand resting on hip	一手扶腰	yishoufuyao	通用姿态·单手
+one hand on waist	一手放腰上	yishoufangyaoshang	通用姿态·单手
+one hand resting on knee	一手扶膝	yishoufuxi	通用姿态·单手
+one hand resting on knee	一手放膝盖上	yishoufangxigaishang	通用姿态·单手
+one hand resting on thigh	一手放大腿上	yishoufangdatuishang	通用姿态·单手
+one hand resting on chest	一手放胸前	yishoufangxiongqian	通用姿态·单手
+one hand resting on abdomen	一手放腹部	yishoufangfubu	通用姿态·单手
+one hand supporting chin	一手托下巴	yishoutuoxiaba	通用姿态·单手
+one hand cupping cheek	一手托腮	yishoutuosai	通用姿态·单手
+one hand covering face	一手遮脸	yishouzhelian	通用姿态·单手
+one hand covering eyes	一手遮眼睛	yishouzheyanjing	通用姿态·单手
+one hand covering mouth	一手捂嘴	yishouwuzui	通用姿态·单手
+one hand raised	一手举起	yishoujuqi	通用姿态·单手
+one hand hanging loosely at side	一手自然下垂	yishouziranxiachui	通用姿态·单手
+one hand extended forward	一手向前伸出	yishouxiangqianshenchu	通用姿态·单手
+one hand clenched into a fist	一手握拳	yishouwoquan	通用姿态·单手
+one hand open	一手张开	yishouzhangkai	通用姿态·单手
+one hand behind back	一手放背后	yishoufangbeihou	通用姿态·单手
+one hand supporting back of head	一手扶后脑	yishoufuhounao	通用姿态·单手
+one hand touching chin	一手摸下巴	yishoumoxiaba	通用姿态·单手
+one hand resting on table	一手放桌上	yishoufangzhuoshang	通用姿态·单手
+one hand braced against wall	一手扶墙	yishoufuqiang	通用姿态·单手
+one hand holding an object	一手持物	yishouchiwu	通用姿态·单手
+the other hand touching head	另一手摸头	lingyishoumotou	通用姿态·单手
+the other hand touching hair	另一手摸头发	lingyishoumotoufa	通用姿态·单手
+the other hand touching face	另一手摸脸	lingyishoumolian	通用姿态·单手
+the other hand touching cheek	另一手摸脸颊	lingyishoumolianjia	通用姿态·单手
+the other hand touching forehead	另一手摸额头	lingyishoumoetou	通用姿态·单手
+the other hand touching ear	另一手摸耳朵	lingyishoumoerduo	通用姿态·单手
+the other hand touching muzzle	另一手摸口鼻	lingyishoumokoubi	通用姿态·单手
+the other hand touching neck	另一手摸脖子	lingyishoumobozi	通用姿态·单手
+the other hand touching shoulder	另一手摸肩膀	lingyishoumojianbang	通用姿态·单手
+the other hand touching chest	另一手摸胸口	lingyishoumoxiongkou	通用姿态·单手
+the other hand touching abdomen	另一手摸腹部	lingyishoumofubu	通用姿态·单手
+the other hand touching back	另一手摸后背	lingyishoumohoubei	通用姿态·单手
+the other hand touching tail	另一手摸尾巴	lingyishoumoweiba	通用姿态·单手
+the other hand resting on hip	另一手扶腰	lingyishoufuyao	通用姿态·单手
+the other hand on waist	另一手放腰上	lingyishoufangyaoshang	通用姿态·单手
+the other hand resting on knee	另一手扶膝	lingyishoufuxi	通用姿态·单手
+the other hand resting on knee	另一手放膝盖上	lingyishoufangxigaishang	通用姿态·单手
+the other hand resting on thigh	另一手放大腿上	lingyishoufangdatuishang	通用姿态·单手
+the other hand resting on chest	另一手放胸前	lingyishoufangxiongqian	通用姿态·单手
+the other hand resting on abdomen	另一手放腹部	lingyishoufangfubu	通用姿态·单手
+the other hand supporting chin	另一手托下巴	lingyishoutuoxiaba	通用姿态·单手
+the other hand cupping cheek	另一手托腮	lingyishoutuosai	通用姿态·单手
+the other hand covering face	另一手遮脸	lingyishouzhelian	通用姿态·单手
+the other hand covering eyes	另一手遮眼睛	lingyishouzheyanjing	通用姿态·单手
+the other hand covering mouth	另一手捂嘴	lingyishouwuzui	通用姿态·单手
+the other hand raised	另一手举起	lingyishoujuqi	通用姿态·单手
+the other hand hanging loosely at side	另一手自然下垂	lingyishouziranxiachui	通用姿态·单手
+the other hand extended forward	另一手向前伸出	lingyishouxiangqianshenchu	通用姿态·单手
+the other hand clenched into a fist	另一手握拳	lingyishouwoquan	通用姿态·单手
+the other hand open	另一手张开	lingyishouzhangkai	通用姿态·单手
+the other hand behind back	另一手放背后	lingyishoufangbeihou	通用姿态·单手
+the other hand supporting back of head	另一手扶后脑	lingyishoufuhounao	通用姿态·单手
+the other hand touching chin	另一手摸下巴	lingyishoumoxiaba	通用姿态·单手
+the other hand resting on table	另一手放桌上	lingyishoufangzhuoshang	通用姿态·单手
+the other hand braced against wall	另一手扶墙	lingyishoufuqiang	通用姿态·单手
+the other hand holding an object	另一手持物	lingyishouchiwu	通用姿态·单手
+left hand resting on hip, right hand touching head	左手扶腰右手摸头	zuoshoufuyaoyoushoumotou	通用姿态·双手
+one hand resting on hip, the other hand touching head	一只手扶腰另一只手摸头	yizhishoufuyaolingyizhishoumotou	通用姿态·双手
+one hand resting on hip, the other hand touching head	一手扶腰另一手摸头	yishoufuyaolingyishoumotou	通用姿态·双手
+left hand touching head, right hand resting on hip	左手摸头右手扶腰	zuoshoumotouyoushoufuyao	通用姿态·双手
+one hand touching head, the other hand resting on hip	一只手摸头另一只手扶腰	yizhishoumotoulingyizhishoufuyao	通用姿态·双手
+one hand touching head, the other hand resting on hip	一手摸头另一手扶腰	yishoumotoulingyishoufuyao	通用姿态·双手
+left hand resting on chest, right hand resting on abdomen	左手放胸前右手放腹部	zuoshoufangxiongqianyoushoufangfubu	通用姿态·双手
+one hand resting on chest, the other hand resting on abdomen	一只手放胸前另一只手放腹部	yizhishoufangxiongqianlingyizhishoufangfubu	通用姿态·双手
+one hand resting on chest, the other hand resting on abdomen	一手放胸前另一手放腹部	yishoufangxiongqianlingyishoufangfubu	通用姿态·双手
+left hand resting on abdomen, right hand resting on chest	左手放腹部右手放胸前	zuoshoufangfubuyoushoufangxiongqian	通用姿态·双手
+one hand resting on abdomen, the other hand resting on chest	一只手放腹部另一只手放胸前	yizhishoufangfubulingyizhishoufangxiongqian	通用姿态·双手
+one hand resting on abdomen, the other hand resting on chest	一手放腹部另一手放胸前	yishoufangfubulingyishoufangxiongqian	通用姿态·双手
+left hand touching face, right hand resting on knee	左手摸脸右手扶膝	zuoshoumolianyoushoufuxi	通用姿态·双手
+one hand touching face, the other hand resting on knee	一只手摸脸另一只手扶膝	yizhishoumolianlingyizhishoufuxi	通用姿态·双手
+one hand touching face, the other hand resting on knee	一手摸脸另一手扶膝	yishoumolianlingyishoufuxi	通用姿态·双手
+left hand resting on knee, right hand touching face	左手扶膝右手摸脸	zuoshoufuxiyoushoumolian	通用姿态·双手
+one hand resting on knee, the other hand touching face	一只手扶膝另一只手摸脸	yizhishoufuxilingyizhishoumolian	通用姿态·双手
+one hand resting on knee, the other hand touching face	一手扶膝另一手摸脸	yishoufuxilingyishoumolian	通用姿态·双手
+left hand supporting chin, right hand resting on thigh	左手托下巴右手放大腿上	zuoshoutuoxiabayoushoufangdatuishang	通用姿态·双手
+one hand supporting chin, the other hand resting on thigh	一只手托下巴另一只手放大腿上	yizhishoutuoxiabalingyizhishoufangdatuishang	通用姿态·双手
+one hand supporting chin, the other hand resting on thigh	一手托下巴另一手放大腿上	yishoutuoxiabalingyishoufangdatuishang	通用姿态·双手
+left hand resting on thigh, right hand supporting chin	左手放大腿上右手托下巴	zuoshoufangdatuishangyoushoutuoxiaba	通用姿态·双手
+one hand resting on thigh, the other hand supporting chin	一只手放大腿上另一只手托下巴	yizhishoufangdatuishanglingyizhishoutuoxiaba	通用姿态·双手
+one hand resting on thigh, the other hand supporting chin	一手放大腿上另一手托下巴	yishoufangdatuishanglingyishoutuoxiaba	通用姿态·双手
+left hand touching ear, right hand touching tail	左手摸耳朵右手摸尾巴	zuoshoumoerduoyoushoumoweiba	通用姿态·双手
+one hand touching ear, the other hand touching tail	一只手摸耳朵另一只手摸尾巴	yizhishoumoerduolingyizhishoumoweiba	通用姿态·双手
+one hand touching ear, the other hand touching tail	一手摸耳朵另一手摸尾巴	yishoumoerduolingyishoumoweiba	通用姿态·双手
+left hand touching tail, right hand touching ear	左手摸尾巴右手摸耳朵	zuoshoumoweibayoushoumoerduo	通用姿态·双手
+one hand touching tail, the other hand touching ear	一只手摸尾巴另一只手摸耳朵	yizhishoumoweibalingyizhishoumoerduo	通用姿态·双手
+one hand touching tail, the other hand touching ear	一手摸尾巴另一手摸耳朵	yishoumoweibalingyishoumoerduo	通用姿态·双手
+left hand touching hair, right hand resting on hip	左手摸头发右手扶腰	zuoshoumotoufayoushoufuyao	通用姿态·双手
+one hand touching hair, the other hand resting on hip	一只手摸头发另一只手扶腰	yizhishoumotoufalingyizhishoufuyao	通用姿态·双手
+one hand touching hair, the other hand resting on hip	一手摸头发另一手扶腰	yishoumotoufalingyishoufuyao	通用姿态·双手
+left hand resting on hip, right hand touching hair	左手扶腰右手摸头发	zuoshoufuyaoyoushoumotoufa	通用姿态·双手
+one hand resting on hip, the other hand touching hair	一只手扶腰另一只手摸头发	yizhishoufuyaolingyizhishoumotoufa	通用姿态·双手
+one hand resting on hip, the other hand touching hair	一手扶腰另一手摸头发	yishoufuyaolingyishoumotoufa	通用姿态·双手
+left hand touching shoulder, right hand resting on abdomen	左手摸肩膀右手放腹部	zuoshoumojianbangyoushoufangfubu	通用姿态·双手
+one hand touching shoulder, the other hand resting on abdomen	一只手摸肩膀另一只手放腹部	yizhishoumojianbanglingyizhishoufangfubu	通用姿态·双手
+one hand touching shoulder, the other hand resting on abdomen	一手摸肩膀另一手放腹部	yishoumojianbanglingyishoufangfubu	通用姿态·双手
+left hand resting on abdomen, right hand touching shoulder	左手放腹部右手摸肩膀	zuoshoufangfubuyoushoumojianbang	通用姿态·双手
+one hand resting on abdomen, the other hand touching shoulder	一只手放腹部另一只手摸肩膀	yizhishoufangfubulingyizhishoumojianbang	通用姿态·双手
+one hand resting on abdomen, the other hand touching shoulder	一手放腹部另一手摸肩膀	yishoufangfubulingyishoumojianbang	通用姿态·双手
+left hand touching chest, right hand behind back	左手摸胸口右手放背后	zuoshoumoxiongkouyoushoufangbeihou	通用姿态·双手
+one hand touching chest, the other hand behind back	一只手摸胸口另一只手放背后	yizhishoumoxiongkoulingyizhishoufangbeihou	通用姿态·双手
+one hand touching chest, the other hand behind back	一手摸胸口另一手放背后	yishoumoxiongkoulingyishoufangbeihou	通用姿态·双手
+left hand behind back, right hand touching chest	左手放背后右手摸胸口	zuoshoufangbeihouyoushoumoxiongkou	通用姿态·双手
+one hand behind back, the other hand touching chest	一只手放背后另一只手摸胸口	yizhishoufangbeihoulingyizhishoumoxiongkou	通用姿态·双手
+one hand behind back, the other hand touching chest	一手放背后另一手摸胸口	yishoufangbeihoulingyishoumoxiongkou	通用姿态·双手
+left hand touching forehead, right hand resting on hip	左手摸额头右手扶腰	zuoshoumoetouyoushoufuyao	通用姿态·双手
+one hand touching forehead, the other hand resting on hip	一只手摸额头另一只手扶腰	yizhishoumoetoulingyizhishoufuyao	通用姿态·双手
+one hand touching forehead, the other hand resting on hip	一手摸额头另一手扶腰	yishoumoetoulingyishoufuyao	通用姿态·双手
+left hand resting on hip, right hand touching forehead	左手扶腰右手摸额头	zuoshoufuyaoyoushoumoetou	通用姿态·双手
+one hand resting on hip, the other hand touching forehead	一只手扶腰另一只手摸额头	yizhishoufuyaolingyizhishoumoetou	通用姿态·双手
+one hand resting on hip, the other hand touching forehead	一手扶腰另一手摸额头	yishoufuyaolingyishoumoetou	通用姿态·双手
+left hand cupping cheek, right hand resting on table	左手托腮右手放桌上	zuoshoutuosaiyoushoufangzhuoshang	通用姿态·双手
+one hand cupping cheek, the other hand resting on table	一只手托腮另一只手放桌上	yizhishoutuosailingyizhishoufangzhuoshang	通用姿态·双手
+one hand cupping cheek, the other hand resting on table	一手托腮另一手放桌上	yishoutuosailingyishoufangzhuoshang	通用姿态·双手
+left hand resting on table, right hand cupping cheek	左手放桌上右手托腮	zuoshoufangzhuoshangyoushoutuosai	通用姿态·双手
+one hand resting on table, the other hand cupping cheek	一只手放桌上另一只手托腮	yizhishoufangzhuoshanglingyizhishoutuosai	通用姿态·双手
+one hand resting on table, the other hand cupping cheek	一手放桌上另一手托腮	yishoufangzhuoshanglingyishoutuosai	通用姿态·双手
+left hand covering face, right hand resting on chest	左手遮脸右手放胸前	zuoshouzhelianyoushoufangxiongqian	通用姿态·双手
+one hand covering face, the other hand resting on chest	一只手遮脸另一只手放胸前	yizhishouzhelianlingyizhishoufangxiongqian	通用姿态·双手
+one hand covering face, the other hand resting on chest	一手遮脸另一手放胸前	yishouzhelianlingyishoufangxiongqian	通用姿态·双手
+left hand resting on chest, right hand covering face	左手放胸前右手遮脸	zuoshoufangxiongqianyoushouzhelian	通用姿态·双手
+one hand resting on chest, the other hand covering face	一只手放胸前另一只手遮脸	yizhishoufangxiongqianlingyizhishouzhelian	通用姿态·双手
+one hand resting on chest, the other hand covering face	一手放胸前另一手遮脸	yishoufangxiongqianlingyishouzhelian	通用姿态·双手
+left hand raised, right hand hanging loosely at side	左手举起右手自然下垂	zuoshoujuqiyoushouziranxiachui	通用姿态·双手
+one hand raised, the other hand hanging loosely at side	一只手举起另一只手自然下垂	yizhishoujuqilingyizhishouziranxiachui	通用姿态·双手
+one hand raised, the other hand hanging loosely at side	一手举起另一手自然下垂	yishoujuqilingyishouziranxiachui	通用姿态·双手
+left hand hanging loosely at side, right hand raised	左手自然下垂右手举起	zuoshouziranxiachuiyoushoujuqi	通用姿态·双手
+one hand hanging loosely at side, the other hand raised	一只手自然下垂另一只手举起	yizhishouziranxiachuilingyizhishoujuqi	通用姿态·双手
+one hand hanging loosely at side, the other hand raised	一手自然下垂另一手举起	yishouziranxiachuilingyishoujuqi	通用姿态·双手
+left hand clenched into a fist, right hand open	左手握拳右手张开	zuoshouwoquanyoushouzhangkai	通用姿态·双手
+one hand clenched into a fist, the other hand open	一只手握拳另一只手张开	yizhishouwoquanlingyizhishouzhangkai	通用姿态·双手
+one hand clenched into a fist, the other hand open	一手握拳另一手张开	yishouwoquanlingyishouzhangkai	通用姿态·双手
+left hand open, right hand clenched into a fist	左手张开右手握拳	zuoshouzhangkaiyoushouwoquan	通用姿态·双手
+one hand open, the other hand clenched into a fist	一只手张开另一只手握拳	yizhishouzhangkailingyizhishouwoquan	通用姿态·双手
+one hand open, the other hand clenched into a fist	一手张开另一手握拳	yishouzhangkailingyishouwoquan	通用姿态·双手
+left hand braced against wall, right hand resting on hip	左手扶墙右手扶腰	zuoshoufuqiangyoushoufuyao	通用姿态·双手
+one hand braced against wall, the other hand resting on hip	一只手扶墙另一只手扶腰	yizhishoufuqianglingyizhishoufuyao	通用姿态·双手
+one hand braced against wall, the other hand resting on hip	一手扶墙另一手扶腰	yishoufuqianglingyishoufuyao	通用姿态·双手
+left hand resting on hip, right hand braced against wall	左手扶腰右手扶墙	zuoshoufuyaoyoushoufuqiang	通用姿态·双手
+one hand resting on hip, the other hand braced against wall	一只手扶腰另一只手扶墙	yizhishoufuyaolingyizhishoufuqiang	通用姿态·双手
+one hand resting on hip, the other hand braced against wall	一手扶腰另一手扶墙	yishoufuyaolingyishoufuqiang	通用姿态·双手

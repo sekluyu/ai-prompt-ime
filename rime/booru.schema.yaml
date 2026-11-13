@@ -1,7 +1,7 @@
 schema:
   schema_id: booru
   name: 绘画提示词
-  version: "0.2.5"
+  version: "0.2.6"
   description: 离线中文拼音选中英提示词、e621与Danbooru标签；逐词选择
 switches:
   - name: ascii_mode

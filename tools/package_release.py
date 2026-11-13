@@ -10,7 +10,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.5'
+VERSION='0.2.6'
 LAUNCHER='安装绘画提示词.exe'
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def sums(folder):
@@ -38,6 +38,9 @@ def main():
     lua=json.loads((validation/'lua-filter-unit.json').read_text(encoding='utf-8'))
     assert lua['status']=='PASS' and lua['lua_sha256']==sha(ROOT/'rime/lua/booru_filter.lua')
     assert lua['dictionary_sha256']==proof['dictionary_sha256']
+    pose=json.loads((validation/'pose-phrases.json').read_text(encoding='utf-8'))
+    assert pose['status']=='PASS' and pose['dictionary_sha256']==proof['dictionary_sha256']
+    assert pose['native_dictionary_sha256']==proof['native_dictionary_sha256']
     archives=[]
     for variant in ['default','dictionary']:
         name=f'ai-prompt-ime-{VERSION}'+('' if variant=='default' else '-'+variant)
@@ -73,7 +76,7 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['ranking-slang.json','lua-filter-unit.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json']:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 for n in ['source.json','conversion-report.json']:shutil.copy2(artifacts/'dictionary'/n,folder/'validation'/n)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:

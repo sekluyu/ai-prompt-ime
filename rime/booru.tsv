@@ -11179,6 +11179,7 @@ back_ribbon	背部丝带	beibusidai	3179	primary
 back_focus	背部特写	beibutexie	3464	primary
 __prompt__:striped_back	背部条纹〔e621〕	beibutiaowen	2976	alias
 __prompt__:back_stripes	背部条纹〔e621〕	beibutiaowen	2233	alias
+__prompt__:straight back	背部挺直〔通用姿态·躯干〕	beibutingzhi	10000	primary
 __prompt__:back_tattoo	背部图案〔e621〕	beibutuan	3734	alias
 __prompt__:back_spikes	背部突起〔e621〕	beibutuqi	3590	alias
 __prompt__:bent_back	背部弯曲〔e621〕	beibuwanqu	2765	alias
@@ -49989,6 +49990,7 @@ __prompt__:command_to_relax	放松指令〔e621〕	fangsongzhiling	2165	alias
 __prompt__:relaxation	放松状态〔e621〕	fangsongzhuangtai	2097	alias
 __prompt__:comfy	放松姿势〔e621〕	fangsongzishi	2585	alias
 __prompt__:lounge	放松姿势〔e621〕	fangsongzishi	2321	alias
+__prompt__:relaxed posture	放松姿态〔通用姿态·躯干〕	fangsongzitai	10000	primary
 sugar_cube	方糖	fangtang	3242	primary
 sugar_cube_hair_ornament	方糖发饰	fangtangfashi	1042	primary
 sugar_tongs	方糖夹	fangtangjia	1343	primary
@@ -66970,6 +66972,7 @@ kishimojin_ichika	鬼子母神一华	guizimushenyihua	1343	primary
 __prompt__:ghost pose	鬼姿势〔提示词库〕	guizishi	5001	alias
 __prompt__:executioner	刽子手〔e621〕	guizishou	2321	alias
 __prompt__:kneeling_sex	跪姿性交〔e621〕	guizixingjiao	3231	alias
+__prompt__:kneeling upright	跪姿直立〔通用姿态·躯干〕	guizizhili	10000	primary
 __prompt__:oni	鬼族〔e621〕	guizu	4661	alias
 __prompt__:ibuki_suika	鬼族〔合并词库〕	guizu	4191	alias
 __prompt__:hoshiguma_yuugi	鬼族〔合并词库〕	guizu	4018	alias
@@ -123600,7 +123603,79 @@ __prompt__:watanuki_kimihiro	灵异商店〔合并词库〕	lingyishangdian	2131
 __prompt__:hex_maniac_(pokemon)	灵异少女〔合并词库〕	lingyishaonv	3629	alias
 __prompt__:hex_maniac_(pokemon_xy)	灵异少女〔合并词库〕	lingyishaonv	3535	alias
 __prompt__:hex_maniac_(pokemon_legends:_z-a)	灵异少女〔合并词库〕	lingyishaonv	2943	alias
+__prompt__:the other hand holding an object	另一手持物〔通用姿态·单手〕	lingyishouchiwu	10000	primary
+__prompt__:the other hand behind back	另一手放背后〔通用姿态·单手〕	lingyishoufangbeihou	10000	primary
+__prompt__:the other hand resting on thigh	另一手放大腿上〔通用姿态·单手〕	lingyishoufangdatuishang	10000	primary
+__prompt__:the other hand resting on abdomen	另一手放腹部〔通用姿态·单手〕	lingyishoufangfubu	10000	primary
+__prompt__:the other hand resting on knee	另一手放膝盖上〔通用姿态·单手〕	lingyishoufangxigaishang	10000	primary
+__prompt__:the other hand resting on chest	另一手放胸前〔通用姿态·单手〕	lingyishoufangxiongqian	10000	primary
+__prompt__:the other hand on waist	另一手放腰上〔通用姿态·单手〕	lingyishoufangyaoshang	10000	primary
+__prompt__:the other hand resting on table	另一手放桌上〔通用姿态·单手〕	lingyishoufangzhuoshang	10000	primary
+__prompt__:the other hand supporting back of head	另一手扶后脑〔通用姿态·单手〕	lingyishoufuhounao	10000	primary
+__prompt__:the other hand braced against wall	另一手扶墙〔通用姿态·单手〕	lingyishoufuqiang	10000	primary
+__prompt__:the other hand resting on knee	另一手扶膝〔通用姿态·单手〕	lingyishoufuxi	10000	primary
+__prompt__:the other hand resting on hip	另一手扶腰〔通用姿态·单手〕	lingyishoufuyao	10000	primary
+__prompt__:the other hand raised	另一手举起〔通用姿态·单手〕	lingyishoujuqi	10000	primary
+__prompt__:the other hand touching neck	另一手摸脖子〔通用姿态·单手〕	lingyishoumobozi	10000	primary
+__prompt__:the other hand touching ear	另一手摸耳朵〔通用姿态·单手〕	lingyishoumoerduo	10000	primary
+__prompt__:the other hand touching forehead	另一手摸额头〔通用姿态·单手〕	lingyishoumoetou	10000	primary
+__prompt__:the other hand touching abdomen	另一手摸腹部〔通用姿态·单手〕	lingyishoumofubu	10000	primary
+__prompt__:the other hand touching back	另一手摸后背〔通用姿态·单手〕	lingyishoumohoubei	10000	primary
+__prompt__:the other hand touching shoulder	另一手摸肩膀〔通用姿态·单手〕	lingyishoumojianbang	10000	primary
+__prompt__:the other hand touching muzzle	另一手摸口鼻〔通用姿态·单手〕	lingyishoumokoubi	10000	primary
+__prompt__:the other hand touching face	另一手摸脸〔通用姿态·单手〕	lingyishoumolian	10000	primary
+__prompt__:the other hand touching cheek	另一手摸脸颊〔通用姿态·单手〕	lingyishoumolianjia	10000	primary
+__prompt__:the other hand touching head	另一手摸头〔通用姿态·单手〕	lingyishoumotou	10000	primary
+__prompt__:the other hand touching hair	另一手摸头发〔通用姿态·单手〕	lingyishoumotoufa	10000	primary
+__prompt__:the other hand touching tail	另一手摸尾巴〔通用姿态·单手〕	lingyishoumoweiba	10000	primary
+__prompt__:the other hand touching chin	另一手摸下巴〔通用姿态·单手〕	lingyishoumoxiaba	10000	primary
+__prompt__:the other hand touching chest	另一手摸胸口〔通用姿态·单手〕	lingyishoumoxiongkou	10000	primary
+__prompt__:the other hand cupping cheek	另一手托腮〔通用姿态·单手〕	lingyishoutuosai	10000	primary
+__prompt__:the other hand supporting chin	另一手托下巴〔通用姿态·单手〕	lingyishoutuoxiaba	10000	primary
+__prompt__:the other hand clenched into a fist	另一手握拳〔通用姿态·单手〕	lingyishouwoquan	10000	primary
+__prompt__:the other hand covering mouth	另一手捂嘴〔通用姿态·单手〕	lingyishouwuzui	10000	primary
+__prompt__:the other hand extended forward	另一手向前伸出〔通用姿态·单手〕	lingyishouxiangqianshenchu	10000	primary
+__prompt__:the other hand open	另一手张开〔通用姿态·单手〕	lingyishouzhangkai	10000	primary
+__prompt__:the other hand covering face	另一手遮脸〔通用姿态·单手〕	lingyishouzhelian	10000	primary
+__prompt__:the other hand covering eyes	另一手遮眼睛〔通用姿态·单手〕	lingyishouzheyanjing	10000	primary
+__prompt__:the other hand hanging loosely at side	另一手自然下垂〔通用姿态·单手〕	lingyishouziranxiachui	10000	primary
 __prompt__:what_if	另一条世界线〔提示词库〕	lingyitiaoshijiexian	5001	alias
+__prompt__:the other hand holding an object	另一只手持物〔通用姿态·单手〕	lingyizhishouchiwu	10000	primary
+__prompt__:the other hand behind back	另一只手放背后〔通用姿态·单手〕	lingyizhishoufangbeihou	10000	primary
+__prompt__:the other hand resting on thigh	另一只手放大腿上〔通用姿态·单手〕	lingyizhishoufangdatuishang	10000	primary
+__prompt__:the other hand resting on abdomen	另一只手放腹部〔通用姿态·单手〕	lingyizhishoufangfubu	10000	primary
+__prompt__:the other hand resting on knee	另一只手放膝盖上〔通用姿态·单手〕	lingyizhishoufangxigaishang	10000	primary
+__prompt__:the other hand resting on chest	另一只手放胸前〔通用姿态·单手〕	lingyizhishoufangxiongqian	10000	primary
+__prompt__:the other hand on waist	另一只手放腰上〔通用姿态·单手〕	lingyizhishoufangyaoshang	10000	primary
+__prompt__:the other hand resting on table	另一只手放桌上〔通用姿态·单手〕	lingyizhishoufangzhuoshang	10000	primary
+__prompt__:the other hand supporting back of head	另一只手扶后脑〔通用姿态·单手〕	lingyizhishoufuhounao	10000	primary
+__prompt__:the other hand braced against wall	另一只手扶墙〔通用姿态·单手〕	lingyizhishoufuqiang	10000	primary
+__prompt__:the other hand resting on knee	另一只手扶膝〔通用姿态·单手〕	lingyizhishoufuxi	10000	primary
+__prompt__:the other hand resting on hip	另一只手扶腰〔通用姿态·单手〕	lingyizhishoufuyao	10000	primary
+__prompt__:the other hand raised	另一只手举起〔通用姿态·单手〕	lingyizhishoujuqi	10000	primary
+__prompt__:the other hand touching neck	另一只手摸脖子〔通用姿态·单手〕	lingyizhishoumobozi	10000	primary
+__prompt__:the other hand touching ear	另一只手摸耳朵〔通用姿态·单手〕	lingyizhishoumoerduo	10000	primary
+__prompt__:the other hand touching forehead	另一只手摸额头〔通用姿态·单手〕	lingyizhishoumoetou	10000	primary
+__prompt__:the other hand touching abdomen	另一只手摸腹部〔通用姿态·单手〕	lingyizhishoumofubu	10000	primary
+__prompt__:the other hand touching back	另一只手摸后背〔通用姿态·单手〕	lingyizhishoumohoubei	10000	primary
+__prompt__:the other hand touching shoulder	另一只手摸肩膀〔通用姿态·单手〕	lingyizhishoumojianbang	10000	primary
+__prompt__:the other hand touching muzzle	另一只手摸口鼻〔通用姿态·单手〕	lingyizhishoumokoubi	10000	primary
+__prompt__:the other hand touching face	另一只手摸脸〔通用姿态·单手〕	lingyizhishoumolian	10000	primary
+__prompt__:the other hand touching cheek	另一只手摸脸颊〔通用姿态·单手〕	lingyizhishoumolianjia	10000	primary
+__prompt__:the other hand touching head	另一只手摸头〔通用姿态·单手〕	lingyizhishoumotou	10000	primary
+__prompt__:the other hand touching hair	另一只手摸头发〔通用姿态·单手〕	lingyizhishoumotoufa	10000	primary
+__prompt__:the other hand touching tail	另一只手摸尾巴〔通用姿态·单手〕	lingyizhishoumoweiba	10000	primary
+__prompt__:the other hand touching chin	另一只手摸下巴〔通用姿态·单手〕	lingyizhishoumoxiaba	10000	primary
+__prompt__:the other hand touching chest	另一只手摸胸口〔通用姿态·单手〕	lingyizhishoumoxiongkou	10000	primary
+__prompt__:the other hand cupping cheek	另一只手托腮〔通用姿态·单手〕	lingyizhishoutuosai	10000	primary
+__prompt__:the other hand supporting chin	另一只手托下巴〔通用姿态·单手〕	lingyizhishoutuoxiaba	10000	primary
+__prompt__:the other hand clenched into a fist	另一只手握拳〔通用姿态·单手〕	lingyizhishouwoquan	10000	primary
+__prompt__:the other hand covering mouth	另一只手捂嘴〔通用姿态·单手〕	lingyizhishouwuzui	10000	primary
+__prompt__:the other hand extended forward	另一只手向前伸出〔通用姿态·单手〕	lingyizhishouxiangqianshenchu	10000	primary
+__prompt__:the other hand open	另一只手张开〔通用姿态·单手〕	lingyizhishouzhangkai	10000	primary
+__prompt__:the other hand covering face	另一只手遮脸〔通用姿态·单手〕	lingyizhishouzhelian	10000	primary
+__prompt__:the other hand covering eyes	另一只手遮眼睛〔通用姿态·单手〕	lingyizhishouzheyanjing	10000	primary
+__prompt__:the other hand hanging loosely at side	另一只手自然下垂〔通用姿态·单手〕	lingyizhishouziranxiachui	10000	primary
 __prompt__:occult_ball	灵异珠〔合并词库〕	lingyizhu	2316	alias
 lingyou	灵游	lingyou	1909	primary
 __prompt__:alternate_version_at_source	另有付费版本〔e621〕	lingyoufufeibanben	4323	alias
@@ -176071,11 +176146,13 @@ __prompt__:thorax	上半身区域〔合并词库〕	shangbanshenquyu	2372	alias
 __prompt__:humanoid_taur	上半身人形下半身为兽〔e621〕	shangbanshenrenxingxiabanshenweishou	3878	alias
 __prompt__:bust_portrait	上半身特写〔e621〕	shangbanshentexie	4436	alias
 __prompt__:torso_shot	上半身特写〔e621〕	shangbanshentexie	3082	alias
+__prompt__:upright torso	上半身挺直〔通用姿态·躯干〕	shangbanshentingzhi	10000	primary
 __prompt__:upper_body	上半身像〔合并词库〕	shangbanshenxiang	6034	alias
 __prompt__:half-length_portrait	上半身像〔e621〕	shangbanshenxiang	4464	alias
 __prompt__:small_upper_body	上半身小〔e621〕	shangbanshenxiao	2432	alias
 __prompt__:bust_portrait	上半身肖像〔e621〕	shangbanshenxiaoxiang	4436	alias
 __prompt__:topwear	上半身衣物〔e621〕	shangbanshenyiwu	5890	alias
+__prompt__:upright torso	上半身直立〔通用姿态·躯干〕	shangbanshenzhili	10000	primary
 __prompt__:hearts_around_upper_body	上半身周围漂浮心形〔e621〕	shangbanshenzhouweipiaofuxinxing	2156	alias
 __prompt__:at_work	上班中〔e621〕	shangbanzhong	2314	alias
 __prompt__:work_clothes	上班装〔e621〕	shangbanzhuang	2293	alias
@@ -176413,6 +176490,7 @@ __prompt__:upper_body	上身〔合并词库〕	shangshen	6034	alias
 __prompt__:half-length_portrait	上身〔e621〕	shangshen	4464	alias
 __prompt__:torso_markings	上身标记〔e621〕	shangshenbiaoji	2341	alias
 __prompt__:bikini_top_only	上身比基尼下身裸露〔e621〕	shangshenbijinixiashenluolu	4624	alias
+__prompt__:torso turned to side	上身侧转〔通用姿态·躯干〕	shangshencezhuan	10000	primary
 __prompt__:mostly_nude_female	上身赤裸女性〔e621〕	shangshenchiluonvxing	4012	alias
 __prompt__:topless_anthro	上身赤裸兽人〔e621〕	shangshenchiluoshouren	4430	alias
 __prompt__:topwear	上身穿搭〔e621〕	shangshenchuanda	5890	alias
@@ -176421,15 +176499,20 @@ __prompt__:topwear	上身服装〔e621〕	shangshenfuzhuang	5890	alias
 __prompt__:rain_mikamura	上升高达〔合并词库〕	shangshenggaoda	2469	alias
 agaaru_chan	上升酱	shangshengjiang	1080	primary
 __prompt__:wind_lift	上升气流〔提示词库〕	shangshengqiliu	5001	alias
+__prompt__:leaning_back	上身后仰〔通用姿态·躯干〕	shangshenhouyang	10000	primary
 __prompt__:leaning_in	上身靠前〔合并词库〕	shangshenkaoqian	2009	alias
 __prompt__:big_chest	上身宽大〔e621〕	shangshenkuanda	3011	alias
 topless_other	上身裸露	shangshenluolu	2605	primary
 __prompt__:no_shirt	上身裸露〔e621〕	shangshenluolu	4138	alias
+__prompt__:twisted torso	上身扭转〔通用姿态·躯干〕	shangshenniuzhuan	10000	primary
+__prompt__:leaning_forward	上身前倾〔通用姿态·躯干〕	shangshenqianqing	10000	primary
 __prompt__:mostly_nude_gynomorph	上身全裸雌性〔e621〕	shangshenquanluocixing	3375	alias
 __prompt__:akiyama_mizuki	上神山高中〔合并词库〕	shangshenshangaozhong	3505	alias
+__prompt__:upright torso	上身挺直〔通用姿态·躯干〕	shangshentingzhi	10000	primary
 __prompt__:small_upper_body	上身纤细〔e621〕	shangshenxianxi	2432	alias
 __prompt__:countershade_fur	上深下浅毛色〔e621〕	shangshenxiaqianmaose	4482	alias
 caduceus	商神杖	shangshenzhang	2182	primary
+__prompt__:upright torso	上身直立〔通用姿态·躯干〕	shangshenzhili	10000	primary
 __prompt__:top_heavy	上身壮硕〔e621〕	shangshenzhuangshuo	3254	alias
 __prompt__:bad_neck	伤势〔合并词库〕	shangshi	2558	alias
 __prompt__:sprain	伤势〔合并词库〕	shangshi	2424	alias
@@ -182515,6 +182598,7 @@ __prompt__:tanlines	身体痕迹〔合并词库〕	shentihenji	4589	alias
 __prompt__:tan_line	身体痕迹〔e621〕	shentihenji	3474	alias
 __prompt__:body_blush	身体红晕〔e621〕	shentihongyun	4422	alias
 __prompt__:backbend	身体后弯〔e621〕	shentihouwan	2435	alias
+__prompt__:leaning_back	身体后仰〔通用姿态·躯干〕	shentihouyang	10000	primary
 __prompt__:leaning_backward	身体后仰〔e621〕	shentihouyang	4103	alias
 __prompt__:bent_back	身体后仰〔e621〕	shentihouyang	2765	alias
 __prompt__:body_slider	身体滑条〔e621〕	shentihuatiao	2457	alias
@@ -182594,7 +182678,7 @@ __prompt__:inflating	身体膨胀〔e621〕	shentipengzhang	2990	alias
 __prompt__:expansion_sequence	身体膨胀序列〔e621〕	shentipengzhangxulie	2231	alias
 __prompt__:body_fur	身体皮毛〔e621〕	shentipimao	4505	alias
 body_fins	身体鳍	shentiqi	1904	primary
-__prompt__:leaning_forward	身体前倾〔提示词库〕	shentiqianqing	5001	alias
+__prompt__:leaning_forward	身体前倾〔通用姿态·躯干〕	shentiqianqing	10000	primary
 __prompt__:bending_down	身体前倾〔e621〕	shentiqianqing	2275	alias
 __prompt__:leaning_in	身体前倾〔合并词库〕	shentiqianqing	2009	alias
 __prompt__:bent_over_bed	身体前倾伏于床〔e621〕	shentiqianqingfuyuchuang	2156	alias
@@ -182752,6 +182836,7 @@ __prompt__:midriff_tattoo	身体艺术〔合并词库〕	shentiyishu	2323	alias
 __prompt__:wing_tattoo	身体艺术〔e621〕	shentiyishu	2277	alias
 __prompt__:drawing_on_another	身体艺术〔合并词库〕	shentiyishu	2090	alias
 __prompt__:massage_oil	身体油〔e621〕	shentiyou	2236	alias
+__prompt__:body leaning to right	身体右倾〔通用姿态·躯干〕	shentiyouqing	10000	primary
 __prompt__:body_in_mouth	身体在口中〔e621〕	shentizaikouzhong	3270	alias
 __prompt__:body_between_breasts	身体在双乳之间〔e621〕	shentizaishuangruzhijian	2694	alias
 __prompt__:body_worship	身体赞美〔e621〕	shentizanmei	4184	alias
@@ -182769,6 +182854,7 @@ __prompt__:breast_pillow	身体枕〔e621〕	shentizhen	2885	alias
 __prompt__:hugging_pillow	身体枕头〔e621〕	shentizhentou	3511	alias
 __prompt__:folds	身体褶皱〔e621〕	shentizhezhou	2390	alias
 __prompt__:leaning_on_self	身体支撑〔e621〕	shentizhicheng	2789	alias
+__prompt__:standing upright	身体直立〔通用姿态·躯干〕	shentizhili	10000	primary
 __prompt__:tattoo	身体装饰〔e621〕	shentizhuangshi	5284	alias
 __prompt__:chest_tattoo	身体装饰〔e621〕	shentizhuangshi	4252	alias
 __prompt__:leg_tattoo	身体装饰〔e621〕	shentizhuangshi	4144	alias
@@ -182801,6 +182887,7 @@ __prompt__:thighs_together	身体姿势〔e621〕	shentizishi	2836	alias
 __prompt__:breasts_on_another's_back	身体姿势〔合并词库〕	shentizishi	2731	alias
 __prompt__:hand_on_own_ankle	身体姿势〔e621〕	shentizishi	2673	alias
 __prompt__:leg_on_another's_shoulder	身体姿势〔合并词库〕	shentizishi	2177	alias
+__prompt__:body leaning to left	身体左倾〔通用姿态·躯干〕	shentizuoqing	10000	primary
 __prompt__:jintsuu_(kancolle)	神通〔合并词库〕	shentong	3462	alias
 __prompt__:jintsuu_(azur_lane)	神通〔合并词库〕	shentong	2026	alias
 __prompt__:jintsuu_kai_ni_(kancolle)	神通改二〔合并词库〕	shentonggaier	3139	alias
@@ -192933,6 +193020,7 @@ __prompt__:double_v	双剪刀手〔合并词库〕	shuangjiandaoshou	4591	alias
 soumi_shizuru	双见静流	shuangjianjingliu	1147	primary
 __prompt__:hair_on_shoulders	双肩披发〔e621〕	shuangjianpifa	2457	alias
 __prompt__:doublade	双剑鞘〔e621〕	shuangjianqiao	2042	alias
+__prompt__:level shoulders	双肩水平〔通用姿态·躯干〕	shuangjianshuiping	10000	primary
 __prompt__:raised_shoulders	双肩耸起〔e621〕	shuangjiansongqi	2913	alias
 __prompt__:full_nelson	双肩锁〔e621〕	shuangjiansuo	4056	alias
 __prompt__:forked_tail	双尖尾〔e621〕	shuangjianwei	3613	alias
@@ -207597,6 +207685,7 @@ __prompt__:stethoscope_between_breasts	听诊器〔合并词库〕	tingzhenqi	21
 stethoscope_on_nipple	听诊器放在乳头上	tingzhenqifangzairutoushang	1833	primary
 stethoscope_between_breasts	听诊器夹在胸间	tingzhenqijiazaixiongjian	2159	primary
 stop	停止	tingzhi	1603	primary
+__prompt__:straight back	挺直背部〔通用姿态·躯干〕	tingzhibeibu	10000	primary
 stop_sign	停止标志	tingzhibiaozhi	3021	primary
 __prompt__:stasis_chamber	停滞舱〔e621〕	tingzhicang	2896	alias
 __prompt__:stiff_tail	挺直的尾巴〔e621〕	tingzhideweiba	2861	alias
@@ -209002,6 +209091,7 @@ __prompt__:head_tentacle	头部触手〔e621〕	toubuchushou	2383	alias
 __prompt__:head_spines	头部刺状物〔e621〕	toubucizhuangwu	2821	alias
 large_head_wings	头部大翅膀	toubudachibang	1978	primary
 __prompt__:nodding_head	头部点头〔e621〕	toubudiantou	2241	alias
+__prompt__:head held upright	头部端正〔通用姿态·躯干〕	toubuduanzheng	10000	primary
 __prompt__:head_ridge	头部钝刺〔e621〕	toubudunci	2451	alias
 __prompt__:light_head	头部发光〔e621〕	toubufaguang	2461	alias
 __prompt__:glistening_head	头部反光〔e621〕	toubufanguang	2609	alias
@@ -250164,23 +250254,87 @@ __prompt__:otogari_adonis	乙狩阿多尼斯〔合并词库〕	yishouaduonisi	22
 __prompt__:flutter_mane	异兽宝可梦〔e621〕	yishoubaokemeng	2455	alias
 __prompt__:slither_wing	异兽宝可梦〔e621〕	yishoubaokemeng	2414	alias
 __prompt__:iron_bundle	异兽宝可梦〔合并词库〕	yishoubaokemeng	2046	alias
+__prompt__:one hand holding an object	一手持物〔通用姿态·单手〕	yishouchiwu	10000	primary
 __prompt__:hands_on_waist	一手搭腰〔e621〕	yishoudayao	2830	alias
+__prompt__:one hand behind back	一手放背后〔通用姿态·单手〕	yishoufangbeihou	10000	primary
+__prompt__:one hand behind back, the other hand touching chest	一手放背后另一手摸胸口〔通用姿态·双手〕	yishoufangbeihoulingyishoumoxiongkou	10000	primary
+__prompt__:one hand resting on thigh	一手放大腿上〔通用姿态·单手〕	yishoufangdatuishang	10000	primary
+__prompt__:one hand resting on thigh, the other hand supporting chin	一手放大腿上另一手托下巴〔通用姿态·双手〕	yishoufangdatuishanglingyishoutuoxiaba	10000	primary
+__prompt__:one hand resting on abdomen	一手放腹部〔通用姿态·单手〕	yishoufangfubu	10000	primary
+__prompt__:one hand resting on abdomen, the other hand resting on chest	一手放腹部另一手放胸前〔通用姿态·双手〕	yishoufangfubulingyishoufangxiongqian	10000	primary
+__prompt__:one hand resting on abdomen, the other hand touching shoulder	一手放腹部另一手摸肩膀〔通用姿态·双手〕	yishoufangfubulingyishoumojianbang	10000	primary
+__prompt__:one hand resting on knee	一手放膝盖上〔通用姿态·单手〕	yishoufangxigaishang	10000	primary
+__prompt__:one hand resting on chest	一手放胸前〔通用姿态·单手〕	yishoufangxiongqian	10000	primary
+__prompt__:one hand resting on chest, the other hand resting on abdomen	一手放胸前另一手放腹部〔通用姿态·双手〕	yishoufangxiongqianlingyishoufangfubu	10000	primary
+__prompt__:one hand resting on chest, the other hand covering face	一手放胸前另一手遮脸〔通用姿态·双手〕	yishoufangxiongqianlingyishouzhelian	10000	primary
+__prompt__:one hand on waist	一手放腰上〔通用姿态·单手〕	yishoufangyaoshang	10000	primary
+__prompt__:one hand resting on table	一手放桌上〔通用姿态·单手〕	yishoufangzhuoshang	10000	primary
+__prompt__:one hand resting on table, the other hand cupping cheek	一手放桌上另一手托腮〔通用姿态·双手〕	yishoufangzhuoshanglingyishoutuosai	10000	primary
+__prompt__:one hand supporting back of head	一手扶后脑〔通用姿态·单手〕	yishoufuhounao	10000	primary
 __prompt__:hand_on_hand	一手覆另一手〔e621〕	yishoufulingyishou	3220	alias
+__prompt__:one hand braced against wall	一手扶墙〔通用姿态·单手〕	yishoufuqiang	10000	primary
+__prompt__:one hand braced against wall, the other hand resting on hip	一手扶墙另一手扶腰〔通用姿态·双手〕	yishoufuqianglingyishoufuyao	10000	primary
+__prompt__:one hand resting on knee	一手扶膝〔通用姿态·单手〕	yishoufuxi	10000	primary
+__prompt__:one hand resting on knee, the other hand touching face	一手扶膝另一手摸脸〔通用姿态·双手〕	yishoufuxilingyishoumolian	10000	primary
+__prompt__:one hand resting on hip	一手扶腰〔通用姿态·单手〕	yishoufuyao	10000	primary
+__prompt__:one hand resting on hip, the other hand braced against wall	一手扶腰另一手扶墙〔通用姿态·双手〕	yishoufuyaolingyishoufuqiang	10000	primary
+__prompt__:one hand resting on hip, the other hand touching forehead	一手扶腰另一手摸额头〔通用姿态·双手〕	yishoufuyaolingyishoumoetou	10000	primary
+__prompt__:one hand resting on hip, the other hand touching head	一手扶腰另一手摸头〔通用姿态·双手〕	yishoufuyaolingyishoumotou	10000	primary
+__prompt__:one hand resting on hip, the other hand touching hair	一手扶腰另一手摸头发〔通用姿态·双手〕	yishoufuyaolingyishoumotoufa	10000	primary
 __prompt__:megabat	翼手狐蝠〔e621〕	yishouhufu	3437	alias
+__prompt__:one hand raised	一手举起〔通用姿态·单手〕	yishoujuqi	10000	primary
+__prompt__:one hand raised, the other hand hanging loosely at side	一手举起另一手自然下垂〔通用姿态·双手〕	yishoujuqilingyishouziranxiachui	10000	primary
 __prompt__:anthro_rimming_feral	异兽恋舔舔〔e621〕	yishouliantiantian	2588	alias
 __prompt__:pterosaur	翼手龙〔e621〕	yishoulong	3859	alias
 __prompt__:pterodactylus	翼手龙〔e621〕	yishoulong	2774	alias
 __prompt__:pteranodontid	翼手龙〔e621〕	yishoulong	2659	alias
+__prompt__:one hand touching neck	一手摸脖子〔通用姿态·单手〕	yishoumobozi	10000	primary
 dorohedoro	异兽魔都	yishoumodou	3372	primary
+__prompt__:one hand touching ear	一手摸耳朵〔通用姿态·单手〕	yishoumoerduo	10000	primary
+__prompt__:one hand touching ear, the other hand touching tail	一手摸耳朵另一手摸尾巴〔通用姿态·双手〕	yishoumoerduolingyishoumoweiba	10000	primary
+__prompt__:one hand touching forehead	一手摸额头〔通用姿态·单手〕	yishoumoetou	10000	primary
+__prompt__:one hand touching forehead, the other hand resting on hip	一手摸额头另一手扶腰〔通用姿态·双手〕	yishoumoetoulingyishoufuyao	10000	primary
+__prompt__:one hand touching abdomen	一手摸腹部〔通用姿态·单手〕	yishoumofubu	10000	primary
+__prompt__:one hand touching back	一手摸后背〔通用姿态·单手〕	yishoumohoubei	10000	primary
+__prompt__:one hand touching shoulder	一手摸肩膀〔通用姿态·单手〕	yishoumojianbang	10000	primary
+__prompt__:one hand touching shoulder, the other hand resting on abdomen	一手摸肩膀另一手放腹部〔通用姿态·双手〕	yishoumojianbanglingyishoufangfubu	10000	primary
+__prompt__:one hand touching muzzle	一手摸口鼻〔通用姿态·单手〕	yishoumokoubi	10000	primary
+__prompt__:one hand touching face	一手摸脸〔通用姿态·单手〕	yishoumolian	10000	primary
+__prompt__:one hand touching cheek	一手摸脸颊〔通用姿态·单手〕	yishoumolianjia	10000	primary
+__prompt__:one hand touching face, the other hand resting on knee	一手摸脸另一手扶膝〔通用姿态·双手〕	yishoumolianlingyishoufuxi	10000	primary
+__prompt__:one hand touching head	一手摸头〔通用姿态·单手〕	yishoumotou	10000	primary
+__prompt__:one hand touching hair	一手摸头发〔通用姿态·单手〕	yishoumotoufa	10000	primary
+__prompt__:one hand touching hair, the other hand resting on hip	一手摸头发另一手扶腰〔通用姿态·双手〕	yishoumotoufalingyishoufuyao	10000	primary
+__prompt__:one hand touching head, the other hand resting on hip	一手摸头另一手扶腰〔通用姿态·双手〕	yishoumotoulingyishoufuyao	10000	primary
+__prompt__:one hand touching tail	一手摸尾巴〔通用姿态·单手〕	yishoumoweiba	10000	primary
+__prompt__:one hand touching tail, the other hand touching ear	一手摸尾巴另一手摸耳朵〔通用姿态·双手〕	yishoumoweibalingyishoumoerduo	10000	primary
+__prompt__:one hand touching chin	一手摸下巴〔通用姿态·单手〕	yishoumoxiaba	10000	primary
+__prompt__:one hand touching chest	一手摸胸口〔通用姿态·单手〕	yishoumoxiongkou	10000	primary
+__prompt__:one hand touching chest, the other hand behind back	一手摸胸口另一手放背后〔通用姿态·双手〕	yishoumoxiongkoulingyishoufangbeihou	10000	primary
 __prompt__:bat	翼手目〔e621〕	yishoumu	4906	alias
 __prompt__:sean_(seanthebat)	翼手目兽角色〔e621〕	yishoumushoujuese	2134	alias
 __prompt__:chiropteran_penis	翼手目阴茎〔e621〕	yishoumuyinjing	2215	alias
 __prompt__:card_hand	一手牌〔e621〕	yishoupai	2140	alias
 gullible	易受骗的	yishoupiande	1463	primary
+__prompt__:one hand cupping cheek	一手托腮〔通用姿态·单手〕	yishoutuosai	10000	primary
+__prompt__:one hand cupping cheek, the other hand resting on table	一手托腮另一手放桌上〔通用姿态·双手〕	yishoutuosailingyishoufangzhuoshang	10000	primary
+__prompt__:one hand supporting chin	一手托下巴〔通用姿态·单手〕	yishoutuoxiaba	10000	primary
+__prompt__:one hand supporting chin, the other hand resting on thigh	一手托下巴另一手放大腿上〔通用姿态·双手〕	yishoutuoxiabalingyishoufangdatuishang	10000	primary
+__prompt__:one hand clenched into a fist	一手握拳〔通用姿态·单手〕	yishouwoquan	10000	primary
+__prompt__:one hand clenched into a fist, the other hand open	一手握拳另一手张开〔通用姿态·双手〕	yishouwoquanlingyishouzhangkai	10000	primary
+__prompt__:one hand covering mouth	一手捂嘴〔通用姿态·单手〕	yishouwuzui	10000	primary
+__prompt__:one hand extended forward	一手向前伸出〔通用姿态·单手〕	yishouxiangqianshenchu	10000	primary
 __prompt__:iron_valiant	异兽形态〔e621〕	yishouxingtai	2452	alias
 __prompt__:yangochiropteran	翼手亚目蝙蝠〔e621〕	yishouyamubianfu	3331	alias
 __prompt__:double_handjob	一手一个〔e621〕	yishouyige	3924	alias
+__prompt__:one hand open	一手张开〔通用姿态·单手〕	yishouzhangkai	10000	primary
+__prompt__:one hand open, the other hand clenched into a fist	一手张开另一手握拳〔通用姿态·双手〕	yishouzhangkailingyishouwoquan	10000	primary
+__prompt__:one hand covering face	一手遮脸〔通用姿态·单手〕	yishouzhelian	10000	primary
+__prompt__:one hand covering face, the other hand resting on chest	一手遮脸另一手放胸前〔通用姿态·双手〕	yishouzhelianlingyishoufangxiongqian	10000	primary
 __prompt__:hand_on_own_face	一手遮面〔e621〕	yishouzhemian	4823	alias
+__prompt__:one hand covering eyes	一手遮眼睛〔通用姿态·单手〕	yishouzheyanjing	10000	primary
+__prompt__:one hand hanging loosely at side	一手自然下垂〔通用姿态·单手〕	yishouziranxiachui	10000	primary
+__prompt__:one hand hanging loosely at side, the other hand raised	一手自然下垂另一手举起〔通用姿态·双手〕	yishouziranxiachuilingyishoujuqi	10000	primary
 itsuki_(yishu)	一树	yishu	1362	primary
 suicide_note	遗书	yishu	1080	primary
 hitotaba	一束	yishu	1042	primary
@@ -251366,6 +251520,70 @@ __prompt__:metal_arm	义肢手臂〔e621〕	yizhishoubi	2373	alias
 __prompt__:robotic_arms	义肢手臂〔e621〕	yizhishoubi	2282	alias
 __prompt__:jay_kidman	义肢手臂〔合并词库〕	yizhishoubi	2256	alias
 __prompt__:robot_arms	义肢手臂〔e621〕	yizhishoubi	2194	alias
+__prompt__:one hand holding an object	一只手持物〔通用姿态·单手〕	yizhishouchiwu	10000	primary
+__prompt__:one hand behind back	一只手放背后〔通用姿态·单手〕	yizhishoufangbeihou	10000	primary
+__prompt__:one hand behind back, the other hand touching chest	一只手放背后另一只手摸胸口〔通用姿态·双手〕	yizhishoufangbeihoulingyizhishoumoxiongkou	10000	primary
+__prompt__:one hand resting on thigh	一只手放大腿上〔通用姿态·单手〕	yizhishoufangdatuishang	10000	primary
+__prompt__:one hand resting on thigh, the other hand supporting chin	一只手放大腿上另一只手托下巴〔通用姿态·双手〕	yizhishoufangdatuishanglingyizhishoutuoxiaba	10000	primary
+__prompt__:one hand resting on abdomen	一只手放腹部〔通用姿态·单手〕	yizhishoufangfubu	10000	primary
+__prompt__:one hand resting on abdomen, the other hand resting on chest	一只手放腹部另一只手放胸前〔通用姿态·双手〕	yizhishoufangfubulingyizhishoufangxiongqian	10000	primary
+__prompt__:one hand resting on abdomen, the other hand touching shoulder	一只手放腹部另一只手摸肩膀〔通用姿态·双手〕	yizhishoufangfubulingyizhishoumojianbang	10000	primary
+__prompt__:one hand resting on knee	一只手放膝盖上〔通用姿态·单手〕	yizhishoufangxigaishang	10000	primary
+__prompt__:one hand resting on chest	一只手放胸前〔通用姿态·单手〕	yizhishoufangxiongqian	10000	primary
+__prompt__:one hand resting on chest, the other hand resting on abdomen	一只手放胸前另一只手放腹部〔通用姿态·双手〕	yizhishoufangxiongqianlingyizhishoufangfubu	10000	primary
+__prompt__:one hand resting on chest, the other hand covering face	一只手放胸前另一只手遮脸〔通用姿态·双手〕	yizhishoufangxiongqianlingyizhishouzhelian	10000	primary
+__prompt__:one hand on waist	一只手放腰上〔通用姿态·单手〕	yizhishoufangyaoshang	10000	primary
+__prompt__:one hand resting on table	一只手放桌上〔通用姿态·单手〕	yizhishoufangzhuoshang	10000	primary
+__prompt__:one hand resting on table, the other hand cupping cheek	一只手放桌上另一只手托腮〔通用姿态·双手〕	yizhishoufangzhuoshanglingyizhishoutuosai	10000	primary
+__prompt__:one hand supporting back of head	一只手扶后脑〔通用姿态·单手〕	yizhishoufuhounao	10000	primary
+__prompt__:one hand braced against wall	一只手扶墙〔通用姿态·单手〕	yizhishoufuqiang	10000	primary
+__prompt__:one hand braced against wall, the other hand resting on hip	一只手扶墙另一只手扶腰〔通用姿态·双手〕	yizhishoufuqianglingyizhishoufuyao	10000	primary
+__prompt__:one hand resting on knee	一只手扶膝〔通用姿态·单手〕	yizhishoufuxi	10000	primary
+__prompt__:one hand resting on knee, the other hand touching face	一只手扶膝另一只手摸脸〔通用姿态·双手〕	yizhishoufuxilingyizhishoumolian	10000	primary
+__prompt__:one hand resting on hip	一只手扶腰〔通用姿态·单手〕	yizhishoufuyao	10000	primary
+__prompt__:one hand resting on hip, the other hand braced against wall	一只手扶腰另一只手扶墙〔通用姿态·双手〕	yizhishoufuyaolingyizhishoufuqiang	10000	primary
+__prompt__:one hand resting on hip, the other hand touching forehead	一只手扶腰另一只手摸额头〔通用姿态·双手〕	yizhishoufuyaolingyizhishoumoetou	10000	primary
+__prompt__:one hand resting on hip, the other hand touching head	一只手扶腰另一只手摸头〔通用姿态·双手〕	yizhishoufuyaolingyizhishoumotou	10000	primary
+__prompt__:one hand resting on hip, the other hand touching hair	一只手扶腰另一只手摸头发〔通用姿态·双手〕	yizhishoufuyaolingyizhishoumotoufa	10000	primary
+__prompt__:one hand raised	一只手举起〔通用姿态·单手〕	yizhishoujuqi	10000	primary
+__prompt__:one hand raised, the other hand hanging loosely at side	一只手举起另一只手自然下垂〔通用姿态·双手〕	yizhishoujuqilingyizhishouziranxiachui	10000	primary
+__prompt__:one hand touching neck	一只手摸脖子〔通用姿态·单手〕	yizhishoumobozi	10000	primary
+__prompt__:one hand touching ear	一只手摸耳朵〔通用姿态·单手〕	yizhishoumoerduo	10000	primary
+__prompt__:one hand touching ear, the other hand touching tail	一只手摸耳朵另一只手摸尾巴〔通用姿态·双手〕	yizhishoumoerduolingyizhishoumoweiba	10000	primary
+__prompt__:one hand touching forehead	一只手摸额头〔通用姿态·单手〕	yizhishoumoetou	10000	primary
+__prompt__:one hand touching forehead, the other hand resting on hip	一只手摸额头另一只手扶腰〔通用姿态·双手〕	yizhishoumoetoulingyizhishoufuyao	10000	primary
+__prompt__:one hand touching abdomen	一只手摸腹部〔通用姿态·单手〕	yizhishoumofubu	10000	primary
+__prompt__:one hand touching back	一只手摸后背〔通用姿态·单手〕	yizhishoumohoubei	10000	primary
+__prompt__:one hand touching shoulder	一只手摸肩膀〔通用姿态·单手〕	yizhishoumojianbang	10000	primary
+__prompt__:one hand touching shoulder, the other hand resting on abdomen	一只手摸肩膀另一只手放腹部〔通用姿态·双手〕	yizhishoumojianbanglingyizhishoufangfubu	10000	primary
+__prompt__:one hand touching muzzle	一只手摸口鼻〔通用姿态·单手〕	yizhishoumokoubi	10000	primary
+__prompt__:one hand touching face	一只手摸脸〔通用姿态·单手〕	yizhishoumolian	10000	primary
+__prompt__:one hand touching cheek	一只手摸脸颊〔通用姿态·单手〕	yizhishoumolianjia	10000	primary
+__prompt__:one hand touching face, the other hand resting on knee	一只手摸脸另一只手扶膝〔通用姿态·双手〕	yizhishoumolianlingyizhishoufuxi	10000	primary
+__prompt__:one hand touching head	一只手摸头〔通用姿态·单手〕	yizhishoumotou	10000	primary
+__prompt__:one hand touching hair	一只手摸头发〔通用姿态·单手〕	yizhishoumotoufa	10000	primary
+__prompt__:one hand touching hair, the other hand resting on hip	一只手摸头发另一只手扶腰〔通用姿态·双手〕	yizhishoumotoufalingyizhishoufuyao	10000	primary
+__prompt__:one hand touching head, the other hand resting on hip	一只手摸头另一只手扶腰〔通用姿态·双手〕	yizhishoumotoulingyizhishoufuyao	10000	primary
+__prompt__:one hand touching tail	一只手摸尾巴〔通用姿态·单手〕	yizhishoumoweiba	10000	primary
+__prompt__:one hand touching tail, the other hand touching ear	一只手摸尾巴另一只手摸耳朵〔通用姿态·双手〕	yizhishoumoweibalingyizhishoumoerduo	10000	primary
+__prompt__:one hand touching chin	一只手摸下巴〔通用姿态·单手〕	yizhishoumoxiaba	10000	primary
+__prompt__:one hand touching chest	一只手摸胸口〔通用姿态·单手〕	yizhishoumoxiongkou	10000	primary
+__prompt__:one hand touching chest, the other hand behind back	一只手摸胸口另一只手放背后〔通用姿态·双手〕	yizhishoumoxiongkoulingyizhishoufangbeihou	10000	primary
+__prompt__:one hand cupping cheek	一只手托腮〔通用姿态·单手〕	yizhishoutuosai	10000	primary
+__prompt__:one hand cupping cheek, the other hand resting on table	一只手托腮另一只手放桌上〔通用姿态·双手〕	yizhishoutuosailingyizhishoufangzhuoshang	10000	primary
+__prompt__:one hand supporting chin	一只手托下巴〔通用姿态·单手〕	yizhishoutuoxiaba	10000	primary
+__prompt__:one hand supporting chin, the other hand resting on thigh	一只手托下巴另一只手放大腿上〔通用姿态·双手〕	yizhishoutuoxiabalingyizhishoufangdatuishang	10000	primary
+__prompt__:one hand clenched into a fist	一只手握拳〔通用姿态·单手〕	yizhishouwoquan	10000	primary
+__prompt__:one hand clenched into a fist, the other hand open	一只手握拳另一只手张开〔通用姿态·双手〕	yizhishouwoquanlingyizhishouzhangkai	10000	primary
+__prompt__:one hand covering mouth	一只手捂嘴〔通用姿态·单手〕	yizhishouwuzui	10000	primary
+__prompt__:one hand extended forward	一只手向前伸出〔通用姿态·单手〕	yizhishouxiangqianshenchu	10000	primary
+__prompt__:one hand open	一只手张开〔通用姿态·单手〕	yizhishouzhangkai	10000	primary
+__prompt__:one hand open, the other hand clenched into a fist	一只手张开另一只手握拳〔通用姿态·双手〕	yizhishouzhangkailingyizhishouwoquan	10000	primary
+__prompt__:one hand covering face	一只手遮脸〔通用姿态·单手〕	yizhishouzhelian	10000	primary
+__prompt__:one hand covering face, the other hand resting on chest	一只手遮脸另一只手放胸前〔通用姿态·双手〕	yizhishouzhelianlingyizhishoufangxiongqian	10000	primary
+__prompt__:one hand covering eyes	一只手遮眼睛〔通用姿态·单手〕	yizhishouzheyanjing	10000	primary
+__prompt__:one hand hanging loosely at side	一只手自然下垂〔通用姿态·单手〕	yizhishouziranxiachui	10000	primary
+__prompt__:one hand hanging loosely at side, the other hand raised	一只手自然下垂另一只手举起〔通用姿态·双手〕	yizhishouziranxiachuilingyizhishoujuqi	10000	primary
 __prompt__:iori_junpei	伊织顺平〔合并词库〕	yizhishunping	2929	alias
 artificial_legs	义肢腿	yizhitui	1302	primary
 __prompt__:prosthetic_leg	义肢腿〔e621〕	yizhitui	3507	alias
@@ -253367,11 +253585,47 @@ __prompt__:young	幼兽〔e621〕	youshou	5489	alias
 __prompt__:young_feral	幼兽〔e621〕	youshou	4448	alias
 __prompt__:kitten	幼兽〔合并词库〕	youshou	3072	alias
 __prompt__:lion_cub	幼兽〔合并词库〕	youshou	2213	alias
+__prompt__:right hand holding an object	右手持物〔通用姿态·单手〕	youshouchiwu	10000	primary
 __prompt__:cub_con	幼兽大会〔e621〕	youshoudahui	2335	alias
+__prompt__:right hand behind back	右手放背后〔通用姿态·单手〕	youshoufangbeihou	10000	primary
+__prompt__:right hand resting on thigh	右手放大腿上〔通用姿态·单手〕	youshoufangdatuishang	10000	primary
+__prompt__:right hand resting on abdomen	右手放腹部〔通用姿态·单手〕	youshoufangfubu	10000	primary
+__prompt__:right hand resting on knee	右手放膝盖上〔通用姿态·单手〕	youshoufangxigaishang	10000	primary
+__prompt__:right hand resting on chest	右手放胸前〔通用姿态·单手〕	youshoufangxiongqian	10000	primary
+__prompt__:right hand on waist	右手放腰上〔通用姿态·单手〕	youshoufangyaoshang	10000	primary
+__prompt__:right hand resting on table	右手放桌上〔通用姿态·单手〕	youshoufangzhuoshang	10000	primary
+__prompt__:right hand supporting back of head	右手扶后脑〔通用姿态·单手〕	youshoufuhounao	10000	primary
+__prompt__:right hand braced against wall	右手扶墙〔通用姿态·单手〕	youshoufuqiang	10000	primary
+__prompt__:right hand resting on knee	右手扶膝〔通用姿态·单手〕	youshoufuxi	10000	primary
+__prompt__:right hand resting on hip	右手扶腰〔通用姿态·单手〕	youshoufuyao	10000	primary
+__prompt__:right hand raised	右手举起〔通用姿态·单手〕	youshoujuqi	10000	primary
+__prompt__:right hand touching neck	右手摸脖子〔通用姿态·单手〕	youshoumobozi	10000	primary
+__prompt__:right hand touching ear	右手摸耳朵〔通用姿态·单手〕	youshoumoerduo	10000	primary
+__prompt__:right hand touching forehead	右手摸额头〔通用姿态·单手〕	youshoumoetou	10000	primary
+__prompt__:right hand touching abdomen	右手摸腹部〔通用姿态·单手〕	youshoumofubu	10000	primary
+__prompt__:right hand touching back	右手摸后背〔通用姿态·单手〕	youshoumohoubei	10000	primary
+__prompt__:right hand touching shoulder	右手摸肩膀〔通用姿态·单手〕	youshoumojianbang	10000	primary
+__prompt__:right hand touching muzzle	右手摸口鼻〔通用姿态·单手〕	youshoumokoubi	10000	primary
+__prompt__:right hand touching face	右手摸脸〔通用姿态·单手〕	youshoumolian	10000	primary
+__prompt__:right hand touching cheek	右手摸脸颊〔通用姿态·单手〕	youshoumolianjia	10000	primary
+__prompt__:right hand touching head	右手摸头〔通用姿态·单手〕	youshoumotou	10000	primary
+__prompt__:right hand touching hair	右手摸头发〔通用姿态·单手〕	youshoumotoufa	10000	primary
+__prompt__:right hand touching tail	右手摸尾巴〔通用姿态·单手〕	youshoumoweiba	10000	primary
+__prompt__:right hand touching chin	右手摸下巴〔通用姿态·单手〕	youshoumoxiaba	10000	primary
+__prompt__:right hand touching chest	右手摸胸口〔通用姿态·单手〕	youshoumoxiongkou	10000	primary
 __prompt__:weasel_humanoid	鼬兽人〔e621〕	youshouren	2572	alias
+__prompt__:right hand cupping cheek	右手托腮〔通用姿态·单手〕	youshoutuosai	10000	primary
+__prompt__:right hand supporting chin	右手托下巴〔通用姿态·单手〕	youshoutuoxiaba	10000	primary
+__prompt__:right hand clenched into a fist	右手握拳〔通用姿态·单手〕	youshouwoquan	10000	primary
+__prompt__:right hand covering mouth	右手捂嘴〔通用姿态·单手〕	youshouwuzui	10000	primary
+__prompt__:right hand extended forward	右手向前伸出〔通用姿态·单手〕	youshouxiangqianshenchu	10000	primary
 koyubi_right	右手小指	youshouxiaozhi	1833	primary
 fabulous_beasts	有兽焉	youshouyan	1343	primary
+__prompt__:right hand open	右手张开〔通用姿态·单手〕	youshouzhangkai	10000	primary
+__prompt__:right hand covering face	右手遮脸〔通用姿态·单手〕	youshouzhelian	10000	primary
+__prompt__:right hand covering eyes	右手遮眼睛〔通用姿态·单手〕	youshouzheyanjing	10000	primary
 __prompt__:sloss	幼兽主题画家〔e621〕	youshouzhutihuajia	2282	alias
+__prompt__:right hand hanging loosely at side	右手自然下垂〔通用姿态·单手〕	youshouziranxiachui	10000	primary
 __prompt__:stunky	鼬鼠宝可梦〔e621〕	youshubaokemeng	2497	alias
 __prompt__:duke_weaselton	鼬鼠公爵〔e621〕	youshugongjue	2553	alias
 yuuki_hagure	悠树哈古雷	youshuhagulei	3007	primary
@@ -271171,6 +271425,7 @@ __prompt__:elemental_creature	自然元素体〔e621〕	ziranyuansuti	4654	alias
 __prompt__:flood	自然灾害〔e621〕	ziranzaihai	2795	alias
 __prompt__:earthquake	自然灾害〔e621〕	ziranzaihai	2065	alias
 __prompt__:arms_at_sides	自然站立〔e621〕	ziranzhanli	4549	alias
+__prompt__:neutral standing pose	自然站姿〔通用姿态·躯干〕	ziranzhanzi	10000	primary
 __prompt__:naturally_censored	自然遮蔽〔e621〕	ziranzhebi	3712	alias
 __prompt__:landorus	自然之力〔e621〕	ziranzhili	2061	alias
 __prompt__:ceres_fauna_(1st_costume)	自然之母〔合并词库〕	ziranzhimu	3210	alias
@@ -271181,6 +271436,7 @@ __prompt__:arms_at_sides	自然姿势〔e621〕	ziranzishi	4549	alias
 __prompt__:bauxite	自然资源〔合并词库〕	ziranziyuan	2299	alias
 __prompt__:tan_lips	自然棕唇〔e621〕	ziranzongchun	2455	alias
 __prompt__:casual_exposure	自然走光〔e621〕	ziranzouguang	3920	alias
+__prompt__:neutral sitting pose	自然坐姿〔通用姿态·躯干〕	ziranzuozi	10000	primary
 __prompt__:william_afton_(fnaf)	紫人〔e621〕	ziren	2415	alias
 __prompt__:sableye	紫人型宝可梦〔e621〕	zirenxingbaokemeng	3093	alias
 __prompt__:nenohi_(kancolle)	子日〔合并词库〕	ziri	2965	alias
@@ -275709,6 +275965,7 @@ in-universe_location	作品内场景	zuopinneichangjing	3705	primary
 __prompt__:in-universe_location	作品内地点〔合并词库〕	zuopinneididian	3604	alias
 __prompt__:in-franchise_crossover	作品内联动〔合并词库〕	zuopinneiliandong	3893	alias
 __prompt__:watermark	作品水印〔e621〕	zuopinshuiyin	5337	alias
+__prompt__:sitting up	坐起〔通用姿态·躯干〕	zuoqi	10000	primary
 __prompt__:chocobo	坐骑〔e621〕	zuoqi	3202	alias
 __prompt__:mount	坐骑〔e621〕	zuoqi	3119	alias
 __prompt__:shouryouuma	坐骑〔合并词库〕	zuoqi	2241	alias
@@ -275741,9 +275998,73 @@ __prompt__:gambier_bay_(sasebo)_(kancolle)	佐世保导游〔合并词库〕	zuo
 sasebono_mari	佐世保乃真理	zuoshibaonaizhenli	1725	primary
 __prompt__:caught_while_cumming	做时被撞见〔e621〕	zuoshibeizhuangjian	2781	alias
 sitting_on_own_hands	坐手	zuoshou	1042	primary
+__prompt__:left hand holding an object	左手持物〔通用姿态·单手〕	zuoshouchiwu	10000	primary
+__prompt__:left hand behind back	左手放背后〔通用姿态·单手〕	zuoshoufangbeihou	10000	primary
+__prompt__:left hand behind back, right hand touching chest	左手放背后右手摸胸口〔通用姿态·双手〕	zuoshoufangbeihouyoushoumoxiongkou	10000	primary
+__prompt__:left hand resting on thigh	左手放大腿上〔通用姿态·单手〕	zuoshoufangdatuishang	10000	primary
+__prompt__:left hand resting on thigh, right hand supporting chin	左手放大腿上右手托下巴〔通用姿态·双手〕	zuoshoufangdatuishangyoushoutuoxiaba	10000	primary
+__prompt__:left hand resting on abdomen	左手放腹部〔通用姿态·单手〕	zuoshoufangfubu	10000	primary
+__prompt__:left hand resting on abdomen, right hand resting on chest	左手放腹部右手放胸前〔通用姿态·双手〕	zuoshoufangfubuyoushoufangxiongqian	10000	primary
+__prompt__:left hand resting on abdomen, right hand touching shoulder	左手放腹部右手摸肩膀〔通用姿态·双手〕	zuoshoufangfubuyoushoumojianbang	10000	primary
+__prompt__:left hand resting on knee	左手放膝盖上〔通用姿态·单手〕	zuoshoufangxigaishang	10000	primary
+__prompt__:left hand resting on chest	左手放胸前〔通用姿态·单手〕	zuoshoufangxiongqian	10000	primary
+__prompt__:left hand resting on chest, right hand resting on abdomen	左手放胸前右手放腹部〔通用姿态·双手〕	zuoshoufangxiongqianyoushoufangfubu	10000	primary
+__prompt__:left hand resting on chest, right hand covering face	左手放胸前右手遮脸〔通用姿态·双手〕	zuoshoufangxiongqianyoushouzhelian	10000	primary
+__prompt__:left hand on waist	左手放腰上〔通用姿态·单手〕	zuoshoufangyaoshang	10000	primary
+__prompt__:left hand resting on table	左手放桌上〔通用姿态·单手〕	zuoshoufangzhuoshang	10000	primary
+__prompt__:left hand resting on table, right hand cupping cheek	左手放桌上右手托腮〔通用姿态·双手〕	zuoshoufangzhuoshangyoushoutuosai	10000	primary
+__prompt__:left hand supporting back of head	左手扶后脑〔通用姿态·单手〕	zuoshoufuhounao	10000	primary
+__prompt__:left hand braced against wall	左手扶墙〔通用姿态·单手〕	zuoshoufuqiang	10000	primary
+__prompt__:left hand braced against wall, right hand resting on hip	左手扶墙右手扶腰〔通用姿态·双手〕	zuoshoufuqiangyoushoufuyao	10000	primary
+__prompt__:left hand resting on knee	左手扶膝〔通用姿态·单手〕	zuoshoufuxi	10000	primary
+__prompt__:left hand resting on knee, right hand touching face	左手扶膝右手摸脸〔通用姿态·双手〕	zuoshoufuxiyoushoumolian	10000	primary
+__prompt__:left hand resting on hip	左手扶腰〔通用姿态·单手〕	zuoshoufuyao	10000	primary
+__prompt__:left hand resting on hip, right hand braced against wall	左手扶腰右手扶墙〔通用姿态·双手〕	zuoshoufuyaoyoushoufuqiang	10000	primary
+__prompt__:left hand resting on hip, right hand touching forehead	左手扶腰右手摸额头〔通用姿态·双手〕	zuoshoufuyaoyoushoumoetou	10000	primary
+__prompt__:left hand resting on hip, right hand touching head	左手扶腰右手摸头〔通用姿态·双手〕	zuoshoufuyaoyoushoumotou	10000	primary
+__prompt__:left hand resting on hip, right hand touching hair	左手扶腰右手摸头发〔通用姿态·双手〕	zuoshoufuyaoyoushoumotoufa	10000	primary
+__prompt__:left hand raised	左手举起〔通用姿态·单手〕	zuoshoujuqi	10000	primary
+__prompt__:left hand raised, right hand hanging loosely at side	左手举起右手自然下垂〔通用姿态·双手〕	zuoshoujuqiyoushouziranxiachui	10000	primary
+__prompt__:left hand touching neck	左手摸脖子〔通用姿态·单手〕	zuoshoumobozi	10000	primary
+__prompt__:left hand touching ear	左手摸耳朵〔通用姿态·单手〕	zuoshoumoerduo	10000	primary
+__prompt__:left hand touching ear, right hand touching tail	左手摸耳朵右手摸尾巴〔通用姿态·双手〕	zuoshoumoerduoyoushoumoweiba	10000	primary
+__prompt__:left hand touching forehead	左手摸额头〔通用姿态·单手〕	zuoshoumoetou	10000	primary
+__prompt__:left hand touching forehead, right hand resting on hip	左手摸额头右手扶腰〔通用姿态·双手〕	zuoshoumoetouyoushoufuyao	10000	primary
+__prompt__:left hand touching abdomen	左手摸腹部〔通用姿态·单手〕	zuoshoumofubu	10000	primary
+__prompt__:left hand touching back	左手摸后背〔通用姿态·单手〕	zuoshoumohoubei	10000	primary
+__prompt__:left hand touching shoulder	左手摸肩膀〔通用姿态·单手〕	zuoshoumojianbang	10000	primary
+__prompt__:left hand touching shoulder, right hand resting on abdomen	左手摸肩膀右手放腹部〔通用姿态·双手〕	zuoshoumojianbangyoushoufangfubu	10000	primary
+__prompt__:left hand touching muzzle	左手摸口鼻〔通用姿态·单手〕	zuoshoumokoubi	10000	primary
+__prompt__:left hand touching face	左手摸脸〔通用姿态·单手〕	zuoshoumolian	10000	primary
+__prompt__:left hand touching cheek	左手摸脸颊〔通用姿态·单手〕	zuoshoumolianjia	10000	primary
+__prompt__:left hand touching face, right hand resting on knee	左手摸脸右手扶膝〔通用姿态·双手〕	zuoshoumolianyoushoufuxi	10000	primary
+__prompt__:left hand touching head	左手摸头〔通用姿态·单手〕	zuoshoumotou	10000	primary
+__prompt__:left hand touching hair	左手摸头发〔通用姿态·单手〕	zuoshoumotoufa	10000	primary
+__prompt__:left hand touching hair, right hand resting on hip	左手摸头发右手扶腰〔通用姿态·双手〕	zuoshoumotoufayoushoufuyao	10000	primary
+__prompt__:left hand touching head, right hand resting on hip	左手摸头右手扶腰〔通用姿态·双手〕	zuoshoumotouyoushoufuyao	10000	primary
+__prompt__:left hand touching tail	左手摸尾巴〔通用姿态·单手〕	zuoshoumoweiba	10000	primary
+__prompt__:left hand touching tail, right hand touching ear	左手摸尾巴右手摸耳朵〔通用姿态·双手〕	zuoshoumoweibayoushoumoerduo	10000	primary
+__prompt__:left hand touching chin	左手摸下巴〔通用姿态·单手〕	zuoshoumoxiaba	10000	primary
+__prompt__:left hand touching chest	左手摸胸口〔通用姿态·单手〕	zuoshoumoxiongkou	10000	primary
+__prompt__:left hand touching chest, right hand behind back	左手摸胸口右手放背后〔通用姿态·双手〕	zuoshoumoxiongkouyoushoufangbeihou	10000	primary
 __prompt__:hand_gesture	做手势〔提示词库〕	zuoshoushi	5001	alias
 __prompt__:left-handed	左手使用者〔e621〕	zuoshoushiyongzhe	3718	alias
+__prompt__:left hand cupping cheek	左手托腮〔通用姿态·单手〕	zuoshoutuosai	10000	primary
+__prompt__:left hand cupping cheek, right hand resting on table	左手托腮右手放桌上〔通用姿态·双手〕	zuoshoutuosaiyoushoufangzhuoshang	10000	primary
+__prompt__:left hand supporting chin	左手托下巴〔通用姿态·单手〕	zuoshoutuoxiaba	10000	primary
+__prompt__:left hand supporting chin, right hand resting on thigh	左手托下巴右手放大腿上〔通用姿态·双手〕	zuoshoutuoxiabayoushoufangdatuishang	10000	primary
+__prompt__:left hand clenched into a fist	左手握拳〔通用姿态·单手〕	zuoshouwoquan	10000	primary
+__prompt__:left hand clenched into a fist, right hand open	左手握拳右手张开〔通用姿态·双手〕	zuoshouwoquanyoushouzhangkai	10000	primary
 __prompt__:wedding_ring	左手无名指戒指〔e621〕	zuoshouwumingzhijiezhi	4307	alias
+__prompt__:left hand covering mouth	左手捂嘴〔通用姿态·单手〕	zuoshouwuzui	10000	primary
+__prompt__:left hand extended forward	左手向前伸出〔通用姿态·单手〕	zuoshouxiangqianshenchu	10000	primary
+__prompt__:left hand open	左手张开〔通用姿态·单手〕	zuoshouzhangkai	10000	primary
+__prompt__:left hand open, right hand clenched into a fist	左手张开右手握拳〔通用姿态·双手〕	zuoshouzhangkaiyoushouwoquan	10000	primary
+__prompt__:left hand covering face	左手遮脸〔通用姿态·单手〕	zuoshouzhelian	10000	primary
+__prompt__:left hand covering face, right hand resting on chest	左手遮脸右手放胸前〔通用姿态·双手〕	zuoshouzhelianyoushoufangxiongqian	10000	primary
+__prompt__:left hand covering eyes	左手遮眼睛〔通用姿态·单手〕	zuoshouzheyanjing	10000	primary
+__prompt__:left hand hanging loosely at side	左手自然下垂〔通用姿态·单手〕	zuoshouziranxiachui	10000	primary
+__prompt__:left hand hanging loosely at side, right hand raised	左手自然下垂右手举起〔通用姿态·双手〕	zuoshouziranxiachuiyoushoujuqi	10000	primary
 __prompt__:sitting_on_stump	坐树桩〔e621〕	zuoshuzhuang	2695	alias
 zuosi_zhichu	左思之初	zuosizhichu	1592	primary
 __prompt__:lotus_pedestal	座台〔合并词库〕	zuotai	2279	alias
@@ -276168,6 +276489,7 @@ sakushaaya_(3948aya)	作者文	zuozhewen	1381	primary
 creator_and_creation	作者与作品角色	zuozheyuzuopinjuese	2265	primary
 __prompt__:artist_self-reference	作者自画〔合并词库〕	zuozhezihua	2819	alias
 self-upload	作者自投	zuozhezitou	4490	primary
+__prompt__:sitting upright	坐直〔通用姿态·躯干〕	zuozhi	10000	primary
 __prompt__:sitting_on_branch	坐枝〔e621〕	zuozhi	3115	alias
 sakusei_sanbou	作制参谋	zuozhicanmou	1042	primary
 __prompt__:georgia_(azur_lane)	佐治亚〔合并词库〕	zuozhiya	2076	alias
@@ -276237,6 +276559,7 @@ __prompt__:breasts_on_lap	坐姿巨乳下垂〔e621〕	zuozijuruxiachui	2150	ali
 __prompt__:sit_and_blow_position	坐姿口交〔e621〕	zuozikoujiao	2995	alias
 __prompt__:legs_over_edge	坐姿露腿〔e621〕	zuozilutui	3037	alias
 sleeping_upright	坐姿睡眠	zuozishuimian	3642	primary
+__prompt__:sitting upright	坐姿挺直〔通用姿态·躯干〕	zuozitingzhi	10000	primary
 __prompt__:sitting_sex	坐姿性爱〔e621〕	zuozixingai	2699	alias
 __prompt__:sitting_on_bulge	坐姿压着凸起〔e621〕	zuoziyazhetuqi	2279	alias
 sitting_split	坐姿一字马	zuoziyizima	2897	primary

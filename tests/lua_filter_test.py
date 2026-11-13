@@ -57,6 +57,17 @@ values.booru_separator=false
 assert(run({'pawpads','__prompt__:pawpads'})[1].text=='pawpads')
 assert(run({'x_(y)'})[1].text=='x_\\(y\\)')
 
+-- A complete two-hand phrase remains one candidate and one final delimiter.
+local paired='left hand resting on hip, right hand touching head'
+env.labels[paired]='左手扶腰右手摸头〔通用姿态·双手〕'
+values.booru_separator=true
+values.booru_space=true
+assert(run({'__prompt__:'..paired})[1].text==paired..', ')
+values.booru_space=false
+assert(run({'__prompt__:'..paired})[1].text==paired..',')
+values.booru_separator=false
+assert(run({'__prompt__:'..paired})[1].text==paired)
+
 -- Exact aliases and native completion suffixes choose the matching Chinese,
 -- not whichever label happened to be the highest-frequency label for a tag.
 env.labels['fennec_fox']='耳廓狐'
@@ -113,6 +124,10 @@ indexed.engine.context.input='piyan'
 assert(filter.comment({text='__prompt__:anus',start=0,_end=5},indexed)=='屁眼〔俗称·肛门〕')
 indexed.engine.context.input='zhilianggenggao'
 assert(filter.comment({text='__prompt__:high quality',start=0,_end=#'zhilianggenggao'},indexed)=='质量更高〔质量词〕')
+indexed.engine.context.input='zuoshoufuyaoyoushoumotou'
+assert(filter.comment({text='__prompt__:left hand resting on hip, right hand touching head',start=0,_end=#indexed.engine.context.input},indexed)=='左手扶腰右手摸头〔通用姿态·双手〕')
+indexed.engine.context.input='lingyizhishoufangdatuishang'
+assert(filter.comment({text='__prompt__:the other hand resting on thigh',start=0,_end=#indexed.engine.context.input},indexed)=='另一只手放大腿上〔通用姿态·单手〕')
 rime_api=old_api
 '''
     path=(ROOT/'rime/lua/booru_filter.lua').as_posix()

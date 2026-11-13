@@ -260,7 +260,7 @@ def build(source=None, output_dir=None, variant='searchable'):
     clean.sort(key=lambda x:(x['code'],-priorities[(x['tag'],x['code'])],x['tag']))
     out = output_dir or ROOT/'rime'
     out.mkdir(parents=True,exist_ok=True)
-    lines = ['---','name: booru','version: "0.2.5"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
+    lines = ['---','name: booru','version: "0.2.6"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
     # Source tags keep their keys; project phrases use a private output prefix.
     lines.extend(f"{r['tag']}\t{r['code']}\t{priorities[(r['tag'],r['code'])]}" for r in clean)
     (out/'booru.dict.yaml').write_text('\n'.join(lines)+'\n',encoding='utf-8')

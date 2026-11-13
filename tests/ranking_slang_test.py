@@ -1,4 +1,4 @@
-"""Validate v0.2.4 data/ranking against Git; never create a Rime session."""
+"""Validate data/ranking and explicit project phrases against Git; no Rime session."""
 import csv,hashlib,io,json,re,subprocess,sys
 from collections import defaultdict
 from pathlib import Path
@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from ranking import chinese_group,compiled_weights
-from general_phrases import slang_rows,PREFIX
+from general_phrases import slang_rows,pose_rows,PREFIX
 
 def main():
     baseline=subprocess.check_output(['git','show','v0.2.3:rime/booru.tsv'],cwd=ROOT)
@@ -16,7 +16,7 @@ def main():
     previous={lookup(row):row for row in old};current={lookup(row):row for row in rows}
     assert len(rows)==len(current),'Duplicate final output for one pinyin'
     assert set(previous)<=set(current),'An existing lookup/output was removed'
-    allowed={lookup(row) for row in slang_rows()}
+    allowed={lookup(row) for row in slang_rows()+pose_rows()}
     assert set(current)-set(previous)==allowed-set(previous),'Unexpected extra lookup'
     for key,row in current.items():
         assert row['role'] in {'primary','alias'} and re.fullmatch('[a-z]+',row['code'])

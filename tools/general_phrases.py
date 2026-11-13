@@ -36,7 +36,7 @@ def merge(base_rows, variant='searchable'):
     original = [r for r in base_rows if not r['tag'].startswith(PREFIX)]
     existing={(r['tag'],r['code']) for r in original}
     imported=[r for r in library_rows(variant) if (r['tag'].removeprefix(PREFIX),r['code']) not in existing]
-    return original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+imported
+    return original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+pose_rows()+imported
 
 def prompt_rows():
     source=ROOT/'data/general_prompts.tsv'
@@ -51,6 +51,14 @@ def slang_rows():
     with (ROOT/'data/slang_aliases.tsv').open(encoding='utf-8') as stream:
         return [dict(tag=PREFIX+row['english'], zh=row['zh']+'〔'+row['category']+'〕',
                      code=row['code'], weight=10000, role=row['role'])
+                for row in csv.DictReader(stream,delimiter='\t')]
+
+
+def pose_rows():
+    """Explicit project-authored posture phrases; no runtime phrase generation."""
+    with (ROOT/'data/pose_phrases.tsv').open(encoding='utf-8') as stream:
+        return [dict(tag=PREFIX+row['english'], zh=row['zh']+'〔'+row['category']+'〕',
+                     code=row['code'], weight=10000, role='primary')
                 for row in csv.DictReader(stream,delimiter='\t')]
 
 def fur_color_rows():

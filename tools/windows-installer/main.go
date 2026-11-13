@@ -34,7 +34,7 @@ func init() {
 	bundled, bundleError = zip.NewReader(bytes.NewReader(resourceArchive), int64(len(resourceArchive)))
 }
 
-var version = "0.2.5"
+var version = "0.2.6"
 var variant = "default"
 var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "lua/booru_filter.lua"}
 
