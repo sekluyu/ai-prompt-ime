@@ -10,7 +10,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.3'
+VERSION='0.2.4'
 LAUNCHER='安装绘画提示词.exe'
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def sums(folder):
@@ -32,13 +32,12 @@ def main():
     artifacts=args.artifacts_root.resolve()
     validation=args.validation_root.resolve()
     dist=args.output_dir.resolve();dist.mkdir(parents=True,exist_ok=True)
-    proof=json.loads((validation/'deduplication.json').read_text(encoding='utf-8'))
+    proof=json.loads((validation/'ranking-slang.json').read_text(encoding='utf-8'))
     assert proof['status']=='PASS' and proof['dictionary_sha256']==sha(ROOT/'rime/booru.tsv')
-    assert proof['lua_sha256']==sha(ROOT/'rime/lua/booru_filter.lua')
+    assert proof['native_dictionary_sha256']==sha(ROOT/'rime/booru.dict.yaml')
     lua=json.loads((validation/'lua-filter-unit.json').read_text(encoding='utf-8'))
-    assert lua['status']=='PASS' and lua['lua_sha256']==proof['lua_sha256']
-    baseline=json.loads((validation/'formal-full-engine.json').read_text(encoding='utf-8'))
-    assert baseline['status']=='PASS' and baseline['dictionary_sha256']==proof['before_dictionary_sha256']
+    assert lua['status']=='PASS' and lua['lua_sha256']==sha(ROOT/'rime/lua/booru_filter.lua')
+    assert lua['dictionary_sha256']==proof['dictionary_sha256']
     archives=[]
     for variant in ['default','dictionary']:
         name=f'ai-prompt-ime-{VERSION}'+('' if variant=='default' else '-'+variant)
@@ -51,7 +50,7 @@ def main():
             (folder/'tools').mkdir()
             if variant=='dictionary':
                 shutil.copytree(artifacts/'dictionary',folder/'dictionary')
-                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
+                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py','ranking.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
                 shutil.copy2(ROOT/'tools/general_phrases.py',folder/'tools/general_phrases.py')
                 shutil.copytree(ROOT/'data',folder/'data')
                 if args.prompt_snapshot:
@@ -65,6 +64,8 @@ def main():
                 shutil.copy2(ROOT/'tools/install.py',folder/'tools/install.py')
                 (folder/'PACKAGE_INFO.json').write_text(json.dumps({'version':VERSION,'variant':variant}),encoding='utf-8')
                 build_installer(src,folder/LAUNCHER,args.go,variant)
+                if not (folder/LAUNCHER).is_file():
+                    raise FileNotFoundError('Compiled installer disappeared; inspect the build environment before packaging')
                 (folder/'validation').mkdir()
                 # Historical engine evidence is explicitly a baseline; the new
                 # candidate has data-coverage and isolated Lua checks, not a new
@@ -72,13 +73,15 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['deduplication.json','lua-filter-unit.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json']:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 for n in ['source.json','conversion-report.json']:shutil.copy2(artifacts/'dictionary'/n,folder/'validation'/n)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:
                     mappings=sum(1 for _ in csv.DictReader(stream,delimiter='\t'))
-                prefix='> 本附件为 '+VERSION+' 安装包，完整词库为唯一默认，共 '+str(mappings)+' 条拼音映射。双击本包的 `安装绘画提示词.exe`，无需 Python。完整词库为唯一版本；已知别名问题见docs/已知问题.md，验证范围见docs/词库交付说明.md。\n\n'
+                prefix='> 本附件为 '+VERSION+' 本地候选安装包，完整词库为唯一默认，共 '+str(mappings)+' 条拼音映射。双击本包的 `安装绘画提示词.exe`，无需 Python。尚未发布GitHub，真实输入排序与俗称词由使用者验收；验证范围见docs/词库交付说明.md。\n\n'
                 (folder/'README.md').write_text(prefix+(ROOT/'README.md').read_text(encoding='utf-8'),encoding='utf-8')
+            if variant!='dictionary' and not (folder/LAUNCHER).is_file():
+                raise FileNotFoundError('Installer is unavailable; refusing to produce an incomplete scheme archive')
             sums(folder)
             target=dist/(name+'.zip');zip_dir(folder,target);archives.append(target)
             if variant!='dictionary':

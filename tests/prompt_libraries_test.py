@@ -58,9 +58,11 @@ def main():
         engine.reset()
         for ch in code:engine.key(ch)
         expected=re.sub(r'([\\()])',r'\\\1',text)+', '
+        matched=by_output.get((code,text))
+        label=matched['zh'].split('〔',1)[0] if matched else label
         for page in range(1000):
             candidates,last=engine.candidates()
-            found=next((i for i,c in enumerate(candidates) if c['text']==expected and (label is None or c['comment']==label)),None)
+            found=next((i for i,c in enumerate(candidates) if c['text']==expected and (label is None or c['comment'].startswith(label))),None)
             if found is not None:break
             if last:raise AssertionError((code,text,'candidate missing'))
             engine.key('=')

@@ -102,12 +102,12 @@ def main():
                 candidates,last=e.candidates()
                 text=row['tag'].removeprefix('__prompt__:')
                 expected=re.sub(r'([\\()])',r'\\\1',text)+', '
-                found=next((i for i,c in enumerate(candidates) if c['text']==expected and c['comment']==labels[row['tag']]),None)
+                found=next((i for i,c in enumerate(candidates) if c['text']==expected and c['comment'].startswith(row['zh'].split('〔',1)[0])),None)
                 if found is not None: break
                 if last: raise AssertionError(f'Missing candidate {row}')
                 e.key('=')
             else: raise AssertionError('paging did not terminate')
-            assert candidates[found]['comment']==labels[row['tag']],row
+            assert candidates[found]['comment'].startswith(row['zh'].split('〔',1)[0]),row
             e.key(str(found+1))
             actual=e.commit()
             assert actual==expected,(row,actual)

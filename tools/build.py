@@ -6,6 +6,7 @@ import json
 import re
 from pathlib import Path
 from general_phrases import merge
+from ranking import compiled_weights
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -234,9 +235,14 @@ def build(source=None, output_dir=None, variant='searchable'):
         if source_key in seen_source_keys:
             continue
         seen_source_keys.add(source_key)
+        # Migration from v0.2.3: unprefixed rows are the canonical ffdkj/core
+        # entries retained by that builder. Explicit v2 roles persist thereafter.
+        role=row.get('role') or ('alias' if tag.startswith('__prompt__:') else 'primary')
+        if role not in {'primary','alias'}:
+            raise ValueError('Unknown ranking role: '+role)
         text=tag.removeprefix('__prompt__:')
         key=(code,text)
-        item=dict(tag=tag,zh=zh,code=code,weight=weight)
+        item=dict(tag=tag,zh=zh,code=code,weight=weight,role=role)
         if key not in merged:
             merged[key]=item
         else:
@@ -245,19 +251,21 @@ def build(source=None, output_dir=None, variant='searchable'):
             # Keep the canonical source key where one exists. User-facing
             # spelling and every distinct pinyin entry remain unchanged.
             canonical=text if text in (old['tag'],tag) else old['tag']
-            if (weight,'〔' in zh) > (old['weight'],'〔' in old['zh']):
+            if (role=='primary',weight,'〔' in zh) > (old['role']=='primary',old['weight'],'〔' in old['zh']):
                 merged[key]=item
+            merged[key]['weight']=max(weight,old['weight'])
             merged[key]['tag']=canonical
     clean=list(merged.values())
-    clean.sort(key=lambda x:(x['code'],-x['weight'],x['tag']))
+    priorities=compiled_weights(clean)
+    clean.sort(key=lambda x:(x['code'],-priorities[(x['tag'],x['code'])],x['tag']))
     out = output_dir or ROOT/'rime'
     out.mkdir(parents=True,exist_ok=True)
-    lines = ['---','name: booru','version: "0.2.3"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
+    lines = ['---','name: booru','version: "0.2.4"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
     # Source tags keep their keys; project phrases use a private output prefix.
-    lines.extend(f"{r['tag']}\t{r['code']}\t{r['weight']}" for r in clean)
+    lines.extend(f"{r['tag']}\t{r['code']}\t{priorities[(r['tag'],r['code'])]}" for r in clean)
     (out/'booru.dict.yaml').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     with (out/'booru.tsv').open('w',encoding='utf-8',newline='') as f:
-        writer=csv.DictWriter(f,fieldnames=['tag','zh','code','weight'],delimiter='\t',lineterminator='\n')
+        writer=csv.DictWriter(f,fieldnames=['tag','zh','code','weight','role'],delimiter='\t',lineterminator='\n')
         writer.writeheader(); writer.writerows(clean)
     report=dict(source=str(source) if source else 'GPT curated bootstrap (not ffdkj full data)',rows=len(clean),unique_tags=len({r['tag'] for r in clean}),merged_duplicate_rows=duplicate_rows,sha256=hashlib.sha256((out/'booru.tsv').read_bytes()).hexdigest())
     report_dir=ROOT/'validation/gpt'
