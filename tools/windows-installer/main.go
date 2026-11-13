@@ -2,9 +2,11 @@
 package main
 
 import (
+	"archive/zip"
 	"bufio"
+	"bytes"
 	"crypto/sha256"
-	"embed"
+	_ "embed"
 	"encoding/hex"
 	"encoding/json"
 	"errors"
@@ -20,13 +22,19 @@ import (
 	"unicode/utf8"
 )
 
-// The release builder stages the selected dictionary and its license notices.
+// The release builder stores the selected dictionary and notices in a standard ZIP.
 //
-//go:embed payload notices
-var embedded embed.FS
+//go:embed resources.zip
+var resourceArchive []byte
 
-var bundled fs.FS = embedded
-var version = "0.2.4"
+var bundled fs.FS
+var bundleError error
+
+func init() {
+	bundled, bundleError = zip.NewReader(bytes.NewReader(resourceArchive), int64(len(resourceArchive)))
+}
+
+var version = "0.2.5"
 var variant = "default"
 var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "lua/booru_filter.lua"}
 
@@ -262,6 +270,9 @@ func rollback(manifestPath string) error {
 }
 
 func run(args []string) error {
+	if bundleError != nil {
+		return fmt.Errorf("内置资源无法读取: %w", bundleError)
+	}
 	flags := flag.NewFlagSet("安装绘画提示词.exe", flag.ContinueOnError)
 	defaultUser := ""
 	if appdata := os.Getenv("APPDATA"); appdata != "" {

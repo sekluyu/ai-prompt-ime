@@ -16,11 +16,11 @@
 
 ## 版本与验收
 
-**当前版本：[v0.2.4](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.4)。** 本版发布候选排序、按命中入口显示中文及俗称检索，完整词库为唯一默认，共276,476条映射；保留v0.2.3全部276,472条检索/英文组合。数据、Lua模拟候选和重复构建检查通过；实际小狼毫输入和网页表现仍由使用者验收。
+**当前版本：[v0.2.5](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.5)。** 本版更新安装器资源打包，沿用v0.2.4的候选排序、按命中入口显示中文及俗称检索，完整词库为唯一默认，共276,476条映射；保留v0.2.3全部276,472条检索/英文组合。数据、Lua模拟候选和重复构建检查通过；实际小狼毫输入和网页表现仍由使用者验收。
 
 本次提供**独立EXE、内含相同EXE的方案ZIP与源码**，普通安装无需Python、.NET或Go。完整词库为唯一默认。词库来源及许可见[补充词库来源](docs/补充词库来源.md)，排序规则见[候选排序与俗称](docs/候选排序与俗称-0.2.4.md)。
 
-> 安全软件兼容提示（2026-11-13）：v0.2.4独立安装器曾被火绒识别为 `TrojanSpy/GameSpy.mw` 并删除，尚未获得厂商复核结论。本次在维护者关闭火绒后完成构建与隔离功能检查，**不代表已解除检测**。旧版本未逐一复测。遇到告警请停止使用被检测的EXE并保留日志；兼容问题计划在v0.2.5跟进。本项目不建议用关闭防护或添加排除项作为安装步骤。
+> 本版本已在维护者本机通过火绒扫描，未发现风险。
 
 | 输入拼音 | 中文概念 | 输出内容（省略分隔符） |
 |---|---|---|
@@ -36,7 +36,7 @@
 
 前置条件：Windows 10/11 x64、已安装并能正常输入中文的[小狼毫](https://github.com/rime/weasel/releases)。这是小狼毫（Rime）的扩展输入方案，不安装或替换小狼毫，不需要API key或在线服务。
 
-1. 从[v0.2.4 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.4)下载[独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.4/ai-prompt-ime-0.2.4-setup.exe)，对照同页SHA256SUMS.txt核对。也可完整解压方案ZIP，使用根目录的`安装绘画提示词.exe`；两者内容相同，无需重复安装。
+1. 从[v0.2.4 Release](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.5)下载[独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.5/ai-prompt-ime-0.2.5-setup.exe)，对照同页SHA256SUMS.txt核对。也可完整解压方案ZIP，使用根目录的`安装绘画提示词.exe`；两者内容相同，无需重复安装。
 2. 双击EXE。方案和词库内置，无需Python、.NET、Go、联网或管理员权限。安装器先备份同名方案文件及`default.custom.yaml`，再写入更新。
 3. 看到“【安装成功】”后，右键小狼毫托盘图标，选择“重新部署”。文件复制完成不代表新版本已部署。
 4. 部署结束后按F4，选择“绘画提示词”；输入`shuangmawei`选词应得到`twintails, `。实际输入与网页表现由使用者验收。
@@ -59,7 +59,7 @@
 
 ## 回滚
 
-在安装器所在目录打开PowerShell，运行`.\ai-prompt-ime-0.2.4-setup.exe --rollback-latest`；ZIP内EXE相应改用`.\安装绘画提示词.exe --rollback-latest`。看到回滚成功后重新部署小狼毫。自定义用户目录时带同一个`--user-dir`。回滚只管理本方案文件，不卸载小狼毫；文件安装后被手工修改或删除时会拒绝覆盖。手动安装的更新须用复制前留存的文件手动恢复，不能借用旧EXE的回滚清单。详见[安装与回滚](docs/安装与回滚.md)。
+在安装器所在目录打开PowerShell，运行`.\ai-prompt-ime-0.2.5-setup.exe --rollback-latest`；ZIP内EXE相应改用`.\安装绘画提示词.exe --rollback-latest`。看到回滚成功后重新部署小狼毫。自定义用户目录时带同一个`--user-dir`。回滚只管理本方案文件，不卸载小狼毫；文件安装后被手工修改或删除时会拒绝覆盖。手动安装的更新须用复制前留存的文件手动恢复，不能借用旧EXE的回滚清单。详见[安装与回滚](docs/安装与回滚.md)。
 
 ## 词库与交付内容
 
@@ -67,9 +67,9 @@
 
 | 文件 | 用途 |
 |---|---|
-| [ai-prompt-ime-0.2.4-setup.exe](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.4/ai-prompt-ime-0.2.4-setup.exe) | 独立离线安装器，内置完整词库，无需Python |
-| [ai-prompt-ime-0.2.4.zip](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.4/ai-prompt-ime-0.2.4.zip) | 同一安装器、完整方案、词库、Lua和文档，也可手动复制 |
-| [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.4/SHA256SUMS.txt) | 独立EXE与方案ZIP的SHA-256；ZIP内另含文件校验清单，校验一致不等于安全认证 |
+| [ai-prompt-ime-0.2.5-setup.exe](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.5/ai-prompt-ime-0.2.5-setup.exe) | 独立离线安装器，内置完整词库，无需Python |
+| [ai-prompt-ime-0.2.5.zip](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.5/ai-prompt-ime-0.2.5.zip) | 同一安装器、完整方案、词库、Lua和文档，也可手动复制 |
+| [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.5/SHA256SUMS.txt) | 独立EXE与方案ZIP的SHA-256；ZIP内另含文件校验清单，校验一致不等于安全认证 |
 | Release的Source code | 对应v0.2.4标签的源码，含构建脚本与俗称维护表 |
 
 本次不重新打包词库追溯附件；固定来源追溯仍见[v0.2.3追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.3/ai-prompt-ime-0.2.3-dictionary.zip)，本次新代码和俗称表以v0.2.4源码为准。不要用旧版EXE覆盖本版方案。

@@ -1,11 +1,66 @@
 package main
 
 import (
+	"archive/zip"
+	"bytes"
+	"errors"
 	"os"
 	"path/filepath"
 	"strings"
 	"testing"
 )
+
+func TestInvalidBundleBeforeWrites(t *testing.T) {
+	previous := bundleError
+	defer func() { bundleError = previous }()
+	bundleError = errors.New("invalid ZIP fixture")
+	user := t.TempDir()
+	if err := run([]string{"--user-dir", user}); err == nil {
+		t.Fatal("invalid bundle accepted")
+	}
+	entries, _ := os.ReadDir(user)
+	if len(entries) != 0 {
+		t.Fatal("invalid bundle wrote files")
+	}
+}
+
+func TestCorruptResourceBeforeWrites(t *testing.T) {
+	var buffer bytes.Buffer
+	writer := zip.NewWriter(&buffer)
+	header := &zip.FileHeader{Name: "payload/booru.schema.yaml", Method: zip.Store}
+	file, err := writer.CreateHeader(header)
+	if err != nil {
+		t.Fatal(err)
+	}
+	fixture := []byte("unique damaged ZIP resource fixture")
+	if _, err := file.Write(fixture); err != nil {
+		t.Fatal(err)
+	}
+	if err := writer.Close(); err != nil {
+		t.Fatal(err)
+	}
+	data := buffer.Bytes()
+	offset := bytes.Index(data, fixture)
+	if offset < 0 {
+		t.Fatal("fixture not found")
+	}
+	data[offset] ^= 1
+	archive, err := zip.NewReader(bytes.NewReader(data), int64(len(data)))
+	if err != nil {
+		t.Fatal(err)
+	}
+	previous := bundled
+	defer func() { bundled = previous }()
+	bundled = archive
+	user := t.TempDir()
+	if _, err := install(user); err == nil {
+		t.Fatal("corrupt resource accepted")
+	}
+	entries, _ := os.ReadDir(user)
+	if len(entries) != 0 {
+		t.Fatal("corrupt resource wrote files")
+	}
+}
 
 func TestConfigCompatibility(t *testing.T) {
 	cases := []string{

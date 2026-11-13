@@ -10,7 +10,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.4'
+VERSION='0.2.5'
 LAUNCHER='安装绘画提示词.exe'
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def sums(folder):
