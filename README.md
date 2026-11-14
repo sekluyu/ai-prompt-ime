@@ -2,7 +2,7 @@
 
 输入中文拼音，选出英文提示词，直接填进 ComfyUI、Stable Diffusion WebUI 或其他绘图软件。基于 Windows 小狼毫（Rime），词库离线运行，不需要 API Key，也不用开翻译网页。
 
-**当前版本：[v0.2.11](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.11)** · 收录 **279,146 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
+**当前版本：[v0.2.12](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.12)** · 收录 **279,161 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
 
 ## 下载和安装
 
@@ -10,9 +10,9 @@
 
 | 下载 | 说明 |
 |---|---|
-| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/ai-prompt-ime-0.2.11-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
-| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/ai-prompt-ime-0.2.11.zip) | 包含相同安装器、词库和使用说明 |
-| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
+| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.12/ai-prompt-ime-0.2.12-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
+| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.12/ai-prompt-ime-0.2.12.zip) | 包含相同安装器、词库和使用说明 |
+| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.12/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
 
 1. 运行安装器。安装前会备份需要替换的文件，不创建桌面快捷方式。
 2. 右键小狼毫托盘图标，点击“重新部署”。
@@ -37,6 +37,20 @@
 空格选第一项，数字键选择其他候选；`=` 翻到下一页，`-` 返回上一页，Esc 取消。默认在每次选词后加英文逗号和空格，**Ctrl＋Alt＋F9 可以开关逗号后的空格**。日常聊天时切回原来的中文方案即可。
 
 中文入口以完整拼音为主，暂不支持任意中文句子翻译。词库中的英文标签、空格短语和中文别名会一起显示，最终输出相同的候选只显示一次。
+
+## 随机皮毛颜色和物种
+
+输入下面的拼音，候选中会显示本次抽中的具体英文。选中后直接填入绘图软件。
+
+| 拼音 | 用途 | 输出示例 |
+|---|---|---|
+| `suijidansepimao` | 随机单色皮毛 | `blue fur, ` |
+| `suijishuangsepimao` | 随机双色皮毛 | `black and white fur, ` |
+| `suijiwuzhong` | 随机物种 | `fox, ` |
+
+单色从16种颜色中抽取，双色使用两种不同颜色；物种包含24种常见兽类及幻想物种，包括龙、飞龙、狮鹫和独角兽。提交后再次输入可以重新抽取，也可能抽到重复结果。`suijiyansepimao` 和 `suijipimaoyanse` 也能查找随机单色皮毛。
+
+抽取发生在输入法中，最终输入具体颜色或物种，不依赖模型理解 `random`。模型对具体词的表现仍取决于所用模型。
 
 ## 一次输入一组常用词
 

@@ -30,7 +30,11 @@ def main():
    for ch in r['code']:engine.key(ch)
    suffix=' ' if '〔待续写〕' in r['zh'] else ', '
    expected=r['tag'].removeprefix('__prompt__:')+suffix
-   menu,_=engine.candidates();assert menu[0]['text']==expected,(r,menu)
+   menu,_=engine.candidates()
+   if expected.startswith('random '):
+    assert menu and 'random' not in menu[0]['text'] and menu[0]['text'].endswith(', ')
+    expected=menu[0]['text']
+   else:assert menu[0]['text']==expected,(r,menu)
    engine.key(' ');assert engine.commit()==expected
    checked+=1
  finally:engine.close()

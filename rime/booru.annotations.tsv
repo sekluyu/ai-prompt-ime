@@ -1,4 +1,4 @@
-# booru-annotations-v1	5a82f21614646aa95958d43a9696843215371b3cac27861d074962c38cd8637e
+# booru-annotations-v1	e7877a5ec2d6a097bb3c5cdb14da1d59065ef65494996e7dcf6dd1f781e3d749
 L:!	感叹号	0
 L:!!	双重感叹号	0
 L:!?	表情符号〔合并词库〕	0
@@ -6834,7 +6834,7 @@ L:arms_bent	屈臂姿势〔e621〕	0
 L:arms_between_legs	双臂置于腿间	0
 L:arms_bound_above_head	双臂高举被缚	0
 L:arms_bound_apart	双臂分绑	0
-L:arms_bound_behind_back	手臂绑在身后〔e621〕	0
+L:arms_bound_behind_back	手被绑在背后〔常用词〕	0
 L:arms_bound_to_collar	手臂拴在项圈上〔e621〕	0
 L:arms_by_side	手臂垂放身侧〔e621〕	0
 L:arms_crossed	手交叉于胸前〔提示词库〕	0
@@ -32490,7 +32490,7 @@ L:flat_balls	扁平蛋蛋〔e621〕	0
 L:flat_belly	扁平腹部〔e621〕	0
 L:flat_body	扁平身材〔e621〕	0
 L:flat_cap	鸭舌帽	0
-L:flat_chastity_cage	扁平贞操笼	0
+L:flat_chastity_cage	平板锁〔常用词〕	0
 L:flat_chest	平胸	0
 L:flat_chest_grab	贫乳抓捏	0
 L:flat_chest_joke	贫乳梗	0
@@ -42140,6 +42140,7 @@ L:handpads	手部护垫〔e621〕	0
 L:handpaw	手型爪子〔e621〕	0
 L:handprint	手印	0
 L:handrail	扶手	0
+L:hands clasped behind back	双手在背后交握〔常用词〕	0
 L:hands in pocket	双手插口袋〔提示词库〕	0
 L:hands-free	不手淫射精〔e621〕	0
 L:hands-free_bubble_tea	波霸奶茶挑战〔e621〕	0
@@ -42147,7 +42148,7 @@ L:hands_above_breasts	手放在乳房上方〔e621〕	0
 L:hands_above_head	单手举过头〔e621〕	0
 L:hands_around_neck	手环颈部〔e621〕	0
 L:hands_around_waist	环腰抱〔e621〕	0
-L:hands_behind_back	手臂后置〔e621〕	0
+L:hands_behind_back	手在背后〔常用词〕	0
 L:hands_behind_head	背手摸头〔e621〕	0
 L:hands_behind_own_head	手放头后〔e621〕	0
 L:hands_between_legs	手放腿间〔e621〕	0
@@ -63177,7 +63178,7 @@ L:left foot resting on the windowsill	左脚搭在窗台上〔脚部放置〕	0
 L:left foot resting under	左脚在某物下面〔待续写〕	0
 L:left foot turned inward	左脚脚尖朝内〔脚部动作〕	0
 L:left foot turned outward	左脚脚尖朝外〔脚部动作〕	0
-L:left hand behind back	左手放背后〔通用姿态·单手〕	0
+L:left hand behind back	左手在背后〔常用词〕	0
 L:left hand behind back, right hand touching chest	左手放背后右手摸胸口〔通用姿态·双手〕	0
 L:left hand braced against wall	左手扶墙〔通用姿态·单手〕	0
 L:left hand braced against wall, right hand resting on hip	左手扶墙右手扶腰〔通用姿态·双手〕	0
@@ -91561,6 +91562,10 @@ L:randal_ivory	整合运动〔合并词库〕	0
 L:randall_boggs	怪兽大学〔e621〕	0
 L:randi_(seiken_densetsu_2)	兰迪〔合并词库〕	0
 L:randolph_orlando	碧之轨迹〔合并词库〕	0
+L:random fur color	随机皮毛颜色〔常用词〕	0
+L:random single-color fur	随机单色皮毛〔常用词〕	0
+L:random species	随机物种〔常用词〕	0
+L:random two-tone fur	随机双色皮毛〔常用词〕	0
 L:random_dot	随机点	0
 L:randomfacelessnobody	无名路人	0
 L:randompeeps	路人角色	0
@@ -93619,7 +93624,7 @@ L:right foot resting on the windowsill	右脚搭在窗台上〔脚部放置〕	0
 L:right foot resting under	右脚在某物下面〔待续写〕	0
 L:right foot turned inward	右脚脚尖朝内〔脚部动作〕	0
 L:right foot turned outward	右脚脚尖朝外〔脚部动作〕	0
-L:right hand behind back	右手放背后〔通用姿态·单手〕	0
+L:right hand behind back	右手在背后〔常用词〕	0
 L:right hand braced against wall	右手扶墙〔通用姿态·单手〕	0
 L:right hand clenched into a fist	右手握拳〔通用姿态·单手〕	0
 L:right hand covering eyes	右手遮眼睛〔通用姿态·单手〕	0
@@ -294369,6 +294374,7 @@ M:25:__prompt__:raised_topwear:shangyixianqi	上衣掀起〔e621〕	0
 M:25:__prompt__:raised_topwear:yifushangla	衣服上拉〔e621〕	0
 M:25:__prompt__:ram_(neptunia):lamu	拉姆〔合并词库〕	0
 M:25:__prompt__:ramona_flowers:yakongjiankuaidiyuan	亚空间快递员〔e621〕	0
+M:25:__prompt__:random species:suijiwuzhong	随机物种〔常用词〕	1
 M:25:__prompt__:raora_panthera:baoniang	豹娘〔e621〕	0
 M:25:__prompt__:raphael_(tmnt):lafeier	拉斐尔〔e621〕	0
 M:25:__prompt__:raphael_(tmnt):renzheshengui	忍者神龟〔e621〕	0
@@ -317131,6 +317137,8 @@ M:27:__prompt__:randal's_friends:landeerdepengyoumen	兰德尔的朋友们〔合
 M:27:__prompt__:randolph_orlando:bizhiguiji	碧之轨迹〔合并词库〕	0
 M:27:__prompt__:randolph_orlando:lingzhiguiji	零之轨迹〔合并词库〕	0
 M:27:__prompt__:randolph_orlando:yingxiongzhuanshuo	英雄传说〔合并词库〕	0
+M:27:__prompt__:random fur color:suijipimaoyanse	随机皮毛颜色〔常用词〕	1
+M:27:__prompt__:random fur color:suijiyansepimao	随机颜色皮毛〔常用词〕	1
 M:27:__prompt__:ranger_(sekaiju):shijieshuzhimigong	世界树之迷宫〔合并词库〕	0
 M:27:__prompt__:ranger_(sekaiju):youxia	游侠〔合并词库〕	0
 M:27:__prompt__:rapunzel_(nikke):changfagongzhu	长发公主〔合并词库〕	0
@@ -323951,8 +323959,11 @@ M:28:__prompt__:hands_around_neck:shouqiabozi	手掐脖子〔e621〕	0
 M:28:__prompt__:hands_around_neck:shuangshouraojing	双手绕颈〔e621〕	0
 M:28:__prompt__:hands_behind_back:shoubihouzhi	手臂后置〔e621〕	0
 M:28:__prompt__:hands_behind_back:shoufangbeihou	手放背后〔e621〕	0
+M:28:__prompt__:hands_behind_back:shouzaibeihou	手在背后〔常用词〕	1
 M:28:__prompt__:hands_behind_back:shuangshoubeihou	双手背后〔e621〕	0
 M:28:__prompt__:hands_behind_back:shuangshoubeizaishenhou	双手背在身后〔e621〕	0
+M:28:__prompt__:hands_behind_back:shuangshoufangzaibeihou	双手放在背后〔常用词〕	1
+M:28:__prompt__:hands_behind_back:shuangshouzaibeihou	双手在背后〔常用词〕	1
 M:28:__prompt__:hands_behind_head:beishoumotou	背手摸头〔e621〕	0
 M:28:__prompt__:hands_behind_head:shoufangnaohou	手放脑后〔e621〕	0
 M:28:__prompt__:hands_behind_head:shuangshoubaotou	双手抱头〔e621〕	0
@@ -333001,6 +333012,8 @@ M:29:__prompt__:flannery_(pokemon):naqi	娜琪〔e621〕	0
 M:29:__prompt__:flash_sentry_(mlp):shanwei	闪卫〔e621〕	0
 M:29:__prompt__:flat_chastity_cage:bianpingzhencaosuo	扁平贞操锁〔e621〕	0
 M:29:__prompt__:flat_chastity_cage:bianshisuoju	扁式锁具〔e621〕	0
+M:29:__prompt__:flat_chastity_cage:dianbingcheng	电饼铛〔俗称〕	1
+M:29:__prompt__:flat_chastity_cage:pingbansuo	平板锁〔常用词〕	1
 M:29:__prompt__:flat_chastity_cage:zhencaozhuangzhi	贞操装置〔e621〕	0
 M:29:__prompt__:fleur_de_lis_(mlp):xiaomachaomo	小马超模〔e621〕	0
 M:29:__prompt__:floral_print_dress:xiazhuang	夏装〔合并词库〕	0
@@ -345437,6 +345450,7 @@ M:30:__prompt__:ramiel_(evangelion):lamiaier	拉米埃尔〔合并词库〕	0
 M:30:__prompt__:ramiel_(evangelion):xinshijifuyinzhanshi	新世纪福音战士〔合并词库〕	0
 M:30:__prompt__:ramlethal_valentine:waluntai	瓦伦泰〔e621〕	0
 M:30:__prompt__:ramlethal_valentine:zuiezhuangbei	罪恶装备〔e621〕	0
+M:30:__prompt__:random two-tone fur:suijishuangsepimao	随机双色皮毛〔常用词〕	1
 M:30:__prompt__:raptorial_(anatomy):bushixingdongwujiepou	捕食性动物解剖〔e621〕	0
 M:30:__prompt__:raptorial_(anatomy):mengqinjiepouxuetezheng	猛禽解剖学特征〔e621〕	0
 M:30:__prompt__:raptorial_(anatomy):mengqinshentigouzao	猛禽身体构造〔e621〕	0
@@ -355722,6 +355736,7 @@ M:32:__prompt__:lap_pillow_invitation:rishizishi	日式姿势〔合并词库〕	
 M:32:__prompt__:last_rite_(arknights):bieli	别礼〔合并词库〕	0
 M:32:__prompt__:last_rite_(arknights):mingrifangzhouzhongmodi	明日方舟终末地〔合并词库〕	0
 M:32:__prompt__:left hand behind back:zuoshoufangbeihou	左手放背后〔通用姿态·单手〕	1
+M:32:__prompt__:left hand behind back:zuoshouzaibeihou	左手在背后〔常用词〕	1
 M:32:__prompt__:left leg straightened:shenzhizuotui	伸直左腿〔腿部动作〕	1
 M:32:__prompt__:left leg straightened:zuotuishenzhi	左腿伸直〔腿部动作〕	1
 M:32:__prompt__:legend_of_queen_opala:nvwangoupalachuanqi	女王欧帕拉传奇〔e621〕	0
@@ -358504,7 +358519,9 @@ M:33:__prompt__:argentinian_flag_print:guoqituan	国旗图案〔合并词库〕	
 M:33:__prompt__:aria_(sister_princess):yaliya	亚利亚〔合并词库〕	0
 M:33:__prompt__:arjuna_(archer)_(fate):azhouna	阿周那〔合并词库〕	0
 M:33:__prompt__:arjuna_(archer)_(fate):gongbing	弓兵〔合并词库〕	0
+M:33:__prompt__:arms_bound_behind_back:shoubeibangzaibeihou	手被绑在背后〔常用词〕	1
 M:33:__prompt__:arms_bound_behind_back:shoubibangzaishenhou	手臂绑在身后〔e621〕	0
+M:33:__prompt__:arms_bound_behind_back:shuangshoubeibangzaibeihou	双手被绑在背后〔常用词〕	1
 M:33:__prompt__:arms_bound_behind_back:shuangshoubeihoukunbang	双手背后捆绑〔e621〕	0
 M:33:__prompt__:aromantic_pride_colors:langmanshulijiaoaoqi	浪漫疏离骄傲旗〔e621〕	0
 M:33:__prompt__:aromantic_pride_colors:langmanwuganjiaoao	浪漫无感骄傲〔e621〕	0
@@ -361430,6 +361447,7 @@ M:33:__prompt__:rico_(gunslinger_girl):like	莉可〔合并词库〕	0
 M:33:__prompt__:rico_(gunslinger_girl):qiangniang	枪娘〔合并词库〕	0
 M:33:__prompt__:rico_(gunslinger_girl):shaonvshashou	少女杀手〔合并词库〕	0
 M:33:__prompt__:right hand behind back:youshoufangbeihou	右手放背后〔通用姿态·单手〕	1
+M:33:__prompt__:right hand behind back:youshouzaibeihou	右手在背后〔常用词〕	1
 M:33:__prompt__:right leg straightened:shenzhiyoutui	伸直右腿〔腿部动作〕	1
 M:33:__prompt__:right leg straightened:youtuishenzhi	右腿伸直〔腿部动作〕	1
 M:33:__prompt__:right-over-left_kimono:hefu	和服〔合并词库〕	0
@@ -365834,6 +365852,7 @@ M:34:__prompt__:rai_kitamatsu_(modeler):leibeichuan	雷北川〔e621〕	0
 M:34:__prompt__:railgun_(misaka_mikoto):chaonengli	超能力〔合并词库〕	0
 M:34:__prompt__:railgun_(misaka_mikoto):nengli	能力〔合并词库〕	0
 M:34:__prompt__:railgun_(misaka_mikoto):yubanmeiqin	御坂美琴〔合并词库〕	0
+M:34:__prompt__:random single-color fur:suijidansepimao	随机单色皮毛〔常用词〕	1
 M:34:__prompt__:rapi_(red_hood)_(nikke):hongmaoxing	红帽型〔合并词库〕	0
 M:34:__prompt__:rarity_(my_little_pony):ruirui	瑞瑞〔合并词库〕	0
 M:34:__prompt__:rarity_(my_little_pony):xiaomabaoli	小马宝莉〔合并词库〕	0
@@ -371819,6 +371838,7 @@ M:36:__prompt__:handjob_while_facesitting:zuhexingxingwei	组合性行为〔e621
 M:36:__prompt__:handjob_while_penetrating:bianlubiancharu	边撸边插入〔e621〕	0
 M:36:__prompt__:handjob_while_penetrating:shouhuobingcharu	手活并插入〔e621〕	0
 M:36:__prompt__:handjob_while_penetrating:shoujiaotongshicharu	手交同时插入〔e621〕	0
+M:36:__prompt__:hands clasped behind back:shuangshouzaibeihoujiaowo	双手在背后交握〔常用词〕	1
 M:36:__prompt__:hands_in_opposite_sleeves:shuangshoufanxiu	双手反袖〔提示词库〕	0
 M:36:__prompt__:hands_in_opposite_sleeves:shuangshoujiaochashenjinxiuzili	双手交叉伸进袖子里〔提示词库〕	0
 M:36:__prompt__:hands_on_another's_cheeks:shoubudongzuo	手部动作〔合并词库〕	0

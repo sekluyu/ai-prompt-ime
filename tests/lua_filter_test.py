@@ -125,7 +125,8 @@ local old_api=rime_api
 -- Load the actual compiled annotations, still with a fake
 -- context: this checks the real index without starting Rime or sending keys.
 rime_api={get_user_data_dir=function()return SOURCE_DIR end}
-local indexed={engine={context={input='huli'}}}
+local function notifier() return {connect=function(self,fn) self.fn=fn; return {disconnect=function()self.disconnected=true end} end} end
+local indexed={engine={context={input='huli',commit_notifier=notifier(),update_notifier=notifier(),get_option=function()return true end}}}
 local started=os.clock()
 filter.init(indexed)
 INDEX_LOAD_SECONDS=os.clock()-started
@@ -143,6 +144,41 @@ indexed.engine.context.input='zuoshoufuyaoyoushoumotou'
 assert(filter.comment({text='__prompt__:left hand resting on hip, right hand touching head',start=0,_end=#indexed.engine.context.input},indexed)=='左手扶腰右手摸头〔通用姿态·双手〕')
 indexed.engine.context.input='lingyizhishoufangdatuishang'
 assert(filter.comment({text='__prompt__:the other hand resting on thigh',start=0,_end=#indexed.engine.context.input},indexed)=='另一只手放大腿上〔通用姿态·单手〕')
+-- Random commands show a concrete result and preserve it until commit/cancel.
+local ctx=indexed.engine.context
+local function random_candidate(tag,code)
+  ctx.input=code
+  local candidate=Candidate('table',0,#code,'__prompt__:'..tag,'')
+  local input={iter=function()local done=false;return function()if not done then done=true;return candidate end end end}
+  local result
+  yield=function(c) result=c end
+  filter.func(input,indexed)
+  assert(result and not result.text:find('random',1,true))
+  return result.text
+end
+local outputs={}
+for i=1,100 do
+  local a=random_candidate('random single-color fur','suijidansepimao')
+  assert(a==random_candidate('random single-color fur','suijidansepimao'))
+  outputs[a]=true
+  ctx.commit_notifier.fn(ctx)
+end
+local count=0;for _ in pairs(outputs)do count=count+1 end;assert(count>8)
+for i=1,100 do
+  local text=random_candidate('random two-tone fur','suijishuangsepimao')
+  local first,second=text:match('^(%a+) and (%a+) fur, $')
+  assert(first and second and first~=second)
+  ctx.input='';ctx.update_notifier.fn(ctx)
+end
+local animals={}
+for i=1,100 do
+  local text=random_candidate('random species','suijiwuzhong')
+  assert(text==random_candidate('random species','suijiwuzhong'))
+  animals[text]=true;ctx.commit_notifier.fn(ctx)
+end
+assert(animals['dragon, '] or animals['wyvern, '] or animals['unicorn, '] or animals['gryphon, '])
+filter.fini(indexed)
+assert(ctx.commit_notifier.disconnected and ctx.update_notifier.disconnected)
 rime_api=old_api
 
 -- Compare every exact mapping against the shipped v0.2.6 implementation.
@@ -198,7 +234,7 @@ rime_api=old_api
         dll.lua_getglobal(state,b'INDEX_LUA_MIB');lua_mib=dll.lua_tonumberx(state,-1,None)
         dll.lua_getglobal(state,b'EXACT_MAPPINGS_CHECKED');exact_checked=int(dll.lua_tonumberx(state,-1,None))
     finally:dll.lua_close(state)
-    report={'status':'PASS','lua_sha256':hashlib.sha256((ROOT/'rime/lua/booru_filter.lua').read_bytes()).hexdigest(),'checks':['exact-output duplicates','alias and later-stream duplicates','query reset','first-candidate metadata','underscore/space distinctions preserved','spacing and plain modes','literal escaping','matched exact Chinese and completion suffix','segment offsets','v2 role parsing and quoted fields','slang comments with ordinary fallback definitions'],'scope':'Lua mock candidates only; no Rime session, key events or real desktop typing'}
+    report={'status':'PASS','lua_sha256':hashlib.sha256((ROOT/'rime/lua/booru_filter.lua').read_bytes()).hexdigest(),'checks':['exact-output duplicates','alias and later-stream duplicates','query reset','first-candidate metadata','underscore/space distinctions preserved','spacing and plain modes','literal escaping','matched exact Chinese and completion suffix','segment offsets','v2 role parsing and quoted fields','slang comments with ordinary fallback definitions'],'random_draws_checked':300,'scope':'Lua mock candidates only; no Rime session, key events or real desktop typing'}
     report.update(annotations_sha256=hashlib.sha256((ROOT/'rime/booru.annotations.tsv').read_bytes()).hexdigest(),dictionary_sha256=hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest(),index_load_cpu_seconds=round(load_seconds,3),index_lua_mib=round(lua_mib,2),memory_scope='Lua standalone index only; not Weasel process memory or typing latency')
     report.update(exact_mappings_compared=exact_checked,reference='v0.2.6 Lua',sampled_completion_and_fallback=True)
     target=ROOT/'validation/gpt/lua-filter-unit.json'

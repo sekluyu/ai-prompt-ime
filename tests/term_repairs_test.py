@@ -37,6 +37,14 @@ def main():
         def choose(code,en,first=False):
             engine.reset()
             for ch in code:engine.key(ch)
+            if en.startswith('random '):
+                menu,_=engine.candidates()
+                assert menu and 'random' not in menu[0]['text'] and menu[0]['text'].endswith(', '),(code,menu)
+                expected=menu[0]['text']
+                again,_=engine.candidates();assert again[0]['text']==expected
+                engine.key('1');assert engine.commit()==expected
+                results.append(dict(code=code,output=expected,random_command=en))
+                return
             suffix=' ' if '〔待续写〕' in current[(code,en)]['zh'] else ', '
             text=re.sub(r'([\\()])',r'\\\1',en)+suffix
             for page in range(1000):

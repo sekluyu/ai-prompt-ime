@@ -687,3 +687,18 @@ one leg resting on	腿在某物上面	tuifangzaishangmian	待续写	11000	primar
 one foot resting on	脚在某物上面	jiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
 one foot resting on	脚在某物上面	jiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
 bathtub	浴缸	yugang	常用词	11000	primary	本项目维护；具体物体浴缸优先显示bathtub
+flat_chastity_cage	平板锁	pingbansuo	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+flat_chastity_cage	电饼铛	dianbingcheng	俗称	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+hands_behind_back	手在背后	shouzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+left hand behind back	左手在背后	zuoshouzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+right hand behind back	右手在背后	youshouzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+hands_behind_back	双手在背后	shuangshouzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+hands_behind_back	双手放在背后	shuangshoufangzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+hands clasped behind back	双手在背后交握	shuangshouzaibeihoujiaowo	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+arms_bound_behind_back	手被绑在背后	shoubeibangzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+arms_bound_behind_back	双手被绑在背后	shuangshoubeibangzaibeihou	常用词	11000	primary	用户确认的中文入口；复用对应英文或姿态描述
+random fur color	随机颜色皮毛	suijiyansepimao	常用词	11000	primary	输入法抽取具体结果，候选与上屏一致
+random fur color	随机皮毛颜色	suijipimaoyanse	常用词	11000	primary	输入法抽取具体结果，候选与上屏一致
+random single-color fur	随机单色皮毛	suijidansepimao	常用词	11000	primary	输入法抽取具体结果，候选与上屏一致
+random two-tone fur	随机双色皮毛	suijishuangsepimao	常用词	11000	primary	输入法抽取具体结果，候选与上屏一致
+random species	随机物种	suijiwuzhong	常用词	11000	primary	输入法抽取具体结果，候选与上屏一致

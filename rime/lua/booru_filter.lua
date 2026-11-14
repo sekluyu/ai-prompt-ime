@@ -1,5 +1,41 @@
 local M = {}
 
+local colors = {'red', 'orange', 'yellow', 'green', 'cyan', 'blue', 'purple',
+  'pink', 'black', 'white', 'gray', 'brown', 'gold', 'silver', 'cream', 'tan'}
+local species = {'fox', 'wolf', 'dog', 'cat', 'tiger', 'lion', 'leopard',
+  'cheetah', 'snow leopard', 'rabbit', 'deer', 'bear', 'panda', 'red panda',
+  'raccoon', 'otter', 'hyena', 'horse', 'goat', 'sheep', 'dragon', 'wyvern',
+  'gryphon', 'unicorn'}
+local random_kinds = {['random fur color']='single', ['random single-color fur']='single',
+  ['random two-tone fur']='double', ['random species']='species'}
+
+local function random_text(tag, env)
+  local kind = random_kinds[tag]
+  if not kind then return tag end
+  local context = env.engine.context
+  local query = context.input or ''
+  if env.random_query ~= query then
+    env.random_query, env.random_values = query, {}
+  end
+  if not env.random_values[kind] then
+    local text
+    if kind == 'species' then
+      text = species[math.random(#species)]
+    else
+      local first = math.random(#colors)
+      if kind == 'single' then
+        text = colors[first] .. ' fur'
+      else
+        local second = math.random(#colors - 1)
+        if second >= first then second = second + 1 end
+        text = colors[first] .. ' and ' .. colors[second] .. ' fur'
+      end
+    end
+    env.random_values[kind] = text
+  end
+  return env.random_values[kind]
+end
+
 local function english(tag)
   return (tag:gsub('^__prompt__:', ''))
 end
@@ -14,7 +50,20 @@ function M.init(env)
   local file = assert(io.open(rime_api.get_user_data_dir() .. '/booru.annotations.tsv', 'rb'))
   env.annotations = file:read('*a')
   file:close()
+  math.randomseed(os.time())
+  env.random_values = {}
+  local context = env.engine.context
+  local function clear() env.random_query, env.random_values = nil, {} end
+  env.random_commit = context.commit_notifier:connect(clear)
+  env.random_update = context.update_notifier:connect(function(ctx)
+    if ctx.input == '' then clear() end
+  end)
   assert(env.annotations:sub(1, #'# booru-annotations-v1\t') == '# booru-annotations-v1\t', 'Invalid annotation index; rebuild the scheme')
+end
+
+function M.fini(env)
+  env.random_commit:disconnect()
+  env.random_update:disconnect()
 end
 
 local function lookup(blob, target)
@@ -65,7 +114,7 @@ function M.func(input, env)
   for cand in input:iter() do
     local label = M.comment(cand, env)
     if label then
-      local text = english(cand.text):gsub('([\\()])', '\\%1')
+      local text = random_text(english(cand.text), env):gsub('([\\()])', '\\%1')
       if label:find('〔待续写〕', 1, true) then
         text = text .. ' '
       elseif env.engine.context:get_option('booru_separator') then

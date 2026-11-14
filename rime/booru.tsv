@@ -37663,6 +37663,7 @@ electric_whip	电鞭	dianbian	1205	primary
 electricity_meter	电表	dianbiao	1415	primary
 __prompt__:boop	点鼻动作〔e621〕	dianbidongzuo	3349	alias
 tono_kabeuchi	殿壁内	dianbinei	1749	primary
+__prompt__:flat_chastity_cage	电饼铛〔俗称〕	dianbingcheng	11000	primary
 __prompt__:arctozolt	电冰兽〔e621〕	dianbingshou	2018	alias
 __prompt__:fridge	电冰箱〔e621〕	dianbingxiang	3444	alias
 denpa_song	电波歌	dianboge	2886	primary
@@ -156582,6 +156583,7 @@ flatbed_truck	平板卡车	pingbankache	1432	primary
 __prompt__:monitor_head	平板屏幕头〔e621〕	pingbanpingmutou	2284	alias
 __prompt__:tablet_computer	平板设备〔e621〕	pingbanshebei	3090	alias
 platform_truck	平板手推车	pingbanshoutuiche	2233	primary
+__prompt__:flat_chastity_cage	平板锁〔常用词〕	pingbansuo	11000	primary
 __prompt__:reina_(tekken)	平八女儿〔合并词库〕	pingbanver	2583	alias
 __prompt__:fujiwara_no_iyozane	平斑文须磨〔合并词库〕	pingbanwenxumo	2499	alias
 __prompt__:bench_press	平板卧推〔e621〕	pingbanwotui	2706	alias
@@ -188867,6 +188869,7 @@ figure_stage	手办展示台	shoubanzhanshitai	2108	primary
 holding_tree	手抱树木	shoubaoshumu	1974	primary
 __prompt__:guided_breast_grab	手把手引导抓胸〔e621〕	shoubashouyindaozhuaxiong	3369	alias
 __prompt__:hands_tied	手被绑〔e621〕	shoubeibang	4281	alias
+__prompt__:arms_bound_behind_back	手被绑在背后〔常用词〕	shoubeibangzaibeihou	11000	primary
 hand_jewel	手背宝石	shoubeibaoshi	2904	primary
 lipstick_mark_on_hand	手背唇印	shoubeichunyin	1771	primary
 __prompt__:hand_spike	手背尖刺〔e621〕	shoubeijianci	3441	alias
@@ -193072,6 +193075,7 @@ __prompt__:imminent_impregnation	受孕前夕〔e621〕	shouyunqianxi	2467	alias
 teba_motoko	手羽元子	shouyuyuanzi	2137	primary
 __prompt__:hand_on_partner's_leg	手在伴侣腿上〔e621〕	shouzaibanlvtuishang	2353	alias
 __prompt__:hand_on_partner's_penis	手在伴侣阴茎上〔e621〕	shouzaibanlvyinjingshang	2528	alias
+__prompt__:hands_behind_back	手在背后〔常用词〕	shouzaibeihou	11000	primary
 __prompt__:hand on floor	手在地板上〔提示词库〕	shouzaidibanshang	5001	alias
 __prompt__:hand_under_shorts	手在短裤下〔合并词库〕	shouzaiduankuxia	2481	alias
 __prompt__:hand_on_another's_face	手在对方脸上〔e621〕	shouzaiduifanglianshang	4462	alias
@@ -194894,6 +194898,7 @@ __prompt__:holding_with_two_hands	双手抱着〔e621〕	shuangshoubaozhe	2042	a
 __prompt__:holding_with_two_hands	双手抱着某物〔e621〕	shuangshoubaozhemouwu	2042	alias
 __prompt__:hands_tied_behind_back	双手背绑〔e621〕	shuangshoubeibang	3221	alias
 __prompt__:arms_tied_behind_back	双手背绑〔e621〕	shuangshoubeibang	3123	alias
+__prompt__:arms_bound_behind_back	双手被绑在背后〔常用词〕	shuangshoubeibangzaibeihou	11000	primary
 __prompt__:hands_behind_back	双手背后〔e621〕	shuangshoubeihou	4681	alias
 __prompt__:hands_on_back	双手背后〔e621〕	shuangshoubeihou	2670	alias
 __prompt__:arms_bound_behind_back	双手背后捆绑〔e621〕	shuangshoubeihoukunbang	2246	alias
@@ -194955,6 +194960,7 @@ hands_on_another's_hands	双手叠放	shuangshoudiefang	2005	primary
 __prompt__:double_devil_horns_(gesture)	双手恶魔角手势〔e621〕	shuangshouemojiaoshoushi	2246	alias
 __prompt__:hands_in_both_pockets	双手放口袋〔e621〕	shuangshoufangkoudai	3294	alias
 __prompt__:hands_in_lap	双手放膝上〔e621〕	shuangshoufangxishang	2215	alias
+__prompt__:hands_behind_back	双手放在背后〔常用词〕	shuangshoufangzaibeihou	11000	primary
 __prompt__:hands_on_another's_shoulders	双手放在别人的肩膀上〔提示词库〕	shuangshoufangzaibierendejianbangshang	5001	alias
 __prompt__:hands_on_another's_	双手放在别人的脸上〔提示词库〕	shuangshoufangzaibierendelianshang	5001	alias
 hands_on_own_leg	双手放在单腿上	shuangshoufangzaidantuishang	2631	primary
@@ -195105,6 +195111,8 @@ __prompt__:chicken-wing_tied	双手胸前捆绑〔e621〕	shuangshouxiongqiankun
 __prompt__:head_in_hands	双手掩面〔e621〕	shuangshouyanmian	2144	alias
 __prompt__:double_devil_horns_(gesture)	双手摇滚手势〔e621〕	shuangshouyaogunshoushi	2246	alias
 __prompt__:double_arm_hug	双手拥抱〔合并词库〕	shuangshouyongbao	2327	alias
+__prompt__:hands_behind_back	双手在背后〔常用词〕	shuangshouzaibeihou	11000	primary
+__prompt__:hands clasped behind back	双手在背后交握〔常用词〕	shuangshouzaibeihoujiaowo	11000	primary
 __prompt__:arms_in_front	双手在前〔e621〕	shuangshouzaiqian	2830	alias
 __prompt__:battle_axe	双手战斧〔e621〕	shuangshouzhanfu	3536	alias
 __prompt__:greataxe	双手战斧〔e621〕	shuangshouzhanfu	2454	alias
@@ -201536,20 +201544,25 @@ shuffle_button	随机播放按钮	suijibofanganniu	1448	primary
 __prompt__:wise_(zenless_zone_zero)	随机播放录像店〔e621〕	suijibofangluxiangdian	3834	alias
 hozumi_ayaka	穗积彩花	suijicaihua	1205	primary
 hozumi_sousei	穗积窗声	suijichuangsheng	2009	primary
+__prompt__:random single-color fur	随机单色皮毛〔常用词〕	suijidansepimao	11000	primary
 random_dot	随机点	suijidian	1147	primary
 houzumi_kaede	穗积枫	suijifeng	1699	primary
 hozumi_yua	穗积结爱	suijijieai	1042	primary
 hozumi_rino	穗积莉乃	suijilinai	2171	primary
 hozumi_misaki	穗积美咲	suijimeixiao	1147	primary
 __prompt__:broken_mirror	碎镜〔e621〕	suijing	3166	alias
+__prompt__:random fur color	随机皮毛颜色〔常用词〕	suijipimaoyanse	11000	primary
 hozumi_serene	穗积塞琳	suijisailin	1147	primary
 hozumi_sayaka	穗积沙耶香	suijishayexiang	1398	primary
 hozumi_toki	穗积时	suijishi	1080	primary
 __prompt__:Candid view	随机视角〔提示词库〕	suijishijiao	5001	alias
+__prompt__:random two-tone fur	随机双色皮毛〔常用词〕	suijishuangsepimao	11000	primary
 __prompt__:broken_bottle	碎酒瓶〔e621〕	suijiuping	2489	alias
 houzumi_satsuki	穗积五月	suijiwuyue	1302	primary
+__prompt__:random species	随机物种〔常用词〕	suijiwuzhong	11000	primary
 hozumi_kenji	穗积贤二	suijixianer	1852	primary
 hozumi_kaoru	穗积薰	suijixun	2368	primary
+__prompt__:random fur color	随机颜色皮毛〔常用词〕	suijiyansepimao	11000	primary
 __prompt__:cumulus_fractus	碎积云〔提示词库〕	suijiyun	5001	alias
 crusher_joe	碎击者乔	suijizheqiao	1920	primary
 hozumi_takashi	穗积尊	suijizun	1983	primary
@@ -255471,6 +255484,7 @@ __prompt__:right hand covering mouth	右手捂嘴〔通用姿态·单手〕	yous
 __prompt__:right hand extended forward	右手向前伸出〔通用姿态·单手〕	youshouxiangqianshenchu	10000	primary
 koyubi_right	右手小指	youshouxiaozhi	1833	primary
 fabulous_beasts	有兽焉	youshouyan	1343	primary
+__prompt__:right hand behind back	右手在背后〔常用词〕	youshouzaibeihou	11000	primary
 __prompt__:right hand open	右手张开〔通用姿态·单手〕	youshouzhangkai	10000	primary
 __prompt__:right hand covering face	右手遮脸〔通用姿态·单手〕	youshouzhelian	10000	primary
 __prompt__:right hand covering eyes	右手遮眼睛〔通用姿态·单手〕	youshouzheyanjing	10000	primary
@@ -278198,6 +278212,7 @@ __prompt__:left hand clenched into a fist, right hand open	左手握拳右手张
 __prompt__:wedding_ring	左手无名指戒指〔e621〕	zuoshouwumingzhijiezhi	4307	alias
 __prompt__:left hand covering mouth	左手捂嘴〔通用姿态·单手〕	zuoshouwuzui	10000	primary
 __prompt__:left hand extended forward	左手向前伸出〔通用姿态·单手〕	zuoshouxiangqianshenchu	10000	primary
+__prompt__:left hand behind back	左手在背后〔常用词〕	zuoshouzaibeihou	11000	primary
 __prompt__:left hand open	左手张开〔通用姿态·单手〕	zuoshouzhangkai	10000	primary
 __prompt__:left hand open, right hand clenched into a fist	左手张开右手握拳〔通用姿态·双手〕	zuoshouzhangkaiyoushouwoquan	10000	primary
 __prompt__:left hand covering face	左手遮脸〔通用姿态·单手〕	zuoshouzhelian	10000	primary

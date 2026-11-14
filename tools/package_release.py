@@ -13,7 +13,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.11'
+VERSION='0.2.12'
 LAUNCHER='安装绘画提示词.exe'
 SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 
@@ -96,7 +96,7 @@ def main():
     legs=json.loads((validation/'leg-foot-phrases.json').read_text(encoding='utf-8'))
     assert legs['status']=='PASS' and legs['dictionary_sha256']==proof['dictionary_sha256']
     assert legs['engine_selections']==legs['new_phrase_mappings']
-    feature_reports=['continuation-phrases.json','spatial-phrases.json','noun-connection.json','body-postures.json']
+    feature_reports=['continuation-phrases.json','spatial-phrases.json','noun-connection.json','body-postures.json','pending-vocabulary.json']
     for name in feature_reports:
         feature=json.loads((validation/name).read_text(encoding='utf-8'))
         assert feature['status']=='PASS' and feature['dictionary_sha256']==proof['dictionary_sha256'],name

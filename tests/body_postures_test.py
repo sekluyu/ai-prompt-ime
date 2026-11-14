@@ -3,6 +3,7 @@ import argparse,csv,hashlib,json,os,sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'tools'))
 from general_phrases import pose_rows
+from term_repairs import expansion_rows
 
 def main():
  p=argparse.ArgumentParser();p.add_argument('--before',type=Path,required=True);p.add_argument('--output-dir',type=Path,required=True);a=p.parse_args()
@@ -10,7 +11,7 @@ def main():
  key=lambda r:(r['code'],r['tag'].removeprefix('__prompt__:'))
  before={key(r):r for r in read(a.before)};now={key(r):r for r in read(ROOT/'rime/booru.tsv')}
  added=[r for r in pose_rows() if key(r) not in before]
- assert set(now)-set(before)=={key(r) for r in added}
+ assert set(now)-set(before)=={key(r) for r in pose_rows()+expansion_rows()}-set(before)
  assert all(now[k]==r for k,r in before.items()),'Prior local entry changed'
  cases={'tuifangping':'sitting with legs extended forward','zuotuifangping':'sitting with left leg extended forward','youtuifangping':'sitting with right leg extended forward','shuangtuifangping':'sitting with both legs extended forward','zuotuishuipingtaiqi':'left leg held horizontally','zuotuishenzhiyoutuiwanqu':'sitting with left leg extended and right knee bent','youtuishenzhizuotuiwanqu':'sitting with right leg extended and left knee bent'}
  for code,en in cases.items():assert (code,en) in now,(code,en)
