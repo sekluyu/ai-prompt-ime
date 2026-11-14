@@ -1687,3 +1687,307 @@ left foot resting on the stool, right foot resting on the floor	左脚放凳子�
 right foot resting on the stool, left foot resting on the floor	右脚放凳子上左脚放地上	youjiaofangdengzishangzuojiaofangdishang	左右腿脚组合
 left leg resting on the sofa, right foot resting on the floor	左腿放沙发上右脚放地上	zuotuifangshafashangyoujiaofangdishang	左右腿脚组合
 right leg resting on the sofa, left foot resting on the floor	右腿放沙发上左脚放地上	youtuifangshafashangzuojiaofangdishang	左右腿脚组合
+left leg extended forward	左腿向前伸直	zuotuixiangqianshenzhi	腿部动作
+left leg extended forward	左腿往前伸直	zuotuiwangqianshenzhi	腿部动作
+left leg extended forward	左腿前伸	zuotuiqianshen	腿部动作
+left leg straightened	左腿伸直	zuotuishenzhi	腿部动作
+left leg straightened	伸直左腿	shenzhizuotui	腿部动作
+left leg bent at the knee	左腿屈膝	zuotuiquxi	腿部动作
+left leg bent at the knee	左腿弯曲	zuotuiwanqu	腿部动作
+left leg bent at the knee	左腿弯起来	zuotuiwanqilai	腿部动作
+left leg slightly bent	左腿微弯	zuotuiweiwan	腿部动作
+left leg slightly bent	左腿稍微弯曲	zuotuishaoweiwanqu	腿部动作
+left leg drawn up toward the chest	左腿收向胸前	zuotuishouxiangxiongqian	腿部动作
+left leg drawn up toward the chest	左腿蜷到胸前	zuotuiquandaoxiongqian	腿部动作
+left leg lifted forward	左腿向前抬起	zuotuixiangqiantaiqi	腿部动作
+left leg lifted forward	左腿往前抬	zuotuiwangqiantai	腿部动作
+left leg lifted to the side	左腿向侧面抬起	zuotuixiangcemiantaiqi	腿部动作
+left leg lifted to the side	左腿往旁边抬	zuotuiwangpangbiantai	腿部动作
+left leg extended backward	左腿向后伸直	zuotuixianghoushenzhi	腿部动作
+left leg extended backward	左腿往后伸	zuotuiwanghoushen	腿部动作
+left leg held horizontally	左腿抬到水平位置	zuotuitaidaoshuipingweizhi	腿部动作
+left leg held horizontally	左腿水平抬起	zuotuishuipingtaiqi	腿部动作
+sitting with left leg extended forward	坐着左腿放平	zuozhezuotuifangping	坐姿腿部
+sitting with left leg extended forward	坐着左腿向前伸直	zuozhezuotuixiangqianshenzhi	坐姿腿部
+sitting with left leg extended forward	左腿放平	zuotuifangping	坐姿腿部
+right leg extended forward	右腿向前伸直	youtuixiangqianshenzhi	腿部动作
+right leg extended forward	右腿往前伸直	youtuiwangqianshenzhi	腿部动作
+right leg extended forward	右腿前伸	youtuiqianshen	腿部动作
+right leg straightened	右腿伸直	youtuishenzhi	腿部动作
+right leg straightened	伸直右腿	shenzhiyoutui	腿部动作
+right leg bent at the knee	右腿屈膝	youtuiquxi	腿部动作
+right leg bent at the knee	右腿弯曲	youtuiwanqu	腿部动作
+right leg bent at the knee	右腿弯起来	youtuiwanqilai	腿部动作
+right leg slightly bent	右腿微弯	youtuiweiwan	腿部动作
+right leg slightly bent	右腿稍微弯曲	youtuishaoweiwanqu	腿部动作
+right leg drawn up toward the chest	右腿收向胸前	youtuishouxiangxiongqian	腿部动作
+right leg drawn up toward the chest	右腿蜷到胸前	youtuiquandaoxiongqian	腿部动作
+right leg lifted forward	右腿向前抬起	youtuixiangqiantaiqi	腿部动作
+right leg lifted forward	右腿往前抬	youtuiwangqiantai	腿部动作
+right leg lifted to the side	右腿向侧面抬起	youtuixiangcemiantaiqi	腿部动作
+right leg lifted to the side	右腿往旁边抬	youtuiwangpangbiantai	腿部动作
+right leg extended backward	右腿向后伸直	youtuixianghoushenzhi	腿部动作
+right leg extended backward	右腿往后伸	youtuiwanghoushen	腿部动作
+right leg held horizontally	右腿抬到水平位置	youtuitaidaoshuipingweizhi	腿部动作
+right leg held horizontally	右腿水平抬起	youtuishuipingtaiqi	腿部动作
+sitting with right leg extended forward	坐着右腿放平	zuozheyoutuifangping	坐姿腿部
+sitting with right leg extended forward	坐着右腿向前伸直	zuozheyoutuixiangqianshenzhi	坐姿腿部
+sitting with right leg extended forward	右腿放平	youtuifangping	坐姿腿部
+both legs extended forward	双腿向前伸直	shuangtuixiangqianshenzhi	腿部动作
+both legs extended forward	双腿往前伸直	shuangtuiwangqianshenzhi	腿部动作
+both legs extended forward	双腿前伸	shuangtuiqianshen	腿部动作
+both legs straightened	双腿伸直	shuangtuishenzhi	腿部动作
+both legs straightened	伸直双腿	shenzhishuangtui	腿部动作
+both legs bent at the knees	双腿屈膝	shuangtuiquxi	腿部动作
+both legs bent at the knees	双腿弯曲	shuangtuiwanqu	腿部动作
+both legs bent at the knees	双腿弯起来	shuangtuiwanqilai	腿部动作
+both legs slightly bent	双腿微弯	shuangtuiweiwan	腿部动作
+both legs slightly bent	双腿稍微弯曲	shuangtuishaoweiwanqu	腿部动作
+both legs drawn up toward the chest	双腿收向胸前	shuangtuishouxiangxiongqian	腿部动作
+both legs drawn up toward the chest	双腿蜷到胸前	shuangtuiquandaoxiongqian	腿部动作
+both legs lifted forward	双腿向前抬起	shuangtuixiangqiantaiqi	腿部动作
+both legs lifted forward	双腿往前抬	shuangtuiwangqiantai	腿部动作
+both legs lifted to the side	双腿向侧面抬起	shuangtuixiangcemiantaiqi	腿部动作
+both legs lifted to the side	双腿往旁边抬	shuangtuiwangpangbiantai	腿部动作
+both legs extended backward	双腿向后伸直	shuangtuixianghoushenzhi	腿部动作
+both legs extended backward	双腿往后伸	shuangtuiwanghoushen	腿部动作
+both legs held horizontally	双腿抬到水平位置	shuangtuitaidaoshuipingweizhi	腿部动作
+both legs held horizontally	双腿水平抬起	shuangtuishuipingtaiqi	腿部动作
+sitting with both legs extended forward	坐着双腿放平	zuozheshuangtuifangping	坐姿腿部
+sitting with both legs extended forward	坐着双腿向前伸直	zuozheshuangtuixiangqianshenzhi	坐姿腿部
+sitting with both legs extended forward	双腿放平	shuangtuifangping	坐姿腿部
+one leg extended forward	一条腿向前伸直	yitiaotuixiangqianshenzhi	腿部动作
+one leg extended forward	一条腿往前伸直	yitiaotuiwangqianshenzhi	腿部动作
+one leg extended forward	一条腿前伸	yitiaotuiqianshen	腿部动作
+one leg straightened	一条腿伸直	yitiaotuishenzhi	腿部动作
+one leg straightened	伸直一条腿	shenzhiyitiaotui	腿部动作
+one leg bent at the knee	一条腿屈膝	yitiaotuiquxi	腿部动作
+one leg bent at the knee	一条腿弯曲	yitiaotuiwanqu	腿部动作
+one leg bent at the knee	一条腿弯起来	yitiaotuiwanqilai	腿部动作
+one leg slightly bent	一条腿微弯	yitiaotuiweiwan	腿部动作
+one leg slightly bent	一条腿稍微弯曲	yitiaotuishaoweiwanqu	腿部动作
+one leg drawn up toward the chest	一条腿收向胸前	yitiaotuishouxiangxiongqian	腿部动作
+one leg drawn up toward the chest	一条腿蜷到胸前	yitiaotuiquandaoxiongqian	腿部动作
+one leg lifted forward	一条腿向前抬起	yitiaotuixiangqiantaiqi	腿部动作
+one leg lifted forward	一条腿往前抬	yitiaotuiwangqiantai	腿部动作
+one leg lifted to the side	一条腿向侧面抬起	yitiaotuixiangcemiantaiqi	腿部动作
+one leg lifted to the side	一条腿往旁边抬	yitiaotuiwangpangbiantai	腿部动作
+one leg extended backward	一条腿向后伸直	yitiaotuixianghoushenzhi	腿部动作
+one leg extended backward	一条腿往后伸	yitiaotuiwanghoushen	腿部动作
+one leg held horizontally	一条腿抬到水平位置	yitiaotuitaidaoshuipingweizhi	腿部动作
+one leg held horizontally	一条腿水平抬起	yitiaotuishuipingtaiqi	腿部动作
+sitting with one leg extended forward	坐着一条腿放平	zuozheyitiaotuifangping	坐姿腿部
+sitting with one leg extended forward	坐着一条腿向前伸直	zuozheyitiaotuixiangqianshenzhi	坐姿腿部
+sitting with one leg extended forward	一条腿放平	yitiaotuifangping	坐姿腿部
+the other leg extended forward	另一条腿向前伸直	lingyitiaotuixiangqianshenzhi	腿部动作
+the other leg extended forward	另一条腿往前伸直	lingyitiaotuiwangqianshenzhi	腿部动作
+the other leg extended forward	另一条腿前伸	lingyitiaotuiqianshen	腿部动作
+the other leg straightened	另一条腿伸直	lingyitiaotuishenzhi	腿部动作
+the other leg straightened	伸直另一条腿	shenzhilingyitiaotui	腿部动作
+the other leg bent at the knee	另一条腿屈膝	lingyitiaotuiquxi	腿部动作
+the other leg bent at the knee	另一条腿弯曲	lingyitiaotuiwanqu	腿部动作
+the other leg bent at the knee	另一条腿弯起来	lingyitiaotuiwanqilai	腿部动作
+the other leg slightly bent	另一条腿微弯	lingyitiaotuiweiwan	腿部动作
+the other leg slightly bent	另一条腿稍微弯曲	lingyitiaotuishaoweiwanqu	腿部动作
+the other leg drawn up toward the chest	另一条腿收向胸前	lingyitiaotuishouxiangxiongqian	腿部动作
+the other leg drawn up toward the chest	另一条腿蜷到胸前	lingyitiaotuiquandaoxiongqian	腿部动作
+the other leg lifted forward	另一条腿向前抬起	lingyitiaotuixiangqiantaiqi	腿部动作
+the other leg lifted forward	另一条腿往前抬	lingyitiaotuiwangqiantai	腿部动作
+the other leg lifted to the side	另一条腿向侧面抬起	lingyitiaotuixiangcemiantaiqi	腿部动作
+the other leg lifted to the side	另一条腿往旁边抬	lingyitiaotuiwangpangbiantai	腿部动作
+the other leg extended backward	另一条腿向后伸直	lingyitiaotuixianghoushenzhi	腿部动作
+the other leg extended backward	另一条腿往后伸	lingyitiaotuiwanghoushen	腿部动作
+the other leg held horizontally	另一条腿抬到水平位置	lingyitiaotuitaidaoshuipingweizhi	腿部动作
+the other leg held horizontally	另一条腿水平抬起	lingyitiaotuishuipingtaiqi	腿部动作
+sitting with the other leg extended forward	坐着另一条腿放平	zuozhelingyitiaotuifangping	坐姿腿部
+sitting with the other leg extended forward	坐着另一条腿向前伸直	zuozhelingyitiaotuixiangqianshenzhi	坐姿腿部
+sitting with the other leg extended forward	另一条腿放平	lingyitiaotuifangping	坐姿腿部
+sitting with legs extended forward	腿放平	tuifangping	坐姿腿部
+sitting with legs extended forward	坐着腿放平	zuozhetuifangping	坐姿腿部
+sitting with legs extended forward	坐着腿向前伸直	zuozhetuixiangqianshenzhi	坐姿腿部
+sitting with legs extended forward	坐着伸直腿	zuozheshenzhitui	坐姿腿部
+sitting with legs extended forward	坐着把腿伸直	zuozhebatuishenzhi	坐姿腿部
+left foot pointed	左脚脚尖绷直	zuojiaojiaojianbengzhi	脚部动作
+left foot pointed	左脚绷直	zuojiaobengzhi	脚部动作
+left foot pointed	左脚绷脚尖	zuojiaobengjiaojian	脚部动作
+left foot flexed upward	左脚脚尖上勾	zuojiaojiaojianshanggou	脚部动作
+left foot flexed upward	左脚向上勾	zuojiaoxiangshanggou	脚部动作
+left foot flexed upward	左脚勾脚尖	zuojiaogoujiaojian	脚部动作
+left foot resting flat on the floor	左脚脚掌平放地面	zuojiaojiaozhangpingfangdimian	脚部动作
+left foot resting flat on the floor	左脚全脚掌着地	zuojiaoquanjiaozhangzhuodi	脚部动作
+left heel raised	左脚脚跟抬起	zuojiaojiaogentaiqi	脚部动作
+left heel raised	左脚抬起脚跟	zuojiaotaiqijiaogen	脚部动作
+left toes touching the floor	左脚脚尖点地	zuojiaojiaojiandiandi	脚部动作
+left foot on tiptoe	左脚踮起脚尖	zuojiaodianqijiaojian	脚部动作
+left foot turned outward	左脚向外转	zuojiaoxiangwaizhuan	脚部动作
+left foot turned outward	左脚脚尖朝外	zuojiaojiaojianchaowai	脚部动作
+left foot turned inward	左脚向内转	zuojiaoxiangneizhuan	脚部动作
+left foot turned inward	左脚脚尖朝内	zuojiaojiaojianchaonei	脚部动作
+right foot pointed	右脚脚尖绷直	youjiaojiaojianbengzhi	脚部动作
+right foot pointed	右脚绷直	youjiaobengzhi	脚部动作
+right foot pointed	右脚绷脚尖	youjiaobengjiaojian	脚部动作
+right foot flexed upward	右脚脚尖上勾	youjiaojiaojianshanggou	脚部动作
+right foot flexed upward	右脚向上勾	youjiaoxiangshanggou	脚部动作
+right foot flexed upward	右脚勾脚尖	youjiaogoujiaojian	脚部动作
+right foot resting flat on the floor	右脚脚掌平放地面	youjiaojiaozhangpingfangdimian	脚部动作
+right foot resting flat on the floor	右脚全脚掌着地	youjiaoquanjiaozhangzhuodi	脚部动作
+right heel raised	右脚脚跟抬起	youjiaojiaogentaiqi	脚部动作
+right heel raised	右脚抬起脚跟	youjiaotaiqijiaogen	脚部动作
+right toes touching the floor	右脚脚尖点地	youjiaojiaojiandiandi	脚部动作
+right foot on tiptoe	右脚踮起脚尖	youjiaodianqijiaojian	脚部动作
+right foot turned outward	右脚向外转	youjiaoxiangwaizhuan	脚部动作
+right foot turned outward	右脚脚尖朝外	youjiaojiaojianchaowai	脚部动作
+right foot turned inward	右脚向内转	youjiaoxiangneizhuan	脚部动作
+right foot turned inward	右脚脚尖朝内	youjiaojiaojianchaonei	脚部动作
+both feet pointed	双脚脚尖绷直	shuangjiaojiaojianbengzhi	脚部动作
+both feet pointed	双脚绷直	shuangjiaobengzhi	脚部动作
+both feet pointed	双脚绷脚尖	shuangjiaobengjiaojian	脚部动作
+both feet flexed upward	双脚脚尖上勾	shuangjiaojiaojianshanggou	脚部动作
+both feet flexed upward	双脚向上勾	shuangjiaoxiangshanggou	脚部动作
+both feet flexed upward	双脚勾脚尖	shuangjiaogoujiaojian	脚部动作
+both feet resting flat on the floor	双脚脚掌平放地面	shuangjiaojiaozhangpingfangdimian	脚部动作
+both feet resting flat on the floor	双脚全脚掌着地	shuangjiaoquanjiaozhangzhuodi	脚部动作
+both heels raised	双脚脚跟抬起	shuangjiaojiaogentaiqi	脚部动作
+both heels raised	双脚抬起脚跟	shuangjiaotaiqijiaogen	脚部动作
+toes touching the floor	双脚脚尖点地	shuangjiaojiaojiandiandi	脚部动作
+both feet on tiptoe	双脚踮起脚尖	shuangjiaodianqijiaojian	脚部动作
+both feet turned outward	双脚向外转	shuangjiaoxiangwaizhuan	脚部动作
+both feet turned outward	双脚脚尖朝外	shuangjiaojiaojianchaowai	脚部动作
+both feet turned inward	双脚向内转	shuangjiaoxiangneizhuan	脚部动作
+both feet turned inward	双脚脚尖朝内	shuangjiaojiaojianchaonei	脚部动作
+one foot pointed	一只脚脚尖绷直	yizhijiaojiaojianbengzhi	脚部动作
+one foot pointed	一只脚绷直	yizhijiaobengzhi	脚部动作
+one foot pointed	一只脚绷脚尖	yizhijiaobengjiaojian	脚部动作
+one foot flexed upward	一只脚脚尖上勾	yizhijiaojiaojianshanggou	脚部动作
+one foot flexed upward	一只脚向上勾	yizhijiaoxiangshanggou	脚部动作
+one foot flexed upward	一只脚勾脚尖	yizhijiaogoujiaojian	脚部动作
+one foot resting flat on the floor	一只脚脚掌平放地面	yizhijiaojiaozhangpingfangdimian	脚部动作
+one foot resting flat on the floor	一只脚全脚掌着地	yizhijiaoquanjiaozhangzhuodi	脚部动作
+one heel raised	一只脚脚跟抬起	yizhijiaojiaogentaiqi	脚部动作
+one heel raised	一只脚抬起脚跟	yizhijiaotaiqijiaogen	脚部动作
+toes of one foot touching the floor	一只脚脚尖点地	yizhijiaojiaojiandiandi	脚部动作
+one foot on tiptoe	一只脚踮起脚尖	yizhijiaodianqijiaojian	脚部动作
+one foot turned outward	一只脚向外转	yizhijiaoxiangwaizhuan	脚部动作
+one foot turned outward	一只脚脚尖朝外	yizhijiaojiaojianchaowai	脚部动作
+one foot turned inward	一只脚向内转	yizhijiaoxiangneizhuan	脚部动作
+one foot turned inward	一只脚脚尖朝内	yizhijiaojiaojianchaonei	脚部动作
+the other foot pointed	另一只脚脚尖绷直	lingyizhijiaojiaojianbengzhi	脚部动作
+the other foot pointed	另一只脚绷直	lingyizhijiaobengzhi	脚部动作
+the other foot pointed	另一只脚绷脚尖	lingyizhijiaobengjiaojian	脚部动作
+the other foot flexed upward	另一只脚脚尖上勾	lingyizhijiaojiaojianshanggou	脚部动作
+the other foot flexed upward	另一只脚向上勾	lingyizhijiaoxiangshanggou	脚部动作
+the other foot flexed upward	另一只脚勾脚尖	lingyizhijiaogoujiaojian	脚部动作
+the other foot resting flat on the floor	另一只脚脚掌平放地面	lingyizhijiaojiaozhangpingfangdimian	脚部动作
+the other foot resting flat on the floor	另一只脚全脚掌着地	lingyizhijiaoquanjiaozhangzhuodi	脚部动作
+the other heel raised	另一只脚脚跟抬起	lingyizhijiaojiaogentaiqi	脚部动作
+the other heel raised	另一只脚抬起脚跟	lingyizhijiaotaiqijiaogen	脚部动作
+toes of the other foot touching the floor	另一只脚脚尖点地	lingyizhijiaojiaojiandiandi	脚部动作
+the other foot on tiptoe	另一只脚踮起脚尖	lingyizhijiaodianqijiaojian	脚部动作
+the other foot turned outward	另一只脚向外转	lingyizhijiaoxiangwaizhuan	脚部动作
+the other foot turned outward	另一只脚脚尖朝外	lingyizhijiaojiaojianchaowai	脚部动作
+the other foot turned inward	另一只脚向内转	lingyizhijiaoxiangneizhuan	脚部动作
+the other foot turned inward	另一只脚脚尖朝内	lingyizhijiaojiaojianchaonei	脚部动作
+sitting with legs extended forward and together	坐着双腿向前伸直并拢	zuozheshuangtuixiangqianshenzhibinglong	坐姿腿部
+sitting with legs extended forward and together	坐着双腿伸直并拢	zuozheshuangtuishenzhibinglong	坐姿腿部
+sitting with legs extended forward and apart	坐着双腿向前伸直分开	zuozheshuangtuixiangqianshenzhifenkai	坐姿腿部
+sitting with legs extended forward and apart	坐着双腿伸直分开	zuozheshuangtuishenzhifenkai	坐姿腿部
+sitting with left leg extended and right knee bent	坐着左腿伸直右腿弯曲	zuozhezuotuishenzhiyoutuiwanqu	坐姿腿部
+sitting with left leg extended and right knee bent	左腿伸直右腿弯曲	zuotuishenzhiyoutuiwanqu	坐姿腿部
+sitting with right leg extended and left knee bent	坐着右腿伸直左腿弯曲	zuozheyoutuishenzhizuotuiwanqu	坐姿腿部
+sitting with right leg extended and left knee bent	右腿伸直左腿弯曲	youtuishenzhizuotuiwanqu	坐姿腿部
+sitting with one leg extended and the other knee bent	坐着一条腿伸直另一条腿弯曲	zuozheyitiaotuishenzhilingyitiaotuiwanqu	坐姿腿部
+sitting with one leg extended and the other knee bent	一条腿伸直另一条腿弯曲	yitiaotuishenzhilingyitiaotuiwanqu	坐姿腿部
+sitting with knees bent and feet flat on the floor	坐着双膝弯曲双脚踩地	zuozheshuangxiwanqushuangjiaocaidi	坐姿腿部
+sitting with knees bent and feet flat on the floor	坐着双膝弯曲脚掌着地	zuozheshuangxiwanqujiaozhangzhuodi	坐姿腿部
+sitting with knees drawn up to the chest	坐着双膝收向胸前	zuozheshuangxishouxiangxiongqian	坐姿腿部
+sitting with knees drawn up to the chest	坐着蜷起双腿	zuozhequanqishuangtui	坐姿腿部
+sitting cross-legged	盘腿坐	pantuizuo	坐姿腿部
+sitting cross-legged	盘腿坐着	pantuizuozhe	坐姿腿部
+sitting with ankles crossed	坐着脚踝交叉	zuozhejiaohuaijiaocha	坐姿腿部
+sitting with ankles crossed	坐着双脚交叉	zuozheshuangjiaojiaocha	坐姿腿部
+sitting with left ankle over right knee	坐着左脚踝搭右膝	zuozhezuojiaohuaidayouxi	坐姿腿部
+sitting with left ankle over right knee	左脚踝搭在右膝上	zuojiaohuaidazaiyouxishang	坐姿腿部
+sitting with right ankle over left knee	坐着右脚踝搭左膝	zuozheyoujiaohuaidazuoxi	坐姿腿部
+sitting with right ankle over left knee	右脚踝搭在左膝上	youjiaohuaidazaizuoxishang	坐姿腿部
+sitting with both knees tilted to the left	坐着双膝向左侧倾	zuozheshuangxixiangzuoceqing	坐姿腿部
+sitting with both knees tilted to the left	双膝向左侧倾	shuangxixiangzuoceqing	坐姿腿部
+sitting with both knees tilted to the right	坐着双膝向右侧倾	zuozheshuangxixiangyouceqing	坐姿腿部
+sitting with both knees tilted to the right	双膝向右侧倾	shuangxixiangyouceqing	坐姿腿部
+sitting with legs hanging down	坐着双腿自然下垂	zuozheshuangtuiziranxiachui	坐姿腿部
+sitting with legs hanging down	坐着腿垂下来	zuozhetuichuixialai	坐姿腿部
+sitting on the edge of a chair	坐在椅子边缘	zuozaiyizibianyuan	坐姿腿部
+sitting on the edge of a chair	坐椅子边上	zuoyizibianshang	坐姿腿部
+sitting on the edge of a bed	坐在床边	zuozaichuangbian	坐姿腿部
+sitting on the edge of a bed	坐床沿	zuochuangyan	坐姿腿部
+sitting on the floor	坐在地上	zuozaidishang	坐姿腿部
+sitting on the floor	坐地上	zuodishang	坐姿腿部
+sitting on a chair	坐在椅子上	zuozaiyizishang	坐姿腿部
+sitting on a chair	坐椅子上	zuoyizishang	坐姿腿部
+sitting on a bed	坐在床上	zuozaichuangshang	坐姿腿部
+sitting on a bed	坐床上	zuochuangshang	坐姿腿部
+sitting with both hands supporting the body from behind	坐着双手撑在身后	zuozheshuangshouchengzaishenhou	坐姿支撑
+sitting with both hands supporting the body from behind	坐着双手向后撑地	zuozheshuangshouxianghouchengdi	坐姿支撑
+sitting with left hand supporting the body from behind	坐着左手撑在身后	zuozhezuoshouchengzaishenhou	坐姿支撑
+sitting with left hand supporting the body from behind	坐着左手向后撑地	zuozhezuoshouxianghouchengdi	坐姿支撑
+sitting with right hand supporting the body from behind	坐着右手撑在身后	zuozheyoushouchengzaishenhou	坐姿支撑
+sitting with right hand supporting the body from behind	坐着右手向后撑地	zuozheyoushouxianghouchengdi	坐姿支撑
+sitting with both elbows supporting the upper body	坐着双肘撑起上身	zuozheshuangzhouchengqishangshen	坐姿支撑
+sitting with both elbows supporting the upper body	双肘撑起上身	shuangzhouchengqishangshen	坐姿支撑
+sitting with hands resting on knees	坐着双手放膝盖上	zuozheshuangshoufangxigaishang	坐姿支撑
+sitting with hands resting on knees	坐着双手扶膝	zuozheshuangshoufuxi	坐姿支撑
+lying on back with legs extended	仰卧双腿伸直	yangwoshuangtuishenzhi	躺姿腿部
+lying on back with legs extended	平躺双腿伸直	pingtangshuangtuishenzhi	躺姿腿部
+lying on stomach with legs extended	俯卧双腿伸直	fuwoshuangtuishenzhi	躺姿腿部
+lying on stomach with legs extended	趴着双腿伸直	pazheshuangtuishenzhi	躺姿腿部
+lying on side with legs extended	侧卧双腿伸直	cewoshuangtuishenzhi	躺姿腿部
+lying on side with legs extended	侧躺双腿伸直	cetangshuangtuishenzhi	躺姿腿部
+lying on side with knees slightly bent	侧卧双膝微弯	cewoshuangxiweiwan	躺姿腿部
+lying on side with knees slightly bent	侧躺双腿微弯	cetangshuangtuiweiwan	躺姿腿部
+lying on back with knees bent	仰卧双膝弯曲	yangwoshuangxiwanqu	躺姿腿部
+lying on back with knees bent	平躺双腿弯曲	pingtangshuangtuiwanqu	躺姿腿部
+lying on back with legs raised	仰卧双腿抬起	yangwoshuangtuitaiqi	躺姿腿部
+lying on back with legs raised	平躺抬起双腿	pingtangtaiqishuangtui	躺姿腿部
+lying on stomach with knees bent and feet raised	趴着屈膝抬脚	pazhequxitaijiao	躺姿腿部
+lying on stomach with knees bent and feet raised	俯卧双腿弯曲抬脚	fuwoshuangtuiwanqutaijiao	躺姿腿部
+lying on left side with right knee bent	左侧卧右腿屈膝	zuocewoyoutuiquxi	躺姿腿部
+lying on left side with right knee bent	左侧躺右腿弯曲	zuocetangyoutuiwanqu	躺姿腿部
+lying on right side with left knee bent	右侧卧左腿屈膝	youcewozuotuiquxi	躺姿腿部
+lying on right side with left knee bent	右侧躺左腿弯曲	youcetangzuotuiwanqu	躺姿腿部
+lying on left side supported by left elbow	左侧卧左肘撑起上身	zuocewozuozhouchengqishangshen	躺姿腿部
+lying on left side supported by left elbow	左侧躺左肘支撑	zuocetangzuozhouzhicheng	躺姿腿部
+lying on right side supported by right elbow	右侧卧右肘撑起上身	youcewoyouzhouchengqishangshen	躺姿腿部
+lying on right side supported by right elbow	右侧躺右肘支撑	youcetangyouzhouzhicheng	躺姿腿部
+kneeling with hips resting on heels	跪坐在脚跟上	guizuozaijiaogenshang	跪蹲站姿
+kneeling with hips resting on heels	跪坐脚跟上	guizuojiaogenshang	跪蹲站姿
+kneeling upright with hips lifted off heels	跪姿抬起臀部	guizitaiqitunbu	跪蹲站姿
+kneeling upright with hips lifted off heels	高跪姿	gaoguizi	跪蹲站姿
+kneeling on left knee	左膝跪地	zuoxiguidi	跪蹲站姿
+kneeling on right knee	右膝跪地	youxiguidi	跪蹲站姿
+kneeling on both knees	双膝跪地	shuangxiguidi	跪蹲站姿
+kneeling on both knees	双膝跪着	shuangxiguizhe	跪蹲站姿
+squatting with feet flat on the floor	蹲着双脚踩实地面	dunzheshuangjiaocaishidimian	跪蹲站姿
+squatting with feet flat on the floor	全脚掌蹲下	quanjiaozhangdunxia	跪蹲站姿
+squatting on tiptoes	踮脚蹲着	dianjiaodunzhe	跪蹲站姿
+squatting on tiptoes	脚尖着地蹲下	jiaojianzhuodidunxia	跪蹲站姿
+deep squat	深蹲姿势	shendunzishi	跪蹲站姿
+deep squat	蹲到底	dundaodi	跪蹲站姿
+standing with feet together	双脚并拢站立	shuangjiaobinglongzhanli	跪蹲站姿
+standing with feet together	并脚站立	bingjiaozhanli	跪蹲站姿
+standing with feet shoulder-width apart	双脚与肩同宽站立	shuangjiaoyujiantongkuanzhanli	跪蹲站姿
+standing with feet shoulder-width apart	站着双脚与肩同宽	zhanzheshuangjiaoyujiantongkuan	跪蹲站姿
+standing with weight on left leg	站着重心放左腿	zhanzhuozhongxinfangzuotui	跪蹲站姿
+standing with weight on left leg	左腿支撑站立	zuotuizhichengzhanli	跪蹲站姿
+standing with weight on right leg	站着重心放右腿	zhanzhuozhongxinfangyoutui	跪蹲站姿
+standing with weight on right leg	右腿支撑站立	youtuizhichengzhanli	跪蹲站姿
+standing with left leg relaxed	站着左腿放松	zhanzhezuotuifangsong	跪蹲站姿
+standing with left leg relaxed	左腿放松站立	zuotuifangsongzhanli	跪蹲站姿
+standing with right leg relaxed	站着右腿放松	zhanzheyoutuifangsong	跪蹲站姿
+standing with right leg relaxed	右腿放松站立	youtuifangsongzhanli	跪蹲站姿
+on hands and knees	双手双膝着地	shuangshoushuangxizhuodi	身体支撑
+on hands and knees	手膝撑地	shouxichengdi	身体支撑
+on hands and feet	双手双脚撑地	shuangshoushuangjiaochengdi	身体支撑
+on hands and feet	手脚撑地	shoujiaochengdi	身体支撑
+leaning forward with hands on knees	前倾双手撑膝	qianqingshuangshouchengxi	身体支撑
+leaning forward with hands on knees	身体前倾双手扶膝	shentiqianqingshuangshoufuxi	身体支撑
+leaning back supported by both hands	后仰双手支撑	houyangshuangshouzhicheng	身体支撑
+leaning back supported by both hands	身体后仰双手撑地	shentihouyangshuangshouchengdi	身体支撑

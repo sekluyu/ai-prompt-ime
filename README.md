@@ -2,7 +2,7 @@
 
 输入中文拼音，选出英文提示词，直接填进 ComfyUI、Stable Diffusion WebUI 或其他绘图软件。基于 Windows 小狼毫（Rime），词库离线运行，不需要 API Key，也不用开翻译网页。
 
-**当前版本：[v0.2.10](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.10)** · 收录 **278,290 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
+**当前版本：[v0.2.11](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.11)** · 收录 **279,146 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
 
 ## 下载和安装
 
@@ -10,9 +10,9 @@
 
 | 下载 | 说明 |
 |---|---|
-| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/ai-prompt-ime-0.2.10-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
-| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/ai-prompt-ime-0.2.10.zip) | 包含相同安装器、词库和使用说明 |
-| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
+| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/ai-prompt-ime-0.2.11-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
+| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/ai-prompt-ime-0.2.11.zip) | 包含相同安装器、词库和使用说明 |
+| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.11/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
 
 1. 运行安装器。安装前会备份需要替换的文件，不创建桌面快捷方式。
 2. 右键小狼毫托盘图标，点击“重新部署”。
@@ -58,16 +58,24 @@ worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad pro
 
 请先点选绘图软件的正面或负面输入框，再选词。输入法不会自动切换输入框。这些组合是方便起步的常用写法，具体效果取决于所用模型；自然肌肉和腹肌负面中也有尚未做出图对比的描述短语。
 
-## 这次更新了什么
+## 姿势、位置与可续写短语
 
-- 新增腿、脚放在桌子、椅子、沙发、床、地面等12种位置的表达。
-- 分清左腿、右腿、双腿，以及左脚、右脚、双脚；另有一侧和另一侧的入口。
-- 支持“放在……上面”“搭在……上”“搁在……上”等常用说法。
-- 补充左右交叉搭膝和两侧位置不同的组合。
+完整姿势可以直接选，例如 `tuifangping` 输出 `sitting with legs extended forward, `，表示坐着把腿向前伸直。`zuotuifangping`、`youtuifangping` 和 `shuangtuifangping` 分别指定左腿、右腿、双腿。[查看基础姿势清单](docs/基础姿势补充.md)。
 
-例如输入 `zuotuifangzaizhuozishangmian`，选择后得到 `left leg resting on the table, `。左右指角色自身的左右。[查看腿脚放置用法和完整英文清单](docs/腿脚放置.md)。
+物体位置可以留给自己填写：输入 `zuotuifangzai`，选中后先输出 `left leg resting on `，再补具体物体。半句只留一个空格，不加逗号；完整词条照常加分隔符。[查看可续写短语](docs/可续写短语.md)。
 
-详细变化见[更新记录](CHANGELOG.md)。遇到不合适的词，可以在 [Issues](https://github.com/sekluyu/ai-prompt-ime/issues) 中附上输入拼音、候选中文和实际英文。
+位置关系要先选，再补物体。例如“脚在浴缸左侧”：
+
+1. 输入 `jiaofangzaizuoce`，按空格选出 `one foot positioned to the left of `。
+2. 输入 `yugang`，按空格选出 `bathtub, `。
+
+按“脚放在 → 浴缸 → 左侧”逐段选择不会自动换序。[查看浴缸连接例子](docs/浴缸位置连接.md)。
+
+人物位置也分两种：`renwuzhanzaipangbian` 输出可续写的 `character standing beside `；`renwuzaihuamianzuoce` 则直接输出完整的 `character on the left side of the frame, `。[查看空间与人物位置](docs/空间与人物位置.md)。
+
+左右腿、左右脚指角色自身；某物左侧、画面左侧分别描述物体关系和构图位置。腿脚放置、基础姿势、人物位置和半句用法一并纳入 v0.2.11；v0.2.10 只保留源码标签，没有单独发布安装包。
+
+详细变化见[更新记录](CHANGELOG.md)，固定物体上的腿脚放置见[腿脚放置](docs/腿脚放置.md)。遇到不合适的词，可在 [Issues](https://github.com/sekluyu/ai-prompt-ime/issues) 中附上输入拼音、候选中文和实际英文。
 
 ## 可选：截图识图
 

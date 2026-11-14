@@ -13,7 +13,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.10'
+VERSION='0.2.11'
 LAUNCHER='安装绘画提示词.exe'
 SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 
@@ -83,7 +83,7 @@ def main():
     assert lua['dictionary_sha256']==proof['dictionary_sha256']
     assert lua['annotations_sha256']==sha(ROOT/'rime/booru.annotations.tsv')
     latency=json.loads((validation/'latency.json').read_text(encoding='utf-8'))
-    assert latency['status']=='PASS' and latency['outputs_identical']
+    assert latency['status']=='PASS' and latency['outputs_compatible_with_expected_continuations']
     assert latency['candidate_lua_sha256']==lua['lua_sha256']
     assert latency['dictionary_sha256']==proof['dictionary_sha256']
     assert latency['annotations_sha256']==lua['annotations_sha256']
@@ -96,6 +96,10 @@ def main():
     legs=json.loads((validation/'leg-foot-phrases.json').read_text(encoding='utf-8'))
     assert legs['status']=='PASS' and legs['dictionary_sha256']==proof['dictionary_sha256']
     assert legs['engine_selections']==legs['new_phrase_mappings']
+    feature_reports=['continuation-phrases.json','spatial-phrases.json','noun-connection.json','body-postures.json']
+    for name in feature_reports:
+        feature=json.loads((validation/name).read_text(encoding='utf-8'))
+        assert feature['status']=='PASS' and feature['dictionary_sha256']==proof['dictionary_sha256'],name
     archives=[]
     for variant in (['default','dictionary'] if args.include_dictionary else ['default']):
         name=f'ai-prompt-ime-{VERSION}'+('' if variant=='default' else '-'+variant)
@@ -135,7 +139,7 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json','term-repairs.json','leg-foot-phrases.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json','term-repairs.json','leg-foot-phrases.json']+feature_reports:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:
                     mappings=sum(1 for _ in csv.DictReader(stream,delimiter='\t'))

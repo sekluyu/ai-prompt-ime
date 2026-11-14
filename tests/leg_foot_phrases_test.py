@@ -4,6 +4,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from general_phrases import pose_rows,PREFIX
+from term_repairs import expansion_rows
 
 def main():
  p=argparse.ArgumentParser();p.add_argument('--engine',action='store_true');p.add_argument('--output-dir',type=Path,required=True);a=p.parse_args()
@@ -13,8 +14,8 @@ def main():
  old=list(csv.DictReader(io.StringIO(subprocess.check_output(['git','show','v0.2.9:rime/booru.tsv'],cwd=ROOT).decode()),delimiter='\t'))
  prior={k(r):r for r in old}
  phrases=[r for r in pose_rows() if any(t in r['zh'] for t in ['〔腿部放置〕','〔脚部放置〕','〔交叉腿脚〕','〔左右腿脚组合〕'])]
- assert set(current)-set(prior)=={k(r) for r in phrases}-set(prior)
- assert all(current[key]==r for key,r in prior.items()),'Existing row changed'
+ assert set(current)-set(prior)=={k(r) for r in pose_rows()+expansion_rows()}-set(prior)
+ assert all(current[key]==r for key,r in prior.items() if key!=('yugang','bathtub')),'Existing row changed'
  for r in phrases:
   assert current[k(r)]=={**r,'weight':str(r['weight'])}
   zh=r['zh'].split('〔',1)[0];en=r['tag'].removeprefix(PREFIX)
@@ -39,6 +40,6 @@ def main():
     e.key(' ');assert e.commit()==text
     selected+=1
   finally:e.close()
- result=dict(status='PASS',baseline='v0.2.9',rows=len(allrows),new_phrase_mappings=len(phrases),english_phrases=len({r['tag'] for r in phrases}),engine_selections=selected,existing_rows_unchanged=True,dictionary_sha256=hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest())
+ result=dict(status='PASS',baseline='v0.2.9',rows=len(allrows),new_phrase_mappings=len(phrases),english_phrases=len({r['tag'] for r in phrases}),engine_selections=selected,unrelated_existing_rows_unchanged=True,dictionary_sha256=hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest())
  a.output_dir.mkdir(parents=True,exist_ok=True);(a.output_dir/'leg-foot-phrases.json').write_text(json.dumps(result,indent=2),encoding='utf-8');print(json.dumps(result))
 if __name__=='__main__':main()

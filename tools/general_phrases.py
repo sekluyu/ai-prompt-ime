@@ -37,7 +37,8 @@ def merge(base_rows, variant='searchable'):
     original = repair_rows([r for r in base_rows if not r['tag'].startswith(PREFIX)])
     existing={(r['tag'],r['code']) for r in original}
     imported=[r for r in repair_rows(library_rows(variant)) if (r['tag'].removeprefix(PREFIX),r['code']) not in existing]
-    return repair_rows(original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+pose_rows()+imported+expansion_rows())
+    # Reviewed entries take precedence over the same imported source key.
+    return repair_rows(original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+pose_rows()+expansion_rows()+imported)
 
 def prompt_rows():
     source=ROOT/'data/general_prompts.tsv'

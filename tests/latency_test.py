@@ -1,9 +1,12 @@
 """Compare old/new Lua per-key latency and outputs in isolated librime processes."""
 import argparse
+import copy
+import csv
 import hashlib
 import json
 import math
 import os
+import re
 from pathlib import Path
 import shutil
 import statistics
@@ -63,6 +66,13 @@ def main():
     baseline=subprocess.check_output(['git','show',args.baseline_ref+':rime/lua/booru_filter.lua'],cwd=ROOT)
     runs=[]
     reference=None
+    raw_reference=None
+    raw_outputs_identical=True
+    expected_prefix_adjustments=0
+    with (ROOT/'rime/booru.tsv').open(encoding='utf-8') as stream:
+        prefixes={re.sub(r'([\\()])',r'\\\1',row['tag'].removeprefix('__prompt__:'))
+                  for row in csv.DictReader(stream,delimiter='\t') if '〔待续写〕' in row['zh']}
+    expected_suffixes={text+', ':text+' ' for text in prefixes}
     with tempfile.TemporaryDirectory(prefix='ime-latency-') as tmp:
         for round_no in range(3):
             for label in ['baseline','candidate']:
@@ -77,11 +87,23 @@ def main():
                     raise RuntimeError('Isolated latency worker failed:\n'+result.stdout+'\n'+result.stderr)
                 run=json.loads(result.stdout)
                 run.update(label=label,round=round_no+1)
-                signatures=[{k:v for k,v in event.items() if k!='ms'} for event in run['events']]
+                raw_signatures=[{k:v for k,v in event.items() if k!='ms'} for event in run['events']]
+                signatures=copy.deepcopy(raw_signatures)
+                if raw_reference is None:raw_reference=raw_signatures
+                raw_outputs_identical=raw_outputs_identical and raw_signatures==raw_reference
+                if label=='baseline':
+                    for event in signatures:
+                        for candidate in event['candidates']:
+                            if '〔待续写〕' in candidate['comment'] and candidate['text'] in expected_suffixes:
+                                candidate['text']=expected_suffixes[candidate['text']]
+                                expected_prefix_adjustments+=1
+                        if event['commit'] in expected_suffixes:
+                            event['commit']=expected_suffixes[event['commit']]
+                            expected_prefix_adjustments+=1
                 if reference is None:
                     reference=signatures
                 if signatures!=reference:
-                    raise AssertionError('Candidate text, annotations, order or commits differ: '+label)
+                    raise AssertionError('Unexpected text, annotation, order or commit difference: '+label)
                 runs.append(run)
                 print(json.dumps({k:v for k,v in run.items() if k!='events'}),flush=True)
     passed=all(run['median_ms']<5 and run['p95_ms']<10 for run in runs if run['label']=='candidate')
@@ -90,7 +112,9 @@ def main():
                 candidate_lua_sha256=hashlib.sha256((ROOT/'rime/lua/booru_filter.lua').read_bytes()).hexdigest(),
                 dictionary_sha256=hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest(),
                 annotations_sha256=hashlib.sha256((ROOT/'rime/booru.annotations.tsv').read_bytes()).hexdigest(),
-                outputs_identical=True,runs=runs,
+                outputs_compatible_with_expected_continuations=True,
+                unaffected_outputs_identical=True,raw_outputs_identical=raw_outputs_identical,
+                expected_baseline_prefix_adjustments=expected_prefix_adjustments,runs=runs,
                 scope='Separate librime processes; synthetic keys, backspace, paging and selection; no live Weasel input or desktop acceptance')
     args.output_dir.mkdir(parents=True,exist_ok=True)
     (args.output_dir/'latency.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')

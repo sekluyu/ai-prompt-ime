@@ -101,7 +101,7 @@ def main():
             for page in range(100):
                 candidates,last=e.candidates()
                 text=row['tag'].removeprefix('__prompt__:')
-                expected=re.sub(r'([\\()])',r'\\\1',text)+', '
+                expected=re.sub(r'([\\()])',r'\\\1',text)+(' ' if '〔待续写〕' in row['zh'] else ', ')
                 found=next((i for i,c in enumerate(candidates) if c['text']==expected and c['comment'].startswith(row['zh'].split('〔',1)[0])),None)
                 if found is not None: break
                 if last: raise AssertionError(f'Missing candidate {row}')

@@ -37,7 +37,8 @@ def main():
         def choose(code,en,first=False):
             engine.reset()
             for ch in code:engine.key(ch)
-            text=re.sub(r'([\\()])',r'\\\1',en)+', '
+            suffix=' ' if '〔待续写〕' in current[(code,en)]['zh'] else ', '
+            text=re.sub(r'([\\()])',r'\\\1',en)+suffix
             for page in range(1000):
                 candidates,last=engine.candidates()
                 index=next((i for i,r in enumerate(candidates) if r['text']==text),None)

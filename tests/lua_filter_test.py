@@ -87,6 +87,17 @@ assert(run({'__prompt__:'..paired})[1].text==paired..',')
 values.booru_separator=false
 assert(run({'__prompt__:'..paired})[1].text==paired)
 
+-- A continuation prefix leaves a word boundary instead of closing the phrase.
+local prefix='left leg resting on'
+env.labels[prefix]='左腿放在某物上〔待续写〕'
+for _,separator in ipairs({false,true}) do
+  for _,space in ipairs({false,true}) do
+    values.booru_separator=separator
+    values.booru_space=space
+    assert(run({'__prompt__:'..prefix})[1].text==prefix..' ')
+  end
+end
+
 -- Exact aliases and native completion suffixes choose the matching Chinese,
 -- not whichever label happened to be the highest-frequency label for a tag.
 env.labels['fennec_fox']='耳廓狐'

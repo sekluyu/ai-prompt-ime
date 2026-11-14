@@ -134,3 +134,556 @@ bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missi
 bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面	fumian	常用组合	11500	primary	本项目整理；部分描述短语未验证绘图效果
 bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面	fujifumian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
 bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面	fumian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
+left leg resting on	左腿放在某物上	zuotuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+left leg resting on	左腿放在某物上	zuotuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+left leg resting on	左腿放在某物上	zuotuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+right leg resting on	右腿放在某物上	youtuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+right leg resting on	右腿放在某物上	youtuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+right leg resting on	右腿放在某物上	youtuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+both legs resting on	双腿放在某物上	shuangtuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+both legs resting on	双腿放在某物上	shuangtuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+both legs resting on	双腿放在某物上	shuangtuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting on	一条腿放在某物上	yitiaotuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting on	一条腿放在某物上	yitiaotuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting on	一条腿放在某物上	yitiaotuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other leg resting on	另一条腿放在某物上	lingyitiaotuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other leg resting on	另一条腿放在某物上	lingyitiaotuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other leg resting on	另一条腿放在某物上	lingyitiaotuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+left foot resting on	左脚放在某物上	zuojiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+left foot resting on	左脚放在某物上	zuojiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+left foot resting on	左脚放在某物上	zuojiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+right foot resting on	右脚放在某物上	youjiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+right foot resting on	右脚放在某物上	youjiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+right foot resting on	右脚放在某物上	youjiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+both feet resting on	双脚放在某物上	shuangjiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+both feet resting on	双脚放在某物上	shuangjiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+both feet resting on	双脚放在某物上	shuangjiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	一只脚放在某物上	yizhijiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	一只脚放在某物上	yizhijiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	一只脚放在某物上	yizhijiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other foot resting on	另一只脚放在某物上	lingyizhijiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other foot resting on	另一只脚放在某物上	lingyizhijiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+the other foot resting on	另一只脚放在某物上	lingyizhijiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting on	腿放在某物上	tuifangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting on	腿放在某物上	tuifangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	脚放在某物上	jiaofangzai	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	脚放在某物上	jiaofangzaimouwushang	待续写	11000	primary	本项目整理；选中后自行补充位置
+left leg resting beside	左腿在某物旁边	zuotuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+left leg resting beside	左腿在某物旁边	zuotuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+right leg resting beside	右腿在某物旁边	youtuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+right leg resting beside	右腿在某物旁边	youtuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+both legs resting beside	双腿在某物旁边	shuangtuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+both legs resting beside	双腿在某物旁边	shuangtuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	一条腿在某物旁边	yitiaotuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	一条腿在某物旁边	yitiaotuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting beside	另一条腿在某物旁边	lingyitiaotuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting beside	另一条腿在某物旁边	lingyitiaotuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+left foot resting beside	左脚在某物旁边	zuojiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+left foot resting beside	左脚在某物旁边	zuojiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+right foot resting beside	右脚在某物旁边	youjiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+right foot resting beside	右脚在某物旁边	youjiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+both feet resting beside	双脚在某物旁边	shuangjiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+both feet resting beside	双脚在某物旁边	shuangjiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	一只脚在某物旁边	yizhijiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	一只脚在某物旁边	yizhijiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting beside	另一只脚在某物旁边	lingyizhijiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting beside	另一只脚在某物旁边	lingyizhijiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+beside	在某物旁边	zaipangbian	待续写	11000	primary	本项目整理；位置描述
+beside	在某物旁边	pangbian	待续写	11000	primary	本项目整理；位置描述
+character positioned beside	人物在某物旁边	renwuzaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+character positioned beside	人物在某物旁边	renwuzaipangbian	待续写	11000	primary	本项目整理；位置描述
+character standing beside	人物站在某物旁边	renwuzhanzaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+character standing beside	人物站在某物旁边	renwuzhanzaipangbian	待续写	11000	primary	本项目整理；位置描述
+character sitting beside	人物坐在某物旁边	renwuzuozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+character sitting beside	人物坐在某物旁边	renwuzuozaipangbian	待续写	11000	primary	本项目整理；位置描述
+character lying beside	人物躺在某物旁边	renwutangzaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+character lying beside	人物躺在某物旁边	renwutangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+left leg resting beside	左腿在某物边上	zuotuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+left leg resting beside	左腿在某物边上	zuotuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+right leg resting beside	右腿在某物边上	youtuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+right leg resting beside	右腿在某物边上	youtuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+both legs resting beside	双腿在某物边上	shuangtuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+both legs resting beside	双腿在某物边上	shuangtuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	一条腿在某物边上	yitiaotuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	一条腿在某物边上	yitiaotuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+the other leg resting beside	另一条腿在某物边上	lingyitiaotuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+the other leg resting beside	另一条腿在某物边上	lingyitiaotuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+left foot resting beside	左脚在某物边上	zuojiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+left foot resting beside	左脚在某物边上	zuojiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+right foot resting beside	右脚在某物边上	youjiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+right foot resting beside	右脚在某物边上	youjiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+both feet resting beside	双脚在某物边上	shuangjiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+both feet resting beside	双脚在某物边上	shuangjiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	一只脚在某物边上	yizhijiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	一只脚在某物边上	yizhijiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+the other foot resting beside	另一只脚在某物边上	lingyizhijiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+the other foot resting beside	另一只脚在某物边上	lingyizhijiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+beside	在某物边上	zaibianshang	待续写	11000	primary	本项目整理；位置描述
+beside	在某物边上	bianshang	待续写	11000	primary	本项目整理；位置描述
+character positioned beside	人物在某物边上	renwuzaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+character positioned beside	人物在某物边上	renwuzaibianshang	待续写	11000	primary	本项目整理；位置描述
+character standing beside	人物站在某物边上	renwuzhanzaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+character standing beside	人物站在某物边上	renwuzhanzaibianshang	待续写	11000	primary	本项目整理；位置描述
+character sitting beside	人物坐在某物边上	renwuzuozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+character sitting beside	人物坐在某物边上	renwuzuozaibianshang	待续写	11000	primary	本项目整理；位置描述
+character lying beside	人物躺在某物边上	renwutangzaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+character lying beside	人物躺在某物边上	renwutangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+left leg resting in front of	左腿在某物前面	zuotuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+left leg resting in front of	左腿在某物前面	zuotuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+right leg resting in front of	右腿在某物前面	youtuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+right leg resting in front of	右腿在某物前面	youtuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+both legs resting in front of	双腿在某物前面	shuangtuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+both legs resting in front of	双腿在某物前面	shuangtuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting in front of	一条腿在某物前面	yitiaotuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting in front of	一条腿在某物前面	yitiaotuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting in front of	另一条腿在某物前面	lingyitiaotuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting in front of	另一条腿在某物前面	lingyitiaotuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+left foot resting in front of	左脚在某物前面	zuojiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+left foot resting in front of	左脚在某物前面	zuojiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+right foot resting in front of	右脚在某物前面	youjiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+right foot resting in front of	右脚在某物前面	youjiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+both feet resting in front of	双脚在某物前面	shuangjiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+both feet resting in front of	双脚在某物前面	shuangjiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting in front of	一只脚在某物前面	yizhijiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting in front of	一只脚在某物前面	yizhijiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting in front of	另一只脚在某物前面	lingyizhijiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting in front of	另一只脚在某物前面	lingyizhijiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+in front of	在某物前面	zaiqianmian	待续写	11000	primary	本项目整理；位置描述
+in front of	在某物前面	qianmian	待续写	11000	primary	本项目整理；位置描述
+character positioned in front of	人物在某物前面	renwuzaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+character positioned in front of	人物在某物前面	renwuzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+character standing in front of	人物站在某物前面	renwuzhanzaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+character standing in front of	人物站在某物前面	renwuzhanzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+character sitting in front of	人物坐在某物前面	renwuzuozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+character sitting in front of	人物坐在某物前面	renwuzuozaiqianmian	待续写	11000	primary	本项目整理；位置描述
+character lying in front of	人物躺在某物前面	renwutangzaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+character lying in front of	人物躺在某物前面	renwutangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+left leg resting behind	左腿在某物后面	zuotuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+left leg resting behind	左腿在某物后面	zuotuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+right leg resting behind	右腿在某物后面	youtuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+right leg resting behind	右腿在某物后面	youtuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+both legs resting behind	双腿在某物后面	shuangtuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+both legs resting behind	双腿在某物后面	shuangtuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+one leg resting behind	一条腿在某物后面	yitiaotuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+one leg resting behind	一条腿在某物后面	yitiaotuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting behind	另一条腿在某物后面	lingyitiaotuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting behind	另一条腿在某物后面	lingyitiaotuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+left foot resting behind	左脚在某物后面	zuojiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+left foot resting behind	左脚在某物后面	zuojiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+right foot resting behind	右脚在某物后面	youjiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+right foot resting behind	右脚在某物后面	youjiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+both feet resting behind	双脚在某物后面	shuangjiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+both feet resting behind	双脚在某物后面	shuangjiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+one foot resting behind	一只脚在某物后面	yizhijiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+one foot resting behind	一只脚在某物后面	yizhijiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting behind	另一只脚在某物后面	lingyizhijiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting behind	另一只脚在某物后面	lingyizhijiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+behind	在某物后面	zaihoumian	待续写	11000	primary	本项目整理；位置描述
+behind	在某物后面	houmian	待续写	11000	primary	本项目整理；位置描述
+character positioned behind	人物在某物后面	renwuzaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+character positioned behind	人物在某物后面	renwuzaihoumian	待续写	11000	primary	本项目整理；位置描述
+character standing behind	人物站在某物后面	renwuzhanzaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+character standing behind	人物站在某物后面	renwuzhanzaihoumian	待续写	11000	primary	本项目整理；位置描述
+character sitting behind	人物坐在某物后面	renwuzuozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+character sitting behind	人物坐在某物后面	renwuzuozaihoumian	待续写	11000	primary	本项目整理；位置描述
+character lying behind	人物躺在某物后面	renwutangzaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+character lying behind	人物躺在某物后面	renwutangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+left leg resting under	左腿在某物下面	zuotuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+left leg resting under	左腿在某物下面	zuotuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+right leg resting under	右腿在某物下面	youtuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+right leg resting under	右腿在某物下面	youtuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+both legs resting under	双腿在某物下面	shuangtuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+both legs resting under	双腿在某物下面	shuangtuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+one leg resting under	一条腿在某物下面	yitiaotuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+one leg resting under	一条腿在某物下面	yitiaotuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting under	另一条腿在某物下面	lingyitiaotuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting under	另一条腿在某物下面	lingyitiaotuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+left foot resting under	左脚在某物下面	zuojiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+left foot resting under	左脚在某物下面	zuojiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+right foot resting under	右脚在某物下面	youjiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+right foot resting under	右脚在某物下面	youjiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+both feet resting under	双脚在某物下面	shuangjiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+both feet resting under	双脚在某物下面	shuangjiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+one foot resting under	一只脚在某物下面	yizhijiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+one foot resting under	一只脚在某物下面	yizhijiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting under	另一只脚在某物下面	lingyizhijiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting under	另一只脚在某物下面	lingyizhijiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+under	在某物下面	zaixiamian	待续写	11000	primary	本项目整理；位置描述
+under	在某物下面	xiamian	待续写	11000	primary	本项目整理；位置描述
+character positioned under	人物在某物下面	renwuzaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+character positioned under	人物在某物下面	renwuzaixiamian	待续写	11000	primary	本项目整理；位置描述
+character standing under	人物站在某物下面	renwuzhanzaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+character standing under	人物站在某物下面	renwuzhanzaixiamian	待续写	11000	primary	本项目整理；位置描述
+character sitting under	人物坐在某物下面	renwuzuozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+character sitting under	人物坐在某物下面	renwuzuozaixiamian	待续写	11000	primary	本项目整理；位置描述
+character lying under	人物躺在某物下面	renwutangzaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+character lying under	人物躺在某物下面	renwutangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned above	左腿在某物上方	zuotuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+left leg positioned above	左腿在某物上方	zuotuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+right leg positioned above	右腿在某物上方	youtuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+right leg positioned above	右腿在某物上方	youtuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+both legs positioned above	双腿在某物上方	shuangtuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+both legs positioned above	双腿在某物上方	shuangtuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned above	一条腿在某物上方	yitiaotuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned above	一条腿在某物上方	yitiaotuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned above	另一条腿在某物上方	lingyitiaotuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned above	另一条腿在某物上方	lingyitiaotuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+left foot positioned above	左脚在某物上方	zuojiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+left foot positioned above	左脚在某物上方	zuojiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+right foot positioned above	右脚在某物上方	youjiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+right foot positioned above	右脚在某物上方	youjiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+both feet positioned above	双脚在某物上方	shuangjiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+both feet positioned above	双脚在某物上方	shuangjiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned above	一只脚在某物上方	yizhijiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned above	一只脚在某物上方	yizhijiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned above	另一只脚在某物上方	lingyizhijiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned above	另一只脚在某物上方	lingyizhijiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+above	在某物上方	zaishangfang	待续写	11000	primary	本项目整理；位置描述
+above	在某物上方	shangfang	待续写	11000	primary	本项目整理；位置描述
+character positioned above	人物在某物上方	renwuzaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+character positioned above	人物在某物上方	renwuzaishangfang	待续写	11000	primary	本项目整理；位置描述
+character standing above	人物站在某物上方	renwuzhanzaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+character standing above	人物站在某物上方	renwuzhanzaishangfang	待续写	11000	primary	本项目整理；位置描述
+character sitting above	人物坐在某物上方	renwuzuozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+character sitting above	人物坐在某物上方	renwuzuozaishangfang	待续写	11000	primary	本项目整理；位置描述
+character lying above	人物躺在某物上方	renwutangzaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+character lying above	人物躺在某物上方	renwutangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+left leg positioned below	左腿在某物下方	zuotuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+left leg positioned below	左腿在某物下方	zuotuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+right leg positioned below	右腿在某物下方	youtuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+right leg positioned below	右腿在某物下方	youtuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+both legs positioned below	双腿在某物下方	shuangtuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+both legs positioned below	双腿在某物下方	shuangtuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned below	一条腿在某物下方	yitiaotuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned below	一条腿在某物下方	yitiaotuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned below	另一条腿在某物下方	lingyitiaotuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned below	另一条腿在某物下方	lingyitiaotuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+left foot positioned below	左脚在某物下方	zuojiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+left foot positioned below	左脚在某物下方	zuojiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+right foot positioned below	右脚在某物下方	youjiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+right foot positioned below	右脚在某物下方	youjiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+both feet positioned below	双脚在某物下方	shuangjiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+both feet positioned below	双脚在某物下方	shuangjiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned below	一只脚在某物下方	yizhijiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned below	一只脚在某物下方	yizhijiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned below	另一只脚在某物下方	lingyizhijiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned below	另一只脚在某物下方	lingyizhijiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+below	在某物下方	zaixiafang	待续写	11000	primary	本项目整理；位置描述
+below	在某物下方	xiafang	待续写	11000	primary	本项目整理；位置描述
+character positioned below	人物在某物下方	renwuzaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+character positioned below	人物在某物下方	renwuzaixiafang	待续写	11000	primary	本项目整理；位置描述
+character standing below	人物站在某物下方	renwuzhanzaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+character standing below	人物站在某物下方	renwuzhanzaixiafang	待续写	11000	primary	本项目整理；位置描述
+character sitting below	人物坐在某物下方	renwuzuozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+character sitting below	人物坐在某物下方	renwuzuozaixiafang	待续写	11000	primary	本项目整理；位置描述
+character lying below	人物躺在某物下方	renwutangzaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+character lying below	人物躺在某物下方	renwutangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the left of	左腿在某物左侧	zuotuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the left of	左腿在某物左侧	zuotuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the left of	右腿在某物左侧	youtuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the left of	右腿在某物左侧	youtuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the left of	双腿在某物左侧	shuangtuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the left of	双腿在某物左侧	shuangtuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	一条腿在某物左侧	yitiaotuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	一条腿在某物左侧	yitiaotuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the left of	另一条腿在某物左侧	lingyitiaotuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the left of	另一条腿在某物左侧	lingyitiaotuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the left of	左脚在某物左侧	zuojiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the left of	左脚在某物左侧	zuojiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the left of	右脚在某物左侧	youjiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the left of	右脚在某物左侧	youjiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the left of	双脚在某物左侧	shuangjiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the left of	双脚在某物左侧	shuangjiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	一只脚在某物左侧	yizhijiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	一只脚在某物左侧	yizhijiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the left of	另一只脚在某物左侧	lingyizhijiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the left of	另一只脚在某物左侧	lingyizhijiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+to the left of	在某物左侧	zaizuoce	待续写	11000	primary	本项目整理；位置描述
+to the left of	在某物左侧	zuoce	待续写	11000	primary	本项目整理；位置描述
+character positioned to the left of	人物在某物左侧	renwuzaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+character positioned to the left of	人物在某物左侧	renwuzaizuoce	待续写	11000	primary	本项目整理；位置描述
+character standing to the left of	人物站在某物左侧	renwuzhanzaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+character standing to the left of	人物站在某物左侧	renwuzhanzaizuoce	待续写	11000	primary	本项目整理；位置描述
+character sitting to the left of	人物坐在某物左侧	renwuzuozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+character sitting to the left of	人物坐在某物左侧	renwuzuozaizuoce	待续写	11000	primary	本项目整理；位置描述
+character lying to the left of	人物躺在某物左侧	renwutangzaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+character lying to the left of	人物躺在某物左侧	renwutangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the left of	左腿在某物左边	zuotuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the left of	左腿在某物左边	zuotuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the left of	右腿在某物左边	youtuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the left of	右腿在某物左边	youtuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the left of	双腿在某物左边	shuangtuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the left of	双腿在某物左边	shuangtuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	一条腿在某物左边	yitiaotuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	一条腿在某物左边	yitiaotuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the left of	另一条腿在某物左边	lingyitiaotuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the left of	另一条腿在某物左边	lingyitiaotuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the left of	左脚在某物左边	zuojiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the left of	左脚在某物左边	zuojiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the left of	右脚在某物左边	youjiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the left of	右脚在某物左边	youjiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the left of	双脚在某物左边	shuangjiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the left of	双脚在某物左边	shuangjiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	一只脚在某物左边	yizhijiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	一只脚在某物左边	yizhijiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the left of	另一只脚在某物左边	lingyizhijiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the left of	另一只脚在某物左边	lingyizhijiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+to the left of	在某物左边	zaizuobian	待续写	11000	primary	本项目整理；位置描述
+to the left of	在某物左边	zuobian	待续写	11000	primary	本项目整理；位置描述
+character positioned to the left of	人物在某物左边	renwuzaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+character positioned to the left of	人物在某物左边	renwuzaizuobian	待续写	11000	primary	本项目整理；位置描述
+character standing to the left of	人物站在某物左边	renwuzhanzaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+character standing to the left of	人物站在某物左边	renwuzhanzaizuobian	待续写	11000	primary	本项目整理；位置描述
+character sitting to the left of	人物坐在某物左边	renwuzuozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+character sitting to the left of	人物坐在某物左边	renwuzuozaizuobian	待续写	11000	primary	本项目整理；位置描述
+character lying to the left of	人物躺在某物左边	renwutangzaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+character lying to the left of	人物躺在某物左边	renwutangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the right of	左腿在某物右侧	zuotuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the right of	左腿在某物右侧	zuotuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the right of	右腿在某物右侧	youtuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the right of	右腿在某物右侧	youtuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the right of	双腿在某物右侧	shuangtuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the right of	双腿在某物右侧	shuangtuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	一条腿在某物右侧	yitiaotuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	一条腿在某物右侧	yitiaotuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the right of	另一条腿在某物右侧	lingyitiaotuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the right of	另一条腿在某物右侧	lingyitiaotuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the right of	左脚在某物右侧	zuojiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the right of	左脚在某物右侧	zuojiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the right of	右脚在某物右侧	youjiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the right of	右脚在某物右侧	youjiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the right of	双脚在某物右侧	shuangjiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the right of	双脚在某物右侧	shuangjiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	一只脚在某物右侧	yizhijiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	一只脚在某物右侧	yizhijiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the right of	另一只脚在某物右侧	lingyizhijiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the right of	另一只脚在某物右侧	lingyizhijiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+to the right of	在某物右侧	zaiyouce	待续写	11000	primary	本项目整理；位置描述
+to the right of	在某物右侧	youce	待续写	11000	primary	本项目整理；位置描述
+character positioned to the right of	人物在某物右侧	renwuzaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+character positioned to the right of	人物在某物右侧	renwuzaiyouce	待续写	11000	primary	本项目整理；位置描述
+character standing to the right of	人物站在某物右侧	renwuzhanzaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+character standing to the right of	人物站在某物右侧	renwuzhanzaiyouce	待续写	11000	primary	本项目整理；位置描述
+character sitting to the right of	人物坐在某物右侧	renwuzuozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+character sitting to the right of	人物坐在某物右侧	renwuzuozaiyouce	待续写	11000	primary	本项目整理；位置描述
+character lying to the right of	人物躺在某物右侧	renwutangzaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+character lying to the right of	人物躺在某物右侧	renwutangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the right of	左腿在某物右边	zuotuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned to the right of	左腿在某物右边	zuotuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the right of	右腿在某物右边	youtuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned to the right of	右腿在某物右边	youtuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the right of	双腿在某物右边	shuangtuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned to the right of	双腿在某物右边	shuangtuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	一条腿在某物右边	yitiaotuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	一条腿在某物右边	yitiaotuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the right of	另一条腿在某物右边	lingyitiaotuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned to the right of	另一条腿在某物右边	lingyitiaotuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the right of	左脚在某物右边	zuojiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned to the right of	左脚在某物右边	zuojiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the right of	右脚在某物右边	youjiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned to the right of	右脚在某物右边	youjiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the right of	双脚在某物右边	shuangjiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned to the right of	双脚在某物右边	shuangjiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	一只脚在某物右边	yizhijiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	一只脚在某物右边	yizhijiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the right of	另一只脚在某物右边	lingyizhijiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned to the right of	另一只脚在某物右边	lingyizhijiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+to the right of	在某物右边	zaiyoubian	待续写	11000	primary	本项目整理；位置描述
+to the right of	在某物右边	youbian	待续写	11000	primary	本项目整理；位置描述
+character positioned to the right of	人物在某物右边	renwuzaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+character positioned to the right of	人物在某物右边	renwuzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+character standing to the right of	人物站在某物右边	renwuzhanzaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+character standing to the right of	人物站在某物右边	renwuzhanzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+character sitting to the right of	人物坐在某物右边	renwuzuozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+character sitting to the right of	人物坐在某物右边	renwuzuozaiyoubian	待续写	11000	primary	本项目整理；位置描述
+character lying to the right of	人物躺在某物右边	renwutangzaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+character lying to the right of	人物躺在某物右边	renwutangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned near	左腿在某物附近	zuotuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+left leg positioned near	左腿在某物附近	zuotuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+right leg positioned near	右腿在某物附近	youtuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+right leg positioned near	右腿在某物附近	youtuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+both legs positioned near	双腿在某物附近	shuangtuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+both legs positioned near	双腿在某物附近	shuangtuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+one leg positioned near	一条腿在某物附近	yitiaotuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+one leg positioned near	一条腿在某物附近	yitiaotuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned near	另一条腿在某物附近	lingyitiaotuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned near	另一条腿在某物附近	lingyitiaotuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+left foot positioned near	左脚在某物附近	zuojiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+left foot positioned near	左脚在某物附近	zuojiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+right foot positioned near	右脚在某物附近	youjiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+right foot positioned near	右脚在某物附近	youjiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+both feet positioned near	双脚在某物附近	shuangjiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+both feet positioned near	双脚在某物附近	shuangjiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+one foot positioned near	一只脚在某物附近	yizhijiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+one foot positioned near	一只脚在某物附近	yizhijiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned near	另一只脚在某物附近	lingyizhijiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned near	另一只脚在某物附近	lingyizhijiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+near	在某物附近	zaifujin	待续写	11000	primary	本项目整理；位置描述
+near	在某物附近	fujin	待续写	11000	primary	本项目整理；位置描述
+character positioned near	人物在某物附近	renwuzaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+character positioned near	人物在某物附近	renwuzaifujin	待续写	11000	primary	本项目整理；位置描述
+character standing near	人物站在某物附近	renwuzhanzaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+character standing near	人物站在某物附近	renwuzhanzaifujin	待续写	11000	primary	本项目整理；位置描述
+character sitting near	人物坐在某物附近	renwuzuozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+character sitting near	人物坐在某物附近	renwuzuozaifujin	待续写	11000	primary	本项目整理；位置描述
+character lying near	人物躺在某物附近	renwutangzaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+character lying near	人物躺在某物附近	renwutangzaifujin	待续写	11000	primary	本项目整理；位置描述
+left leg positioned between	左腿在两物之间	zuotuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+left leg positioned between	左腿在两物之间	zuotuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned between	右腿在两物之间	youtuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+right leg positioned between	右腿在两物之间	youtuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned between	双腿在两物之间	shuangtuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+both legs positioned between	双腿在两物之间	shuangtuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned between	一条腿在两物之间	yitiaotuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned between	一条腿在两物之间	yitiaotuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned between	另一条腿在两物之间	lingyitiaotuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+the other leg positioned between	另一条腿在两物之间	lingyitiaotuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned between	左脚在两物之间	zuojiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+left foot positioned between	左脚在两物之间	zuojiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned between	右脚在两物之间	youjiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+right foot positioned between	右脚在两物之间	youjiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned between	双脚在两物之间	shuangjiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+both feet positioned between	双脚在两物之间	shuangjiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned between	一只脚在两物之间	yizhijiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned between	一只脚在两物之间	yizhijiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned between	另一只脚在两物之间	lingyizhijiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+the other foot positioned between	另一只脚在两物之间	lingyizhijiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+between	在两物之间	zaizhijian	待续写	11000	primary	本项目整理；位置描述
+between	在两物之间	zhijian	待续写	11000	primary	本项目整理；位置描述
+character positioned between	人物在两物之间	renwuzailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+character positioned between	人物在两物之间	renwuzaizhijian	待续写	11000	primary	本项目整理；位置描述
+character standing between	人物站在两物之间	renwuzhanzailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+character standing between	人物站在两物之间	renwuzhanzaizhijian	待续写	11000	primary	本项目整理；位置描述
+character sitting between	人物坐在两物之间	renwuzuozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+character sitting between	人物坐在两物之间	renwuzuozaizhijian	待续写	11000	primary	本项目整理；位置描述
+character lying between	人物躺在两物之间	renwutangzailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+character lying between	人物躺在两物之间	renwutangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+character on the left side of the frame	人物在画面左侧	renwuzaihuamianzuoce	人物位置	10000	primary	本项目整理；位置描述
+character on the left side of the frame	人物在画面左侧	renwuweiyuhuamianzuoce	人物位置	10000	primary	本项目整理；位置描述
+character on the left side of the frame	人物在画面左侧	huamianzuocederenwu	人物位置	10000	primary	本项目整理；位置描述
+character on the right side of the frame	人物在画面右侧	renwuzaihuamianyouce	人物位置	10000	primary	本项目整理；位置描述
+character on the right side of the frame	人物在画面右侧	renwuweiyuhuamianyouce	人物位置	10000	primary	本项目整理；位置描述
+character on the right side of the frame	人物在画面右侧	huamianyoucederenwu	人物位置	10000	primary	本项目整理；位置描述
+character centered in the frame	人物在画面中央	renwuzaihuamianzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character centered in the frame	人物在画面中央	renwuweiyuhuamianzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character centered in the frame	人物在画面中央	huamianzhongyangderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the upper left corner of the frame	人物在画面左上角	renwuzaihuamianzuoshangjiao	人物位置	10000	primary	本项目整理；位置描述
+character in the upper left corner of the frame	人物在画面左上角	renwuweiyuhuamianzuoshangjiao	人物位置	10000	primary	本项目整理；位置描述
+character in the upper left corner of the frame	人物在画面左上角	huamianzuoshangjiaoderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the upper right corner of the frame	人物在画面右上角	renwuzaihuamianyoushangjiao	人物位置	10000	primary	本项目整理；位置描述
+character in the upper right corner of the frame	人物在画面右上角	renwuweiyuhuamianyoushangjiao	人物位置	10000	primary	本项目整理；位置描述
+character in the upper right corner of the frame	人物在画面右上角	huamianyoushangjiaoderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the lower left corner of the frame	人物在画面左下角	renwuzaihuamianzuoxiajiao	人物位置	10000	primary	本项目整理；位置描述
+character in the lower left corner of the frame	人物在画面左下角	renwuweiyuhuamianzuoxiajiao	人物位置	10000	primary	本项目整理；位置描述
+character in the lower left corner of the frame	人物在画面左下角	huamianzuoxiajiaoderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the lower right corner of the frame	人物在画面右下角	renwuzaihuamianyouxiajiao	人物位置	10000	primary	本项目整理；位置描述
+character in the lower right corner of the frame	人物在画面右下角	renwuweiyuhuamianyouxiajiao	人物位置	10000	primary	本项目整理；位置描述
+character in the lower right corner of the frame	人物在画面右下角	huamianyouxiajiaoderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the upper center of the frame	人物在画面上方中央	renwuzaihuamianshangfangzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character in the upper center of the frame	人物在画面上方中央	renwuweiyuhuamianshangfangzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character in the upper center of the frame	人物在画面上方中央	huamianshangfangzhongyangderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the lower center of the frame	人物在画面下方中央	renwuzaihuamianxiafangzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character in the lower center of the frame	人物在画面下方中央	renwuweiyuhuamianxiafangzhongyang	人物位置	10000	primary	本项目整理；位置描述
+character in the lower center of the frame	人物在画面下方中央	huamianxiafangzhongyangderenwu	人物位置	10000	primary	本项目整理；位置描述
+character in the foreground	人物在前景	renwuzaiqianjing	人物位置	10000	primary	本项目整理；位置描述
+character in the foreground	人物在前景	renwuweiyuqianjing	人物位置	10000	primary	本项目整理；位置描述
+character in the middle ground	人物在中景	renwuzaizhongjing	人物位置	10000	primary	本项目整理；位置描述
+character in the middle ground	人物在中景	renwuweiyuzhongjing	人物位置	10000	primary	本项目整理；位置描述
+character in the background	人物在背景	renwuzaibeijing	人物位置	10000	primary	本项目整理；位置描述
+character in the background	人物在背景	renwuweiyubeijing	人物位置	10000	primary	本项目整理；位置描述
+character in the distance	人物在远处	renwuzaiyuanchu	人物位置	10000	primary	本项目整理；位置描述
+character in the distance	人物在远处	renwuweiyuyuanchu	人物位置	10000	primary	本项目整理；位置描述
+character close to the camera	人物在近处	renwuzaijinchu	人物位置	10000	primary	本项目整理；位置描述
+character close to the camera	人物在近处	renwuweiyujinchu	人物位置	10000	primary	本项目整理；位置描述
+character centered in the frame	人物居中	renwujuzhong	人物位置	10000	primary	本项目整理；位置描述
+character on the left side of the frame	人物在画面左边	renwuzaihuamianzuobian	人物位置	10000	primary	本项目整理；位置描述
+character on the right side of the frame	人物在画面右边	renwuzaihuamianyoubian	人物位置	10000	primary	本项目整理；位置描述
+left leg resting on	左腿在某物上面	zuotuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+left leg resting on	左腿在某物上面	zuotuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+right leg resting on	右腿在某物上面	youtuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+right leg resting on	右腿在某物上面	youtuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+both legs resting on	双腿在某物上面	shuangtuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+both legs resting on	双腿在某物上面	shuangtuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting on	一条腿在某物上面	yitiaotuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting on	一条腿在某物上面	yitiaotuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting on	另一条腿在某物上面	lingyitiaotuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+the other leg resting on	另一条腿在某物上面	lingyitiaotuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+left foot resting on	左脚在某物上面	zuojiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+left foot resting on	左脚在某物上面	zuojiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+right foot resting on	右脚在某物上面	youjiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+right foot resting on	右脚在某物上面	youjiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+both feet resting on	双脚在某物上面	shuangjiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+both feet resting on	双脚在某物上面	shuangjiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting on	一只脚在某物上面	yizhijiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting on	一只脚在某物上面	yizhijiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting on	另一只脚在某物上面	lingyizhijiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+the other foot resting on	另一只脚在某物上面	lingyizhijiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+on	在某物上面	zaishangmian	待续写	11000	primary	本项目整理；位置描述
+on	在某物上面	shangmian	待续写	11000	primary	本项目整理；位置描述
+character positioned on	人物在某物上面	renwuzaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+character positioned on	人物在某物上面	renwuzaishangmian	待续写	11000	primary	本项目整理；位置描述
+character standing on	人物站在某物上面	renwuzhanzaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+character standing on	人物站在某物上面	renwuzhanzaishangmian	待续写	11000	primary	本项目整理；位置描述
+character sitting on	人物坐在某物上面	renwuzuozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+character sitting on	人物坐在某物上面	renwuzuozaishangmian	待续写	11000	primary	本项目整理；位置描述
+character lying on	人物躺在某物上面	renwutangzaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+character lying on	人物躺在某物上面	renwutangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting on	腿放在某物上	tuifangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+one foot resting on	脚放在某物上	jiaofangzaimouwushangmian	待续写	11000	primary	本项目整理；选中后自行补充位置
+one leg resting beside	腿在某物旁边	tuizaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	腿在某物旁边	tuifangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	脚在某物旁边	jiaozaimouwupangbian	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	脚在某物旁边	jiaofangzaipangbian	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	腿在某物边上	tuizaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+one leg resting beside	腿在某物边上	tuifangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	脚在某物边上	jiaozaimouwubianshang	待续写	11000	primary	本项目整理；位置描述
+one foot resting beside	脚在某物边上	jiaofangzaibianshang	待续写	11000	primary	本项目整理；位置描述
+one leg resting in front of	腿在某物前面	tuizaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting in front of	腿在某物前面	tuifangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting in front of	脚在某物前面	jiaozaimouwuqianmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting in front of	脚在某物前面	jiaofangzaiqianmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting behind	腿在某物后面	tuizaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+one leg resting behind	腿在某物后面	tuifangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+one foot resting behind	脚在某物后面	jiaozaimouwuhoumian	待续写	11000	primary	本项目整理；位置描述
+one foot resting behind	脚在某物后面	jiaofangzaihoumian	待续写	11000	primary	本项目整理；位置描述
+one leg resting under	腿在某物下面	tuizaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+one leg resting under	腿在某物下面	tuifangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+one foot resting under	脚在某物下面	jiaozaimouwuxiamian	待续写	11000	primary	本项目整理；位置描述
+one foot resting under	脚在某物下面	jiaofangzaixiamian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned above	腿在某物上方	tuizaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned above	腿在某物上方	tuifangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned above	脚在某物上方	jiaozaimouwushangfang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned above	脚在某物上方	jiaofangzaishangfang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned below	腿在某物下方	tuizaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned below	腿在某物下方	tuifangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned below	脚在某物下方	jiaozaimouwuxiafang	待续写	11000	primary	本项目整理；位置描述
+one foot positioned below	脚在某物下方	jiaofangzaixiafang	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	腿在某物左侧	tuizaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	腿在某物左侧	tuifangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	脚在某物左侧	jiaozaimouwuzuoce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	脚在某物左侧	jiaofangzaizuoce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	腿在某物左边	tuizaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the left of	腿在某物左边	tuifangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	脚在某物左边	jiaozaimouwuzuobian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the left of	脚在某物左边	jiaofangzaizuobian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	腿在某物右侧	tuizaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	腿在某物右侧	tuifangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	脚在某物右侧	jiaozaimouwuyouce	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	脚在某物右侧	jiaofangzaiyouce	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	腿在某物右边	tuizaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned to the right of	腿在某物右边	tuifangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	脚在某物右边	jiaozaimouwuyoubian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned to the right of	脚在某物右边	jiaofangzaiyoubian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned near	腿在某物附近	tuizaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+one leg positioned near	腿在某物附近	tuifangzaifujin	待续写	11000	primary	本项目整理；位置描述
+one foot positioned near	脚在某物附近	jiaozaimouwufujin	待续写	11000	primary	本项目整理；位置描述
+one foot positioned near	脚在某物附近	jiaofangzaifujin	待续写	11000	primary	本项目整理；位置描述
+one leg positioned between	腿在两物之间	tuizailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+one leg positioned between	腿在两物之间	tuifangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned between	脚在两物之间	jiaozailiangwuzhijian	待续写	11000	primary	本项目整理；位置描述
+one foot positioned between	脚在两物之间	jiaofangzaizhijian	待续写	11000	primary	本项目整理；位置描述
+one leg resting on	腿在某物上面	tuizaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+one leg resting on	腿在某物上面	tuifangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting on	脚在某物上面	jiaozaimouwushangmian	待续写	11000	primary	本项目整理；位置描述
+one foot resting on	脚在某物上面	jiaofangzaishangmian	待续写	11000	primary	本项目整理；位置描述
+bathtub	浴缸	yugang	常用词	11000	primary	本项目维护；具体物体浴缸优先显示bathtub

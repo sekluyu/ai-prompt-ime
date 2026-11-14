@@ -66,7 +66,9 @@ function M.func(input, env)
     local label = M.comment(cand, env)
     if label then
       local text = english(cand.text):gsub('([\\()])', '\\%1')
-      if env.engine.context:get_option('booru_separator') then
+      if label:find('〔待续写〕', 1, true) then
+        text = text .. ' '
+      elseif env.engine.context:get_option('booru_separator') then
         text = text .. ','
         if env.engine.context:get_option('booru_space') then text = text .. ' ' end
       end
