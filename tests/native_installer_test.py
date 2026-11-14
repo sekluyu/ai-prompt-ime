@@ -10,7 +10,7 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-FILES = ['booru.schema.yaml', 'booru.dict.yaml', 'booru.tsv', 'lua/booru_filter.lua']
+FILES = ['booru.schema.yaml', 'booru.dict.yaml', 'booru.tsv','booru.annotations.tsv', 'lua/booru_filter.lua']
 spec = importlib.util.spec_from_file_location('legacy_installer', ROOT/'tools/install.py')
 legacy = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(legacy)
@@ -19,6 +19,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--exe', type=Path, required=True)
     parser.add_argument('--source', type=Path, default=ROOT/'rime')
+    parser.add_argument('--previous-exe',type=Path,help='Check upgrading from and rolling back through a pre-index installer')
     args = parser.parse_args()
     # Native PE64, with no CLR header (.NET runtime entry).
     pe = args.exe.read_bytes()
@@ -50,6 +51,20 @@ def main():
         for text in ['MIT License', 'ffdkj', 'Google', 'DeepSeek', 'Physton', 'n714-LICENSE', 'e621-archive-UNLICENSE', 'mtt-search-LICENSE']:
             assert text in license_text
         assert not appdata.exists(), 'Read-only options touched the user directory'
+
+        if args.previous_exe:
+            previous_user=base/'previous-version'
+            subprocess.run([str(args.previous_exe.resolve()),'--user-dir',str(previous_user)],
+                           stdin=subprocess.DEVNULL,capture_output=True,check=True,timeout=30)
+            previous={name:(previous_user/name).read_bytes() for name in FILES if name!='booru.annotations.tsv'}
+            run('--user-dir',previous_user)
+            run('--user-dir',previous_user,'--rollback-latest')
+            for name,data in previous.items():
+                assert (previous_user/name).read_bytes()==data
+            assert not (previous_user/'booru.annotations.tsv').exists()
+            run('--user-dir',previous_user,'--rollback-latest')
+            assert not (previous_user/'booru.tsv').exists()
+            assert not (previous_user/'default.custom.yaml').exists()
 
         installed=run()  # Default APPDATA directory, with the EXE alone and no Python on PATH.
         assert '【安装成功】绘画提示词文件已复制到小狼毫用户文件夹。' in installed.stdout
@@ -114,6 +129,11 @@ def main():
         run('--user-dir', conflict)
         manifest_path = Path((conflict/'booru-last-backup.txt').read_text(encoding='utf-8'))
         m = json.loads(manifest_path.read_text(encoding='utf-8'))
+        missing_index=dict(m,files=[item for item in m['files'] if item['name']!='booru.annotations.tsv'])
+        manifest_path.write_text(json.dumps(missing_index),encoding='utf-8')
+        snapshot = {p.relative_to(conflict).as_posix():p.read_bytes() for p in conflict.rglob('*') if p.is_file()}
+        run('--rollback',manifest_path,ok=False)
+        assert {p.relative_to(conflict).as_posix():p.read_bytes() for p in conflict.rglob('*') if p.is_file()}==snapshot
         m['files'][-1]['name'] = '../unrelated.txt'
         manifest_path.write_text(json.dumps(m), encoding='utf-8')
         snapshot = {p.relative_to(conflict).as_posix():p.read_bytes() for p in conflict.rglob('*') if p.is_file()}

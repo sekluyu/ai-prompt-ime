@@ -1,0 +1,2 @@
+# Generated lookup data is byte-stable; Windows checkout must not add CRLF.
+rime/booru.annotations.tsv -text

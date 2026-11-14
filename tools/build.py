@@ -7,6 +7,7 @@ import re
 from pathlib import Path
 from general_phrases import merge
 from ranking import compiled_weights
+from annotations import write_annotations
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -269,13 +270,14 @@ def build(source=None, output_dir=None, variant='searchable', demo=False):
     clean.sort(key=lambda x:(x['code'],-priorities[(x['tag'],x['code'])],x['tag']))
     out = output_dir or ROOT/'rime'
     out.mkdir(parents=True,exist_ok=True)
-    lines = ['---','name: booru','version: "0.2.6"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
+    lines = ['---','name: booru','version: "0.2.8"','sort: by_weight','use_preset_vocabulary: false','columns: [text, code, weight]','...']
     # Source tags keep their keys; project phrases use a private output prefix.
     lines.extend(f"{r['tag']}\t{r['code']}\t{priorities[(r['tag'],r['code'])]}" for r in clean)
     (out/'booru.dict.yaml').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     with (out/'booru.tsv').open('w',encoding='utf-8',newline='') as f:
         writer=csv.DictWriter(f,fieldnames=['tag','zh','code','weight','role'],delimiter='\t',lineterminator='\n')
         writer.writeheader(); writer.writerows(clean)
+    write_annotations(clean,out/'booru.tsv',out/'booru.annotations.tsv')
     report=dict(source=str(source) if source else 'GPT curated bootstrap (not ffdkj full data)',rows=len(clean),unique_tags=len({r['tag'] for r in clean}),merged_duplicate_rows=duplicate_rows,sha256=hashlib.sha256((out/'booru.tsv').read_bytes()).hexdigest())
     report_dir=out if output_dir is not None else ROOT/'validation/gpt'
     report_dir.mkdir(parents=True,exist_ok=True)

@@ -13,9 +13,9 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.6'
+VERSION='0.2.8'
 LAUNCHER='安装绘画提示词.exe'
-SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','lua/booru_filter.lua']
+SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 
 def check_versions():
     for path, pattern in [
@@ -81,6 +81,12 @@ def main():
     lua=json.loads((validation/'lua-filter-unit.json').read_text(encoding='utf-8'))
     assert lua['status']=='PASS' and lua['lua_sha256']==sha(ROOT/'rime/lua/booru_filter.lua')
     assert lua['dictionary_sha256']==proof['dictionary_sha256']
+    assert lua['annotations_sha256']==sha(ROOT/'rime/booru.annotations.tsv')
+    latency=json.loads((validation/'latency.json').read_text(encoding='utf-8'))
+    assert latency['status']=='PASS' and latency['outputs_identical']
+    assert latency['candidate_lua_sha256']==lua['lua_sha256']
+    assert latency['dictionary_sha256']==proof['dictionary_sha256']
+    assert latency['annotations_sha256']==lua['annotations_sha256']
     pose=json.loads((validation/'pose-phrases.json').read_text(encoding='utf-8'))
     assert pose['status']=='PASS' and pose['dictionary_sha256']==proof['dictionary_sha256']
     assert pose['native_dictionary_sha256']==proof['native_dictionary_sha256']
@@ -96,7 +102,7 @@ def main():
             (folder/'tools').mkdir()
             if variant=='dictionary':
                 shutil.copytree(artifacts/'dictionary',folder/'dictionary')
-                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py','ranking.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
+                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py','ranking.py','annotations.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
                 shutil.copy2(ROOT/'tools/general_phrases.py',folder/'tools/general_phrases.py')
                 shutil.copytree(ROOT/'data',folder/'data')
                 if args.prompt_snapshot:
@@ -123,7 +129,7 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json']:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:
                     mappings=sum(1 for _ in csv.DictReader(stream,delimiter='\t'))

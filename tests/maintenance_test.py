@@ -29,7 +29,7 @@ class MaintenanceTests(unittest.TestCase):
 
     def test_complete_default_build_and_demo_boundary(self):
         originals={name:(ROOT/'rime'/name).read_bytes()
-                   for name in ['booru.tsv','booru.dict.yaml']}
+                   for name in ['booru.tsv','booru.dict.yaml','booru.annotations.tsv']}
         report=ROOT/'validation/gpt/build.json'
         prior_report=report.read_bytes() if report.exists() else None
         with tempfile.TemporaryDirectory(prefix='ime-build-test-') as tmp:

@@ -9,7 +9,7 @@ import time
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','lua/booru_filter.lua']
+FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 def digest(path): return hashlib.sha256(path.read_bytes()).hexdigest()
 
 def updated_config(text):
@@ -38,7 +38,7 @@ def install(user):
     names=FILES+['default.custom.yaml']
     marker=user/'booru-last-backup.txt'
     previous=marker.read_text(encoding='utf-8').strip() if marker.exists() else None
-    manifest={'user_dir':str(user.resolve()),'files':[],'created_at':time.strftime('%Y-%m-%d %H:%M:%S'),'previous_manifest':previous}
+    manifest={'format_version':2,'user_dir':str(user.resolve()),'files':[],'created_at':time.strftime('%Y-%m-%d %H:%M:%S'),'previous_manifest':previous}
     for name in names:
         dest=user/name
         item={'name':name,'existed':dest.exists()}

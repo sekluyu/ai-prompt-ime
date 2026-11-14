@@ -34,9 +34,9 @@ func init() {
 	bundled, bundleError = zip.NewReader(bytes.NewReader(resourceArchive), int64(len(resourceArchive)))
 }
 
-var version = "0.2.6"
+var version = "0.2.8"
 var variant = "default"
-var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "lua/booru_filter.lua"}
+var schemeFiles = []string{"booru.schema.yaml", "booru.dict.yaml", "booru.tsv", "booru.annotations.tsv", "lua/booru_filter.lua"}
 
 type backupFile struct {
 	Name            string `json:"name"`
@@ -45,6 +45,7 @@ type backupFile struct {
 }
 
 type manifest struct {
+	FormatVersion    int          `json:"format_version,omitempty"`
 	UserDir          string       `json:"user_dir"`
 	Files            []backupFile `json:"files"`
 	CreatedAt        string       `json:"created_at"`
@@ -162,7 +163,7 @@ func install(user string) (string, error) {
 	if err := os.Mkdir(backup, 0755); err != nil {
 		return "", err
 	}
-	m := manifest{UserDir: user, CreatedAt: time.Now().Format("2006-01-02 15:04:05"), PreviousManifest: previousPath}
+	m := manifest{FormatVersion: 2, UserDir: user, CreatedAt: time.Now().Format("2006-01-02 15:04:05"), PreviousManifest: previousPath}
 	for _, name := range managedFiles() {
 		target := filepath.Join(user, filepath.FromSlash(name))
 		_, err := os.Stat(target)
@@ -241,6 +242,10 @@ func rollback(manifestPath string) error {
 				return err
 			}
 		}
+	}
+	// Pre-0.2.8 backups predate the generated annotation file.
+	if m.FormatVersion < 2 {
+		delete(allowed, "booru.annotations.tsv")
 	}
 	if len(allowed) != 0 {
 		return errors.New("备份清单缺少方案文件；未执行回滚。")
