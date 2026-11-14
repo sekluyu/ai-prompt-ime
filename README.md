@@ -1,64 +1,80 @@
-# AI 绘画提示词输入方案
+# AI 绘画提示词输入法
 
-基于 Windows 小狼毫（Rime）的离线提示词方案：输入中文拼音，选择英文标签或维护短语，直接填入绘图软件。先自行安装小狼毫；本项目不安装或替换输入法引擎。
+输入中文拼音，选出英文提示词，直接填进 ComfyUI、Stable Diffusion WebUI 或其他绘图软件。基于 Windows 小狼毫（Rime），词库离线运行，不需要 API Key，也不用开翻译网页。
 
-**当前版本：[v0.2.8](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.8)**。完整词库为唯一默认，共 **276,799 条中文拼音映射 / 151,682 个内部词条键**。无需API key、Python、Go或.NET。
+**当前版本：[v0.2.9](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.9)** · 收录 **276,926 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
 
-## v0.2.8 更新
+## 下载和安装
 
-- 正式纳入v0.2.7本地候选的按键延迟修复：全量Lua注释表改为构建期生成的排序文本索引，运行时二分查找。
-- 全部词条、原热度、排序、中文说明、候选去重及分隔符规则保留；新增的注释索引与方案一并安装和回滚。
-- v0.2.7未单独公开发布，v0.2.8是后续正式版本。延迟与验证范围见[性能修复说明](docs/按键延迟修复-0.2.7.md)。
-- 本版本已通过数据、Lua全库对照、隔离引擎性能及安装回滚检查，并获维护者授权发布。本次EXE未记录独立的安全软件扫描结果，不继承v0.2.6的扫描结论。
+先安装[小狼毫输入法](https://github.com/rime/weasel/releases)，再选择下面任意一种安装包：
 
-## 下载与安装
-
-| 附件 | 用途 |
+| 下载 | 说明 |
 |---|---|
-| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.8/ai-prompt-ime-0.2.8-setup.exe) | 单个EXE内置完整方案，无需额外运行环境 |
-| [方案ZIP](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.8/ai-prompt-ime-0.2.8.zip) | 相同安装器、方案、许可与说明，可手动安装 |
-| [SHA256SUMS.txt](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.8/SHA256SUMS.txt) | 校验独立EXE和ZIP |
+| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/ai-prompt-ime-0.2.9-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
+| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/ai-prompt-ime-0.2.9.zip) | 包含相同安装器、词库和使用说明 |
+| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
 
-1. 下载并核对SHA-256，运行安装器。它先备份同名方案和配置，再复制文件。
-2. 成功后右键小狼毫托盘，选择“重新部署”；复制完成不等于新版本已部署。
-3. 按F4或Ctrl＋反引号选择“绘画提示词”，输入`shuangmawei`应得到`twintails, `。
+1. 运行安装器。安装前会备份需要替换的文件，不创建桌面快捷方式。
+2. 右键小狼毫托盘图标，点击“重新部署”。
+3. 按 F4 或 Ctrl＋反引号，切换到“绘画提示词”。
+4. 输入 `danren`，按空格即可得到 `solo, `。
 
-默认使用`%APPDATA%\Rime`；自定义用户目录、手动安装及回滚见[安装与回滚](docs/安装与回滚.md)。回滚使用本版EXE的`--rollback-latest`并重新部署。新版安装器可处理旧备份链，旧版EXE不能回滚新备份格式。
+默认安装到 `%APPDATA%\Rime`。更换目录、手动安装和回滚方法见[安装与回滚](docs/安装与回滚.md)。
 
-## 使用示例
+## 怎么输入
 
-| 中文 | 拼音 | 英文输出（省略分隔符） |
+| 想输入的内容 | 拼音 | 英文输出 |
 |---|---|---|
-| 双马尾 | shuangmawei | twintails |
-| 过膝袜 | guoxiwa | thighhighs |
-| 白发／白头发／白毛 | baifa / baitoufa / baimao | white_hair |
-| 高质量 | gaozhiliang | high quality |
-| 黄白配色 | huangbaipeise | yellow and white color scheme |
-| 金橙与奶油色皮毛 | jinchengyunaiyousepimao | golden orange and cream fur |
-| 左手扶腰 | zuoshoufuyao | left hand resting on hip |
-| 左手扶腰右手摸头 | zuoshoufuyaoyoushoumotou | left hand resting on hip, right hand touching head |
+| 单人 | `danren` | `solo, ` |
+| 双马尾 | `shuangmawei` | `twintails, ` |
+| 低马尾 | `dimawei` | `low_ponytail, ` |
+| 长尾巴 | `changweiba` | `long_tail, ` |
+| 多根尾巴 | `duogenweiba` | `multiple_tails, ` |
+| 错误的腹肌 | `cuowudefuji` | `bad abs, ` |
+| 黄白配色 | `huangbaipeise` | `yellow and white color scheme, ` |
+| 左手扶腰 | `zuoshoufuyao` | `left hand resting on hip, ` |
 
-空格选首项，数字键选择候选，`=`下一页、`-`上一页，Esc取消。默认追加英文逗号和空格；**Ctrl＋Alt＋F9只切换逗号后的空格，逗号保留**。日常聊天通过方案菜单切回原中文方案。
+空格选第一项，数字键选择其他候选；`=` 翻到下一页，`-` 返回上一页，Esc 取消。默认在每次选词后加英文逗号和空格，**Ctrl＋Alt＋F9 可以开关逗号后的空格**。日常聊天时切回原来的中文方案即可。
 
-完整匹配/补全长度优先，同等匹配下主词优先、按中文说明分组。相近含义、泛称别名及空格/下划线不同写法保留，不因近似语义删词。单次候选流按最终英文去重。
+中文入口以完整拼音为主，暂不支持任意中文句子翻译。词库中的英文标签、空格短语和中文别名会一起显示，最终输出相同的候选只显示一次。
 
-## 可选：截图识图与工具箱
+## 一次输入一组常用词
 
-独立项目 **[AI Prompt Vision](https://github.com/sekluyu/ai-prompt-vision)** 提供图片/截图识别、SwinV2与EVA02双模型、选区、标签编辑，以及可修改的全局截图快捷键。
+输入 `zhengmian`，选择基础正面、动漫正面、写实正面、兽人毛发或自然肌肉。输入 `fumian`，选择基础负面、身体结构负面或腹肌负面。基础组合排在第一项，按空格就能一次输入整串。
 
-- [下载识图扩展与工具箱 v0.1.0](https://github.com/sekluyu/ai-prompt-vision/releases/tag/v0.1.0)。
-- 打开工具箱，点“安装/更新识图”即可下载并校验独立扩展；也支持本地ZIP。
-- 识图模型按需下载、不捆绑在本方案。工具箱按需打开；开启截图快捷键后由识图扩展自己驻留托盘。
-- 默认建议截图快捷键Ctrl＋Alt＋F8，可修改，不占用本方案Ctrl＋Alt＋F9。
+基础正面：
 
-识图代码、模型与快捷键不进入Rime，不参与逐键处理。仅使用本输入法的用户无需安装识图扩展。
+```text
+high quality, best quality, ultra-detailed, fine details, sharp focus,
+```
 
-## 来源、许可和边界
+基础负面：
 
-自有代码 **MIT**，署名sekluyu，开发：GPT（Codex）与DeepSeek；第三方许可见[licenses](licenses)及[来源说明](docs/补充词库来源.md)。固定来源包括ffdkj、n714、Physton、e621标签归档及MTT；词表存在未逐条人工审读的翻译和自动拼音。
+```text
+worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text,
+```
 
-完整词库未按成人内容筛除。标签和通用短语不保证所有绘图模型均能理解；本方案不是任意中文整句翻译器，也不自动识别正负提示词框。原始固定数据追溯仍可引用[v0.2.3追溯包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.3/ai-prompt-ime-0.2.3-dictionary.zip)，不重复打包不变的数据库。
+也可以输入 `dongmanzhengmian`、`xieshizhengmian`、`shourenmaofa`、`ziranjirou`、`shentijiegoufumian` 或 `fujifumian`，直接查找对应组合。[查看所有组合和本次新增词](docs/词库更新-0.2.9.md)。
 
-只交付和验证Windows小狼毫方案；源码不捆绑小狼毫/librime引擎、原始数据库或发布二进制。
+请先点选绘图软件的正面或负面输入框，再选词。输入法不会自动切换输入框。这些组合是方便起步的常用写法，具体效果取决于所用模型；自然肌肉和腹肌负面中也有尚未做出图对比的描述短语。
 
-[项目手册](docs/项目手册.md) · [开发与发布](docs/开发与发布.md) · [姿势与双手动作](docs/姿势与双手动作.md) · [更新记录](CHANGELOG.md)
+## 这次更新了什么
+
+- 修正马尾、长尾巴等词的拼音，保留原有正常入口。
+- 移除“腹肌→绝对领域”“双马尾→实体双尾”的错误对应，补明容易误解的中文说明。
+- 补充多根尾巴、腹肌错误等常用说法，以及身体结构、毛发和光照相关词。
+- 加入 8 组正面、负面常用组合，一次选择就能输入整串。
+
+详细变化见[更新记录](CHANGELOG.md)。词库仍有从上游继承的自动翻译和拼音；遇到不合适的词，可以在 [Issues](https://github.com/sekluyu/ai-prompt-ime/issues) 中附上输入拼音、候选中文和实际英文。
+
+## 可选：截图识图
+
+[AI Prompt Vision](https://github.com/sekluyu/ai-prompt-vision) 可以读取图片、框选截图并生成标签，支持 SwinV2 和 EVA02。它是独立程序，模型不进入 Rime，也不参与输入法按键处理。
+
+建议识图截图快捷键用 Ctrl＋Alt＋F8，输入法保留 Ctrl＋Alt＋F9。只使用输入法时，无需安装识图程序或下载模型。
+
+## 来源与许可
+
+项目代码采用 MIT 许可，维护者：sekluyu，开发协助：GPT（Codex）、DeepSeek。词库参考 ffdkj、n714、Physton、e621 标签归档及 MTT，并包含本项目整理的中文别名和短语。各来源许可见 [licenses](licenses)，数据来源见[来源说明](docs/补充词库来源.md)。词库包含成人相关标签。
+
+开发和重建方法见[项目手册](docs/项目手册.md)。

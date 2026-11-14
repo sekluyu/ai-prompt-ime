@@ -2,6 +2,7 @@
 import csv
 import gzip
 from pathlib import Path
+from term_repairs import repair_rows, expansion_rows
 
 ROOT = Path(__file__).resolve().parents[1]
 MARKER = '〔通用短语〕'
@@ -33,10 +34,10 @@ def color_rows():
 
 def merge(base_rows, variant='searchable'):
     # Regeneration replaces only this project's explicitly marked phrase layer.
-    original = [r for r in base_rows if not r['tag'].startswith(PREFIX)]
+    original = repair_rows([r for r in base_rows if not r['tag'].startswith(PREFIX)])
     existing={(r['tag'],r['code']) for r in original}
-    imported=[r for r in library_rows(variant) if (r['tag'].removeprefix(PREFIX),r['code']) not in existing]
-    return original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+pose_rows()+imported
+    imported=[r for r in repair_rows(library_rows(variant)) if (r['tag'].removeprefix(PREFIX),r['code']) not in existing]
+    return repair_rows(original+color_rows()+fur_color_rows()+prompt_rows()+slang_rows()+pose_rows()+imported+expansion_rows())
 
 def prompt_rows():
     source=ROOT/'data/general_prompts.tsv'

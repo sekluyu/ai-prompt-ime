@@ -79,7 +79,7 @@ class MaintenanceTests(unittest.TestCase):
                 self.assertEqual(hashlib.sha256(archive.read(prefix+name)).hexdigest(),digest)
             readme=archive.read(prefix+'README.md').decode('utf-8')
             self.assertNotIn('尚未发布GitHub',readme)
-            self.assertIn('打包操作不代表已验收或发布',readme)
+            self.assertIn('再从小狼毫托盘重新部署',readme)
             self.assertFalse(any('/dictionary/' in name for name in archive.namelist()))
             for name in package_release.SCHEME_FILES:
                 self.assertEqual(archive.read(prefix+'rime/'+name),(ROOT/'rime'/name).read_bytes())

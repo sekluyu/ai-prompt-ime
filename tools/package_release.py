@@ -13,7 +13,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.8'
+VERSION='0.2.9'
 LAUNCHER='安装绘画提示词.exe'
 SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 
@@ -90,6 +90,9 @@ def main():
     pose=json.loads((validation/'pose-phrases.json').read_text(encoding='utf-8'))
     assert pose['status']=='PASS' and pose['dictionary_sha256']==proof['dictionary_sha256']
     assert pose['native_dictionary_sha256']==proof['native_dictionary_sha256']
+    repairs=json.loads((validation/'term-repairs.json').read_text(encoding='utf-8'))
+    assert repairs['status']=='PASS' and repairs['dictionary_sha256']==proof['dictionary_sha256']
+    assert repairs['engine_pairs_checked']>0
     archives=[]
     for variant in (['default','dictionary'] if args.include_dictionary else ['default']):
         name=f'ai-prompt-ime-{VERSION}'+('' if variant=='default' else '-'+variant)
@@ -102,7 +105,7 @@ def main():
             (folder/'tools').mkdir()
             if variant=='dictionary':
                 shutil.copytree(artifacts/'dictionary',folder/'dictionary')
-                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py','ranking.py','annotations.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
+                for tool in ['convert_dictionary.py','build.py','import_prompt_libraries.py','ranking.py','annotations.py','term_repairs.py']:shutil.copy2(ROOT/'tools'/tool,folder/'tools'/tool)
                 shutil.copy2(ROOT/'tools/general_phrases.py',folder/'tools/general_phrases.py')
                 shutil.copytree(ROOT/'data',folder/'data')
                 if args.prompt_snapshot:
@@ -129,11 +132,11 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json','term-repairs.json']:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:
                     mappings=sum(1 for _ in csv.DictReader(stream,delimiter='\t'))
-                prefix='> 本附件为 '+VERSION+' 方案安装包，完整词库为唯一默认，共 '+str(mappings)+' 条拼音映射。双击本包的 `安装绘画提示词.exe`，无需 Python。打包操作不代表已验收或发布；公开版本与验收状态以对应GitHub Release为准。\n\n'
+                prefix='> '+VERSION+' 安装包，收录 '+str(mappings)+' 条拼音映射。双击 `安装绘画提示词.exe` 安装，再从小狼毫托盘重新部署。\n\n'
                 (folder/'README.md').write_text(prefix+(ROOT/'README.md').read_text(encoding='utf-8'),encoding='utf-8')
             if variant!='dictionary' and not (folder/LAUNCHER).is_file():
                 raise FileNotFoundError('Installer is unavailable; refusing to produce an incomplete scheme archive')

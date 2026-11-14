@@ -14,6 +14,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 import general_phrases as phrases
+from term_repairs import repair_rows
 
 def main():
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--engine',action='store_true');a=p.parse_args()
@@ -40,7 +41,7 @@ def main():
         import io
         baseline=subprocess.check_output(['git','show','v0.2.2:rime/booru.tsv'],cwd=ROOT).decode('utf-8')
         old=list(csv.DictReader(io.StringIO(baseline),delimiter='\t'))
-        for row in old:
+        for row in repair_rows(old):
             if not row['tag'].startswith(phrases.PREFIX):
                 actual=by_output[(row['code'],row['tag'])]
                 assert int(actual['weight'])>=int(row['weight'])

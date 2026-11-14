@@ -7,16 +7,17 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from ranking import chinese_group,compiled_weights
 from general_phrases import slang_rows,pose_rows,PREFIX
+from term_repairs import repair_rows, expansion_rows, repair_target_keys
 
 def main():
     baseline=subprocess.check_output(['git','show','v0.2.3:rime/booru.tsv'],cwd=ROOT)
     old=list(csv.DictReader(io.StringIO(baseline.decode('utf-8-sig')),delimiter='\t'))
     with (ROOT/'rime/booru.tsv').open(encoding='utf-8-sig',newline='') as stream:rows=list(csv.DictReader(stream,delimiter='\t'))
     lookup=lambda row:(row['code'],row['tag'].removeprefix(PREFIX))
-    previous={lookup(row):row for row in old};current={lookup(row):row for row in rows}
+    previous={lookup(row):row for row in repair_rows(old)};current={lookup(row):row for row in rows}
     assert len(rows)==len(current),'Duplicate final output for one pinyin'
     assert set(previous)<=set(current),'An existing lookup/output was removed'
-    allowed={lookup(row) for row in slang_rows()+pose_rows()}
+    allowed={lookup(row) for row in slang_rows()+pose_rows()+expansion_rows()} | repair_target_keys()
     assert set(current)-set(previous)==allowed-set(previous),'Unexpected extra lookup'
     for key,row in current.items():
         assert row['role'] in {'primary','alias'} and re.fullmatch('[a-z]+',row['code'])
@@ -54,7 +55,7 @@ def main():
     sample_codes=['huli','baifa','baisepimao','jiezuo','zhilianggenggao','bi','piyan','jiba','diao','pigu']
     preview={code:[{'english':lookup(row)[1],'zh':row['zh'],'role':row['role'],'original_weight':int(row['weight'])} for row in ordered(code)] for code in sample_codes}
     sha=lambda path:hashlib.sha256(path.read_bytes()).hexdigest()
-    report={'status':'PASS','baseline_ref':'v0.2.3','baseline_rows':len(old),'rows':len(rows),'added_lookup_pairs':sorted([list(key) for key in set(current)-set(previous)]),'all_prior_lookup_pairs_preserved':True,'old_heat_preserved_except_explicit_slang_rows':True,'primary_before_alias_for_all_codes':True,'chinese_groups_contiguous_within_tier':True,'native_dictionary_sha256':sha(ROOT/'rime/booru.dict.yaml'),'dictionary_sha256':sha(ROOT/'rime/booru.tsv'),'lua_sha256':sha(ROOT/'rime/lua/booru_filter.lua'),'preview':preview,'scope':'compiled dictionary ordering and data coverage only; native exact-before-prefix behavior uses librime; no Rime session or key events'}
+    report={'status':'PASS','baseline_ref':'v0.2.3','baseline_rows':len(old),'rows':len(rows),'added_lookup_pairs':sorted([list(key) for key in set(current)-set(previous)]),'prior_lookup_pairs_preserved_after_reviewed_repairs':True,'unrelated_old_heat_preserved':True,'primary_before_alias_for_all_codes':True,'chinese_groups_contiguous_within_tier':True,'native_dictionary_sha256':sha(ROOT/'rime/booru.dict.yaml'),'dictionary_sha256':sha(ROOT/'rime/booru.tsv'),'lua_sha256':sha(ROOT/'rime/lua/booru_filter.lua'),'preview':preview,'scope':'compiled dictionary ordering and data coverage only; native exact-before-prefix behavior uses librime; no Rime session or key events'}
     target=ROOT/'validation/gpt/ranking-slang.json'
     target.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps({k:v for k,v in report.items() if k!='preview'},ensure_ascii=False))

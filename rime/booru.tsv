@@ -4435,7 +4435,7 @@ __prompt__:porom	白法师〔合并词库〕	baifashi	2134	alias
 __prompt__:kohaku_yuri	白法师〔合并词库〕	baifashi	2080	alias
 __prompt__:white_mage_(final_fantasy)_(cosplay)	白法师〔合并词库〕	baifashi	2009	alias
 __prompt__:white_hairband	白发束〔e621〕	baifashu	4739	alias
-__prompt__:maia_(blue_archive)	白发双马尾〔合并词库〕	baifashuangmayi	2199	alias
+__prompt__:maia_(blue_archive)	白发双马尾〔合并词库〕	baifashuangmawei	2199	alias
 __prompt__:white_highlights	白发挑染〔e621〕	baifatiaoran	3428	alias
 __prompt__:white_pseudo_hair	白发装饰〔e621〕	baifazhuangshi	2454	alias
 baifeidaiwang	白飞大王	baifeidawang	2233	primary
@@ -8375,6 +8375,9 @@ zebra_boy	斑马少年	banmashaonian	1256	primary
 __prompt__:zebra_girl	斑马少女〔合并词库〕	banmashaonv	2402	alias
 __prompt__:equine_taur	半马生物〔e621〕	banmashengwu	2973	alias
 __prompt__:zebra	斑马兽〔e621〕	banmashou	4301	alias
+zebra_tail	斑马尾	banmawei	2319	primary
+__prompt__:one_side_up	半马尾〔合并词库〕	banmawei	5136	alias
+__prompt__:half_updo	半马尾〔合并词库〕	banmawei	4732	alias
 zebra_print	斑马纹	banmawen	3020	primary
 __prompt__:zebra print	斑马纹〔提示词库〕	banmawen	5001	alias
 __prompt__:animal_print	斑马纹〔e621〕	banmawen	4956	alias
@@ -8383,9 +8386,6 @@ __prompt__:zebra_print	斑马纹印花〔e621〕	banmawenyinhua	2971	alias
 __prompt__:zecora_(mlp)	斑马巫师〔e621〕	banmawushi	3412	alias
 __prompt__:crosswalk	斑马线〔e621〕	banmaxian	3519	alias
 __prompt__:bill_(hladilnik)	斑马消防员比尔〔e621〕	banmaxiaofangyuanbier	2191	alias
-zebra_tail	斑马尾	banmayi	2319	primary
-__prompt__:one_side_up	半马尾〔合并词库〕	banmayi	5136	alias
-__prompt__:half_updo	半马尾〔合并词库〕	banmayi	4732	alias
 __prompt__:zebra_tail	斑马尾巴〔合并词库〕	banmayiba	2288	alias
 __prompt__:zebra_print	斑马印花〔提示词库〕	banmayinhua	5001	alias
 shimauma_hikuuma	斑马引马	banmayinma	1205	primary
@@ -8548,6 +8548,7 @@ half_chest_guard	半身胸甲	banshenxiongjia	2272	primary
 __prompt__:half_submerged	半身淹没〔e621〕	banshenyanmo	2464	alias
 __prompt__:partially_behind_glass	半身在玻璃后〔e621〕	banshenzaibolihou	2343	alias
 __prompt__:partially_offscreen_character	半身在画面外〔e621〕	banshenzaihuamianwai	2261	alias
+__prompt__:upper_body	半身照〔常用词〕	banshenzhao	10000	primary
 __prompt__:lamia	半蛇人〔e621〕	bansheren	3783	alias
 __prompt__:snake_naga	半蛇人〔e621〕	bansheren	2314	alias
 __prompt__:lynel	半狮半马生物〔e621〕	banshibanmashengwu	2569	alias
@@ -8840,7 +8841,7 @@ half_up_hair_twist	半扎扭转辫	banzhaniuzhuanbian	1432	primary
 __prompt__:half-spread_vulva	半展阴唇〔e621〕	banzhanyinchun	2782	alias
 balconette_bra	半罩杯文胸	banzhaobeiwenxiong	1256	primary
 __prompt__:shelf_bra	半罩杯文胸〔e621〕	banzhaobeiwenxiong	2529	alias
-two_side_up	半扎双马尾	banzhashuangmayi	5407	primary
+two_side_up	半扎双马尾	banzhashuangmawei	5407	primary
 half_up_bun	半扎丸子头	banzhawanzitou	2516	primary
 __prompt__:half_naked	半遮半露〔e621〕	banzhebanlu	3460	alias
 lowered_eyelids	半睁眼	banzhengyan	2508	primary
@@ -11148,6 +11149,7 @@ __prompt__:back-tie_clothing	背部系带上衣〔e621〕	beibujidaishangyi	2965
 cum_on_back	背部精液	beibujingye	3049	primary
 back_muscles	背部肌肉	beibujirou	2950	primary
 __prompt__:trapezius	背部肌肉〔e621〕	beibujirou	3394	alias
+__prompt__:back_muscles	背部肌肉线条〔常用词〕	beibujirouxiantiao	10000	primary
 back_cutout	背部开口	beibukaikou	4000	primary
 __prompt__:bare_back	背部可见〔e621〕	beibukejian	4328	alias
 hole_in_back	背部孔洞	beibukongdong	1343	primary
@@ -11591,6 +11593,7 @@ holding_behind_back	背后持物	beihouchiwu	3885	primary
 holding_weapon_behind_back	背后持武器	beihouchiwuqi	3701	primary
 __prompt__:groping_from_behind	背后触碰敏感部位〔e621〕	beihouchupengminganbuwei	3358	alias
 __prompt__:back_tentacles	背后触手〔e621〕	beihouchushou	3162	alias
+__prompt__:backlighting	背后打光〔常用词〕	beihoudaguang	10000	primary
 __prompt__:sack_behind_back	背后的袋子〔合并词库〕	beihoudedaizi	2018	alias
 __prompt__:bow_in_back	背后的蝴蝶结〔e621〕	beihoudehudiejie	2654	alias
 __prompt__:sword_on_back	背后的剑〔e621〕	beihoudejian	3800	alias
@@ -13158,14 +13161,14 @@ __prompt__:dutch_braided_ponytail	编发〔合并词库〕	bianfa	2263	alias
 braided_sidelock	编发鬓角	bianfabinjiao	3488	primary
 __prompt__:braided_sidelocks	编发侧鬓〔合并词库〕	bianfacebin	3333	alias
 __prompt__:braided_sidelock	编发侧发〔合并词库〕	bianfacefa	3486	alias
-__prompt__:ponytail_with_braided_base	编发底座马尾〔合并词库〕	bianfadizuomayi	3322	alias
+__prompt__:ponytail_with_braided_base	编发底座马尾〔合并词库〕	bianfadizuomawei	3322	alias
 braided_bun	编发发髻	bianfafaji	4230	primary
-side_ponytail_with_braided_base	编发基底侧马尾	bianfajidicemayi	2813	primary
-__prompt__:twintails_with_braided_base	编发基底的双马尾〔合并词库〕	bianfajidideshuangmayi	2489	alias
-twintails_with_braided_base	编发基底双马尾	bianfajidishuangmayi	3038	primary
+side_ponytail_with_braided_base	编发基底侧马尾	bianfajidicemawei	2813	primary
+__prompt__:twintails_with_braided_base	编发基底的双马尾〔合并词库〕	bianfajidideshuangmawei	2489	alias
+twintails_with_braided_base	编发基底双马尾	bianfajidishuangmawei	3038	primary
 bun_with_braided_base	编发基底丸子头	bianfajidiwanzitou	4038	primary
 braided_bangs	编发刘海	bianfaliuhai	4270	primary
-braided_twintails	编发双马尾	bianfashuangmayi	3755	primary
+braided_twintails	编发双马尾	bianfashuangmawei	3755	primary
 ribbon_in_braid	编发丝带	bianfasidai	3553	primary
 __prompt__:bun_with_braided_base	编发丸子头〔合并词库〕	bianfawanzitou	3953	alias
 braided_hair_rings	编发圆环	bianfayuanhuan	4217	primary
@@ -13336,8 +13339,8 @@ binsen	便笺	bianjian	2889	primary
 zoom_lens	变焦镜头	bianjiaojingtou	1545	primary
 __prompt__:cucujoid	扁甲下目〔e621〕	bianjiaxiamu	2896	alias
 __prompt__:cucujoid	扁甲总科〔e621〕	bianjiazongke	2896	alias
-__prompt__:braided_ponytail	编结马尾〔e621〕	bianjiemayi	4657	alias
-__prompt__:single_braid	编结马尾〔e621〕	bianjiemayi	2827	alias
+__prompt__:braided_ponytail	编结马尾〔e621〕	bianjiemawei	4657	alias
+__prompt__:single_braid	编结马尾〔e621〕	bianjiemawei	2827	alias
 __prompt__:convenient_leg	便捷腿〔合并词库〕	bianjietui	3952	alias
 __prompt__:limbus_company	边际公司〔e621〕	bianjigongsi	4483	alias
 border_break	边境保卫战	bianjingbaoweizhan	2368	primary
@@ -13880,6 +13883,7 @@ __prompt__:edging	边缘刺激〔e621〕	bianyuanciji	3577	alias
 __prompt__:dripping_contour	边缘滴落效果〔e621〕	bianyuandiluoxiaoguo	2341	alias
 the_marginal_service	边缘服务	bianyuanfuwu	1279	primary
 __prompt__:outer_highlight	边缘高光〔e621〕	bianyuangaoguang	2831	alias
+__prompt__:rim lighting	边缘光〔常用词〕	bianyuanguang	10000	primary
 __prompt__:rim_light	边缘光〔e621〕	bianyuanguang	2895	alias
 __prompt__:rim_lighting	边缘光〔e621〕	bianyuanguang	2182	alias
 bian_yuan_mei	边缘妹	bianyuanmei	1362	primary
@@ -13915,8 +13919,8 @@ __prompt__:braided_pseudo_hair	编织假发〔e621〕	bianzhijiafa	2030	alias
 __prompt__:basket	编织篮〔e621〕	bianzhilan	4394	alias
 __prompt__:braided_bangs	编织刘海〔合并词库〕	bianzhiliuhai	4212	alias
 __prompt__:ball_of_yarn	编织毛线球〔e621〕	bianzhimaoxianqiu	2920	alias
-__prompt__:braided_ponytail	编织马尾〔e621〕	bianzhimayi	4657	alias
-__prompt__:single_braid	编织马尾〔e621〕	bianzhimayi	2827	alias
+__prompt__:braided_ponytail	编织马尾〔e621〕	bianzhimawei	4657	alias
+__prompt__:single_braid	编织马尾〔e621〕	bianzhimawei	2827	alias
 __prompt__:woven_hatching	编织排线〔合并词库〕	bianzhipaixian	2046	alias
 __prompt__:wicker_basket	编织容器〔e621〕	bianzhirongqi	2432	alias
 tsumugu_otome_to_taishou_no_tsuki	编织少女与大正之月	bianzhishaonvyudazhengzhiyue	1682	primary
@@ -13924,7 +13928,7 @@ __prompt__:braided_pseudo_hair	编织式假发髻〔e621〕	bianzhishijiafaji	20
 spoiled_food	变质食物	bianzhishiwu	1177	primary
 __prompt__:wickerbeast	编织兽〔e621〕	bianzhishou	3300	alias
 __prompt__:beaded_bracelet	编织手链〔e621〕	bianzhishoulian	2842	alias
-__prompt__:braided_pigtails	编织双马尾〔e621〕	bianzhishuangmayi	3370	alias
+__prompt__:braided_pigtails	编织双马尾〔e621〕	bianzhishuangmawei	3370	alias
 __prompt__:braiding_another's_hair	编织他人头发〔合并词库〕	bianzhitarentoufa	2038	alias
 __prompt__:amigurumi	编织玩偶〔提示词库〕	bianzhiwanou	5001	alias
 __prompt__:braided_tail	编织尾〔e621〕	bianzhiwei	2877	alias
@@ -14000,10 +14004,10 @@ braided_mustache	辫子胡	bianzihu	1771	primary
 __prompt__:braided_beard	辫子胡须〔e621〕	bianzihuxu	3006	alias
 __prompt__:braided_pseudo_hair	辫子假发〔e621〕	bianzijiafa	2030	alias
 __prompt__:braided bangs	辫子刘海〔提示词库〕	bianziliuhai	5001	alias
-__prompt__:braided_ponytail	辫子马尾〔e621〕	bianzimayi	4657	alias
-__prompt__:single_braid	辫子马尾〔e621〕	bianzimayi	2827	alias
+__prompt__:braided_ponytail	辫子马尾〔e621〕	bianzimawei	4657	alias
+__prompt__:single_braid	辫子马尾〔e621〕	bianzimawei	2827	alias
 __prompt__:wanderer_(ragnarok_online)	鞭子使用者〔合并词库〕	bianzishiyongzhe	2758	alias
-__prompt__:braided_pigtails	辫子双马尾〔e621〕	bianzishuangmayi	3370	alias
+__prompt__:braided_pigtails	辫子双马尾〔e621〕	bianzishuangmawei	3370	alias
 daenngi_meori	辫子头	bianzitou	1343	primary
 __prompt__:dreadlocks	辫子头〔e621〕	bianzitou	4124	alias
 __prompt__:masturbating_while_rimmed	边自慰边被舔肛〔e621〕	bianziweibianbeitiangang	2241	alias
@@ -14892,6 +14896,7 @@ __prompt__:bilibili_logo	哔哩哔哩标志〔合并词库〕	bilibilibiaozhi	23
 bilibili_sample	哔哩哔哩示例图	bilibilishilitu	1080	primary
 bilibili_xiaolu	哔哩哔哩小鹿	bilibilixiaolu	2499	primary
 __prompt__:bilibili_username	哔哩哔哩用户名〔合并词库〕	bilibiliyonghuming	2592	alias
+__prompt__:bad proportions	比例错误〔负面词〕	bilicuowu	10000	primary
 __prompt__:billie_bust_up	比利大乱斗〔e621〕	bilidaluandou	2349	alias
 __prompt__:micro_in_clothes	比例对比〔e621〕	biliduibi	2272	alias
 __prompt__:billy_herrington	比利海灵顿〔合并词库〕	bilihailingdun	2188	alias
@@ -15850,6 +15855,7 @@ __prompt__:snot_bubble	鼻涕泡〔e621〕	bitipao	2874	alias
 __prompt__:snot_bubble	鼻涕泡泡〔e621〕	bitipaopao	2874	alias
 __prompt__:snot_bubble	鼻涕气泡〔e621〕	bitiqipao	2874	alias
 pen_holder	笔筒	bitong	2128	primary
+__prompt__:nose	鼻头〔常用词〕	bitou	10000	primary
 nose_pads	鼻托	bituo	2577	primary
 __prompt__:arm_around_back	臂弯〔e621〕	biwan	3273	alias
 __prompt__:entwined_arms	臂弯交握〔e621〕	biwanjiaowo	2114	alias
@@ -17221,7 +17227,7 @@ mismatched_pasties	不对称乳贴	buduichengrutie	2179	primary
 asymmetrical_pasties	不对称乳贴	buduichengrutie	1323	primary
 asymmetrical_gloves	不对称设计手套	buduichengshejishoutao	4406	primary
 mismatched_animal_ears	不对称兽耳	buduichengshouer	1256	primary
-uneven_twintails	不对称双马尾	buduichengshuangmayi	3304	primary
+uneven_twintails	不对称双马尾	buduichengshuangmawei	3304	primary
 __prompt__:asymmetrical_bondage	不对称束缚〔e621〕	buduichengshufu	2165	alias
 mismatched_sailor_collar	不对称水手领	buduichengshuishouling	1323	primary
 __prompt__:half-shaved_head	不对称剃头〔e621〕	buduichengtitou	2353	alias
@@ -17414,6 +17420,7 @@ __prompt__:asymmetrical_horns	不均匀犄角〔e621〕	bujunyunjijiao	3921	alia
 __prompt__:eclectic interior design	不拘一格的室内设计〔提示词库〕	bujuyigedeshineisheji	5001	alias
 burqa	布卡	buka	1231	primary
 __prompt__:open_frown	不开心张嘴〔e621〕	bukaixinzhangzui	3408	alias
+__prompt__:looking_away	不看镜头〔常用词〕	bukanjingtou	10000	primary
 __prompt__:azusa_(blue_archive)	补考部〔合并词库〕	bukaobu	3528	alias
 __prompt__:ambiguous_oral	不可辨别口交〔e621〕	bukebianbiekoujiao	2185	alias
 __prompt__:koharu_(blue_archive)	补课部〔合并词库〕	bukebu	3975	alias
@@ -17578,6 +17585,7 @@ __prompt__:skimpy_bikini	布料少比基尼〔e621〕	buliaoshaobijini	3596	alia
 __prompt__:skimpy_topwear	布料少的上衣〔e621〕	buliaoshaodeshangyi	2467	alias
 __prompt__:fabric_creature	布料生物〔e621〕	buliaoshengwu	2599	alias
 __prompt__:fabric_creature	布料生物体〔e621〕	buliaoshengwuti	2599	alias
+__prompt__:fabric texture	布料纹理〔常用词〕	buliaowenli	10000	primary
 __prompt__:wrinkled_fabric	布料纹理〔合并词库〕	buliaowenli	2692	alias
 __prompt__:wrinkles	布料褶皱〔e621〕	buliaozhezhou	3937	alias
 __prompt__:wrinkles_in_clothes	布料褶皱〔e621〕	buliaozhezhou	2265	alias
@@ -17767,6 +17775,7 @@ __prompt__:boom_boom	不明兽类〔e621〕	bumingshoulei	2265	alias
 what	不明所以	bumingsuoyi	3670	primary
 __prompt__:unknown_text	不明文字〔e621〕	bumingwenzi	2121	alias
 __prompt__:unknown_species	不明物种〔e621〕	bumingwuzhong	4434	alias
+__prompt__:subtle muscle definition	不明显的肌肉线条〔常用词〕	bumingxiandejirouxiantiao	10000	primary
 __prompt__:ambiguous_fluids	不明液体〔e621〕	bumingyeti	3970	alias
 ominous_shadow	不明阴影	bumingyinying	2407	primary
 __prompt__:bad_idea	不明智的选择〔e621〕	bumingzhidexuanze	2050	alias
@@ -20391,7 +20400,7 @@ __prompt__:side_belly	侧腹视角〔e621〕	cefushijiao	2533	alias
 sidelighting	侧光	ceguang	4140	primary
 __prompt__:side_halo	侧光环〔合并词库〕	ceguanghuan	2458	alias
 braid_over_shoulder	侧肩辫	cejianbian	3059	primary
-ponytail_over_shoulder	侧肩马尾	cejianmayi	1733	primary
+ponytail_over_shoulder	侧肩马尾	cejianmawei	1733	primary
 side_horns	侧角	cejiao	2210	primary
 side-tie	侧系带	cejidai	2030	primary
 side-tie_vest	侧系带背心	cejidaibeixin	1708	primary
@@ -20502,11 +20511,11 @@ __prompt__:advance_wars	策略游戏〔e621〕	celveyouxi	2337	alias
 __prompt__:sd_gundam_g_generation	策略游戏〔合并词库〕	celveyouxi	2199	alias
 __prompt__:youkai_hyakki-tan!	策略游戏〔合并词库〕	celveyouxi	2094	alias
 __prompt__:triangle_strategy	策略游戏〔合并词库〕	celveyouxi	2026	alias
-side_ponytail	侧马尾	cemayi	5382	primary
-__prompt__:Side ponytail	侧马尾〔提示词库〕	cemayi	5001	alias
-__prompt__:side ponytail	侧马尾〔提示词库〕	cemayi	5001	alias
-__prompt__:side_ponytail_with_braided_base	侧马尾〔合并词库〕	cemayi	2504	alias
-__prompt__:side_ponytail_with_hair_base	侧马尾〔合并词库〕	cemayi	2383	alias
+side_ponytail	侧马尾	cemawei	5382	primary
+__prompt__:Side ponytail	侧马尾〔提示词库〕	cemawei	5001	alias
+__prompt__:side ponytail	侧马尾〔提示词库〕	cemawei	5001	alias
+__prompt__:side_ponytail_with_braided_base	侧马尾〔合并词库〕	cemawei	2504	alias
+__prompt__:side_ponytail_with_hair_base	侧马尾〔合并词库〕	cemawei	2383	alias
 horse_pose	策马姿势	cemazishi	2284	primary
 __prompt__:profile	侧面〔e621〕	cemian	5227	alias
 __prompt__:side_view	侧面〔e621〕	cemian	4981	alias
@@ -20726,7 +20735,7 @@ __prompt__:side_profile	侧影〔合并词库〕	ceying	2362	alias
 __prompt__:silhouette_background	侧影背景〔e621〕	ceyingbeijing	2339	alias
 __prompt__:silhouetted_body	侧影身体〔e621〕	ceyingshenti	3004	alias
 __prompt__:side_hug	侧拥抱〔e621〕	ceyongbao	2489	alias
-__prompt__:side_ponytail	侧扎马尾〔e621〕	cezhamayi	5348	alias
+__prompt__:side_ponytail	侧扎马尾〔e621〕	cezhamawei	5348	alias
 side_triceps_pose	侧展肱三头肌姿势	cezhangongsantoujizishi	1080	primary
 side_chest_pose	侧展胸肌姿势	cezhanxiongjizishi	2057	primary
 __prompt__:head_on_pillow	侧枕〔e621〕	cezhen	3966	alias
@@ -21114,6 +21123,19 @@ __prompt__:uneven_legwear	长短袜〔提示词库〕	changduanwa	5001	alias
 uneven_sleeves	长短袖	changduanxiu	3681	primary
 length_markings	长度刻度	changdukedu	2588	primary
 chang'e	嫦娥	change	1935	primary
+__prompt__:tall_ears	长耳〔e621〕	changer	2185	alias
+__prompt__:turo_of_akesh	长耳蝙蝠角色〔e621〕	changerbianfujuese	2568	alias
+long_earlobes	长耳垂	changerchui	3318	primary
+__prompt__:long_ears	长耳朵〔e621〕	changerduo	4996	alias
+__prompt__:tall_ears	长耳朵角色〔e621〕	changerduojuese	2185	alias
+__prompt__:long_inner_ear_fluff	长耳内绒毛〔e621〕	changerneirongmao	2427	alias
+__prompt__:lagomorph_humanoid	长耳人〔e621〕	changerren	4091	alias
+__prompt__:jerboa	长耳跳鼠〔e621〕	changertiaoshu	3320	alias
+__prompt__:lopunny	长耳兔〔e621〕	changertu	4280	alias
+__prompt__:mega_lopunny	长耳兔〔e621〕	changertu	3374	alias
+__prompt__:lopunny	长耳兔宝可梦〔e621〕	changertubaokemeng	4280	alias
+__prompt__:eared_owl	长耳鸮属〔e621〕	changerxiaoshu	2114	alias
+__prompt__:pendant_earrings	长耳坠〔合并词库〕	changerzhui	2699	alias
 long_hair	长发	changfa	10000	primary
 chouhatsu_(l_hair)	长发	changfa	1448	primary
 intestine_hair	肠发	changfa	1663	primary
@@ -21151,7 +21173,7 @@ __prompt__:rectangular_pupils	长方形瞳孔〔提示词库〕	changfangxington
 rectangular_eyewear	长方形眼镜	changfangxingyanjing	4060	primary
 __prompt__:rectangular_glasses	长方形眼镜〔e621〕	changfangxingyanjing	3759	alias
 __prompt__:long_mane	长发飘飘〔e621〕	changfapiaopiao	3333	alias
-__prompt__:long_ponytail	长发扎马尾〔e621〕	changfazhamayi	2657	alias
+__prompt__:long_ponytail	长发扎马尾〔e621〕	changfazhamawei	2657	alias
 __prompt__:hair_covering_breasts	长发遮胸〔e621〕	changfazhexiong	2901	alias
 __prompt__:sing	唱歌〔提示词库〕	changge	5001	alias
 __prompt__:singing	唱歌〔提示词库〕	changge	5001	alias
@@ -21180,8 +21202,17 @@ __prompt__:kano_(utaite)	唱见〔合并词库〕	changjian	2310	alias
 __prompt__:vesper_bat	常见蝙蝠〔e621〕	changjianbianfu	2241	alias
 __prompt__:goomba	常见敌人〔e621〕	changjiandiren	3130	alias
 __prompt__:typical_carp	常见鲤〔e621〕	changjianli	3084	alias
+long_horns	长角	changjiao	3312	primary
+__prompt__:long_horn	长角〔e621〕	changjiao	3344	alias
+longhorn_lance	长角长枪	changjiaochangqiang	1545	primary
+__prompt__:horned_humanoid	长角的类人〔e621〕	changjiaodeleiren	4520	alias
+__prompt__:horn_growth	长角过程〔e621〕	changjiaoguocheng	3150	alias
+__prompt__:hell_knight	长角肌肉敌人〔e621〕	changjiaojiroudiren	2452	alias
+jackalope	长角兔	changjiaotu	1699	primary
 __prompt__:long_dildo	长假阳具〔e621〕	changjiayangju	2422	alias
 clapperboard	场记板	changjiban	2572	primary
+__prompt__:long neck	长颈〔负面词〕	changjing	5001	alias
+__prompt__:long_neck	长颈〔e621〕	changjing	4320	alias
 __prompt__:cum_taste	尝精〔e621〕	changjing	3051	alias
 __prompt__:hatsumode	场景背景〔合并词库〕	changjingbeijing	2954	alias
 __prompt__:window_shopping	场景背景〔e621〕	changjingbeijing	2005	alias
@@ -21194,6 +21225,11 @@ __prompt__:bow_(decoration)	场景蝴蝶结〔e621〕	changjinghudiejie	2397	ali
 scene_cut	场景剪裁发型	changjingjiancaifaxing	2386	primary
 __prompt__:undressing_between_scenes	场景间换装〔e621〕	changjingjianhuanzhuang	2150	alias
 __prompt__:contextual_arrow	场景箭头〔e621〕	changjingjiantou	2866	alias
+__prompt__:sauropodomorph	长颈恐龙〔e621〕	changjingkonglong	3443	alias
+__prompt__:nanger	长颈羚〔e621〕	changjingling	2464	alias
+__prompt__:gerenuk	长颈羚〔e621〕	changjingling	2118	alias
+__prompt__:gerenuk	长颈羚羊〔e621〕	changjinglingyang	2118	alias
+__prompt__:sauropod	长颈龙〔e621〕	changjinglong	3435	alias
 giraffe	长颈鹿	changjinglu	2861	primary
 __prompt__:girafarig	长颈鹿宝可梦〔e621〕	changjinglubaokemeng	2931	alias
 __prompt__:farigiraf	长颈鹿宝可梦〔e621〕	changjinglubaokemeng	2645	alias
@@ -21328,6 +21364,7 @@ __prompt__:yak	长毛牛〔e621〕	changmaoniu	2948	alias
 __prompt__:mammoth	长毛象〔e621〕	changmaoxiang	2796	alias
 __prompt__:furry_penis	长毛阴茎〔e621〕	changmaoyinjing	2319	alias
 __prompt__:piloswine	长毛猪〔e621〕	changmaozhu	2162	alias
+__prompt__:long_ponytail	长马尾〔e621〕	changmawei	2657	alias
 __prompt__:nagato_(kancolle)	长门〔合并词库〕	changmen	3991	alias
 __prompt__:nagato_(azur_lane)	长门〔合并词库〕	changmen	3175	alias
 __prompt__:nagato_(great_fox's_respite)_(azur_lane)	长门〔合并词库〕	changmen	2540	alias
@@ -21475,6 +21512,7 @@ __prompt__:failed_attempt	尝试失败〔e621〕	changshishibai	2162	alias
 tokoyo_no_tou	常世之塔	changshizhita	1177	primary
 __prompt__:sazae-san	长寿漫画〔合并词库〕	changshoumanhua	2457	alias
 __prompt__:tsunemori_akane	常守朱〔合并词库〕	changshouzhu	2410	alias
+__prompt__:long_pigtails	长双马尾〔e621〕	changshuangmawei	2207	alias
 tunezune_gorone	常睡	changshui	1114	primary
 __prompt__:gym	场所〔e621〕	changsuo	3935	alias
 __prompt__:stage	场所〔e621〕	changsuo	3931	alias
@@ -21503,6 +21541,11 @@ __prompt__:submarine_sandwich	长条夹肉面包〔e621〕	changtiaojiaroumianba
 long_dildo	长条假阴茎	changtiaojiayinjing	1904	primary
 __prompt__:baguette	长条面包〔e621〕	changtiaomianbao	3600	alias
 thighhighs	长筒袜	changtongwa	10000	primary
+long_legs	长腿	changtui	4428	primary
+__prompt__:long_legs	长腿角色〔e621〕	changtuijuese	4407	alias
+__prompt__:akino_(el-k)	长腿猎豹〔e621〕	changtuiliebao	2223	alias
+__prompt__:leggy_lamb	长腿羊〔e621〕	changtuiyang	2728	alias
+__prompt__:mommy_long_legs	长腿蜘蛛娘〔e621〕	changtuizhizhuniang	2437	alias
 coach_(bus)	长途客车	changtukeche	1205	primary
 __prompt__:trucker	长途司机〔e621〕	changtusiji	2709	alias
 __prompt__:thighhighs	长袜〔合并词库〕	changwa	6157	alias
@@ -21518,8 +21561,32 @@ __prompt__:sock_garters	长袜固定带〔e621〕	changwagudingdai	2128	alias
 __prompt__:offscreen_character	场外角色〔e621〕	changwaijiaose	4455	alias
 __prompt__:offscreen_sex	场外性爱〔e621〕	changwaixingai	3167	alias
 __prompt__:long_socks	长袜子〔e621〕	changwazi	3454	alias
+__prompt__:long_tail	长尾〔常用词〕	changwei	10000	primary
+__prompt__:very_long_tail	长尾〔合并词库〕	changwei	3682	alias
+long_tail	长尾巴	changweiba	2080	primary
+__prompt__:absurdly_long_tail	长尾巴〔合并词库〕	changweiba	2798	alias
+__prompt__:jerboa_tail	长尾巴〔合并词库〕	changweiba	2030	alias
 __prompt__:upset_stomach	肠胃不适〔e621〕	changweibushi	2443	alias
+__prompt__:long-tailed_weasel	长尾貂鼠〔e621〕	changweidiaoshu	2415	alias
 chang_wei_fei_jiu	常威飞九	changweifeijiu	1080	primary
+__prompt__:aipom	长尾怪手〔e621〕	changweiguaishou	2663	alias
+__prompt__:aipom	长尾猴〔e621〕	changweihou	2663	alias
+margay	长尾虎猫	changweihumao	1279	primary
+__prompt__:braixen	长尾火狐〔e621〕	changweihuohu	4283	alias
+binder_clip	长尾夹	changweijia	2364	primary
+bulldog_clip	长尾夹	changweijia	1343	primary
+__prompt__:nagao_kei	长尾景〔合并词库〕	changweijing	2261	alias
+__prompt__:nagao_kagetora_(fate)	长尾景虎〔合并词库〕	changweijinghu	2927	alias
+__prompt__:long_tail	长尾角色〔e621〕	changweijuese	5014	alias
+__prompt__:thresher_shark	长尾鲨〔e621〕	changweisha	2646	alias
+__prompt__:long-tailed_tit	长尾山雀〔合并词库〕	changweishanque	2809	alias
+__prompt__:bushtit	长尾山雀〔e621〕	changweishanque	1545	alias
+parakeet	长尾小鹦鹉	changweixiaoyingwu	2519	primary
+__prompt__:parakeet	长尾鹦鹉〔e621〕	changweiyingwu	3022	alias
+__prompt__:long-tailed_weasel	长尾鼬〔e621〕	changweiyou	2415	alias
+nagao_uka	长尾羽花	changweiyuhua	2087	primary
+__prompt__:long_tail_feathers	长尾羽毛〔e621〕	changweiyumao	2140	alias
+nagao_akemi	长尾朱美	changweizhumei	1205	primary
 __prompt__:kaga_(everlasting_killing_stone)_(azur_lane)	常夏的杀生石〔合并词库〕	changxiadeshashengshi	2171	alias
 sautoir	长项链	changxianglian	1557	primary
 long_necklace	长项链	changxianglian	1398	primary
@@ -21551,15 +21618,23 @@ __prompt__:coat	长衣〔e621〕	changyi	5535	alias
 __prompt__:alcohol_enema	肠饮酒〔e621〕	changyinjiu	2171	alias
 tokoame	常雨	changyu	1545	primary
 __prompt__:tsunetsuki_matoi	常月缠〔合并词库〕	changyuechan	2510	alias
+long_claws	长爪	changzhao	2042	primary
 chang_zhao_xiao_quan	常照小泉	changzhaoxiaoquan	1362	primary
 tokomaya_keita	常真屋启太	changzhenwuqitai	1983	primary
 tokonagi_yori	常凪依	changzhiyi	1624	primary
 __prompt__:abdominal_bulge	肠状鼓起〔e621〕	changzhuangguqi	5021	alias
 __prompt__:intestinal_bulge	肠状鼓起〔e621〕	changzhuangguqi	2720	alias
+__prompt__:long_claws	长爪子〔e621〕	changzhuazi	3462	alias
 __prompt__:guts	肠子〔e621〕	changzi	3638	alias
 __prompt__:intestines	肠子〔e621〕	changzi	3513	alias
 __prompt__:self_taste	尝自己〔e621〕	changziji	2818	alias
 __prompt__:long_feet	长足〔e621〕	changzu	2448	alias
+long_mouth	长嘴	changzui	1362	primary
+__prompt__:long_beak	长嘴〔e621〕	changzui	2749	alias
+long_spout_teapot	长嘴茶壶	changzuichahu	1545	primary
+__prompt__:goofy_(disney)	长嘴狗〔e621〕	changzuigou	2986	alias
+__prompt__:beak_lips	长嘴配唇〔e621〕	changzuipeichun	2131	alias
+__prompt__:stork	长嘴涉禽〔e621〕	changzuisheqin	2531	alias
 __prompt__:intestines	肠组织〔e621〕	changzuzhi	3513	alias
 zen_kuro	禅黑	chanhei	1147	primary
 after_birth	产后	chanhou	2150	primary
@@ -22042,6 +22117,7 @@ __prompt__:naegi_makoto	超高校级幸运〔合并词库〕	chaogaoxiaojixingyu
 __prompt__:togami_byakuya	超高校级御曹司〔合并词库〕	chaogaoxiaojiyucaosi	2837	alias
 __prompt__:momota_kaito	超高校级宇航员〔合并词库〕	chaogaoxiaojiyuhangyuan	3380	alias
 __prompt__:kirigiri_kyoko	超高校级侦探〔合并词库〕	chaogaoxiaojizhentan	3621	alias
+__prompt__:ultra-detailed	超高细节〔常用词〕	chaogaoxijie	10000	primary
 shiomiya_iruka	潮宫海豚	chaogonghaitun	1940	primary
 choukou_gasshin_xardion	超攻合神扎尔迪昂	chaogongheshenzhaerdiang	1042	primary
 __prompt__:asamiya_minami	朝宫美波〔合并词库〕	chaogongmeibo	2087	alias
@@ -29489,6 +29565,7 @@ __prompt__:spot_color	纯色〔提示词库〕	chunse	5001	alias
 __prompt__:red_background	纯色〔e621〕	chunse	4937	alias
 __prompt__:no_print	纯色〔合并词库〕	chunse	2493	alias
 __prompt__:monotone_mustache	纯色八字胡〔e621〕	chunsebazihu	2134	alias
+__prompt__:solid background	纯色背景〔常用词〕	chunsebeijing	10000	primary
 __prompt__:simple_background	纯色背景〔e621〕	chunsebeijing	6410	alias
 __prompt__:abstract_background	纯色背景〔e621〕	chunsebeijing	4804	alias
 __prompt__:monotone_background	纯色背景〔e621〕	chunsebeijing	3766	alias
@@ -31056,6 +31133,7 @@ __prompt__:from above	从上方〔提示词库〕	congshangfang	5001	alias
 __prompt__:leaning_over	从上方俯身〔e621〕	congshangfangfushen	2433	alias
 __prompt__:viewed_from_above	从上方观看〔e621〕	congshangfangguankan	2370	alias
 __prompt__:looming_over	从上方笼罩〔e621〕	congshangfanglongzhao	3104	alias
+__prompt__:from_above	从上往下看〔常用词〕	congshangwangxiakan	10000	primary
 __prompt__:looking down	从上往下看〔提示词库〕	congshangwangxiakan	5001	alias
 __prompt__:growing_out_of_body	从身体中长出〔合并词库〕	congshentizhongchangchu	2188	alias
 __prompt__:submissive	从属〔e621〕	congshu	5314	alias
@@ -31079,6 +31157,7 @@ __prompt__:servicing_from_below	从下方服务〔e621〕	congxiafangfuwu	3218	a
 __prompt__:bottom_view	从下看〔e621〕	congxiakan	2611	alias
 __prompt__:from below	从下面〔提示词库〕	congxiamian	5001	alias
 __prompt__:growth_sequence	从小到大变化〔e621〕	congxiaodaodabianhua	2976	alias
+__prompt__:from_below	从下往上看〔常用词〕	congxiawangshangkan	10000	primary
 __prompt__:looking up	从下往上看〔提示词库〕	congxiawangshangkan	5001	alias
 __prompt__:low-angle_view	从下往上拍摄〔e621〕	congxiawangshangpaishe	4884	alias
 spring_onion_earrings	葱形耳环	congxingerhuan	1114	primary
@@ -31554,10 +31633,14 @@ __prompt__:wrong_hole	错误部位〔e621〕	cuowubuwei	2529	alias
 errortale	错误传说	cuowuchuanshuo	1114	primary
 __prompt__:404	错误代码〔合并词库〕	cuowudaima	2165	alias
 __prompt__:bad proportions	错误的比例〔负面词〕	cuowudebili	5001	alias
+__prompt__:bad abs	错误的腹肌〔负面词〕	cuowudefuji	10000	primary
 __prompt__:bad anatomy	错误的解剖〔负面词〕	cuowudejiepou	5001	alias
 __prompt__:bad_gun_anatomy	错误的枪械构造〔合并词库〕	cuowudeqiangxiegouzao	2393	alias
 bad_gun_anatomy	错误的枪械结构	cuowudeqiangxiejiegou	2412	primary
+__prompt__:bad pecs	错误的胸肌〔负面词〕	cuowudexiongji	10000	primary
+__prompt__:bad abs	错误腹肌〔常用词〕	cuowufuji	10000	primary
 error_gray	错误灰	cuowuhui	1362	primary
+__prompt__:bad feet	错误脚部〔负面词〕	cuowujiaobu	10000	primary
 __prompt__:mismatched_vulva	错误解剖外阴〔e621〕	cuowujiepouwaiyin	2679	alias
 __prompt__:inaccurate_knotting	错误结扎描写〔e621〕	cuowujiezamiaoxie	3485	alias
 __prompt__:error_musume	错误连接画面〔合并词库〕	cuowulianjiehuamian	2855	alias
@@ -31573,6 +31656,7 @@ __prompt__:mismatched_genitalia	错误物种生殖器〔e621〕	cuowuwuzhongshen
 __prompt__:mismatched_animal_vulva	错误物种阴部〔e621〕	cuowuwuzhongyinbu	2069	alias
 __prompt__:doing_it_wrong	错误行为〔e621〕	cuowuxingwei	2485	alias
 error_message	错误信息	cuowuxinxi	3059	primary
+__prompt__:bad pecs	错误胸肌〔常用词〕	cuowuxiongji	10000	primary
 __prompt__:broken_language	错误英语〔e621〕	cuowuyingyu	3176	alias
 __prompt__:broken_english	错误英语〔合并词库〕	cuowuyingyu	3143	alias
 __prompt__:scrubbing	搓洗〔e621〕	cuoxi	2375	alias
@@ -32468,7 +32552,7 @@ __prompt__:delta_(kagejitsu)	黛尔塔〔合并词库〕	daierta	2279	alias
 __prompt__:susie_(deltarune)	黛尔塔露恩〔e621〕	daiertaluen	3965	alias
 __prompt__:deltra	戴尔特拉〔e621〕	daiertela	2253	alias
 innertube_with_ears	带耳游泳圈	daieryouyongquan	2288	primary
-__prompt__:side_ponytail_with_hair_base	带发基侧马尾〔合并词库〕	daifajicemayi	2383	alias
+__prompt__:side_ponytail_with_hair_base	带发基侧马尾〔合并词库〕	daifajicemawei	2383	alias
 __prompt__:translation_request	待翻译〔e621〕	daifanyi	4563	alias
 __prompt__:translation_request	待翻译文本〔e621〕	daifanyiwenben	4563	alias
 __prompt__:partially_translated	待翻译文本〔e621〕	daifanyiwenben	3427	alias
@@ -33552,7 +33636,7 @@ split_crop	单侧裁切	dancecaiqie	2821	primary
 single_floppy_ear	单侧垂耳	dancechuier	2005	primary
 single_suspender_hanging	单侧吊带下垂	dancediaodaixiachui	1415	primary
 single_garter_strap	单侧吊袜带	dancediaowadai	3568	primary
-single_low-tied_sidelock	单侧低马尾	dancedimayi	1463	primary
+single_low-tied_sidelock	单侧低马尾	dancedimawei	1463	primary
 single_earring	单侧耳环	danceerhuan	4871	primary
 single_earphone	单侧耳机	danceerji	1682	primary
 single_earphone_removed	单侧耳机摘除	danceerjizhaichu	2819	primary
@@ -34550,6 +34634,7 @@ __prompt__:hatchet	单手斧〔e621〕	danshoufu	2179	alias
 __prompt__:hand_on_pole	单手扶杆〔e621〕	danshoufugan	2168	alias
 __prompt__:hand_on_own_ankle	单手扶踝〔e621〕	danshoufuhuai	2673	alias
 one_arm_push-ups	单手俯卧撑	danshoufuwocheng	1955	primary
+__prompt__:hand_on_hip	单手扶腰〔常用词〕	danshoufuyao	10000	primary
 __prompt__:hand_behind_back	单手后伸〔e621〕	danshouhoushen	3886	alias
 __prompt__:favonius_sword_(genshin_impact)	单手剑〔合并词库〕	danshoujian	2270	alias
 __prompt__:cum_on_egg	蛋受精〔e621〕	danshoujing	2236	alias
@@ -34590,7 +34675,7 @@ covering_one_breast	单手遮胸	danshouzhexiong	3184	primary
 __prompt__:hand_bikini	单手遮胸〔e621〕	danshouzhexiong	2512	alias
 __prompt__:on_one_hand	单手支撑倒立〔e621〕	danshouzhichengdaoli	2370	alias
 hand_on_table	单手置于桌上	danshouzhiyuzhuoshang	3331	primary
-grabbing_both_twintails	单手抓双马尾	danshouzhuashuangmayi	1398	primary
+grabbing_both_twintails	单手抓双马尾	danshouzhuashuangmawei	1398	primary
 hand_grabbing_both_breasts	单手抓双乳	danshouzhuashuangru	2057	primary
 __prompt__:self_hug	单手自抱〔e621〕	danshouzibao	3107	alias
 __prompt__:terrapin	淡水龟〔e621〕	danshuigui	2272	alias
@@ -39037,7 +39122,7 @@ __prompt__:receiving_pov	底部视角〔e621〕	dibushijiao	3456	alias
 __prompt__:bottom_pov	底部视角〔e621〕	dibushijiao	2747	alias
 __prompt__:dab_(dance)	迪布舞〔合并词库〕	dibuwu	2286	alias
 __prompt__:bottomless_gynomorph	底部真空〔e621〕	dibuzhenkong	3238	alias
-low_side_ponytail	低侧马尾	dicemayi	3548	primary
+low_side_ponytail	低侧马尾	dicemawei	3548	primary
 undercoder	底层编码者	dicengbianmazhe	1960	primary
 teihen_no_daigaku_janaru	底层大学期刊	dicengdaxueqikan	1786	primary
 __prompt__:undercut	底层短发〔e621〕	dicengduanfa	4326	alias
@@ -39714,8 +39799,7 @@ __prompt__:boldore	地幔岩〔e621〕	dimanyan	2018	alias
 __prompt__:landscape	地貌〔e621〕	dimao	3983	alias
 __prompt__:karst	地貌〔合并词库〕	dimao	2174	alias
 low_ponytail	低马尾	dimawei	10000	primary
-low_ponytail	低马尾	dimayi	4931	primary
-__prompt__:low ponytail	低马尾〔提示词库〕	dimayi	5001	alias
+__prompt__:low ponytail	低马尾〔提示词库〕	dimawei	5001	alias
 low-tied_medium_hair	低马尾中长发	dimayizhongchangfa	2384	primary
 __prompt__:sister_in_law	弟妹〔e621〕	dimei	2297	alias
 __prompt__:against_door	抵门〔e621〕	dimen	2609	alias
@@ -40491,9 +40575,9 @@ kaburaya_seiden	镝矢正传	dishizhengzhuan	1839	primary
 __prompt__:diglett	地鼠〔e621〕	dishu	2810	alias
 __prompt__:gopher	地鼠〔e621〕	dishu	2090	alias
 low_twin_braids	低双麻花辫	dishuangmahuabian	4408	primary
-low_twintails	低双马尾	dishuangmayi	5227	primary
-low_quad_tails	低双马尾	dishuangmayi	1492	primary
-__prompt__:low twintails	低双马尾〔提示词库〕	dishuangmayi	5001	alias
+low_twintails	低双马尾	dishuangmawei	5227	primary
+low_quad_tails	低双马尾	dishuangmawei	1492	primary
+__prompt__:low twintails	低双马尾〔提示词库〕	dishuangmawei	5001	alias
 tekisui	滴水	dishui	1302	primary
 __prompt__:dripping	滴水〔提示词库〕	dishui	5001	alias
 __prompt__:water_drop	滴水〔e621〕	dishui	4513	alias
@@ -40756,7 +40840,7 @@ __prompt__:empoleon	帝王企鹅〔e621〕	diwangqie	2682	alias
 __prompt__:king_penguin	帝王企鹅〔e621〕	diwangqie	2072	alias
 __prompt__:scepter	帝王权杖〔e621〕	diwangquanzhang	3582	alias
 __prompt__:indoraptor	帝王迅猛龙〔e621〕	diwangxunmenglong	2662	alias
-low-tied_sidelock	低位侧马尾	diweicemayi	1362	primary
+low-tied_sidelock	低位侧马尾	diweicemawei	1362	primary
 __prompt__:low_wings	低位翅膀〔e621〕	diweichibang	4596	alias
 __prompt__:low-tied_hair_ring	低位发环〔合并词库〕	diweifahuan	2265	alias
 low_horns	低位角	diweijiao	2997	primary
@@ -42411,6 +42495,7 @@ __prompt__:wilted_ahoge	动漫元素〔合并词库〕	dongmanyuansu	2441	alias
 __prompt__:circle_eyes	动漫圆眼〔e621〕	dongmanyuanyan	2272	alias
 __prompt__:convention	动漫展〔e621〕	dongmanzhan	2709	alias
 __prompt__:awesomenauts	动漫战斗游戏〔e621〕	dongmanzhandouyouxi	2422	alias
+__prompt__:masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading	动漫正面〔常用组合〕	dongmanzhengmian	11500	primary
 __prompt__:drawn_together	动漫真人秀〔e621〕	dongmanzhenrenxiu	2241	alias
 __prompt__:konohagakure_shinobi_uniform	动漫制服〔合并词库〕	dongmanzhifu	3118	alias
 __prompt__:one_piece_card_game	动漫周边〔合并词库〕	dongmanzhoubian	3177	alias
@@ -43996,7 +44081,7 @@ __prompt__:detachable_arms	断臂〔e621〕	duanbi	2331	alias
 __prompt__:short_arms	短臂〔e621〕	duanbi	2393	alias
 short_braid	短辫	duanbian	3062	primary
 __prompt__:riding_crop	短鞭〔e621〕	duanbian	3705	alias
-short_braided_ponytail	短编发马尾	duanbianfamayi	1864	primary
+short_braided_ponytail	短编发马尾	duanbianfamawei	1864	primary
 __prompt__:Cloche hat	短边紧身女帽〔提示词库〕	duanbianjinshennvmao	5001	alias
 __prompt__:short_braid	短辫子〔合并词库〕	duanbianzi	2946	alias
 __prompt__:detachable_arms	断臂可重组〔e621〕	duanbikechongzu	2331	alias
@@ -44008,7 +44093,7 @@ __prompt__:short_snout	短鼻子〔e621〕	duanbizi	3289	alias
 __prompt__:pixie_cut	短波波头〔e621〕	duanbobotou	3184	alias
 dansai_bunri_no_crime_edge	断裁分离的罪恶之剪	duancaifenlidezuiezhijian	1569	primary
 __prompt__:tanzaku	短册〔e621〕	duance	3356	alias
-short_side_ponytail	短侧马尾	duancemayi	3417	primary
+short_side_ponytail	短侧马尾	duancemawei	3417	primary
 __prompt__:holding_tea_cup	端茶杯〔e621〕	duanchabei	2402	alias
 __prompt__:cropped_shirt	短衬衫〔提示词库〕	duanchenshan	5001	alias
 __prompt__:broken_wing	断翅〔e621〕	duanchi	2496	alias
@@ -44100,7 +44185,7 @@ __prompt__:broken_necklace	断掉的项链〔合并词库〕	duandiaodexianglian
 __prompt__:piccolo	短笛大王〔e621〕	duandidawang	3043	alias
 __prompt__:short_cape	短斗篷〔合并词库〕	duandoupeng	2194	alias
 duanduan	短短	duanduan	1362	primary
-__prompt__:short_pigtails	短短双马尾〔e621〕	duanduanshuangmayi	2137	alias
+__prompt__:short_pigtails	短短双马尾〔e621〕	duanduanshuangmawei	2137	alias
 __prompt__:warning_(fluff-kevlar)	短堆安卓〔e621〕	duanduianzhuo	2202	alias
 __prompt__:shortstack_gynomorph	短堆丰满雌型〔e621〕	duanduifengmancixing	3263	alias
 severed_ear	断耳	duaner	1893	primary
@@ -44331,10 +44416,10 @@ __prompt__:short_fur	短毛〔e621〕	duanmao	3219	alias
 __prompt__:abyssinian_cat	短毛家猫品种〔e621〕	duanmaojiamaopinzhong	2733	alias
 __prompt__:bull_terrier	短毛猎犬〔e621〕	duanmaoliequan	3248	alias
 __prompt__:short_fur	短毛皮〔e621〕	duanmaopi	3219	alias
+short_ponytail	短马尾	duanmawei	4696	primary
+__prompt__:short ponytail	短马尾〔提示词库〕	duanmawei	5001	alias
 __prompt__:short_ponytail	短马尾辫〔e621〕	duanmaweibian	4659	alias
 __prompt__:segment_display	段码显示器〔合并词库〕	duanmaxianshiqi	2288	alias
-short_ponytail	短马尾	duanmayi	4696	primary
-__prompt__:short ponytail	短马尾〔提示词库〕	duanmayi	5001	alias
 short_eyebrows	短眉	duanmei	4637	primary
 eyebrow_cut	断眉	duanmei	3715	primary
 eyebrow_stubble	断眉	duanmei	1381	primary
@@ -44426,9 +44511,8 @@ __prompt__:short_arms	短手臂〔e621〕	duanshoubi	2393	alias
 __prompt__:stubby_arms	短手臂〔e621〕	duanshoubi	2108	alias
 half_gloves	短手套	duanshoutao	4469	primary
 short_twintails	短双马尾	duanshuangmawei	10000	primary
-short_twintails	短双马尾	duanshuangmayi	4950	primary
-__prompt__:short twintails	短双马尾〔提示词库〕	duanshuangmayi	5001	alias
-__prompt__:short_pigtails	短双马尾〔e621〕	duanshuangmayi	2137	alias
+__prompt__:short twintails	短双马尾〔提示词库〕	duanshuangmawei	5001	alias
+__prompt__:short_pigtails	短双马尾〔e621〕	duanshuangmawei	2137	alias
 __prompt__:babydoll	短睡袍〔e621〕	duanshuipao	4141	alias
 __prompt__:serving_food	端送食物〔e621〕	duansongshiwu	2319	alias
 severed_head	断头	duantou	3516	primary
@@ -45626,6 +45710,7 @@ __prompt__:multiple_ear_ring	多处耳饰〔e621〕	duochuershi	2174	alias
 __prompt__:extra_ears	多出来的耳朵〔合并词库〕	duochulaideerduo	4912	alias
 __prompt__:multi_ear	多出来的耳朵〔e621〕	duochulaideerduo	4196	alias
 __prompt__:extra_legs	多出来的腿〔合并词库〕	duochulaidetui	2945	alias
+__prompt__:extra_tails	多出来的尾巴〔常用词〕	duochulaideweiba	10000	primary
 multiple_scars	多处伤疤	duochushangba	3843	primary
 __prompt__:scars_all_over	多处伤疤〔e621〕	duochushangba	3506	alias
 __prompt__:tentacle_tail	多触手尾巴〔e621〕	duochushouweiba	2824	alias
@@ -45740,6 +45825,8 @@ __prompt__:multi_sheath	多根鞘〔e621〕	duogenqiao	2381	alias
 multiple_girls	多个女孩	duogenvhai	6337	primary
 __prompt__:female	多个女孩〔e621〕	duogenvhai	6521	alias
 __prompt__:multiple girls	多个女孩〔提示词库〕	duogenvhai	5001	alias
+__prompt__:multi_tail	多根尾巴〔常用词〕	duogenweiba	10000	primary
+__prompt__:multiple_tails	多根尾巴〔常用词〕	duogenweiba	10000	primary
 __prompt__:varied_multi_genitalia	多根性器官〔e621〕	duogenxingqiguan	2395	alias
 multiple_penises	多根阴茎	duogenyinjing	2801	primary
 __prompt__:multi_penis	多根阴茎〔e621〕	duogenyinjing	4564	alias
@@ -45757,6 +45844,7 @@ __prompt__:multiple_images	多格图〔e621〕	duogetu	4401	alias
 __prompt__:sequence	多格图像〔e621〕	duogetuxiang	4359	alias
 __prompt__:multi_vulva	多个外生殖器〔e621〕	duogewaishengzhiqi	2893	alias
 multiple_wristbands	多个腕带	duogewandai	2134	primary
+__prompt__:multiple_tails	多个尾巴〔常用词〕	duogeweiba	10000	primary
 __prompt__:multiple_traps	多个伪娘〔合并词库〕	duogeweiniang	3337	alias
 multiple_others	多个无性别角色	duogewuxingbiejuese	4485	primary
 __prompt__:multi_pecs	多个胸肌〔e621〕	duogexiongji	2913	alias
@@ -45784,7 +45872,7 @@ multiple_braids	多股辫	duogubian	3843	primary
 __prompt__:braided_hair	多股辫〔e621〕	duogubian	4580	alias
 __prompt__:dogoo	多果〔合并词库〕	duoguo	2429	alias
 __prompt__:cable	多股绳索〔e621〕	duogushengsuo	4413	alias
-split_twintails	多股双马尾	duogushuangmayi	1415	primary
+split_twintails	多股双马尾	duogushuangmawei	1415	primary
 __prompt__:multi-tied hair	多股头发〔提示词库〕	duogutoufa	5001	alias
 __prompt__:multiple_drills	多股钻头卷发〔合并词库〕	duoguzuantoujuanfa	2288	alias
 __prompt__:sweaty_anus	多汗肛门〔e621〕	duohangangmen	3405	alias
@@ -46585,8 +46673,12 @@ duoyun_de_tiankong	多云的天空	duoyundetiankong	2061	primary
 cloudy_sky	多云天空	duoyuntiankong	5027	primary
 __prompt__:nipples	多余乳头〔e621〕	duoyurutou	6223	alias
 __prompt__:supernumerary_nipples	多余乳头〔e621〕	duoyurutou	2362	alias
+__prompt__:extra arms	多余手臂〔负面词〕	duoyushoubi	10000	primary
 extra_arms_illusion	多余手臂幻觉	duoyushoubihuanjue	1080	primary
 __prompt__:extra digits	多余手指〔负面词〕	duoyushouzhi	10000	primary
+__prompt__:extra fingers	多余手指〔负面词〕	duoyushouzhi	10000	primary
+__prompt__:extra legs	多余腿〔负面词〕	duoyutui	10000	primary
+__prompt__:extra_tails	多余尾巴〔负面词〕	duoyuweiba	10000	primary
 extra_teeth	多余牙齿	duoyuyachi	2520	primary
 mixed-language_commentary	多语言评论	duoyuyanpinglun	4955	primary
 multilingual_commentary	多语言评论	duoyuyanpinglun	3267	primary
@@ -47926,6 +48018,7 @@ __prompt__:in_one_ear_and_out_the_other	耳朵贯穿〔e621〕	erduoguanchuan	25
 __prompt__:ear_threading	耳朵贯穿〔e621〕	erduoguanchuan	2547	alias
 __prompt__:ear_blush	耳朵红〔e621〕	erduohong	4246	alias
 __prompt__:ears_back	耳朵后贴〔e621〕	erduohoutie	4332	alias
+__prompt__:ear markings	耳朵花纹〔常用词〕	erduohuawen	10000	primary
 __prompt__:ear_markings	耳朵花纹〔e621〕	erduohuawen	4813	alias
 __prompt__:red_ear_tips	耳朵尖端发红〔e621〕	erduojianduanfahong	2562	alias
 __prompt__:green_ear_tips	耳朵尖端绿色〔e621〕	erduojianduanlvse	2569	alias
@@ -47942,6 +48035,7 @@ __prompt__:cum_from_ear	耳朵喷精〔e621〕	erduopenjing	2531	alias
 __prompt__:ears_aside	耳朵撇开〔e621〕	erduopiekai	2645	alias
 __prompt__:freckled_ears	耳朵雀斑〔e621〕	erduoqueban	2898	alias
 __prompt__:notched_ear	耳朵缺口〔e621〕	erduoquekou	4396	alias
+__prompt__:missing ears	耳朵缺失〔负面词〕	erduoqueshi	10000	primary
 __prompt__:ear_fur	耳朵绒毛〔e621〕	erduorongmao	2210	alias
 __prompt__:ear_scar	耳朵伤疤〔e621〕	erduoshangba	2708	alias
 bandaid_on_ear	耳朵上的创可贴	erduoshangdechuangketie	2333	primary
@@ -47976,7 +48070,7 @@ __prompt__:mismatched_ears	耳朵颜色不同〔e621〕	erduoyansebutong	2801	al
 ears_wagging	耳朵摇动	erduoyaodong	1624	primary
 __prompt__:ears_flat	耳朵压平〔e621〕	erduoyaping	2159	alias
 __prompt__:spotted_ears	耳朵有斑点〔e621〕	erduoyoubandian	2945	alias
-__prompt__:ponytail_ears	耳朵扎马尾〔e621〕	erduozhamayi	3363	alias
+__prompt__:ponytail_ears	耳朵扎马尾〔e621〕	erduozhamawei	3363	alias
 ear_censor	耳朵遮挡	erduozhedang	1205	primary
 __prompt__:ears_back	耳朵折叠〔e621〕	erduozhedie	4332	alias
 __prompt__:pivoted_ears	耳朵转向〔e621〕	erduozhuanxiang	4697	alias
@@ -49978,6 +50072,7 @@ __prompt__:comfortable	放松〔e621〕	fangsong	2279	alias
 __prompt__:relaxation	放松〔e621〕	fangsong	2097	alias
 __prompt__:relaxed_expression	放松表情〔e621〕	fangsongbiaoqing	3099	alias
 relax_teatime_(project_sekai)	放松茶歇时刻	fangsongchaxieshike	2162	primary
+__prompt__:relaxed abdomen	放松的腹部〔描述短语〕	fangsongdefubu	10000	primary
 __prompt__:loose_anus	放松的肛门〔e621〕	fangsongdegangmen	2917	alias
 housou-kun	放送君	fangsongjun	2541	primary
 __prompt__:hoso-inu	放送犬〔合并词库〕	fangsongquan	2573	alias
@@ -50863,8 +50958,8 @@ __prompt__:yihdra_arvoln	法师〔合并词库〕	fashi	2321	alias
 __prompt__:mage_(7th_dragon)	法师〔合并词库〕	fashi	2087	alias
 __prompt__:french	法式〔e621〕	fashi	2659	alias
 french_braid	法式辫	fashibian	1996	primary
-french_braided_ponytail	法式编发马尾	fashibianfamayi	1820	primary
-french_braided_twintails	法式编发双马尾	fashibianfashuangmayi	2490	primary
+french_braided_ponytail	法式编发马尾	fashibianfamawei	1820	primary
+french_braided_twintails	法式编发双马尾	fashibianfashuangmawei	2490	primary
 __prompt__:eclair	法式长条糕〔e621〕	fashichangtiaogao	2111	alias
 french_cruller	法式传统甜甜圈	fashichuantongtiantianquan	2533	primary
 __prompt__:daisy_(flower)	法式雏菊〔e621〕	fashichuju	3718	alias
@@ -50929,9 +51024,9 @@ __prompt__:comb_(brush)	发梳〔e621〕	fashu	2680	alias
 hair_brush	发刷	fashua	3587	primary
 __prompt__:hairbrush	发刷〔e621〕	fashua	3118	alias
 __prompt__:transformation_through_magic	法术变形〔e621〕	fashubianxing	3147	alias
-ponytail_with_hair_base	发束缠绕马尾	fashuchanraomayi	1887	primary
-side_ponytail_with_hair_base	发束缠绕式侧马尾	fashuchanraoshicemayi	2601	primary
-twintails_with_hair_base	发束缠绕式双马尾	fashuchanraoshishuangmayi	3222	primary
+ponytail_with_hair_base	发束缠绕马尾	fashuchanraomawei	1887	primary
+side_ponytail_with_hair_base	发束缠绕式侧马尾	fashuchanraoshicemawei	2601	primary
+twintails_with_hair_base	发束缠绕式双马尾	fashuchanraoshishuangmawei	3222	primary
 hair_cuffs	发束环	fashuhuan	1042	primary
 hair_bondage	发束拘束	fashujushu	2156	primary
 __prompt__:spellbook	法术书〔e621〕	fashushu	2993	alias
@@ -52462,8 +52557,8 @@ forked_hair	分叉发型	fenchafaxing	1904	primary
 __prompt__:antlers	分叉角〔e621〕	fenchajiao	4871	alias
 __prompt__:cleave_gag	分叉口塞〔e621〕	fenchakousai	3386	alias
 __prompt__:crossed_bangs	分叉刘海〔e621〕	fenchaliuhai	4972	alias
-split_ponytail	分叉马尾	fenchamayi	3540	primary
-__prompt__:split ponytail	分叉马尾〔提示词库〕	fenchamayi	5001	alias
+split_ponytail	分叉马尾	fenchamawei	3540	primary
+__prompt__:split ponytail	分叉马尾〔提示词库〕	fenchamawei	5001	alias
 forked_eyebrows	分叉眉	fenchamei	3949	primary
 __prompt__:Split eyebrows	分叉眉〔提示词库〕	fenchamei	5001	alias
 __prompt__:cemetery	坟场〔e621〕	fenchang	3323	alias
@@ -52531,13 +52626,13 @@ pink_hair	粉发	fenfa	10000	primary
 __prompt__:pink hair	粉发〔提示词库〕	fenfa	5001	alias
 __prompt__:miton-chan_(miton_(turuyasann))	粉发〔合并词库〕	fenfa	2013	alias
 __prompt__:louise_francoise_le_blanc_de_la_valliere	粉发傲娇〔合并词库〕	fenfaaojiao	3397	alias
-__prompt__:emily_stock	粉发侧马尾〔合并词库〕	fenfacemayi	2355	alias
+__prompt__:emily_stock	粉发侧马尾〔合并词库〕	fenfacemawei	2355	alias
 __prompt__:lacus_clyne	粉发歌姬〔合并词库〕	fenfageji	3018	alias
 __prompt__:hildr_(fate)	粉发红眼〔合并词库〕	fenfahongyan	2552	alias
 __prompt__:kirisu_mafuyu	粉发教师〔合并词库〕	fenfajiaoshi	2308	alias
 __prompt__:kamiki_mikami	粉发蓝眼〔合并词库〕	fenfalanyan	2479	alias
 __prompt__:dragon_(berseepon09)	粉发龙女〔e621〕	fenfalongnv	2601	alias
-__prompt__:harusame_(kancolle)	粉发马尾〔合并词库〕	fenfamayi	3447	alias
+__prompt__:harusame_(kancolle)	粉发马尾〔合并词库〕	fenfamawei	3447	alias
 __prompt__:ruru_(dqb2)	粉发盟友〔合并词库〕	fenfamengyou	2005	alias
 __prompt__:knight_(dungeon_and_fighter)	粉发女骑士〔合并词库〕	fenfanvqishi	2478	alias
 __prompt__:jessie_(team_rocket)	粉发女性〔e621〕	fenfanvxing	2699	alias
@@ -53844,7 +53939,7 @@ __prompt__:pink and black fur	粉＋黑色皮毛〔皮毛配色〕	fenheisemaofa
 __prompt__:pink and black fur	粉＋黑色皮毛〔皮毛配色〕	fenheisemaopi	10000	primary
 __prompt__:pink and black fur	粉＋黑色皮毛〔皮毛配色〕	fenheisepimao	10000	primary
 __prompt__:pink with black upper shan	粉黑上杉〔提示词库〕	fenheishangshan	5001	alias
-__prompt__:draculaura	粉黑双马尾〔e621〕	fenheishuangmayi	2057	alias
+__prompt__:draculaura	粉黑双马尾〔e621〕	fenheishuangmawei	2057	alias
 __prompt__:pink with black long upper shan	粉黑长上杉〔提示词库〕	fenheizhangshangshan	5001	alias
 __prompt__:pink and golden orange fur	粉＋金橙色皮毛〔皮毛配色〕	fenhejinchengsemaofa	10000	primary
 __prompt__:pink and golden orange fur	粉＋金橙色皮毛〔皮毛配色〕	fenhejinchengsemaopi	10000	primary
@@ -55784,8 +55879,8 @@ __prompt__:worker_(squid_game)	粉色守卫〔合并词库〕	fenseshouwei	2090	
 __prompt__:pink_fingers	粉色手指〔e621〕	fenseshouzhi	2641	alias
 __prompt__:pink_bracelet	粉色手镯〔e621〕	fenseshouzhuo	2331	alias
 __prompt__:pink_snout	粉色兽嘴〔e621〕	fenseshouzui	2284	alias
-__prompt__:cure_melody	粉色双马尾〔合并词库〕	fenseshuangmayi	3031	alias
-__prompt__:perfectheart_(omori)	粉色双马尾〔合并词库〕	fenseshuangmayi	2134	alias
+__prompt__:cure_melody	粉色双马尾〔合并词库〕	fenseshuangmawei	3031	alias
+__prompt__:perfectheart_(omori)	粉色双马尾〔合并词库〕	fenseshuangmawei	2134	alias
 __prompt__:cattiva	粉色双足猫〔e621〕	fenseshuangzumao	2520	alias
 __prompt__:pink_leash	粉色拴绳〔e621〕	fenseshuansheng	2553	alias
 __prompt__:pink_belt	粉色束带〔e621〕	fenseshudai	3740	alias
@@ -56684,6 +56779,7 @@ __prompt__:hyper_abdominal_bulge	腹部夸张变形〔e621〕	fubukuazhangbianxi
 __prompt__:belly_riding	腹部捆绑〔e621〕	fubukunbang	3322	alias
 __prompt__:belly_expansion	腹部扩张〔e621〕	fubukuozhang	4027	alias
 __prompt__:belly_inflation	腹部扩张〔e621〕	fubukuozhang	3884	alias
+__prompt__:obliques	腹部两侧肌肉〔常用词〕	fubuliangcejirou	10000	primary
 __prompt__:belly_blush	腹部脸红〔e621〕	fubulianhong	3543	alias
 __prompt__:belly_chain	腹部链条〔e621〕	fubuliantiao	3697	alias
 __prompt__:ventral_scales	腹部鳞片〔e621〕	fubulinpian	4274	alias
@@ -57236,7 +57332,6 @@ abs	腹肌	fuji	5145	primary
 onepack	腹肌	fuji	1177	primary
 kusari_hime:_euthanasia	腐姬	fuji	2194	primary
 ambush	伏击	fuji	2022	primary
-__prompt__:absolute_territory	腹肌〔提示词库〕	fuji	5001	alias
 __prompt__:obliques	腹肌〔e621〕	fuji	3993	alias
 __prompt__:covered_abs	腹肌〔合并词库〕	fuji	3752	alias
 __prompt__:toned_belly	腹肌〔e621〕	fuji	2678	alias
@@ -57274,11 +57369,18 @@ bellyjob	腹交	fujiao	2038	primary
 __prompt__:multi_horn	复角〔e621〕	fujiao	3935	alias
 __prompt__:hand_on_ankle	扶脚踝〔e621〕	fujiaohuai	2753	alias
 __prompt__:tag_question	附加疑问〔e621〕	fujiayiwen	2866	alias
+__prompt__:bad abs	腹肌崩坏〔负面词〕	fujibenghuai	10000	primary
+__prompt__:deformed abdominal muscles	腹肌变形〔负面词〕	fujibianxing	10000	primary
+__prompt__:asymmetrical abdominal muscles	腹肌不对称〔描述短语〕	fujibuduicheng	10000	primary
 __prompt__:sweaty_abs	腹肌出汗〔e621〕	fujichuhan	2922	alias
+__prompt__:bad abs	腹肌错误〔负面词〕	fujicuowu	10000	primary
 negaposi_angler	负极钓客	fujidiaoke	1343	primary
 __prompt__:anya_(spy_x_family)	福杰家〔合并词库〕	fujiejia	3816	alias
 __prompt__:bond_(spy_x_family)	福杰家〔e621〕	fujiejia	2990	alias
 fukai_ni_nemuru_oujo_no_abaddon	腐界中沉睡的王女阿巴顿	fujiezhongchenshuidewangnvabadun	1569	primary
+__prompt__:bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面〔常用组合〕	fujifumian	11400	primary
+__prompt__:bad abs	腹肌画错〔负面词〕	fujihuacuo	10000	primary
+__prompt__:deformed abdominal muscles	腹肌畸形〔描述短语〕	fujijixing	10000	primary
 __prompt__:ribs	腹肌肋骨线〔e621〕	fujileiguxian	4171	alias
 fukuyoshi_rokka	福吉六花	fujiliuhua	1256	primary
 __prompt__:abs	腹肌轮廓〔e621〕	fujilunkuo	5446	alias
@@ -57297,6 +57399,7 @@ __prompt__:midriff	腹肌平坦〔e621〕	fujipingtan	4850	alias
 __prompt__:flat_belly	腹肌平坦〔e621〕	fujipingtan	2458	alias
 __prompt__:cum_on_abs	腹肌上有精液〔e621〕	fujishangyoujingye	2695	alias
 __prompt__:cum_on_abs	腹肌射精〔e621〕	fujishejing	2695	alias
+__prompt__:overdefined abdominal muscles	腹肌太明显〔负面词〕	fujitaimingxian	10000	primary
 abs_peek	腹肌微露	fujiweilu	1978	primary
 __prompt__:abs	腹肌线条〔e621〕	fujixiantiao	5446	alias
 __prompt__:presenting_belly	腹肌展示〔e621〕	fujizhanshi	2738	alias
@@ -57595,6 +57698,9 @@ __prompt__:belly_hair	腹毛〔e621〕	fumao	3811	alias
 __prompt__:belly_fluff	腹毛〔e621〕	fumao	2054	alias
 __prompt__:hat_tip	扶帽檐〔合并词库〕	fumaoyan	3319	alias
 __prompt__:tipping_hat	扶帽檐〔e621〕	fumaoyan	2667	alias
+__prompt__:worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text	基础负面〔常用组合〕	fumian	12000	primary
+__prompt__:bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面〔常用组合〕	fumian	11500	primary
+__prompt__:bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面〔常用组合〕	fumian	11400	primary
 __prompt__:no_cape	负面〔合并词库〕	fumian	2787	alias
 __prompt__:disgust	负面情绪〔e621〕	fumianqingxu	3559	alias
 __prompt__:desperation	负面情绪〔e621〕	fumianqingxu	3466	alias
@@ -57785,6 +57891,7 @@ fuyou_yuuna_wa_yuusha_de_nai	芙蓉友奈非勇者	furongyounaifeiyongzhe	1580	p
 __prompt__:belly_jiggle	腹肉抖动〔e621〕	furoudoudong	2922	alias
 bound_nipples	缚乳	furu	1114	primary
 __prompt__:furry	福瑞〔兽人词〕	furui	10000	primary
+__prompt__:furry	福瑞风格〔常用词〕	furuifengge	10000	primary
 __prompt__:frevilisk	弗瑞维利斯克〔e621〕	furuiweilisike	2153	alias
 kama_iruka	釜入鹿	furulu	1987	primary
 tomiiri_junzo	富入顺藏	furushuncang	1682	primary
@@ -59704,6 +59811,8 @@ ganjiang	干将	ganjiang	1177	primary
 __prompt__:ganger	甘杰〔e621〕	ganjie	2295	alias
 __prompt__:amayui_moka	甘结萌香〔合并词库〕	ganjiemengxiang	2137	alias
 amazume_ryuuta	甘诘留太	ganjiliutai	1691	primary
+__prompt__:simple_background	干净背景〔常用词〕	ganjingbeijing	10000	primary
+__prompt__:clean outlines	干净轮廓〔常用词〕	ganjinglunkuo	10000	primary
 __prompt__:clean_diaper	干净尿布〔e621〕	ganjingniaobu	4167	alias
 __prompt__:clean lineart	干净线稿〔质量词〕	ganjingxiangao	10000	primary
 __prompt__:clean lines	干净线条〔质量词〕	ganjingxiantiao	10000	primary
@@ -59993,7 +60102,7 @@ the_man_in_the_high_castle	高堡奇人	gaobaoqiren	1080	primary
 __prompt__:golbez	高贝兹〔合并词库〕	gaobeizi	2251	alias
 takamoto_akisa	高本秋早	gaobenqiuzao	2097	primary
 __prompt__:highleg_bottomwear	高边三角裤〔e621〕	gaobiansanjiaoku	2752	alias
-high_braided_ponytail	高编织马尾	gaobianzhimayi	2531	primary
+high_braided_ponytail	高编织马尾	gaobianzhimawei	2531	primary
 __prompt__:goodbye	告别〔e621〕	gaobie	2223	alias
 __prompt__:sayonara_wo_oshiete	告别的话语〔合并词库〕	gaobiedehuayu	2738	alias
 __prompt__:goodbye_volcano_high	告别火山高中〔e621〕	gaobiehuoshangaozhong	4089	alias
@@ -60021,7 +60130,7 @@ __prompt__:takakura_himari	高仓阳球〔合并词库〕	gaocangyangqiu	2903	al
 __prompt__:tall_grass	高草〔e621〕	gaocao	2973	alias
 tall_grass	高草丛	gaocaocong	3069	primary
 __prompt__:tall_grass	高草植物〔e621〕	gaocaozhiwu	2973	alias
-high_side_ponytail	高侧马尾	gaocemayi	3778	primary
+high_side_ponytail	高侧马尾	gaocemawei	3778	primary
 __prompt__:skyscraper	高层建筑〔e621〕	gaocengjianzhu	4023	alias
 __prompt__:Altostratus	高层云〔提示词库〕	gaocengyun	5001	alias
 __prompt__:altostratus	高层云类〔提示词库〕	gaocengyunlei	5001	alias
@@ -60626,8 +60735,7 @@ __prompt__:onyx	缟玛瑙〔提示词库〕	gaomanao	5001	alias
 tall_hat	高帽	gaomao	2435	primary
 __prompt__:tall_hat	高帽子〔合并词库〕	gaomaozi	2314	alias
 high_ponytail	高马尾	gaomawei	10000	primary
-high_ponytail	高马尾	gaomayi	5124	primary
-__prompt__:high ponytail	高马尾〔提示词库〕	gaomayi	5001	alias
+__prompt__:high ponytail	高马尾〔提示词库〕	gaomawei	5001	alias
 __prompt__:hair_bun_ears	高马尾露耳〔e621〕	gaomayiluer	2771	alias
 __prompt__:very aesthetic	高美感〔质量词〕	gaomeigan	10000	primary
 takanae_kyourin	高苗京铃	gaomiaojingling	2226	primary
@@ -61197,7 +61305,7 @@ __prompt__:fail	搞砸〔e621〕	gaoza	2730	alias
 __prompt__:failed_attempt	搞砸〔e621〕	gaoza	2162	alias
 __prompt__:doing_it_wrong	搞砸了〔e621〕	gaozale	2485	alias
 takanoru	高则	gaoze	1691	primary
-__prompt__:high_ponytail	高扎马尾〔e621〕	gaozhamayi	5055	alias
+__prompt__:high_ponytail	高扎马尾〔e621〕	gaozhamawei	5055	alias
 __prompt__:hygogg	高战蟹〔合并词库〕	gaozhanxie	2026	alias
 takanuma_tama	高沼珠	gaozhaozhu	1080	primary
 takamakura	高枕	gaozhen	1080	primary
@@ -67366,6 +67474,7 @@ __prompt__:overstimulation	过度刺激高潮〔e621〕	guoducijigaochao	3505	al
 __prompt__:motion_tweening	过渡动画技术〔e621〕	guodudonghuajishu	4180	alias
 __prompt__:overeating	过度进食〔e621〕	guodujinshi	2452	alias
 __prompt__:excessive_drooling	过度流口水〔e621〕	guoduliukoushui	2275	alias
+__prompt__:overdefined abdominal muscles	过度明显的腹肌〔描述短语〕	guodumingxiandefuji	10000	primary
 excessive_lactation	过度泌乳	guodumiru	2013	primary
 __prompt__:tickle_torture	过度挠痒〔e621〕	guodunaoyang	3768	alias
 __prompt__:too_many	过多〔合并词库〕	guoduo	3849	alias
@@ -71128,7 +71237,7 @@ __prompt__:amber_steel	黑发琥珀眼兽人〔e621〕	heifahupoyanshouren	2248	
 black_bun	黑发髻	heifaji	1080	primary
 __prompt__:lunch_(good)_(dragon_ball)	黑发兰琪〔合并词库〕	heifalanqi	2360	alias
 kurokami_nekoya	黑发猫屋	heifamaowu	1930	primary
-__prompt__:fukuyama_mai	黑发马尾〔合并词库〕	heifamayi	2857	alias
+__prompt__:fukuyama_mai	黑发马尾〔合并词库〕	heifamawei	2857	alias
 __prompt__:jaffar_(fire_emblem)	黑方刺客〔合并词库〕	heifangcike	2153	alias
 __prompt__:classy-black-haired_girl_(hayabusa)	黑发女孩〔合并词库〕	heifanvhai	2094	alias
 __prompt__:black_hair	黑发色〔e621〕	heifase	6305	alias
@@ -74049,8 +74158,8 @@ __prompt__:heracross	赫拉克罗斯〔e621〕	helakeluosi	2523	alias
 netherlands	荷兰	helan	2101	primary
 __prompt__:netherlands_(hetalia)	荷兰〔合并词库〕	helan	2177	alias
 __prompt__:dutch_rabbit	荷兰矮兔〔e621〕	helanaitu	2506	alias
-__prompt__:dutch_braided_ponytail	荷兰编发马尾〔合并词库〕	helanbianfamayi	2263	alias
-dutch_braided_ponytail	荷兰辫马尾	helanbianmayi	2341	primary
+__prompt__:dutch_braided_ponytail	荷兰编发马尾〔合并词库〕	helanbianfamawei	2263	alias
+dutch_braided_ponytail	荷兰辫马尾	helanbianmawei	2341	primary
 __prompt__:keeshond	荷兰船夫犬〔e621〕	helanchuanfuquan	2114	alias
 dutch_clothes	荷兰传统服饰	helanchuantongfushi	1717	primary
 __prompt__:holland_lop	荷兰垂耳兔〔e621〕	helanchuiertu	2090	alias
@@ -74161,8 +74270,8 @@ __prompt__:hippopotamid_humanoid	河马兽人〔e621〕	hemashouren	2034	alias
 __prompt__:hippopotamus_humanoid	河马兽人〔e621〕	hemashouren	2022	alias
 __prompt__:dewott	河马王〔e621〕	hemawang	3449	alias
 stuffed_hippopotamus	河马玩偶	hemawanou	1256	primary
+hippopotamus_tail	河马尾	hemawei	2455	primary
 __prompt__:common_hippopotamus	河马物种〔e621〕	hemawuzhong	3651	alias
-hippopotamus_tail	河马尾	hemayi	2455	primary
 kazumi_yutaka	和美丰	hemeifeng	1231	primary
 kazumi_yu	和美优	hemeiyou	1042	primary
 __prompt__:brown and off-white fur	褐＋米白色皮毛〔皮毛配色〕	hemibaimaofa	10000	primary
@@ -76294,7 +76403,7 @@ nijiboushi	虹帽子	hongmaozi	1506	primary
 __prompt__:red_headwear	红帽子〔e621〕	hongmaozi	3830	alias
 __prompt__:red_cap	红帽子〔e621〕	hongmaozi	2420	alias
 __prompt__:red_beanie	红帽子〔e621〕	hongmaozi	2221	alias
-__prompt__:tailred	红马尾〔合并词库〕	hongmayi	2454	alias
+__prompt__:tailred	红马尾〔合并词库〕	hongmawei	2454	alias
 __prompt__:raspberry	红莓〔e621〕	hongmei	3081	alias
 __prompt__:hiromi_(blue_archive)	弘美〔合并词库〕	hongmei	2101	alias
 red_rose	红玫瑰	hongmeigui	4668	primary
@@ -79129,6 +79238,7 @@ hana_hana_no_mi	花花果实	huahuaguoshi	1603	primary
 __prompt__:nico_robin	花花果实〔e621〕	huahuaguoshi	3820	alias
 hua-huahua	花花华	huahuahua	2529	primary
 __prompt__:bad_feet	画坏的脚〔合并词库〕	huahuaidejiao	3583	alias
+__prompt__:poorly drawn hands	画坏的手〔负面词〕	huahuaideshou	10000	primary
 hanahanamaki	花花卷	huahuajuan	2207	primary
 hanabana_tsubomi	花花蕾	huahualei	2358	primary
 flower_wreath	花环	huahuan	4050	primary
@@ -89351,7 +89461,7 @@ __prompt__:whisker_spots	胡须根点〔e621〕	huxugendian	3936	alias
 beard_bow	胡须蝴蝶结	huxuhudiejie	1415	primary
 __prompt__:fake_beard	胡须假发〔e621〕	huxujiafa	2793	alias
 __prompt__:bearded_dragon	胡须龙〔e621〕	huxulong	2360	alias
-__prompt__:beard_ponytail	胡须马尾〔e621〕	huxumayi	2097	alias
+__prompt__:beard_ponytail	胡须马尾〔e621〕	huxumawei	2097	alias
 bearded_collie	胡须牧羊犬	huxumuyangquan	1177	primary
 __prompt__:facial_hair_growth	胡须生长〔e621〕	huxushengzhang	2213	alias
 whisker_markings	胡须纹	huxuwen	4318	primary
@@ -91719,6 +91829,7 @@ __prompt__:athletic_human	健美人类〔e621〕	jianmeirenlei	2957	alias
 __prompt__:kei_(m_k)	健美少女〔合并词库〕	jianmeishaonv	2738	alias
 __prompt__:huge_muscles	健美身材〔e621〕	jianmeishencai	4543	alias
 __prompt__:toned_body	健美体格〔e621〕	jianmeitige	2787	alias
+__prompt__:athletic build	健美体型〔常用词〕	jianmeitixing	10000	primary
 toned	健美体型	jianmeitixing	4798	primary
 __prompt__:big_muscles	健美体型〔e621〕	jianmeitixing	5006	alias
 __prompt__:athletic_ambiguous	健美性别不明〔e621〕	jianmeixingbiebuming	2168	alias
@@ -91789,7 +91900,7 @@ ticket_puncher	检票钳	jianpiaoqian	1279	primary
 __prompt__:pansage	尖撇狸〔e621〕	jianpieli	2538	alias
 __prompt__:towel_on_shoulder	肩披毛巾〔e621〕	jianpimaojin	2987	alias
 kanpei	间平	jianping	1398	primary
-jianpu_di-yi_ye_xian_za_gaomawei	简谱第一页现杂高马尾	jianpudiyiyexianzagaomayi	1080	primary
+jianpu_di-yi_ye_xian_za_gaomawei	简谱第一页现杂高马尾	jianpudiyiyexianzagaomawei	1080	primary
 cambodia	柬埔寨	jianpuzhai	1147	primary
 shoulder_fins	肩鳍	jianqi	1463	primary
 __prompt__:splash	溅起〔e621〕	jianqi	3353	alias
@@ -93191,6 +93302,7 @@ makasero	交给我吧	jiaogeiwoba	1343	primary
 heel_stretch	脚跟拉伸	jiaogenlashen	1786	primary
 __prompt__:heel_tuft	脚跟绒毛〔e621〕	jiaogenrongmao	2745	alias
 __prompt__:tiptoes	脚跟抬起〔e621〕	jiaogentaiqi	4231	alias
+__prompt__:digitigrade	脚跟抬起的兽腿〔常用词〕	jiaogentaiqideshoutui	10000	primary
 heel_drop_split	脚跟下压劈叉	jiaogenxiayapicha	1682	primary
 __prompt__:heel_claw	脚跟爪〔e621〕	jiaogenzhao	2891	alias
 feet_on_table	脚搁桌上	jiaogezhuoshang	3019	primary
@@ -94789,6 +94901,7 @@ yoikawa_sanami	及川早波	jichuanzaobo	1592	primary
 himekawa_makina	姬川真希奈	jichuanzhenxinai	1177	primary
 oikawa_kanon	及川奏音	jichuanzouyin	1231	primary
 __prompt__:simple_face	基础表情脸〔e621〕	jichubiaoqinglian	3069	alias
+__prompt__:worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text	基础负面〔常用组合〕	jichufumian	12000	primary
 cocked_hammer	击锤待发	jichuidaifa	2221	primary
 himetsuba	姬椿	jichun	1771	primary
 __prompt__:base_five_layout	基础五布局〔e621〕	jichuwubuju	2030	alias
@@ -94796,6 +94909,7 @@ __prompt__:kirasaka_sayaka	击出血〔合并词库〕	jichuxie	2333	alias
 __prompt__:kamen_rider_agito_(ground_form)	基础形态〔合并词库〕	jichuxingtai	2111	alias
 __prompt__:simple_shading	基础渲染〔e621〕	jichuxuanran	4123	alias
 basic_learning	基础学习	jichuxuexi	1231	primary
+__prompt__:high quality, best quality, ultra-detailed, fine details, sharp focus	基础正面〔常用组合〕	jichuzhengmian	12000	primary
 fundamental_paper_education	基础纸面教育	jichuzhimianjiaoyu	1463	primary
 __prompt__:fu_hua_(valkyrie_accipiter)	基础装〔合并词库〕	jichuzhuang	2455	alias
 spines	棘刺	jici	3162	primary
@@ -96891,6 +97005,7 @@ __prompt__:tooth_fairy_(reverse:1999)	基金会〔合并词库〕	jijinhui	2746	
 __prompt__:greta_hofmann	基金会〔合并词库〕	jijinhui	2258	alias
 __prompt__:horropedia	基金会〔合并词库〕	jijinhui	2094	alias
 fastening_corset	系紧束腰	jijinshuyao	1231	primary
+__prompt__:extreme_close-up	极近特写〔常用词〕	jijintexie	10000	primary
 kazumi_yoshizu	吉津一美	jijinyimei	1532	primary
 yoshi_ikuzou	吉几三	jijisan	1147	primary
 gidget	吉吉特	jijite	1519	primary
@@ -98159,7 +98274,7 @@ __prompt__:marcille_donato	金发精灵女法师〔e621〕	jinfajinglingnvfashi	
 __prompt__:lunch_(bad)_(dragon_ball)	金发兰奇〔合并词库〕	jinfalanqi	2461	alias
 __prompt__:gold_city_(umamusume)	金发马娘〔合并词库〕	jinfamaniang	3189	alias
 __prompt__:tiffy_(nottytiffy)	金发猫娘〔合并词库〕	jinfamaoniang	2835	alias
-__prompt__:rika_(m_k)	金发马尾〔合并词库〕	jinfamayi	2719	alias
+__prompt__:rika_(m_k)	金发马尾〔合并词库〕	jinfamawei	2719	alias
 __prompt__:blonde_eyebrows	金发眉毛〔e621〕	jinfameimao	3587	alias
 jin_fang_jintian_gu_le_ma	今方今天咕了吗	jinfangjintiangulema	1362	primary
 __prompt__:phalanx_ciws	近防炮〔合并词库〕	jinfangpao	2213	alias
@@ -98420,6 +98535,7 @@ neck_bobbles	颈部装饰球	jingbuzhuangshiqiu	2362	primary
 __prompt__:necktie	颈部装饰物〔e621〕	jingbuzhuangshiwu	5781	alias
 __prompt__:neck_grab	颈部抓握〔e621〕	jingbuzhuawo	3518	alias
 __prompt__:neck_hold	颈部抓握〔e621〕	jingbuzhuawo	2013	alias
+__prompt__:neck_tuft	颈部鬃毛〔常用词〕	jingbuzongmao	10000	primary
 __prompt__:brown_neck	颈部棕色〔e621〕	jingbuzongse	2573	alias
 neck_mouth	颈部嘴	jingbuzui	1231	primary
 __prompt__:marvelous	精彩〔合并词库〕	jingcai	2061	alias
@@ -99365,6 +99481,7 @@ __prompt__:warning_message	警示信息〔e621〕	jingshixinxi	2194	alias
 __prompt__:glimmet	晶石芽〔合并词库〕	jingshiya	2018	alias
 __prompt__:alarm_siren	警示装置〔e621〕	jingshizhuangzhi	2435	alias
 __prompt__:traffic_cone	警示锥〔e621〕	jingshizhui	3371	alias
+__prompt__:lean	精瘦〔常用词〕	jingshou	10000	primary
 __prompt__:johan_andersen	晶兽〔合并词库〕	jingshou	2479	alias
 idera_haru	井手春	jingshouchun	1463	primary
 pillory	颈手枷	jingshoujia	3034	primary
@@ -100301,6 +100418,7 @@ fancy_dessert	精致甜点	jingzhitiandian	1624	primary
 kagaminomachi_no_kaguya	镜之町的辉夜	jingzhitingdehuiye	2087	primary
 __prompt__:inogashira_gorou	井之头五郎〔合并词库〕	jingzhitouwulang	2022	alias
 __prompt__:unmoving_pattern	静止图案〔e621〕	jingzhituan	3918	alias
+__prompt__:fine details	精致细节〔常用词〕	jingzhixijie	10000	primary
 detailed_eyes	精致眼神	jingzhiyanshen	1256	primary
 __prompt__:detailed_eyes	精致眼神刻画〔e621〕	jingzhiyanshenkehua	2492	alias
 __prompt__:inohara_koboshi	井之原小星〔合并词库〕	jingzhiyuanxiaoxing	2134	alias
@@ -102065,7 +102183,7 @@ __prompt__:kujou_karen	金色马赛克〔合并词库〕	jinsemasaike	3054	alias
 __prompt__:alice_cartelet	金色马赛克〔合并词库〕	jinsemasaike	2885	alias
 __prompt__:komichi_aya	金色马赛克〔合并词库〕	jinsemasaike	2659	alias
 __prompt__:oomiya_shinobu	金色马赛克〔合并词库〕	jinsemasaike	2552	alias
-__prompt__:karuizawa_kei	金色马尾〔合并词库〕	jinsemayi	2366	alias
+__prompt__:karuizawa_kei	金色马尾〔合并词库〕	jinsemawei	2366	alias
 golden_rose	金色玫瑰	jinsemeigui	2703	primary
 __prompt__:gold_nails	金色美甲〔e621〕	jinsemeijia	2744	alias
 __prompt__:blonde_eyebrows	金色眉毛〔e621〕	jinsemeimao	3587	alias
@@ -102150,7 +102268,7 @@ __prompt__:gold_jewelry	金色首饰〔e621〕	jinseshoushi	4383	alias
 __prompt__:yellow_jewelry	金色首饰〔e621〕	jinseshoushi	2351	alias
 gold_gloves	金色手套	jinseshoutao	2900	primary
 __prompt__:gold_bracelet	金色手镯〔e621〕	jinseshouzhuo	3955	alias
-__prompt__:dekomori_sanae	金色双马尾〔合并词库〕	jinseshuangmayi	2842	alias
+__prompt__:dekomori_sanae	金色双马尾〔合并词库〕	jinseshuangmawei	2842	alias
 gold_hands	金色双手	jinseshuangshou	1302	primary
 __prompt__:gold_corset	金色束腹〔合并词库〕	jinseshufu	2288	alias
 __prompt__:gold_chastity_device	金色束身装置〔e621〕	jinseshushenzhuangzhi	3416	alias
@@ -102831,6 +102949,7 @@ __prompt__:metal_wings	金属羽翼〔e621〕	jinshuyuyi	2790	alias
 __prompt__:metal_boots	金属长靴〔e621〕	jinshuzhangxue	2144	alias
 __prompt__:metal_chastity_belt	金属贞操带〔e621〕	jinshuzhencaodai	2159	alias
 __prompt__:metal_chastity_cage	金属贞操锁〔e621〕	jinshuzhencaosuo	3528	alias
+__prompt__:metallic texture	金属质感〔常用词〕	jinshuzhigan	10000	primary
 __prompt__:metal	金属质感〔e621〕	jinshuzhigan	3719	alias
 __prompt__:metallic	金属质感〔e621〕	jinshuzhigan	2575	alias
 __prompt__:metal_hair	金属质感发丝〔e621〕	jinshuzhiganfasi	2479	alias
@@ -103726,6 +103845,7 @@ __prompt__:huge_arms	肌肉臂〔e621〕	jiroubi	2277	alias
 __prompt__:muscular_arm	肌肉臂〔e621〕	jiroubi	2253	alias
 __prompt__:growth	肌肉变大〔e621〕	jiroubianda	4567	alias
 __prompt__:growing	肌肉变大〔e621〕	jiroubianda	2920	alias
+__prompt__:deformed muscles	肌肉变形〔负面词〕	jiroubianxing	10000	primary
 __prompt__:muscular_ambiguous	肌肉不明确性别〔e621〕	jiroubumingquexingbie	2767	alias
 swole_doge	肌肉柴犬	jirouchaiquan	1147	primary
 muscle_car	肌肉车	jirouche	2563	primary
@@ -103771,6 +103891,7 @@ __prompt__:muscular_intersex	肌肉间性〔e621〕	jiroujianxing	4248	alias
 __prompt__:overly_muscular	肌肉极度发达〔e621〕	jiroujidufada	2137	alias
 __prompt__:clenching	肌肉紧绷〔e621〕	jiroujinbeng	2753	alias
 __prompt__:muscle_worship	肌肉敬拜〔e621〕	jiroujingbai	2592	alias
+__prompt__:deformed muscles	肌肉畸形〔描述短语〕	jiroujixing	10000	primary
 chicken_wrap	鸡肉卷	jiroujuan	1042	primary
 __prompt__:muscular_on_muscular	肌肉角色互动〔e621〕	jiroujuesehudong	3506	alias
 macho_ojiji	肌肉老爹	jiroulaodie	1807	primary
@@ -104376,6 +104497,7 @@ __prompt__:dove	鸠鸽类〔e621〕	jiugelei	3694	alias
 __prompt__:columbid	鸠鸽类〔e621〕	jiugelei	3464	alias
 __prompt__:nine_frame_image	九格漫画〔e621〕	jiugemanhua	2325	alias
 __prompt__:9_panel_comic	九格漫画〔e621〕	jiugemanhua	2202	alias
+__prompt__:9_tails	九根尾巴〔常用词〕	jiugenweiba	10000	primary
 washinomiya_koori	鹫宫冰莉	jiugongbingli	1779	primary
 jiugong_chi	九宫赤	jiugongchi	1532	primary
 __prompt__:nine_frame_image	九宫格〔e621〕	jiugongge	2325	alias
@@ -105421,6 +105543,7 @@ __prompt__:grotesque_genitals	畸形性器官〔e621〕	jixingxingqiguan	2319	al
 __prompt__:bad_vulva	畸形阴部〔合并词库〕	jixingyinbu	2420	alias
 __prompt__:huge_clitoris	畸形阴蒂〔e621〕	jixingyindi	2723	alias
 improvised_instrument	即兴乐器	jixingyueqi	1725	primary
+__prompt__:malformed limbs	畸形肢体〔常用词〕	jixingzhiti	10000	primary
 ki_ga_hayai_kouhai_kanojo	急性子的后辈女友	jixingzidehoubeinvyou	2038	primary
 gekikara_poteto	激辛马铃薯	jixinmalingshu	1634	primary
 breast_punch	击胸	jixiong	1820	primary
@@ -105483,8 +105606,8 @@ __prompt__:>_<	挤眼〔e621〕	jiyan	4939	alias
 __prompt__:jiyan_(wuthering_waves)	忌炎〔合并词库〕	jiyan	2652	alias
 __prompt__:hime_(himesama_goumon)	姬様〔合并词库〕	jiyang	2054	alias
 __prompt__:hime_(himesama_goumon)	姬様拷问时间〔合并词库〕	jiyangkaowenshijian	2054	alias
-__prompt__:long_ponytail	及腰马尾〔e621〕	jiyaomayi	2657	alias
-__prompt__:long_pigtails	及腰双马尾〔e621〕	jiyaoshuangmayi	2207	alias
+__prompt__:long_ponytail	及腰马尾〔e621〕	jiyaomawei	2657	alias
+__prompt__:long_pigtails	及腰双马尾〔e621〕	jiyaoshuangmawei	2207	alias
 __prompt__:long_tail	及腰尾巴〔e621〕	jiyaoweiba	5014	alias
 squeeze_bottle	挤压瓶	jiyaping	2548	primary
 compressed_breasts	挤压乳房	jiyarufang	1852	primary
@@ -105798,7 +105921,7 @@ __prompt__:holding_curling_iron	卷发棒〔合并词库〕	juanfabang	2134	alia
 __prompt__:curlers	卷发夹〔e621〕	juanfajia	2054	alias
 __prompt__:curlers	卷发器〔e621〕	juanfaqi	2054	alias
 __prompt__:curled_mane	卷发式鬃毛〔合并词库〕	juanfashizongmao	2451	alias
-curly_twintails	卷发双马尾	juanfashuangmayi	1042	primary
+curly_twintails	卷发双马尾	juanfashuangmawei	1042	primary
 hair_rollers	卷发筒	juanfatong	2578	primary
 __prompt__:curlers	卷发筒〔e621〕	juanfatong	2054	alias
 __prompt__:twirling_hair	卷发玩弄〔e621〕	juanfawannong	3726	alias
@@ -108030,6 +108153,7 @@ __prompt__:tajikarao_(housamo)	举重部〔合并词库〕	juzhongbu	2515	alias
 weight_bench	举重凳	juzhongdeng	1827	primary
 centered_hair_bow	居中发带	juzhongfadai	2579	primary
 __prompt__:barbell	举重杠铃〔e621〕	juzhonggangling	3454	alias
+__prompt__:centered composition	居中构图〔常用词〕	juzhonggoutu	10000	primary
 __prompt__:weights	举重器材〔e621〕	juzhongqicai	3867	alias
 __prompt__:dumbbell	举重器材〔e621〕	juzhongqicai	3535	alias
 __prompt__:weight_machine	举重器械〔e621〕	juzhongqixie	2118	alias
@@ -108334,7 +108458,7 @@ __prompt__:back_slit	开叉〔合并词库〕	kaicha	2185	alias
 __prompt__:front_slit	开衩〔e621〕	kaicha	3517	alias
 __prompt__:sleeve_slit	开衩〔合并词库〕	kaicha	2409	alias
 __prompt__:split_dress	开叉连衣裙〔e621〕	kaichalianyiqun	2159	alias
-__prompt__:split_ponytail	开叉马尾〔合并词库〕	kaichamayi	3479	alias
+__prompt__:split_ponytail	开叉马尾〔合并词库〕	kaichamawei	3479	alias
 __prompt__:introduction	开场〔e621〕	kaichang	2533	alias
 __prompt__:kinomoto_sakura_(miraculous_sakura)	开场动画〔合并词库〕	kaichangdonghua	2314	alias
 __prompt__:title_screen	开场画面〔e621〕	kaichanghuamian	2101	alias
@@ -109140,6 +109264,7 @@ __prompt__:sleeveless_topwear	坎肩〔e621〕	kanjian	3689	alias
 __prompt__:looking_at_foot	看脚〔e621〕	kanjiao	2511	alias
 __prompt__:yukari_(blue_archive)	勘解由小路紫〔合并词库〕	kanjieyouxiaoluzi	3027	alias
 kanjira	坎吉拉鼓	kanjilagu	1893	primary
+__prompt__:looking_at_viewer	看镜头〔常用词〕	kanjingtou	10000	primary
 __prompt__:looking_at_mirror	看镜子〔e621〕	kanjingzi	3695	alias
 kankurou	勘九郎	kanjiulang	2072	primary
 looking_at_card	看卡片	kankapian	1415	primary
@@ -111619,6 +111744,7 @@ __prompt__:snout	口鼻〔e621〕	koubi	5024	alias
 __prompt__:muzzle_(marking)	口鼻斑纹〔e621〕	koubibanwen	3627	alias
 __prompt__:snout_markings	口鼻斑纹〔e621〕	koubibanwen	3487	alias
 snout	兽吻〔兽人词〕	koubibu	10000	primary
+__prompt__:muzzle	口鼻部〔常用词〕	koubibu	10000	primary
 __prompt__:snout_scar	口鼻部疤痕〔e621〕	koubibubahen	2933	alias
 __prompt__:snout_tied	口鼻部被绑〔e621〕	koubibubeibang	2076	alias
 __prompt__:muzzle_in_anus	口鼻部插入肛门〔e621〕	koubibucharugangmen	2407	alias
@@ -112854,7 +112980,7 @@ wide_face	宽脸	kuanlian	2914	primary
 __prompt__:usekh	宽领〔e621〕	kuanling	3165	alias
 __prompt__:big_collar	宽领〔e621〕	kuanling	2485	alias
 __prompt__:wide_brim_hat	宽帽檐帽子〔e621〕	kuanmaoyanmaozi	2759	alias
-wide_ponytail	宽马尾	kuanmayi	3711	primary
+wide_ponytail	宽马尾	kuanmawei	3711	primary
 himokawa_udon	宽面乌冬	kuanmianwudong	1779	primary
 __prompt__:widescreen	宽屏〔e621〕	kuanping	5365	alias
 __prompt__:widescreen	宽屏比例〔e621〕	kuanpingbili	5365	alias
@@ -115288,7 +115414,7 @@ __prompt__:blue hair	蓝发〔提示词库〕	lanfa	5001	alias
 __prompt__:blue_glow	蓝发光〔e621〕	lanfaguang	2977	alias
 __prompt__:bae_minah_(chaesu)	蓝发蓝眼〔合并词库〕	lanfalanyan	2869	alias
 __prompt__:cyan_hijirikawa	蓝发猫耳女孩〔e621〕	lanfamaoernvhai	2306	alias
-__prompt__:nekoha_shizuku	蓝发马尾〔合并词库〕	lanfamayi	2061	alias
+__prompt__:nekoha_shizuku	蓝发马尾〔合并词库〕	lanfamawei	2061	alias
 __prompt__:rosamia_badam	蓝发美女〔合并词库〕	lanfameinv	2005	alias
 __prompt__:lan_fan	兰芳〔合并词库〕	lanfang	2050	alias
 __prompt__:blue_glow	蓝泛光〔e621〕	lanfanguang	2977	alias
@@ -116002,7 +116128,7 @@ __prompt__:tiffany_valentine	蓝毛雪豹娘〔e621〕	lanmaoxuebaoniang	2393	al
 __prompt__:nicole_watterson	蓝猫一家〔e621〕	lanmaoyijia	3914	alias
 __prompt__:blue_hat	蓝帽子〔e621〕	lanmaozi	4866	alias
 __prompt__:lanmewko	懒猫子〔合并词库〕	lanmaozi	2030	alias
-__prompt__:botan_(yu_yu_hakusho)	蓝马尾〔合并词库〕	lanmayi	2446	alias
+__prompt__:botan_(yu_yu_hakusho)	蓝马尾〔合并词库〕	lanmawei	2446	alias
 blueberry	蓝莓	lanmei	3647	primary
 lanmei	蓝妹	lanmei	2034	primary
 __prompt__:blueberry_(fruit)	蓝莓〔e621〕	lanmei	2813	alias
@@ -119263,6 +119389,7 @@ frozen_yogurt	冷冻酸奶	lengdongsuannai	1205	primary
 __prompt__:frigibax	冷冻牙〔合并词库〕	lengdongya	2022	alias
 lengfeng_guojing	冷风郭靖	lengfengguojing	1256	primary
 __prompt__:cold_pack	冷敷〔合并词库〕	lengfu	2778	alias
+__prompt__:cool lighting	冷光〔常用词〕	lengguang	10000	primary
 leng_guang_jiu_juan	冷光酒卷	lengguangjiujuan	1415	primary
 nervous_sweating	冷汗	lenghan	4427	primary
 __prompt__:ridges	棱脊〔e621〕	lengji	2672	alias
@@ -119786,6 +119913,7 @@ __prompt__:2_antennae	两根触角〔e621〕	lianggenchujiao	2840	alias
 __prompt__:index_to_index	两根食指相碰〔e621〕	lianggenshizhixiangpeng	2832	alias
 __prompt__:2_fingers	两根手指〔e621〕	lianggenshouzhi	3451	alias
 2girls	两个女孩	lianggenvhai	6170	primary
+__prompt__:two_tails	两根尾巴〔常用词〕	lianggenweiba	10000	primary
 __prompt__:2_sheaths	两个鞘口〔e621〕	lianggeqiaokou	2213	alias
 __prompt__:2_tongues	两个舌头〔e621〕	lianggeshetou	2493	alias
 __prompt__:2_fingers	两个手指〔e621〕	lianggeshouzhi	3451	alias
@@ -124728,7 +124856,7 @@ hexagram_earrings	六芒星耳环	liumangxingerhuan	1478	primary
 hexagram_hair_ornament	六芒星发饰	liumangxingfashi	2489	primary
 __prompt__:hexagram	六芒星符号〔e621〕	liumangxingfuhao	3592	alias
 __prompt__:pangoro	流氓熊猫〔e621〕	liumangxiongmao	3052	alias
-hex_tails	六马尾	liumayi	1945	primary
+hex_tails	六马尾	liumawei	1945	primary
 rumihime	瑠美姬	liumeiji	1492	primary
 __prompt__:misora_(princess_connect!)	流魅空〔合并词库〕	liumeikong	2575	alias
 miki_yanagi	柳美树	liumeishu	1231	primary
@@ -128144,7 +128272,7 @@ spiral_notebook	螺旋笔记本	luoxuanbijiben	2026	primary
 drill_sidelocks	螺旋鬓发	luoxuanbinfa	4018	primary
 __prompt__:helix_piercing	螺旋穿孔〔e621〕	luoxuanchuankong	2718	alias
 __prompt__:curled_antennae	螺旋触角〔e621〕	luoxuanchujiao	2293	alias
-single_drill	螺旋单马尾	luoxuandanmayi	3047	primary
+single_drill	螺旋单马尾	luoxuandanmawei	3047	primary
 __prompt__:spiral_background	螺旋花纹〔e621〕	luoxuanhuawen	2998	alias
 __prompt__:spiral_markings	螺旋花纹〔e621〕	luoxuanhuawen	2218	alias
 propeller	螺旋桨	luoxuanjiang	3287	primary
@@ -128170,7 +128298,7 @@ __prompt__:gastropod_shell	螺旋壳〔e621〕	luoxuanke	2502	alias
 spiral_power	螺旋力	luoxuanli	2159	primary
 __prompt__:antispiral	螺旋力敌人〔合并词库〕	luoxuanlidiren	2001	alias
 spiral_staircase	螺旋楼梯	luoxuanlouti	2764	primary
-drill_ponytail	螺旋马尾	luoxuanmayi	3532	primary
+drill_ponytail	螺旋马尾	luoxuanmawei	3532	primary
 __prompt__:spirograph	螺旋描记器〔提示词库〕	luoxuanmiaojiqi	5001	alias
 __prompt__:spiral_knights	螺旋骑士〔e621〕	luoxuanqishi	2879	alias
 __prompt__:spiral_knight_(species)	螺旋骑士〔e621〕	luoxuanqishi	2314	alias
@@ -128180,7 +128308,7 @@ spiral_cheeks	螺旋腮红	luoxuansaihong	1960	primary
 luoxuan_sese	螺旋瑟瑟	luoxuansese	1114	primary
 __prompt__:tengen_toppa_gurren_lagann	螺旋升天〔e621〕	luoxuanshengtian	4037	alias
 rasen_shuriken	螺旋手里剑	luoxuanshoulijian	1231	primary
-twin_drills	螺旋双马尾	luoxuanshuangmayi	4869	primary
+twin_drills	螺旋双马尾	luoxuanshuangmawei	4869	primary
 __prompt__:sekino_roko	落选水果派〔合并词库〕	luoxuanshuiguopai	2072	alias
 curly_fries	螺旋薯条	luoxuanshutiao	1177	primary
 __prompt__:spring	螺旋弹簧〔e621〕	luoxuantanhuang	2736	alias
@@ -130949,14 +131077,14 @@ mach_rider	马赫骑士	maheqishi	1042	primary
 __prompt__:ponification	马化〔e621〕	mahua	3310	alias
 __prompt__:braid	麻花辫〔合并词库〕	mahuabian	5926	alias
 __prompt__:braided_hair	麻花辫〔e621〕	mahuabian	4580	alias
-braided_ponytail	麻花辫马尾	mahuabianmayi	4722	primary
+braided_ponytail	麻花辫马尾	mahuabianmawei	4722	primary
 braided_tail	麻花辫尾	mahuabianwei	2226	primary
 braided_scarf	麻花辫围巾	mahuabianweijin	1820	primary
 osage_gankyou	麻花辫眼镜	mahuabianyanjing	2171	primary
 __prompt__:Leech	蚂蟥〔提示词库〕	mahuang	5001	alias
 __prompt__:leech	蚂蟥〔e621〕	mahuang	2600	alias
 __prompt__:medial_ringed_humanoid_penis	马环阴茎〔e621〕	mahuanyinjing	3288	alias
-__prompt__:braided_pigtails	麻花双马尾〔e621〕	mahuashuangmayi	3370	alias
+__prompt__:braided_pigtails	麻花双马尾〔e621〕	mahuashuangmawei	3370	alias
 __prompt__:maho_(princess_connect!)	马霍〔合并词库〕	mahuo	2355	alias
 haze	霾	mai	2445	primary
 __prompt__:miami_clip	迈阿密风格发夹〔e621〕	maiamifenggefajia	2455	alias
@@ -131927,6 +132055,7 @@ magicleaders	曼奇立德	manqilide	1519	primary
 __prompt__:striped_sins	慢热爱情漫画〔e621〕	manreaiqingmanhua	2616	alias
 __prompt__:barbarian	蛮人〔e621〕	manren	3034	alias
 unagi_sango	鳗三号	mansanhao	2202	primary
+__prompt__:diffused lighting	漫射光〔常用词〕	mansheguang	10000	primary
 __prompt__:hearts_around_entire_body	满身爱心〔e621〕	manshenaixin	2286	alias
 __prompt__:scars_all_over	满身疤痕〔e621〕	manshenbahen	3506	alias
 teaka_mamire_no_danshi	满身茶垢的男子	manshenchagoudenanzi	1147	primary
@@ -132590,6 +132719,7 @@ __prompt__:fur highlights	毛发高光〔皮毛词〕	maofagaoguang	10000	primar
 __prompt__:individual fur strands	毛发根根分明〔皮毛词〕	maofagengenfenming	10000	primary
 __prompt__:excessive_fluff	毛发过度蓬松〔e621〕	maofaguodupengsong	2054	alias
 __prompt__:hyper_pubes	毛发过度生长〔e621〕	maofaguodushengzhang	2046	alias
+__prompt__:fur markings	毛发花纹〔常用词〕	maofahuawen	10000	primary
 __prompt__:hairy_feet	毛发脚〔e621〕	maofajiao	2314	alias
 __prompt__:fur shading	毛发明暗〔皮毛词〕	maofamingan	10000	primary
 nekonomanma	猫饭	maofan	1042	primary
@@ -133691,6 +133821,7 @@ __prompt__:werefeline	猫兽人〔e621〕	maoshouren	2665	alias
 __prompt__:werecat	猫兽人〔e621〕	maoshouren	2627	alias
 __prompt__:lyre_(fire_emblem)	猫兽人〔合并词库〕	maoshouren	2464	alias
 __prompt__:mellonsoda	毛兽艺术者〔e621〕	maoshouyishuzhe	3072	alias
+__prompt__:fur tufts	毛束〔常用词〕	maoshu	10000	primary
 __prompt__:felis	猫属〔e621〕	maoshu	5611	alias
 __prompt__:brush_tail	毛刷尾〔e621〕	maoshuawei	2218	alias
 nekosuitai_yo	猫水队哟	maoshuiduiyo	1323	primary
@@ -134633,6 +134764,19 @@ horse_costume	马玩偶服	mawanoufu	2239	primary
 umayoude_su	马腕素	mawansu	1506	primary
 ponytail	马尾	mawei	10000	primary
 mavie_(justadrian)	马维	mawei	1478	primary
+__prompt__:side_ponytail	马尾〔e621〕	mawei	5348	alias
+__prompt__:horse_tail	马尾〔e621〕	mawei	5059	alias
+__prompt__:high_ponytail	马尾〔e621〕	mawei	5055	alias
+__prompt__:pony-tail	马尾〔提示词库〕	mawei	5001	alias
+__prompt__:low_ponytail	马尾〔e621〕	mawei	4873	alias
+__prompt__:tied_hair	马尾〔e621〕	mawei	3971	alias
+__prompt__:front_ponytail	马尾〔合并词库〕	mawei	3957	alias
+__prompt__:drill_ponytail	马尾〔合并词库〕	mawei	3407	alias
+__prompt__:low_side_ponytail	马尾〔合并词库〕	mawei	3381	alias
+__prompt__:ponytail_with_braided_base	马尾〔合并词库〕	mawei	3322	alias
+__prompt__:equine_tail	马尾〔e621〕	mawei	2558	alias
+__prompt__:high_braided_ponytail	马尾〔合并词库〕	mawei	2295	alias
+__prompt__:dutch_braided_ponytail	马尾〔合并词库〕	mawei	2263	alias
 __prompt__:ponytail	马尾辫〔提示词库〕	maweibian	5001	alias
 __prompt__:short_ponytail	马尾辫〔e621〕	maweibian	4659	alias
 __prompt__:folded_ponytail	马尾辫〔合并词库〕	maweibian	4402	alias
@@ -134698,21 +134842,7 @@ maya_(culture)	玛雅文明	mayawenming	1920	primary
 __prompt__:mayan	玛雅文明〔e621〕	mayawenming	2108	alias
 bano_akira	马野明	mayeming	2297	primary
 asa_no_ha_(pattern)	麻叶纹	mayewen	3348	primary
-ponytail	马尾	mayi	5996	primary
 ant	蚂蚁	mayi	2888	primary
-__prompt__:side_ponytail	马尾〔e621〕	mayi	5348	alias
-__prompt__:horse_tail	马尾〔e621〕	mayi	5059	alias
-__prompt__:high_ponytail	马尾〔e621〕	mayi	5055	alias
-__prompt__:pony-tail	马尾〔提示词库〕	mayi	5001	alias
-__prompt__:low_ponytail	马尾〔e621〕	mayi	4873	alias
-__prompt__:tied_hair	马尾〔e621〕	mayi	3971	alias
-__prompt__:front_ponytail	马尾〔合并词库〕	mayi	3957	alias
-__prompt__:drill_ponytail	马尾〔合并词库〕	mayi	3407	alias
-__prompt__:low_side_ponytail	马尾〔合并词库〕	mayi	3381	alias
-__prompt__:ponytail_with_braided_base	马尾〔合并词库〕	mayi	3322	alias
-__prompt__:equine_tail	马尾〔e621〕	mayi	2558	alias
-__prompt__:high_braided_ponytail	马尾〔合并词库〕	mayi	2295	alias
-__prompt__:dutch_braided_ponytail	马尾〔合并词库〕	mayi	2263	alias
 __prompt__:Ant	蚂蚁〔提示词库〕	mayi	5001	alias
 __prompt__:marley_(pokemon)	玛依〔合并词库〕	mayi	2282	alias
 __prompt__:mai_(dragon_ball)	玛依〔合并词库〕	mayi	2246	alias
@@ -143763,6 +143893,7 @@ __prompt__:lion	母狮〔e621〕	mushi	4922	alias
 __prompt__:tombstone	墓石〔e621〕	mushi	3668	alias
 __prompt__:tomb	墓室〔e621〕	mushi	2347	alias
 __prompt__:woodlouse	木虱〔e621〕	mushi	2253	alias
+__prompt__:looking_at_viewer	目视观众〔常用词〕	mushiguanzhong	10000	primary
 clerical_collar	牧师领	mushiling	2740	primary
 __prompt__:priest_robes	牧师袍〔e621〕	mushipao	2375	alias
 looking_ahead	目视前方	mushiqianfang	4789	primary
@@ -151024,6 +151155,7 @@ __prompt__:big_beard	浓密胡须〔e621〕	nongmihuxu	2467	alias
 thick_eyelashes	浓密睫毛	nongmijiemao	3881	primary
 __prompt__:long_eyelashes	浓密睫毛〔e621〕	nongmijiemao	4426	alias
 __prompt__:mascara	浓密睫毛〔e621〕	nongmijiemao	4149	alias
+__prompt__:thick fur	浓密毛发〔常用词〕	nongmimaofa	10000	primary
 __prompt__:thick_fur	浓密毛发〔e621〕	nongmimaofa	2488	alias
 __prompt__:thick fur	浓密毛皮〔皮毛词〕	nongmimaopi	10000	primary
 __prompt__:thick_fur	浓密毛皮〔e621〕	nongmimaopi	2488	alias
@@ -151093,6 +151225,7 @@ heat_pad	暖宝宝	nuanbaobao	1398	primary
 heat_plaster	暖宝宝	nuanbaobao	1080	primary
 __prompt__:melody_bloom_(infinity_nikki)	暖歌花纪〔合并词库〕	nuangehuaji	2231	alias
 __prompt__:luonnotar_(genshin_impact)	努昂诺塔〔合并词库〕	nuangnuota	2492	alias
+__prompt__:warm_lighting	暖光〔常用词〕	nuanguang	10000	primary
 __prompt__:warm_lighting	暖光照明〔e621〕	nuanguangzhaoming	3021	alias
 __prompt__:yellow_light	暖黄灯光〔e621〕	nuanhuangdengguang	2368	alias
 __prompt__:warmers	暖脚器〔e621〕	nuanjiaoqi	2497	alias
@@ -154477,7 +154610,7 @@ __prompt__:fluffy fur	蓬松皮毛〔皮毛词〕	pengsongpimao	10000	primary
 __prompt__:fluffy_breasts	蓬松乳房〔e621〕	pengsongrufang	2563	alias
 __prompt__:fluffy_body	蓬松身体〔e621〕	pengsongshenti	2721	alias
 __prompt__:fluffy_arms	蓬松手臂〔e621〕	pengsongshoubi	2469	alias
-w_tail_fluffy	蓬松双马尾	pengsongshuangmayi	1042	primary
+w_tail_fluffy	蓬松双马尾	pengsongshuangmawei	1042	primary
 __prompt__:squirrel_tail	蓬松松鼠尾〔e621〕	pengsongsongshuwei	3748	alias
 fluffy_hair	蓬松头发	pengsongtoufa	3799	primary
 __prompt__:puffy_hair	蓬松头发〔e621〕	pengsongtoufa	2542	alias
@@ -154801,7 +154934,7 @@ katagai_shione	片贝诗音	pianbeishiyin	1042	primary
 katakura_nayuuki	片仓奈由纪	piancangnaiyouji	1634	primary
 __prompt__:katakura_kojuurou_(sengoku_basara)	片仓小十郎〔合并词库〕	piancangxiaoshilang	2196	alias
 katakura_shinji	片仓真二	piancangzhener	1733	primary
-__prompt__:side_ponytail	偏侧马尾〔e621〕	piancemayi	5348	alias
+__prompt__:side_ponytail	偏侧马尾〔e621〕	piancemawei	5348	alias
 katagawa_mika	片川美嘉	pianchuanmeijia	1846	primary
 __prompt__:oversized_breast_cup	偏大的罩杯〔合并词库〕	piandadezhaobei	3200	alias
 __prompt__:preview	片段预览〔e621〕	pianduanyulan	2986	alias
@@ -155395,12 +155528,14 @@ leather_wrist_straps	皮革腕带	pigewandai	2316	primary
 leather_wrist_cuffs	皮革腕带	pigewandai	1042	primary
 __prompt__:leather_harness	皮革挽具〔e621〕	pigewanju	3453	alias
 leather_apron	皮革围裙	pigeweiqun	1663	primary
+__prompt__:leather texture	皮革纹理〔常用词〕	pigewenli	10000	primary
 leather_collar	皮革项圈	pigexiangquan	2199	primary
 __prompt__:leather_bottomwear	皮革下装〔e621〕	pigexiazhuang	3155	alias
 __prompt__:leather_footwear	皮革鞋靴〔e621〕	pigexiexue	3145	alias
 __prompt__:leather_boots	皮革靴子〔e621〕	pigexuezi	3362	alias
 __prompt__:leather_clothing	皮革衣物〔e621〕	pigeyiwu	4089	alias
 __prompt__:leather_jockstrap	皮革运动护裆〔e621〕	pigeyundonghudang	2042	alias
+__prompt__:leather texture	皮革质感〔常用词〕	pigezhigan	10000	primary
 __prompt__:leather	皮革制品〔e621〕	pigezhipin	4426	alias
 __prompt__:leather_collar	皮革制品〔e621〕	pigezhipin	2721	alias
 __prompt__:butt	屁股〔俗称·臀部〕	pigu	10000	primary
@@ -159467,6 +159602,7 @@ asagiwa_ico	浅际伊子	qianjiyizi	2083	primary
 __prompt__:kindred_(league_of_legends)	千珏〔合并词库〕	qianjue	2960	alias
 serratus_anterior	前锯肌	qianjuji	1904	primary
 __prompt__:serratus	前锯肌〔e621〕	qianjuji	3895	alias
+__prompt__:serratus_anterior	前锯状肌〔常用词〕	qianjuzhuangji	10000	primary
 kilocalories	千卡	qianka	1231	primary
 front_slit	前开衩	qiankaicha	3603	primary
 front_split	前开叉	qiankaicha	1231	primary
@@ -159589,8 +159725,8 @@ thousand_yard_stare	千码凝视	qianmaningshi	2207	primary
 __prompt__:light_pussy	浅毛家猫〔e621〕	qianmaojiamao	2499	alias
 __prompt__:light_pussy	浅毛色猫〔e621〕	qianmaosemao	2499	alias
 __prompt__:light_tail	浅毛色尾〔e621〕	qianmaosewei	3082	alias
-front_ponytail	前马尾	qianmayi	3974	primary
-__prompt__:front ponytail	前马尾〔提示词库〕	qianmayi	5001	alias
+front_ponytail	前马尾	qianmawei	3974	primary
+__prompt__:front ponytail	前马尾〔提示词库〕	qianmawei	5001	alias
 __prompt__:light_eyebrows	浅眉毛〔e621〕	qianmeimao	2524	alias
 senchimee	千米	qianmi	1691	primary
 __prompt__:inteleon	千面避役〔e621〕	qianmianbiyi	3461	alias
@@ -164195,7 +164331,7 @@ __prompt__:recliner	倾斜椅〔e621〕	qingxieyi	2600	alias
 leaning	倾斜站立	qingxiezhanli	3835	primary
 __prompt__:striated_muscles	清晰肌肉〔e621〕	qingxijirou	2156	alias
 __prompt__:lean_muscle	清晰肌肉线条〔e621〕	qingxijirouxiantiao	2562	alias
-__prompt__:detailed_bulge	清晰轮廓〔e621〕	qingxilunkuo	4649	alias
+__prompt__:clean outlines	清晰轮廓〔常用词〕	qingxilunkuo	10000	primary
 qingxin_flower	清心	qingxin	2975	primary
 ao_hoshi	青星	qingxing	2038	primary
 __prompt__:awake	清醒〔e621〕	qingxing	2552	alias
@@ -167126,6 +167262,7 @@ __prompt__:full-length_portrait	全身肖像〔e621〕	quanshenxiaoxiang	5069	al
 __prompt__:speckled_body	全身星点纹〔e621〕	quanshenxingdianwen	2779	alias
 full-body_clothes_hanger	全身衣架	quanshenyijia	2844	primary
 __prompt__:full-length_portrait	全身站立图〔e621〕	quanshenzhanlitu	5069	alias
+__prompt__:full_body	全身照〔常用词〕	quanshenzhao	10000	primary
 __prompt__:fully_clothed_humanoid	全身着装人形〔e621〕	quanshenzhuozhuangrenxing	3246	alias
 __prompt__:fetal_pose	蜷身姿势〔e621〕	quanshenzishi	2795	alias
 __prompt__:ines_fujin_(all-time_fever)_(umamusume)	全时狂热〔合并词库〕	quanshikuangre	2156	alias
@@ -167483,13 +167620,17 @@ __prompt__:asking_if_ready	确认准备状态〔e621〕	querenzhunbeizhuangtai	2
 gar_(fish)	雀鳝	queshan	1398	primary
 __prompt__:missing_wings	缺少翅膀〔e621〕	queshaochibang	3447	alias
 __prompt__:missing limb	缺少的肢体〔负面词〕	queshaodezhiti	5001	alias
+__prompt__:missing ears	缺少耳朵〔负面词〕	queshaoerduo	10000	primary
 __prompt__:missing_halo	缺少光环〔合并词库〕	queshaoguanghuan	3590	alias
+__prompt__:missing arms	缺少手臂〔负面词〕	queshaoshoubi	10000	primary
 __prompt__:missing fingers	缺少手指〔负面词〕	queshaoshouzhi	5001	alias
 __prompt__:missing_finger	缺少手指〔e621〕	queshaoshouzhi	2165	alias
 __prompt__:missing_headwear	缺少头饰〔合并词库〕	queshaotoushi	4662	alias
+__prompt__:missing legs	缺少腿〔负面词〕	queshaotui	10000	primary
 __prompt__:missing_legwear	缺少腿部衣物〔合并词库〕	queshaotuibuyiwu	3744	alias
 __prompt__:missing_tail	缺少尾巴〔e621〕	queshaoweiba	3438	alias
 __prompt__:missing_eye	缺少眼睛〔e621〕	queshaoyanjing	3108	alias
+__prompt__:missing_limbs	缺少肢体〔负面词〕	queshaozhiti	10000	primary
 __prompt__:missing limb	缺少肢体〔负面词〕	queshaozhiti	5001	alias
 __prompt__:featureless_feet	缺失〔e621〕	queshi	3978	alias
 __prompt__:no_feet	缺失〔合并词库〕	queshi	3611	alias
@@ -171194,8 +171335,10 @@ __prompt__:pastel_theme	柔和〔e621〕	rouhe	3300	alias
 __prompt__:tender	柔和〔e621〕	rouhe	2947	alias
 __prompt__:pastel_color	柔和的色彩〔提示词库〕	rouhedesecai	5001	alias
 __prompt__:soft_abs	柔和腹肌〔e621〕	rouhefuji	3303	alias
+__prompt__:soft lighting	柔和光线〔常用词〕	rouheguangxian	10000	primary
 __prompt__:soft lighting	柔和光照〔光照词〕	rouheguangzhao	10000	primary
 soft_lighting	柔和光照	rouheguangzhao	1256	primary
+__prompt__:subtle muscle definition	柔和肌肉线条〔描述短语〕	rouhejirouxiantiao	10000	primary
 __prompt__:soft fur shading	柔和毛皮阴影〔皮毛词〕	rouhemaopiyinying	10000	primary
 __prompt__:gentle_femdom	柔和女权〔e621〕	rouhenvquan	3230	alias
 __prompt__:soft fur shading	柔和皮毛阴影〔皮毛词〕	rouhepimaoyinying	10000	primary
@@ -173966,6 +174109,7 @@ __prompt__:3_toes	三根脚趾〔e621〕	sangenjiaozhi	5242	alias
 __prompt__:3_horns	三根犄角〔e621〕	sangenjijiao	3289	alias
 __prompt__:3_fingers	三根手指〔e621〕	sangenshouzhi	4728	alias
 3girls	三个女孩	sangenvhai	5526	primary
+__prompt__:3_tails	三根尾巴〔常用词〕	sangenweiba	10000	primary
 __prompt__:3_penises	三根性器〔e621〕	sangenxingqi	2896	alias
 __prompt__:3_penises	三根阴茎〔e621〕	sangenyinjing	2896	alias
 __prompt__:3_breasts	三个乳房〔e621〕	sangerufang	2605	alias
@@ -174428,8 +174572,8 @@ mi-ke	三毛猫	sanmaomao	1080	primary
 __prompt__:nekotsuki_kohime	三毛猫娘〔e621〕	sanmaomaoniang	2256	alias
 mikeneko_mari	三毛猫真理	sanmaomaozhenli	1708	primary
 mikemomonga	三毛鼯鼠	sanmaowushu	1398	primary
-tri_tails	三马尾	sanmayi	3446	primary
-__prompt__:tri tails	三马尾〔提示词库〕	sanmayi	5001	alias
+tri_tails	三马尾	sanmawei	3446	primary
+__prompt__:tri tails	三马尾〔提示词库〕	sanmawei	5001	alias
 mima_shoma	三马正磨	sanmazhengmo	1256	primary
 the_three_charms	三枚符咒	sanmeifuzhou	1147	primary
 mitsumi_misato	三美美里	sanmeimeili	2982	primary
@@ -181603,6 +181747,7 @@ __prompt__:sapphire_(gem)	深蓝刚玉〔e621〕	shenlangangyu	3078	alias
 __prompt__:blue_pants	深蓝裤子〔e621〕	shenlankuzi	4731	alias
 __prompt__:darkblue	深蓝色〔提示词库〕	shenlanse	5001	alias
 __prompt__:navy_fur	深蓝色毛发〔e621〕	shenlansemaofa	2147	alias
+__prompt__:stretching	伸懒腰〔常用词〕	shenlanyao	10000	primary
 __prompt__:stretch	伸懒腰〔提示词库〕	shenlanyao	5001	alias
 __prompt__:stretching_arms	伸懒腰〔e621〕	shenlanyao	2912	alias
 aoi_umi_no_tristia	深蓝之海的特里斯蒂亚	shenlanzhihaidetelisidiya	1771	primary
@@ -182502,6 +182647,7 @@ __prompt__:mole_under_breast	身体标记〔合并词库〕	shentibiaoji	2284	al
 __prompt__:accessory_tan	身体标记〔合并词库〕	shentibiaoji	2233	alias
 __prompt__:scar_on_hip	身体标记〔合并词库〕	shentibiaoji	2199	alias
 __prompt__:scar_on_sternum	身体标记〔合并词库〕	shentibiaoji	2104	alias
+__prompt__:bad proportions	身体比例错误〔负面词〕	shentibilicuowu	10000	primary
 __prompt__:hyper_problems	身体比例失衡问题〔e621〕	shentibilishihengwenti	2302	alias
 body_parts	身体部位	shentibuwei	1592	primary
 __prompt__:hyper_problems	身体部位过大困扰〔e621〕	shentibuweiguodakunrao	2302	alias
@@ -182634,11 +182780,14 @@ __prompt__:testicles_touching	身体接触〔合并词库〕	shentijiechu	2174	a
 __prompt__:kissing_thigh	身体接触〔合并词库〕	shentijiechu	2131	alias
 __prompt__:bad_anatomy	身体结构崩坏〔合并词库〕	shentijiegoubenghuai	4245	alias
 __prompt__:anatomically_inaccurate	身体结构不准确〔e621〕	shentijiegoubuzhunque	3185	alias
+__prompt__:bad anatomy	身体结构错误〔负面词〕	shentijiegoucuowu	10000	primary
+__prompt__:bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面〔常用组合〕	shentijiegoufumian	11500	primary
 __prompt__:body_takeover	身体接管〔e621〕	shentijieguan	2337	alias
 __prompt__:body_worship	身体敬拜〔e621〕	shentijingbai	4184	alias
 __prompt__:unbirthing	身体进入〔e621〕	shentijinru	3796	alias
 __prompt__:body_in_vagina	身体进入〔e621〕	shentijinru	2288	alias
 __prompt__:body_in_pussy	身体进入〔合并词库〕	shentijinru	2239	alias
+__prompt__:deformed body	身体畸形〔负面词〕	shentijixing	10000	primary
 __prompt__:anatomical_nonsense	身体畸形〔合并词库〕	shentijixing	2698	alias
 __prompt__:misplaced_genitals	身体畸形〔合并词库〕	shentijixing	2277	alias
 __prompt__:on_car	身体靠车〔e621〕	shentikaoche	3316	alias
@@ -188156,6 +188305,7 @@ arm_cutting	手臂切割	shoubiqiege	1080	primary
 __prompt__:veiny_arms	手臂青筋〔e621〕	shoubiqingjin	3696	alias
 arm_freckles	手臂雀斑	shoubiqueban	2179	primary
 __prompt__:freckled_arms	手臂雀斑〔e621〕	shoubiqueban	3366	alias
+__prompt__:missing arms	手臂缺失〔负面词〕	shoubiqueshi	10000	primary
 __prompt__:blood_on_arm	手臂染血〔e621〕	shoubiranxue	3487	alias
 __prompt__:arms_around_neck	手臂绕颈〔e621〕	shoubiraojing	4019	alias
 triangle_hands	手比三角形	shoubisanjiaoxing	2339	primary
@@ -190079,6 +190229,7 @@ hand_on_eyewear	手扶眼镜	shoufuyanjing	3661	primary
 hands_on_eyewear	手扶眼镜	shoufuyanjing	2593	primary
 __prompt__:hand_on_glasses	手扶眼镜〔e621〕	shoufuyanjing	2368	alias
 __prompt__:finger_on_eyewear	手扶眼镜〔合并词库〕	shoufuyanjing	2236	alias
+__prompt__:hand_on_hip	手扶腰〔常用词〕	shoufuyao	10000	primary
 __prompt__:holding_waist	手扶腰〔e621〕	shoufuyao	2888	alias
 __prompt__:hand_on_another's_waist	手扶腰部〔e621〕	shoufuyaobu	3920	alias
 hand_on_belt	手扶腰带	shoufuyaodai	2472	primary
@@ -190580,6 +190731,7 @@ __prompt__:feral_temptation	兽类勾引〔e621〕	shouleigouyin	2393	alias
 __prompt__:bestiality	兽类婚礼〔e621〕	shouleihunli	5050	alias
 __prompt__:bestiality_marriage	兽类婚礼〔e621〕	shouleihunli	2558	alias
 __prompt__:plantigrade_pawpads	兽类脚掌〔e621〕	shouleijiaozhang	3439	alias
+__prompt__:muzzle	兽类口鼻〔常用词〕	shouleikoubi	10000	primary
 __prompt__:anthrofied	兽类拟人化〔e621〕	shouleinirenhua	5258	alias
 __prompt__:humanoid_genitalia_on_feral	兽类人形性器官〔e621〕	shouleirenxingxingqiguan	3781	alias
 __prompt__:bovine_udders	兽类乳房〔e621〕	shouleirufang	3024	alias
@@ -191150,6 +191302,7 @@ __prompt__:werehorse	兽人马〔e621〕	shourenma	2226	alias
 __prompt__:vg_cats	兽人猫〔e621〕	shourenmao	3053	alias
 __prompt__:werefelid	兽人猫〔e621〕	shourenmao	2935	alias
 __prompt__:viktor_vasko	兽人猫〔e621〕	shourenmao	2341	alias
+__prompt__:detailed fur, soft fur, fur texture, fine fur strands, natural fur shading	兽人毛发〔常用组合〕	shourenmaofa	11300	primary
 __prompt__:male	兽人男性〔e621〕	shourennanxing	6522	alias
 __prompt__:furry_male	兽人男性〔合并词库〕	shourennanxing	4755	alias
 __prompt__:maleherm_penetrating_intersex	兽人男性插入间性〔e621〕	shourennanxingcharujianxing	2196	alias
@@ -192370,9 +192523,11 @@ __prompt__:eclair	手指泡芙〔e621〕	shouzhipaofu	2111	alias
 __prompt__:finger_gun	手指枪手势〔提示词库〕	shouzhiqiangshoushi	5001	alias
 finger_gun_to_another's_head	手指枪指着他人头部	shouzhiqiangzhizhetarentoubu	1557	primary
 tapping_finger	手指轻叩	shouzhiqingkou	2080	primary
+__prompt__:missing fingers	手指缺失〔负面词〕	shouzhiqueshi	10000	primary
 __prompt__:missing_finger	手指缺失〔e621〕	shouzhiqueshi	2165	alias
 finger_frame	手指取景框	shouzhiqujingkuang	3389	primary
 __prompt__:holding_hair	手指绕着头发〔提示词库〕	shouzhiraozhetoufa	5001	alias
+__prompt__:fused fingers	手指融合〔负面词〕	shouzhironghe	10000	primary
 __prompt__:hands_under_breasts	手置乳房下方〔e621〕	shouzhirufangxiafang	2177	alias
 __prompt__:finger_in_mouth	手指入口〔e621〕	shouzhirukou	4049	alias
 __prompt__:mouth_play	手指入口〔e621〕	shouzhirukou	3362	alias
@@ -192396,6 +192551,7 @@ __prompt__:vaginal_fluids_on_hand	手指湿润〔e621〕	shouzhishirun	3346	alia
 __prompt__:saliva_on_finger	手指湿润〔e621〕	shouzhishirun	2446	alias
 __prompt__:finger_in_sheath	手指收鞘〔e621〕	shouzhishouqiao	2485	alias
 finger_ribbon	手指丝带	shouzhisidai	2288	primary
+__prompt__:extra fingers	手指太多〔负面词〕	shouzhitaiduo	10000	primary
 finger_in_own_ear	手指掏耳	shouzhitaoer	2233	primary
 finger_in_another's_ear	手指掏耳	shouzhitaoer	1644	primary
 __prompt__:finger_in_own_ear	手指掏耳朵〔合并词库〕	shouzhitaoerduo	2182	alias
@@ -192456,6 +192612,7 @@ __prompt__:finger_in_another's_mouth	手指在嘴〔合并词库〕	shouzhizaizu
 __prompt__:hand_in_mouth	手指在嘴〔e621〕	shouzhizaizui	3017	alias
 __prompt__:cum_on_hand	手指沾精〔e621〕	shouzhizhanjing	4142	alias
 __prompt__:spread_fingers	手指展开〔e621〕	shouzhizhankai	3702	alias
+__prompt__:fused fingers	手指粘连〔负面词〕	shouzhizhanlian	10000	primary
 __prompt__:fused_fingers	手指粘连〔e621〕	shouzhizhanlian	2759	alias
 cream_on_finger	手指沾奶油	shouzhizhannaiyou	1545	primary
 __prompt__:saliva_on_finger	手指沾唾液〔e621〕	shouzhizhantuoye	2446	alias
@@ -192809,8 +192966,8 @@ __prompt__:double_amputee	双残肢〔e621〕	shuangcanzhi	3139	alias
 side_braids	双侧发辫	shuangcefabian	4264	primary
 __prompt__:twin_ear_bows	双侧发饰蝴蝶结〔e621〕	shuangcefashihudiejie	2308	alias
 two-sided_horns	双侧角	shuangcejiao	2233	primary
-__prompt__:pigtails	双侧马尾〔e621〕	shuangcemayi	4349	alias
-__prompt__:twintails_(hairstyle)	双侧马尾〔e621〕	shuangcemayi	3684	alias
+__prompt__:pigtails	双侧马尾〔e621〕	shuangcemawei	4349	alias
+__prompt__:twintails_(hairstyle)	双侧马尾〔e621〕	shuangcemawei	3684	alias
 double-decker_bus	双层巴士	shuangcengbashi	2069	primary
 bunk_bed	双层床	shuangcengchuang	2751	primary
 __prompt__:bunk_bed	双层床铺〔e621〕	shuangcengchuangpu	2837	alias
@@ -192941,7 +193098,7 @@ __prompt__:ear_threading	双耳贯通〔e621〕	shuangerguantong	2547	alias
 __prompt__:twin_ear_bows	双耳蝴蝶结〔e621〕	shuangerhudiejie	2308	alias
 binaural_microphone	双耳麦克风	shuangermaikefeng	2647	primary
 kylix	双耳浅口杯	shuangerqiankoubei	1381	primary
-__prompt__:ponytail_ears	双耳束成马尾〔e621〕	shuangershuchengmayi	3363	alias
+__prompt__:ponytail_ears	双耳束成马尾〔e621〕	shuangershuchengmawei	3363	alias
 __prompt__:holding_both_ears	双耳握住〔e621〕	shuangerwozhu	2522	alias
 amphora	双耳细颈瓶	shuangerxijingping	1147	primary
 __prompt__:tied_ears	双耳扎起〔e621〕	shuangerzhaqi	2976	alias
@@ -193136,31 +193293,28 @@ shuangluozhifenghua	霜落之风华	shuangluozhifenghua	1231	primary
 twin_braids	双麻花辫	shuangmahuabian	5407	primary
 __prompt__:low_twin_braids	双麻花辫〔合并词库〕	shuangmahuabian	4316	alias
 twintails	双马尾	shuangmawei	10000	primary
+__prompt__:two_side_up	双马尾〔e621〕	shuangmawei	5361	alias
+__prompt__:low_twintails	双马尾〔e621〕	shuangmawei	5181	alias
+__prompt__:bunches	双马尾〔提示词库〕	shuangmawei	5001	alias
+__prompt__:short_twintails	双马尾〔e621〕	shuangmawei	4907	alias
+__prompt__:twin_drills	双马尾〔e621〕	shuangmawei	4815	alias
+__prompt__:pigtails	双马尾〔e621〕	shuangmawei	4349	alias
+__prompt__:twintails_(hairstyle)	双马尾〔e621〕	shuangmawei	3684	alias
+__prompt__:braided_twintails	双马尾〔合并词库〕	shuangmawei	3535	alias
+__prompt__:uneven_twintails	双马尾〔合并词库〕	shuangmawei	3232	alias
+__prompt__:twintails_with_hair_base	双马尾〔合并词库〕	shuangmawei	3119	alias
+__prompt__:twintails_day	双马尾〔合并词库〕	shuangmawei	2975	alias
+__prompt__:low_drills	双马尾〔合并词库〕	shuangmawei	2933	alias
+__prompt__:folded_twintails	双马尾〔合并词库〕	shuangmawei	2774	alias
+__prompt__:yano_erika	双马尾〔合并词库〕	shuangmawei	2550	alias
+__prompt__:twintails_with_braided_base	双马尾〔合并词库〕	shuangmawei	2489	alias
+__prompt__:oikura_sodachi	双马尾〔合并词库〕	shuangmawei	2479	alias
+__prompt__:usami_taiga	双马尾〔合并词库〕	shuangmawei	2472	alias
+__prompt__:takamiya_rion_(1st_costume)	双马尾〔合并词库〕	shuangmawei	2451	alias
+__prompt__:french_braided_twintails	双马尾〔合并词库〕	shuangmawei	2400	alias
+__prompt__:aoi_sora_(pairan)	双马尾〔合并词库〕	shuangmawei	2263	alias
+__prompt__:shiny_heart_(alice_girls)	双马尾〔合并词库〕	shuangmawei	2061	alias
 __prompt__:pigtails	双马尾辫〔e621〕	shuangmaweibian	4349	alias
-twintails	双马尾	shuangmayi	6102	primary
-__prompt__:two_side_up	双马尾〔e621〕	shuangmayi	5361	alias
-__prompt__:low_twintails	双马尾〔e621〕	shuangmayi	5181	alias
-__prompt__:bunches	双马尾〔提示词库〕	shuangmayi	5001	alias
-__prompt__:short_twintails	双马尾〔e621〕	shuangmayi	4907	alias
-__prompt__:twin_drills	双马尾〔e621〕	shuangmayi	4815	alias
-__prompt__:pigtails	双马尾〔e621〕	shuangmayi	4349	alias
-__prompt__:two_tails	双马尾〔合并词库〕	shuangmayi	4253	alias
-__prompt__:2_tails	双马尾〔e621〕	shuangmayi	4179	alias
-__prompt__:twintails_(hairstyle)	双马尾〔e621〕	shuangmayi	3684	alias
-__prompt__:braided_twintails	双马尾〔合并词库〕	shuangmayi	3535	alias
-__prompt__:uneven_twintails	双马尾〔合并词库〕	shuangmayi	3232	alias
-__prompt__:twintails_with_hair_base	双马尾〔合并词库〕	shuangmayi	3119	alias
-__prompt__:twintails_day	双马尾〔合并词库〕	shuangmayi	2975	alias
-__prompt__:low_drills	双马尾〔合并词库〕	shuangmayi	2933	alias
-__prompt__:folded_twintails	双马尾〔合并词库〕	shuangmayi	2774	alias
-__prompt__:yano_erika	双马尾〔合并词库〕	shuangmayi	2550	alias
-__prompt__:twintails_with_braided_base	双马尾〔合并词库〕	shuangmayi	2489	alias
-__prompt__:oikura_sodachi	双马尾〔合并词库〕	shuangmayi	2479	alias
-__prompt__:usami_taiga	双马尾〔合并词库〕	shuangmayi	2472	alias
-__prompt__:takamiya_rion_(1st_costume)	双马尾〔合并词库〕	shuangmayi	2451	alias
-__prompt__:french_braided_twintails	双马尾〔合并词库〕	shuangmayi	2400	alias
-__prompt__:aoi_sora_(pairan)	双马尾〔合并词库〕	shuangmayi	2263	alias
-__prompt__:shiny_heart_(alice_girls)	双马尾〔合并词库〕	shuangmayi	2061	alias
 __prompt__:quad_tails	双马尾变体〔合并词库〕	shuangmayibianti	3859	alias
 __prompt__:medb_(swimsuit_saber)_(second_ascension)_(fate)	双马尾比基尼〔合并词库〕	shuangmayibijini	2131	alias
 __prompt__:twintails	双马尾二〔提示词库〕	shuangmayier	5001	alias
@@ -193787,6 +193941,7 @@ __prompt__:hands_behind_head	双手抱头〔e621〕	shuangshoubaotou	4655	alias
 __prompt__:grabbing_head	双手抱头〔e621〕	shuangshoubaotou	3060	alias
 __prompt__:hands_behind_own_head	双手抱头〔e621〕	shuangshoubaotou	2516	alias
 __prompt__:holding_both_knees	双手抱膝〔e621〕	shuangshoubaoxi	2702	alias
+__prompt__:crossed_arms	双手抱胸〔常用词〕	shuangshoubaoxiong	10000	primary
 __prompt__:holding_with_two_hands	双手抱着〔e621〕	shuangshoubaozhe	2042	alias
 __prompt__:holding_with_two_hands	双手抱着某物〔e621〕	shuangshoubaozhemouwu	2042	alias
 __prompt__:hands_tied_behind_back	双手背绑〔e621〕	shuangshoubeibang	3221	alias
@@ -194434,8 +194589,8 @@ pisces_(zodiac)	双鱼座	shuangyuzuo	2150	primary
 __prompt__:pisces_(constellation)	双鱼座〔合并词库〕	shuangyuzuo	2461	alias
 __prompt__:pisces_aphrodite	双鱼座圣斗士〔合并词库〕	shuangyuzuoshengdoushi	2194	alias
 __prompt__:two_side_up	双扎发型〔e621〕	shuangzhafaxing	5361	alias
-__prompt__:pigtails	双扎马尾〔e621〕	shuangzhamayi	4349	alias
-__prompt__:twintails_(hairstyle)	双扎马尾〔e621〕	shuangzhamayi	3684	alias
+__prompt__:pigtails	双扎马尾〔e621〕	shuangzhamawei	4349	alias
+__prompt__:twintails_(hairstyle)	双扎马尾〔e621〕	shuangzhamawei	3684	alias
 __prompt__:both_hands_on_penis	双掌持阳具〔e621〕	shuangzhangchiyangju	2529	alias
 __prompt__:two-handed_handjob	双掌手交〔e621〕	shuangzhangshoujiao	3242	alias
 __prompt__:grabbing_both_breasts	双掌握乳〔e621〕	shuangzhangworu	2648	alias
@@ -198365,6 +198520,7 @@ shigofumi	死后文	sihouwen	2182	primary
 __prompt__:death_arousal	死后性唤起〔e621〕	sihouxinghuanqi	2034	alias
 itohana	丝花	sihua	2659	primary
 __prompt__:swire_the_elegant_wit_(arknights)	斯怀尔变体〔合并词库〕	sihuaierbianti	2460	alias
+__prompt__:silky fur	丝滑毛发〔常用词〕	sihuamaofa	10000	primary
 __prompt__:silky fur	丝滑毛皮〔皮毛词〕	sihuamaopi	10000	primary
 __prompt__:shanks_(one_piece)	四皇〔合并词库〕	sihuang	3063	alias
 __prompt__:buggy_the_clown	四皇〔合并词库〕	sihuang	2970	alias
@@ -198725,8 +198881,8 @@ __prompt__:star_oculama	四芒星眼睛〔e621〕	simangxingyanjing	2199	alias
 teranekosu	寺猫子	simaozi	2645	primary
 simian_qiao_gu	司马巧姑	simaqiaogu	1302	primary
 __prompt__:smart_falcon_(love_4ever)_(umamusume)	斯马特法尔肯〔合并词库〕	simatefaerken	2729	alias
-quad_tails	四马尾	simayi	3908	primary
-__prompt__:quad tails	四马尾〔提示词库〕	simayi	5001	alias
+quad_tails	四马尾	simawei	3908	primary
+__prompt__:quad tails	四马尾〔提示词库〕	simawei	5001	alias
 __prompt__:wang_yuanji_(shin_sangoku_musou)	司马昭妻〔合并词库〕	simazhaoqi	2144	alias
 four_eyebrows	四眉	simei	1042	primary
 __prompt__:4_balls	四枚精囊〔e621〕	simeijingnang	3177	alias
@@ -200493,6 +200649,7 @@ __prompt__:plastic_bag	塑料购物袋〔e621〕	suliaogouwudai	3740	alias
 keep_case	塑料光盘盒	suliaoguangpanhe	1114	primary
 __prompt__:isla_(plastic_memories)	塑料记忆〔合并词库〕	suliaojiyi	2191	alias
 __prompt__:clothes_pin	塑料晾夹〔e621〕	suliaoliangjia	3047	alias
+__prompt__:plastic fur	塑料毛发〔负面词〕	suliaomaofa	10000	primary
 __prompt__:plastic fur	塑料毛皮〔负面词〕	suliaomaopi	10000	primary
 __prompt__:plastic_wrap	塑料膜〔e621〕	suliaomo	2457	alias
 __prompt__:30_minutes_sisters	塑料模型〔合并词库〕	suliaomoxing	2277	alias
@@ -202411,6 +202568,7 @@ __prompt__:reclining_pose	躺卧姿势〔e621〕	tangwozishi	2337	alias
 __prompt__:tang_wutong_(douluo_dalu)	唐舞桐〔合并词库〕	tangwutong	2253	alias
 tang_wutong_tongren_she	唐舞桐同人社	tangwutongtongrenshe	1343	primary
 tangxi	唐希	tangxi	1231	primary
+__prompt__:lying	躺下〔常用词〕	tangxia	10000	primary
 __prompt__:laid_down	躺下〔e621〕	tangxia	2140	alias
 rifling	膛线	tangxian	1682	primary
 karasen	唐仙	tangxian	1042	primary
@@ -211310,6 +211468,7 @@ chocolate_on_legs	腿部巧克力	tuibuqiaokeli	2370	primary
 __prompt__:thigh_cutting	腿部切口〔合并词库〕	tuibuqiekou	2080	alias
 __prompt__:leg_fins	腿部鳍状肢〔e621〕	tuibuqizhuangzhi	2302	alias
 __prompt__:freckled_legs	腿部雀斑〔e621〕	tuibuqueban	3699	alias
+__prompt__:missing legs	腿部缺失〔负面词〕	tuibuqueshi	10000	primary
 __prompt__:framed_by_legs	腿部取景〔e621〕	tuibuqujing	2375	alias
 __prompt__:fluffy_legs	腿部绒毛〔e621〕	tuiburongmao	2432	alias
 __prompt__:leg_fluff	腿部绒毛〔e621〕	tuiburongmao	2054	alias
@@ -215956,6 +216115,7 @@ __prompt__:tail_around_leg	尾巴环绕腿部〔e621〕	weibahuanraotuibu	3241	a
 __prompt__:tail_ring_(piercing)	尾巴环形饰品〔e621〕	weibahuanxingshipin	2557	alias
 __prompt__:tail_around_waist	尾巴环腰〔e621〕	weibahuanyao	2523	alias
 __prompt__:tail_coil	尾巴环住〔e621〕	weibahuanzhu	3969	alias
+__prompt__:tail markings	尾巴花纹〔常用词〕	weibahuawen	10000	primary
 __prompt__:tail_markings	尾巴花纹〔e621〕	weibahuawen	5269	alias
 __prompt__:tail_bow	尾巴蝴蝶结〔e621〕	weibahudiejie	4098	alias
 __prompt__:hugging_another's_tail	尾巴互动〔合并词库〕	weibahudong	2731	alias
@@ -216595,6 +216755,7 @@ __prompt__:loves_only_you_(umamusume)	唯独爱你〔合并词库〕	weiduaini	2
 __prompt__:tail_gem	尾端宝石〔e621〕	weiduanbaoshi	2228	alias
 __prompt__:tapering_tentacles	尾端变细触手〔e621〕	weiduanbianxichushou	2402	alias
 __prompt__:glowing_tail_tip	尾端发光〔e621〕	weiduanfaguang	2239	alias
+__prompt__:tail_tuft	尾端毛簇〔常用词〕	weiduanmaocu	10000	primary
 __prompt__:tail_orb	尾端球〔e621〕	weiduanqiu	2543	alias
 __prompt__:cleft_tail	尾端缺口〔e621〕	weiduanquekou	3411	alias
 __prompt__:butt_tuft	尾端绒毛〔e621〕	weiduanrongmao	3315	alias
@@ -216781,6 +216942,7 @@ __prompt__:vex_(lol)	维迦〔e621〕	weijia	3413	alias
 __prompt__:veigar	维迦〔e621〕	weijia	3051	alias
 __prompt__:vega_(street_fighter)	维加〔合并词库〕	weijia	2457	alias
 __prompt__:tail_armor	尾甲〔e621〕	weijia	2384	alias
+__prompt__:tail_tip	尾尖〔常用词〕	weijian	10000	primary
 __prompt__:shawl	围肩〔e621〕	weijian	4548	alias
 __prompt__:tail_wiggle	尾尖摆动〔e621〕	weijianbaidong	2147	alias
 omigawa_namari	尾见川铅	weijianchuanqian	1415	primary
@@ -218258,6 +218420,7 @@ __prompt__:nose_kiss	吻鼻子〔合并词库〕	wenbizi	2425	alias
 __prompt__:muzzle	吻部〔兽人词〕	wenbu	10000	primary
 __prompt__:snout	吻部〔e621〕	wenbu	5024	alias
 __prompt__:snout_scar	吻部疤痕〔e621〕	wenbubahen	2933	alias
+__prompt__:muzzle	吻部口鼻〔常用词〕	wenbukoubi	10000	primary
 __prompt__:snout_growth	吻部生长〔e621〕	wenbushengzhang	3589	alias
 __prompt__:snout_markings	吻部图案〔e621〕	wenbutuan	3487	alias
 study_steady	稳步学习	wenbuxuexi	1448	primary
@@ -219506,7 +219669,7 @@ __prompt__:hip_grab	握腰〔e621〕	woyao	3764	alias
 __prompt__:waist_grab	握腰〔e621〕	woyao	3510	alias
 __prompt__:holding_hips	握腰〔e621〕	woyao	3117	alias
 i_want_my_hat_back	我要把帽子找回来	woyaobamaozizhaohuilai	1881	primary
-ore_twintail_ni_narimasu	我要成为双马尾	woyaochengweishuangmayi	2784	primary
+ore_twintail_ni_narimasu	我要成为双马尾	woyaochengweishuangmawei	2784	primary
 wo_yao_chifan	我要吃饭	woyaochifan	1699	primary
 __prompt__:tsuki_ni_kawatte_oshioki_yo	我要代替月亮惩罚你〔合并词库〕	woyaodaitiyueliangchengfani	2783	alias
 wo_yao_dang_xiongmao	我要当熊猫	woyaodangxiongmao	1613	primary
@@ -220784,7 +220947,7 @@ __prompt__:bald_tail	无毛尾巴〔e621〕	wumaoweiba	2223	alias
 __prompt__:no_headgear	无帽子〔合并词库〕	wumaozi	2576	alias
 __prompt__:eboshi	乌帽子〔e621〕	wumaozi	2215	alias
 __prompt__:marcy_wu	吴玛茜〔e621〕	wumaqian	2540	alias
-quin_tails	五马尾	wumayi	1603	primary
+quin_tails	五马尾	wumawei	1603	primary
 no_eyebrows	无眉	wumei	3494	primary
 shitodo_mi	鵐美	wumei	1432	primary
 __prompt__:seductive	妩媚〔e621〕	wumei	5311	alias
@@ -221465,7 +221628,7 @@ __prompt__:fire_emblem_warriors	无双〔合并词库〕	wushuang	2440	alias
 matchless_robes	无双长袍	wushuangchangpao	1042	primary
 __prompt__:musou_orochi	无双大蛇〔合并词库〕	wushuangdashe	2144	alias
 musou_saber	无双军刀	wushuangjundao	1717	primary
-__prompt__:hatsune_miku_(if)	无双马尾〔合并词库〕	wushuangmayi	2199	alias
+__prompt__:hatsune_miku_(if)	无双马尾〔合并词库〕	wushuangmawei	2199	alias
 __prompt__:sengoku_musou	无双系列〔合并词库〕	wushuangxilie	2962	alias
 __prompt__:sengoku_musou_2	无双系列〔合并词库〕	wushuangxilie	2353	alias
 __prompt__:sengoku_musou_3	无双系列〔合并词库〕	wushuangxilie	2341	alias
@@ -229580,6 +229743,7 @@ __prompt__:cross-eyed	斜视眼〔e621〕	xieshiyan	3843	alias
 __prompt__:realistic_feral	写实野生动物〔e621〕	xieshiyeshengdongwu	3719	alias
 __prompt__:realistic_feral	写实野兽〔e621〕	xieshiyeshou	3719	alias
 __prompt__:realistic_penis_size	写实阴茎大小〔e621〕	xieshiyinjingdaxiao	3338	alias
+__prompt__:high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus	写实正面〔常用组合〕	xieshizhengmian	11400	primary
 saltire	斜十字	xieshizi	1432	primary
 __prompt__:moriya_suwako	泄矢诹访子〔合并词库〕	xieshizoufangzi	4325	alias
 __prompt__:suwako_moriya	泄矢诹访子〔e621〕	xieshizoufangzi	1415	alias
@@ -234170,6 +234334,7 @@ cum_on_breasts	胸部精液	xiongbujingye	4746	primary
 __prompt__:cumshot_on_chest	胸部精液〔e621〕	xiongbujingye	2573	alias
 __prompt__:precum_on_chest	胸部精液〔e621〕	xiongbujingye	2233	alias
 __prompt__:cum_inflated_breasts	胸部精液充盈〔e621〕	xiongbujingyechongying	2489	alias
+__prompt__:pectorals	胸部肌肉〔常用词〕	xiongbujirou	10000	primary
 __prompt__:pecs_focus	胸部肌肉〔e621〕	xiongbujirou	2239	alias
 breast_press	胸部挤压	xiongbujiya	4849	primary
 __prompt__:breast_squish	胸部挤压〔e621〕	xiongbujiya	4790	alias
@@ -234514,12 +234679,14 @@ can_between_breasts	胸夹易拉罐	xiongjiayilaguan	2372	primary
 __prompt__:pec_milking	胸肌把玩〔e621〕	xiongjibawan	2042	alias
 __prompt__:pec_expansion	胸肌变大〔e621〕	xiongjibianda	2282	alias
 pectoral_awe	胸肌崇拜	xiongjichongbai	1080	primary
+__prompt__:bad pecs	胸肌错误〔负面词〕	xiongjicuowu	10000	primary
 __prompt__:pecs_with_breasts	胸肌带乳〔e621〕	xiongjidairu	3401	alias
 pectoral_docking	胸肌对接	xiongjiduijie	2839	primary
 __prompt__:older_sibling	兄姐〔e621〕	xiongjie	2697	alias
 __prompt__:pectoral_cleavage	胸肌缝隙〔合并词库〕	xiongjifengxi	4264	alias
 pectoral_cleavage	胸肌沟	xiongjigou	4314	primary
 __prompt__:between_pecs	胸肌沟〔e621〕	xiongjigou	2277	alias
+__prompt__:bad pecs	胸肌画错〔负面词〕	xiongjihuacuo	10000	primary
 __prompt__:pectoral_vore	胸肌活吞〔e621〕	xiongjihuotun	2087	alias
 __prompt__:between_pectorals	胸肌夹〔合并词库〕	xiongjijia	3180	alias
 between_pectorals	胸肌夹缝	xiongjijiafeng	3196	primary
@@ -234771,6 +234938,7 @@ __prompt__:front-tie_top	胸前系带装〔e621〕	xiongqianjidaizhuang	4698	ali
 __prompt__:holding_to_chest	胸前紧抱〔合并词库〕	xiongqianjinbao	2009	alias
 center_opening	胸前开口	xiongqiankaikou	4453	primary
 chest_holster	胸前枪套	xiongqianqiangtao	2817	primary
+__prompt__:chest_tuft	胸前绒毛〔常用词〕	xiongqianrongmao	10000	primary
 creature_on_chest	胸前生物	xiongqianshengwu	1519	primary
 chest_harness	胸前束带	xiongqianshudai	4294	primary
 chest_ribbon	胸前丝带	xiongqiansidai	2771	primary
@@ -241180,7 +241348,7 @@ __prompt__:herb	药材〔合并词库〕	yaocai	2593	alias
 __prompt__:herb_bundle	药草束〔合并词库〕	yaocaoshu	2345	alias
 __prompt__:hip_tuft	腰侧绒毛〔e621〕	yaocerongmao	3586	alias
 midriff_tattoo	腰侧纹身	yaocewenshen	2412	primary
-__prompt__:ore_twintail_ni_narimasu	要成为双马尾〔合并词库〕	yaochengweishuangmayi	2776	alias
+__prompt__:ore_twintail_ni_narimasu	要成为双马尾〔合并词库〕	yaochengweishuangmawei	2776	alias
 __prompt__:biting_shirt	咬衬衫〔e621〕	yaochenshan	2615	alias
 wing_biting	咬翅膀	yaochibang	1343	primary
 biting_sheet	咬床单	yaochuangdan	2046	primary
@@ -245786,8 +245954,8 @@ __prompt__:inaba_haneru_(animare)	因幡羽留〔合并词库〕	yinfanyuliu	243
 hare_of_inaba	因幡之白兔	yinfanzhibaitu	1323	primary
 inaba-no-kuni-tottori	因幡之国鸟取	yinfanzhiguoniaoqu	1779	primary
 __prompt__:shinomiya_rina	银发少女〔合并词库〕	yinfashaonv	2277	alias
-__prompt__:yuna_(sao)	银发双马尾〔合并词库〕	yinfashuangmayi	2121	alias
-__prompt__:mof's_silver_haired_twintailed_girl	银发双马尾〔合并词库〕	yinfashuangmayi	2094	alias
+__prompt__:yuna_(sao)	银发双马尾〔合并词库〕	yinfashuangmawei	2121	alias
+__prompt__:mof's_silver_haired_twintailed_girl	银发双马尾〔合并词库〕	yinfashuangmawei	2094	alias
 __prompt__:mr._silvair	银发先生〔合并词库〕	yinfaxiansheng	2134	alias
 __prompt__:ruined_for_marriage	因非处女无法结婚〔合并词库〕	yinfeichunvwufajiehun	2611	alias
 __prompt__:slit_play	阴缝玩法〔e621〕	yinfengwanfa	3632	alias
@@ -251097,6 +251265,7 @@ __prompt__:one-hour_drawing_challenge	一小时画画挑战〔合并词库〕	yi
 one-hour_drawing_challenge	一小时绘图挑战	yixiaoshihuitutiaozhan	4702	primary
 __prompt__:under_clothes	衣下亲密〔e621〕	yixiaqinmi	2631	alias
 __prompt__:upshirt	衣下视角〔e621〕	yixiashijiao	3205	alias
+__prompt__:detailed_bulge	衣下私处轮廓〔e621〕	yixiasichulunkuo	4649	alias
 covered_pectorals	衣下胸肌	yixiaxiongji	3213	primary
 pecjob_under_clothes	衣下胸肌	yixiaxiongji	1080	primary
 swimsuit_under_clothes	衣下泳装	yixiayongzhuang	4296	primary
@@ -252746,7 +252915,7 @@ kindergarten_uniform	幼儿园制服	youeryuanzhifu	3793	primary
 tomomimi_shimon	友耳子门	youerzimen	2156	primary
 yuufa	尤法	youfa	1042	primary
 __prompt__:eupha_(metaphor:_refantazio)	优法〔合并词库〕	youfa	2319	alias
-__prompt__:twintails_with_hair_base	有发束基部的双马尾〔合并词库〕	youfashujibudeshuangmayi	3119	alias
+__prompt__:twintails_with_hair_base	有发束基部的双马尾〔合并词库〕	youfashujibudeshuangmawei	3119	alias
 __prompt__:yufine_(epic_seven)	尤菲妮〔合并词库〕	youfeini	2111	alias
 yuzukaze_rio	柚风里绪	youfenglixu	1909	primary
 __prompt__:tail_(honkai:_star_rail)	幽浮〔合并词库〕	youfu	2479	alias
@@ -257459,6 +257628,7 @@ __prompt__:cloudy_sky	云层密布〔e621〕	yuncengmibu	4986	alias
 yuncha	云茶	yuncha	1820	primary
 __prompt__:riddleaugust	孕产数字艺术家〔e621〕	yunchanshuziyishujia	2223	alias
 __prompt__:pregnancy_progression	孕程进展〔e621〕	yunchengjinzhan	2196	alias
+__prompt__:well-proportioned body	匀称体型〔描述短语〕	yunchentixing	10000	primary
 seasick	晕船	yunchuan	1432	primary
 __prompt__:unconscious	晕倒〔e621〕	yundao	3626	alias
 __prompt__:fainted	晕倒〔e621〕	yundao	2793	alias
@@ -260315,6 +260485,7 @@ __prompt__:single_earphone_removed	摘下一只耳机〔合并词库〕	zhaixiay
 removing_eyewear	摘眼镜	zhaiyanjing	2995	primary
 trilby	窄檐软呢帽	zhaiyanruannemao	2349	primary
 removing_eyepatch	摘眼罩	zhaiyanzhao	1506	primary
+__prompt__:narrow waist	窄腰〔常用词〕	zhaiyao	10000	primary
 __prompt__:slim	窄腰〔e621〕	zhaiyao	4680	alias
 __prompt__:small_waist	窄腰〔e621〕	zhaiyao	4670	alias
 __prompt__:narrow_hips	窄腰宽肩〔e621〕	zhaiyaokuanjian	3602	alias
@@ -260387,7 +260558,7 @@ __prompt__:cage	栅笼〔e621〕	zhalong	3813	alias
 __prompt__:cats_are_scared_of_cucumbers	炸毛〔合并词库〕	zhamao	2026	alias
 __prompt__:puffed_tail	炸毛尾巴〔e621〕	zhamaoweiba	2156	alias
 __prompt__:zamasu	扎马斯〔合并词库〕	zhamasi	2405	alias
-__prompt__:ponytail	扎马尾〔e621〕	zhamayi	5952	alias
+__prompt__:ponytail	扎马尾〔e621〕	zhamawei	5952	alias
 __prompt__:starting_gate	闸门〔合并词库〕	zhamen	2140	alias
 grasshopper	蚱蜢	zhameng	2721	primary
 __prompt__:Grasshopper	蚱蜢〔提示词库〕	zhameng	5001	alias
@@ -260430,7 +260601,7 @@ __prompt__:murata_himeko_(battle_storm)	战场疾风〔合并词库〕	zhanchang
 __prompt__:realm_royale	战场竞技〔e621〕	zhanchangjingji	2090	alias
 __prompt__:senjou_no_valkyria_4	战场女武神〔合并词库〕	zhanchangnvwushen	2168	alias
 __prompt__:grisaia_battlefield_barcarolle	战场上的船歌〔合并词库〕	zhanchangshangdechuange	2165	alias
-zhanchang_shuang_mawei	战场双马尾	zhanchangshuangmayi	1177	primary
+zhanchang_shuang_mawei	战场双马尾	zhanchangshuangmawei	1177	primary
 __prompt__:battlefield	战场遗迹〔e621〕	zhanchangyiji	2925	alias
 senjougahala	战场原黑仪	zhanchangyuanheiyi	1080	primary
 __prompt__:senjougahara_hitagi	战场原黑仪〔合并词库〕	zhanchangyuanheiyi	3500	alias
@@ -260821,19 +260992,6 @@ __prompt__:hand_pawpads	掌垫〔e621〕	zhangdian	2926	alias
 warsong_zhange	战歌	zhange	1733	primary
 __prompt__:long_bangs	长额发〔e621〕	zhangefa	4644	alias
 jouji	丈二	zhanger	1231	primary
-__prompt__:tall_ears	长耳〔e621〕	zhanger	2185	alias
-__prompt__:turo_of_akesh	长耳蝙蝠角色〔e621〕	zhangerbianfujuese	2568	alias
-long_earlobes	长耳垂	zhangerchui	3318	primary
-__prompt__:long_ears	长耳朵〔e621〕	zhangerduo	4996	alias
-__prompt__:tall_ears	长耳朵角色〔e621〕	zhangerduojuese	2185	alias
-__prompt__:long_inner_ear_fluff	长耳内绒毛〔e621〕	zhangerneirongmao	2427	alias
-__prompt__:lagomorph_humanoid	长耳人〔e621〕	zhangerren	4091	alias
-__prompt__:jerboa	长耳跳鼠〔e621〕	zhangertiaoshu	3320	alias
-__prompt__:lopunny	长耳兔〔e621〕	zhangertu	4280	alias
-__prompt__:mega_lopunny	长耳兔〔e621〕	zhangertu	3374	alias
-__prompt__:lopunny	长耳兔宝可梦〔e621〕	zhangertubaokemeng	4280	alias
-__prompt__:eared_owl	长耳鸮属〔e621〕	zhangerxiaoshu	2114	alias
-__prompt__:pendant_earrings	长耳坠〔合并词库〕	zhangerzhui	2699	alias
 __prompt__:Savannah Elephant	长额象〔提示词库〕	zhangexiang	5001	alias
 __prompt__:long_pseudo_hair	长仿真发〔e621〕	zhangfangzhenfa	2623	alias
 chong_feigiap	张飞甲	zhangfeijia	1756	primary
@@ -260940,16 +261098,9 @@ long_pointy_ears	长尖耳	zhangjianer	4719	primary
 __prompt__:long_pointy_ears	长尖耳朵〔提示词库〕	zhangjianerduo	5001	alias
 __prompt__:sabertooth_(anatomy)	长尖牙〔e621〕	zhangjianya	3939	alias
 __prompt__:long_fangs	长尖牙〔e621〕	zhangjianya	2945	alias
-long_horns	长角	zhangjiao	3312	primary
 long_feet	长脚	zhangjiao	1177	primary
-__prompt__:long_horn	长角〔e621〕	zhangjiao	3344	alias
-longhorn_lance	长角长枪	zhangjiaochangqiang	1545	primary
-__prompt__:horned_humanoid	长角的类人〔e621〕	zhangjiaodeleiren	4520	alias
-__prompt__:horn_growth	长角过程〔e621〕	zhangjiaoguocheng	3150	alias
 telephoto_lens	长焦镜头	zhangjiaojingtou	1256	primary
-__prompt__:hell_knight	长角肌肉敌人〔e621〕	zhangjiaojiroudiren	2452	alias
 __prompt__:Telephoto view	长焦视角〔提示词库〕	zhangjiaoshijiao	5001	alias
-jackalope	长角兔	zhangjiaotu	1699	primary
 long_toes	长脚趾	zhangjiaozhi	2295	primary
 __prompt__:long_toenails	长脚趾甲〔e621〕	zhangjiaozhijia	3032	alias
 hercules_beetle	长戟大兜虫	zhangjidadouchong	2042	primary
@@ -260964,15 +261115,8 @@ sebone_long	长脊骨	zhangjigu	1323	primary
 __prompt__:long_horn	长犄角〔e621〕	zhangjijiao	3344	alias
 __prompt__:game_cartridge	掌机卡带〔e621〕	zhangjikadai	2668	alias
 __prompt__:game_boy_cartridge	掌机卡带〔e621〕	zhangjikadai	2118	alias
-__prompt__:long neck	长颈〔负面词〕	zhangjing	5001	alias
-__prompt__:long_neck	长颈〔e621〕	zhangjing	4320	alias
 __prompt__:chougei_(kancolle)	长鲸〔合并词库〕	zhangjing	2821	alias
-__prompt__:sauropodomorph	长颈恐龙〔e621〕	zhangjingkonglong	3443	alias
 zhang_jinglan	张静兰	zhangjinglan	1042	primary
-__prompt__:nanger	长颈羚〔e621〕	zhangjingling	2464	alias
-__prompt__:gerenuk	长颈羚〔e621〕	zhangjingling	2118	alias
-__prompt__:gerenuk	长颈羚羊〔e621〕	zhangjinglingyang	2118	alias
-__prompt__:sauropod	长颈龙〔e621〕	zhangjinglong	3435	alias
 nagai_riku	长井陆	zhangjinglu	1492	primary
 __prompt__:ijiranaide_nagatoro-san	长瀞同学〔合并词库〕	zhangjingtongxue	3371	alias
 __prompt__:nagatoro_hayase	长瀞同学〔合并词库〕	zhangjingtongxue	3337	alias
@@ -261084,7 +261228,6 @@ __prompt__:full_bladder	胀满膀胱〔e621〕	zhangmanpangguang	2461	alias
 __prompt__:longcat	长猫〔e621〕	zhangmao	2191	alias
 chaperon_hat	长帽兜	zhangmaodou	1205	primary
 __prompt__:long_ponytail	长马尾辫〔e621〕	zhangmaweibian	2657	alias
-__prompt__:long_ponytail	长马尾〔e621〕	zhangmayi	2657	alias
 long_eyebrows	长眉	zhangmei	3068	primary
 __prompt__:Long eyebrows	长眉〔提示词库〕	zhangmei	5001	alias
 __prompt__:may_chang	张梅〔合并词库〕	zhangmei	2121	alias
@@ -261193,7 +261336,6 @@ __prompt__:long_gloves	长手套〔提示词库〕	zhangshoutao	5001	alias
 gloves_over_elbow_gloves	长手套外再戴手套	zhangshoutaowaizaidaishoutao	2500	primary
 long_finger	长手指	zhangshouzhi	2199	primary
 __prompt__:long_fingers	长手指〔e621〕	zhangshouzhi	2910	alias
-__prompt__:long_pigtails	长双马尾〔e621〕	zhangshuangmayi	2207	alias
 moroheiya_inu	长蒴黄麻犬	zhangshuohuangmaquan	1362	primary
 __prompt__:soul_linker_(ragnarok_online)	杖书职业〔合并词库〕	zhangshuzhiye	2341	alias
 long_ribbon	长丝带	zhangsidai	3385	primary
@@ -261216,13 +261358,8 @@ __prompt__:long_hair	长头发〔e621〕	zhangtoufa	6756	alias
 __prompt__:long_shadow	长投影〔合并词库〕	zhangtouying	2030	alias
 tall_image	长图	zhangtu	4256	primary
 __prompt__:long_image	长图〔e621〕	zhangtu	4133	alias
-long_legs	长腿	zhangtui	4428	primary
 __prompt__:spread legs	张腿〔提示词库〕	zhangtui	5001	alias
 zhangtui_de_luobu	张腿的萝卜	zhangtuideluobo	1042	primary
-__prompt__:long_legs	长腿角色〔e621〕	zhangtuijuese	4407	alias
-__prompt__:akino_(el-k)	长腿猎豹〔e621〕	zhangtuiliebao	2223	alias
-__prompt__:leggy_lamb	长腿羊〔e621〕	zhangtuiyang	2728	alias
-__prompt__:mommy_long_legs	长腿蜘蛛娘〔e621〕	zhangtuizhizhuniang	2437	alias
 __prompt__:tenka_touitsu_chronicle	战国〔合并词库〕	zhanguo	2446	alias
 __prompt__:sengoku_musou_3	战国〔合并词库〕	zhanguo	2341	alias
 __prompt__:itou_ittousai_(sengoku_bushouki_muramasa)	战国巴萨拉村正〔合并词库〕	zhanguobasalacunzheng	2069	alias
@@ -261274,34 +261411,11 @@ long_coat	长外套	zhangwaitao	4091	primary
 __prompt__:coat	长外套〔e621〕	zhangwaitao	5535	alias
 __prompt__:overcoat	长外套〔e621〕	zhangwaitao	3339	alias
 __prompt__:duster_coat	长外套〔e621〕	zhangwaitao	2147	alias
-__prompt__:very_long_tail	长尾〔合并词库〕	zhangwei	3682	alias
-long_tail	长尾巴	zhangweiba	2080	primary
-__prompt__:absurdly_long_tail	长尾巴〔合并词库〕	zhangweiba	2798	alias
-__prompt__:jerboa_tail	长尾巴〔合并词库〕	zhangweiba	2030	alias
-__prompt__:long-tailed_weasel	长尾貂鼠〔e621〕	zhangweidiaoshu	2415	alias
-__prompt__:aipom	长尾怪手〔e621〕	zhangweiguaishou	2663	alias
-__prompt__:aipom	长尾猴〔e621〕	zhangweihou	2663	alias
-margay	长尾虎猫	zhangweihumao	1279	primary
-__prompt__:braixen	长尾火狐〔e621〕	zhangweihuohu	4283	alias
-binder_clip	长尾夹	zhangweijia	2364	primary
-bulldog_clip	长尾夹	zhangweijia	1343	primary
 long_scarf	长围巾	zhangweijin	3191	primary
-__prompt__:nagao_kei	长尾景〔合并词库〕	zhangweijing	2261	alias
-__prompt__:nagao_kagetora_(fate)	长尾景虎〔合并词库〕	zhangweijinghu	2927	alias
-__prompt__:long_tail	长尾角色〔e621〕	zhangweijuese	5014	alias
 weilin_zhang	张伟林	zhangweilin	1343	primary
 __prompt__:kommo-o	杖尾鳞甲龙〔e621〕	zhangweilinjialong	2640	alias
 __prompt__:long_pseudo_hair	长伪毛发〔e621〕	zhangweimaofa	2623	alias
 long_apron	长围裙	zhangweiqun	1415	primary
-__prompt__:thresher_shark	长尾鲨〔e621〕	zhangweisha	2646	alias
-__prompt__:long-tailed_tit	长尾山雀〔合并词库〕	zhangweishanque	2809	alias
-__prompt__:bushtit	长尾山雀〔e621〕	zhangweishanque	1545	alias
-parakeet	长尾小鹦鹉	zhangweixiaoyingwu	2519	primary
-__prompt__:parakeet	长尾鹦鹉〔e621〕	zhangweiyingwu	3022	alias
-__prompt__:long-tailed_weasel	长尾鼬〔e621〕	zhangweiyou	2415	alias
-nagao_uka	长尾羽花	zhangweiyuhua	2087	primary
-__prompt__:long_tail_feathers	长尾羽毛〔e621〕	zhangweiyumao	2140	alias
-nagao_akemi	长尾朱美	zhangweizhumei	1205	primary
 __prompt__:long_snout	长吻〔e621〕	zhangwen	3456	alias
 __prompt__:wall_of_text	长文〔e621〕	zhangwen	3196	alias
 __prompt__:paw_markings	掌纹〔e621〕	zhangwen	2218	alias
@@ -261485,7 +261599,6 @@ nagasawa_setsu	长泽节	zhangzejie	1042	primary
 __prompt__:nagasawa_yuki_(assault_lily)	长泽雪〔合并词库〕	zhangzexue	2236	alias
 nagasawa_shin	长泽真	zhangzezhen	2388	primary
 staff	长杖	zhangzhang	4931	primary
-long_claws	长爪	zhangzhao	2042	primary
 __prompt__:long_dildo	长震动棒〔e621〕	zhangzhendongbang	2422	alias
 gerrod_the_elder_warrior	长者战士杰罗德	zhangzhezhanshijieluode	1603	primary
 __prompt__:long_limbs	长肢〔e621〕	zhangzhi	2162	alias
@@ -261501,7 +261614,6 @@ in_palm	掌中	zhangzhong	3315	primary
 in_palms	掌中	zhangzhong	1603	primary
 squidwithelbows	长肘乌贼	zhangzhouwuzei	1147	primary
 __prompt__:long_pseudo_hair	长装饰性毛发〔e621〕	zhangzhuangshixingmaofa	2623	alias
-__prompt__:long_claws	长爪子〔e621〕	zhangzhuazi	3462	alias
 __prompt__:jotaro_kujo	仗助的舅舅〔e621〕	zhangzhudejiujiu	2377	alias
 long_table	长桌	zhangzhuo	2034	primary
 shouji	障子	zhangzi	3882	primary
@@ -261520,7 +261632,6 @@ __prompt__:long_mane	长鬃〔e621〕	zhangzong	3333	alias
 __prompt__:long_mane	长鬃毛〔e621〕	zhangzongmao	3333	alias
 __prompt__:chousokabe_motochika_(sengoku_basara)	长宗我部元亲〔合并词库〕	zhangzongwobuyuanqin	2560	alias
 open_mouth	张嘴	zhangzui	10000	primary
-long_mouth	长嘴	zhangzui	1362	primary
 __prompt__:parted_lips	张嘴〔e621〕	zhangzui	5834	alias
 __prompt__::o	张嘴〔提示词库〕	zhangzui	5001	alias
 __prompt__:open mouth	张嘴〔提示词库〕	zhangzui	5001	alias
@@ -261528,14 +261639,11 @@ __prompt__:gaping_mouth	张嘴〔e621〕	zhangzui	3630	alias
 __prompt__:spread_mouth	张嘴〔e621〕	zhangzui	2420	alias
 __prompt__:wide_mouth	张嘴〔e621〕	zhangzui	2333	alias
 __prompt__:wide-open_mouth	张嘴〔合并词库〕	zhangzui	2101	alias
-__prompt__:long_beak	长嘴〔e621〕	zhangzui	2749	alias
 __prompt__:open_frown	张嘴不满〔e621〕	zhangzuibuman	3408	alias
-long_spout_teapot	长嘴茶壶	zhangzuichahu	1545	primary
 __prompt__:oral_invitation	张嘴承精〔e621〕	zhangzuichengjing	3475	alias
 __prompt__:yawn	张嘴打哈欠〔e621〕	zhangzuidahaqian	3838	alias
 __prompt__:grin	张嘴大笑〔e621〕	zhangzuidaxiao	5046	alias
 __prompt__:toothy_grin	张嘴大笑〔e621〕	zhangzuidaxiao	3730	alias
-__prompt__:goofy_(disney)	长嘴狗〔e621〕	zhangzuigou	2986	alias
 __prompt__:screaming	张嘴尖叫〔e621〕	zhangzuijianjiao	3922	alias
 __prompt__:>o<	张嘴惊恐脸〔e621〕	zhangzuijingkonglian	2417	alias
 __prompt__::o	张嘴惊讶〔e621〕	zhangzuijingya	5373	alias
@@ -261547,11 +261655,9 @@ __prompt__:oral_canal	张嘴露出嘴部〔e621〕	zhangzuiluchuzuibu	2372	alias
 __prompt__:tongue_showing	张嘴露舌〔e621〕	zhangzuilushe	3373	alias
 __prompt__:teeth	张嘴露牙〔e621〕	zhangzuiluya	5999	alias
 __prompt__:teeth_showing	张嘴露牙〔e621〕	zhangzuiluya	4305	alias
-__prompt__:beak_lips	长嘴配唇〔e621〕	zhangzuipeichun	2131	alias
 __prompt__:oral_invitation	张嘴求射〔e621〕	zhangzuiqiushe	3475	alias
 __prompt__:open_mouth_gag	张嘴塞口器〔e621〕	zhangzuisaikouqi	3319	alias
 __prompt__:cleave_gag	张嘴塞物〔e621〕	zhangzuisaiwu	3386	alias
-__prompt__:stork	长嘴涉禽〔e621〕	zhangzuisheqin	2531	alias
 __prompt__:looking_into_mouth	张嘴视角〔e621〕	zhangzuishijiao	2409	alias
 __prompt__:open_smile	张嘴微笑〔e621〕	zhangzuiweixiao	5264	alias
 __prompt__:toothy_smile	张嘴笑〔e621〕	zhangzuixiao	3148	alias
@@ -262847,7 +262953,7 @@ __prompt__:folded	折叠〔e621〕	zhedie	4206	alias
 folded_back	折叠背部	zhediebeibu	1114	primary
 folded_braid	折叠辫	zhediebian	2543	primary
 folded_napkin	折叠餐巾	zhediecanjin	1506	primary
-folded_side_ponytail	折叠侧马尾	zhediecemayi	1302	primary
+folded_side_ponytail	折叠侧马尾	zhediecemawei	1302	primary
 __prompt__:folded_wings	折叠翅膀〔e621〕	zhediechibang	3627	alias
 __prompt__:nintendo_ds	折叠触摸屏掌机〔e621〕	zhediechumopingzhangji	3175	alias
 folding_knife	折叠刀	zhediedao	2398	primary
@@ -262865,8 +262971,8 @@ __prompt__:folding_table	折叠家具〔合并词库〕	zhediejiaju	2009	alias
 collapsed_bipod	折叠脚架	zhediejiaojia	2576	primary
 folded_collar	折叠领	zhedieling	1478	primary
 folding_sign	折叠立牌	zhedielipai	1478	primary
-folded_ponytail	折叠马尾	zhediemayi	4418	primary
-__prompt__:folded ponytail	折叠马尾〔提示词库〕	zhediemayi	5001	alias
+folded_ponytail	折叠马尾	zhediemawei	4418	primary
+__prompt__:folded ponytail	折叠马尾〔提示词库〕	zhediemawei	5001	alias
 __prompt__:folded_diaper	折叠尿布〔e621〕	zhedieniaobu	2937	alias
 folded_stock	折叠枪托	zhedieqiangtuo	2072	primary
 folding_umbrella	折叠伞	zhediesan	1699	primary
@@ -262878,7 +262984,7 @@ folding_paizuri	折叠式乳交	zhedieshirujiao	1779	primary
 flip-up_sight	折叠式照门	zhedieshizhaomen	1852	primary
 __prompt__:flip_phone	折叠手机〔e621〕	zhedieshouji	3961	alias
 folding_comb	折叠梳	zhedieshu	1147	primary
-folded_twintails	折叠双马尾	zhedieshuangmayi	2891	primary
+folded_twintails	折叠双马尾	zhedieshuangmawei	2891	primary
 lawn_chair	折叠躺椅	zhedietangyi	1478	primary
 __prompt__:lounge_chair	折叠躺椅〔e621〕	zhedietangyi	3134	alias
 __prompt__:deck_chair	折叠躺椅〔合并词库〕	zhedietangyi	2476	alias
@@ -263412,6 +263518,11 @@ masataka	正隆	zhenglong	1256	primary
 seiro_udon	蒸笼乌冬	zhenglongwudong	1147	primary
 __prompt__:argument	争论〔e621〕	zhenglun	3194	alias
 sabamu	鯖梦	zhengmeng	1987	primary
+__prompt__:high quality, best quality, ultra-detailed, fine details, sharp focus	基础正面〔常用组合〕	zhengmian	12000	primary
+__prompt__:masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading	动漫正面〔常用组合〕	zhengmian	11500	primary
+__prompt__:high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus	写实正面〔常用组合〕	zhengmian	11400	primary
+__prompt__:detailed fur, soft fur, fur texture, fine fur strands, natural fur shading	兽人毛发〔常用组合〕	zhengmian	11300	primary
+__prompt__:natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading	自然肌肉〔常用组合〕	zhengmian	11200	primary
 straight-on	正面	zhengmian	4813	primary
 __prompt__:looking_at_viewer	正面〔e621〕	zhengmian	6087	alias
 __prompt__:front_view	正面〔e621〕	zhengmian	5348	alias
@@ -265894,6 +266005,8 @@ __prompt__:missing_limbs	肢体残缺〔e621〕	zhiticanque	2272	alias
 __prompt__:love_pillow	肢体残缺装饰〔e621〕	zhiticanquezhuangshi	2159	alias
 straight_razor	直剃刀	zhitidao	2134	primary
 __prompt__:holding_limb	肢体动作〔合并词库〕	zhitidongzuo	2194	alias
+__prompt__:disconnected limbs	肢体断开〔负面词〕	zhitiduankai	10000	primary
+__prompt__:disconnected limbs	肢体断裂〔负面词〕	zhitiduanlie	10000	primary
 __prompt__:severed_body_part	肢体断裂〔e621〕	zhitiduanlie	3519	alias
 __prompt__:pasties_only	只贴乳贴〔e621〕	zhitierutie	2188	alias
 __prompt__:dismemberment	肢体分离〔e621〕	zhitifenli	3106	alias
@@ -265906,17 +266019,20 @@ unusually_limbed	肢体健全	zhitijianquan	1807	primary
 __prompt__:hand_on_another's_thigh	肢体接触〔e621〕	zhitijiechu	3900	alias
 __prompt__:arm_on_another's_shoulder	肢体接触〔合并词库〕	zhitijiechu	3237	alias
 __prompt__:holding_another's_waist	肢体接触〔合并词库〕	zhitijiechu	2441	alias
+__prompt__:malformed limbs	肢体畸形〔负面词〕	zhitijixing	10000	primary
 __prompt__:unusual_limb	肢体畸形〔e621〕	zhitijixing	2393	alias
 __prompt__:detachable	肢体可分离〔e621〕	zhitikefenli	3418	alias
 __prompt__:sleepsack	直体捆绑装备〔e621〕	zhitikunbangzhuangbei	2339	alias
 __prompt__:slapstick	肢体闹剧〔e621〕	zhitinaoju	2357	alias
 __prompt__:limb_growth	肢体膨胀〔e621〕	zhitipengzhang	2578	alias
 __prompt__:floating_limbs	肢体漂浮〔e621〕	zhitipiaofu	2473	alias
+__prompt__:missing limbs	肢体缺失〔负面词〕	zhitiqueshi	10000	primary
 __prompt__:amputee	肢体缺失〔e621〕	zhitiqueshi	4001	alias
 __prompt__:no_feet	肢体缺失〔合并词库〕	zhitiqueshi	3611	alias
 __prompt__:amputation	肢体缺失〔e621〕	zhitiqueshi	2877	alias
 __prompt__:missing_limbs	肢体缺失〔e621〕	zhitiqueshi	2272	alias
 __prompt__:amputated	肢体缺失〔e621〕	zhitiqueshi	2207	alias
+__prompt__:fused limbs	肢体融合〔负面词〕	zhitironghe	10000	primary
 __prompt__:fused_arms	肢体融合〔e621〕	zhitironghe	2375	alias
 __prompt__:limbs_merging	肢体融合〔e621〕	zhitironghe	2308	alias
 __prompt__:flexible	肢体柔软〔e621〕	zhitirouruan	4160	alias
@@ -266079,6 +266195,7 @@ __prompt__:tree_print	植物图案〔e621〕	zhiwutuan	2341	alias
 __prompt__:plant_vore	植物吞噬〔e621〕	zhiwutunshi	2248	alias
 plant_tail	植物尾巴	zhiwuweiba	1580	primary
 __prompt__:thorn_print	植物纹〔合并词库〕	zhiwuwen	2194	alias
+__prompt__:fabric texture	织物纹理〔常用词〕	zhiwuwenli	10000	primary
 __prompt__:vine_print	植物纹样〔合并词库〕	zhiwuwenyang	2765	alias
 __prompt__:plant_print	植物纹样〔e621〕	zhiwuwenyang	2412	alias
 __prompt__:plant_monster	植物系〔e621〕	zhiwuxi	2675	alias
@@ -268193,8 +268310,8 @@ antenna_grab	抓触角	zhuachujiao	1415	primary
 grabbing_tentacle	抓触手	zhuachushou	2162	primary
 takeashiro	竹阿代	zhuadai	2476	primary
 ahoge_grab	抓呆毛	zhuadaimao	1827	primary
-grabbing_one_of_another's_twintails	抓单侧双马尾	zhuadanceshuangmayi	2726	primary
-grabbing_another's_twintail	抓单侧双马尾	zhuadanceshuangmayi	2700	primary
+grabbing_one_of_another's_twintails	抓单侧双马尾	zhuadanceshuangmawei	2726	primary
+grabbing_another's_twintail	抓单侧双马尾	zhuadanceshuangmawei	2700	primary
 crotch_grab	抓裆	zhuadang	3146	primary
 __prompt__:groping_crotch	抓裆〔e621〕	zhuadang	2683	alias
 thigh_grab	抓大腿	zhuadatui	3216	primary
@@ -268396,7 +268513,7 @@ panzer_paladin	装甲圣骑士	zhuangjiashengqishi	1080	primary
 __prompt__:soukou_seiki_ysphere	装甲世纪〔合并词库〕	zhuangjiashiji	2630	alias
 armored_gloves	装甲手套	zhuangjiashoutao	3547	primary
 __prompt__:gauntlets	装甲手套〔e621〕	zhuangjiashoutao	3873	alias
-armored_twintails	装甲双马尾	zhuangjiashuangmayi	1362	primary
+armored_twintails	装甲双马尾	zhuangjiashuangmawei	1362	primary
 armored_shrug	装甲耸肩	zhuangjiasongjian	1398	primary
 __prompt__:tank_(vehicle)	装甲坦克〔e621〕	zhuangjiatanke	3210	alias
 armored_collar	装甲项圈	zhuangjiaxiangquan	2241	primary
@@ -268925,9 +269042,9 @@ __prompt__:grabbing_both_ankles	抓双踝〔e621〕	zhuashuanghuai	2448	alias
 blanket_grab	抓毯子	zhuatanzi	2165	primary
 grabbing_another's_nose	抓他人鼻子	zhuatarenbizi	2104	primary
 grabbing_another's_thighs	抓他人大腿	zhuatarendatui	3879	primary
-__prompt__:grabbing_another's_twintails	抓他人的双马尾〔合并词库〕	zhuatarendeshuangmayi	2906	alias
+__prompt__:grabbing_another's_twintails	抓他人的双马尾〔合并词库〕	zhuatarendeshuangmawei	2906	alias
 grabbing_another's_arm	抓他人手臂	zhuatarenshoubi	4360	primary
-grabbing_another's_twintails	抓他人双马尾	zhuatarenshuangmayi	3169	primary
+grabbing_another's_twintails	抓他人双马尾	zhuatarenshuangmawei	3169	primary
 grabbing_another's_breasts	抓他人胸部	zhuatarenxiongbu	4196	primary
 head_grab	抓头	zhuatou	3811	primary
 grabbing_another's_head	抓头	zhuatou	2809	primary
@@ -268983,6 +269100,7 @@ grabbing_another's_testicles	抓握他人睾丸	zhuawotarengaowan	1898	primary
 __prompt__:grabbing_another's_skirt	抓握他人裙子〔合并词库〕	zhuawotarenqunzi	2241	alias
 holding_another's_wrist	抓握他人手腕	zhuawotarenshouwan	4308	primary
 grabbing_another's_penis	抓握他人阴茎	zhuawotarenyinjing	3902	primary
+__prompt__:prehensile_tail	抓握尾〔常用词〕	zhuawowei	10000	primary
 penis_grab	抓握阴茎	zhuawoyinjing	3805	primary
 __prompt__:gripping_sound_effect	抓握音效〔e621〕	zhuawoyinxiao	2384	alias
 prehensile_feet	抓握足	zhuawozu	1545	primary
@@ -271349,6 +271467,8 @@ __prompt__:realistic_penis_size	自然尺寸性器官〔e621〕	ziranchicunxingq
 zirancike	自然刺客	zirancike	1519	primary
 __prompt__:naturally_censored	自然打码〔e621〕	zirandama	3712	alias
 __prompt__:natural	自然的〔e621〕	zirande	2355	alias
+__prompt__:natural-looking abdominal muscles	自然的腹肌〔常用词〕	zirandefuji	10000	primary
+__prompt__:natural muscle definition	自然的肌肉线条〔常用词〕	zirandejirouxiantiao	10000	primary
 natural_wind	自然风	ziranfeng	1733	primary
 __prompt__:scenery	自然风光〔e621〕	ziranfengguang	4847	alias
 landscape	自然风景	ziranfengjing	4019	primary
@@ -271356,6 +271476,8 @@ __prompt__:nature	自然风景〔e621〕	ziranfengjing	4797	alias
 __prompt__:nature_background	自然风景〔e621〕	ziranfengjing	4230	alias
 __prompt__:natural_breasts	自然风乳房〔e621〕	ziranfengrufang	3705	alias
 __prompt__:live_birth	自然分娩〔e621〕	ziranfenmian	3394	alias
+__prompt__:natural-looking abdominal muscles	自然腹肌〔描述短语〕	ziranfuji	10000	primary
+__prompt__:natural lighting	自然光〔常用词〕	ziranguang	10000	primary
 __prompt__:available light	自然光〔提示词库〕	ziranguang	5001	alias
 __prompt__:light	自然光〔e621〕	ziranguang	4823	alias
 __prompt__:realistic_lighting	自然光效〔e621〕	ziranguangxiao	2723	alias
@@ -271382,6 +271504,8 @@ __prompt__:elin	自然精灵〔e621〕	ziranjingling	3145	alias
 __prompt__:dryad	自然精灵〔e621〕	ziranjingling	2819	alias
 __prompt__:nymph	自然精灵〔e621〕	ziranjingling	2705	alias
 __prompt__:leaf_pile	自然景物〔e621〕	ziranjingwu	2057	alias
+__prompt__:natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading	自然肌肉〔常用组合〕	ziranjirou	11200	primary
+__prompt__:natural muscle definition	自然肌肉线条〔描述短语〕	ziranjirouxiantiao	10000	primary
 ziran_juan	自然卷	ziranjuan	1603	primary
 natural_wedgie	自然卡裆	zirankadang	2996	primary
 __prompt__:wilderness	自然旷野〔e621〕	zirankuangye	2256	alias
@@ -271398,6 +271522,7 @@ __prompt__:flay_allster	自然人〔合并词库〕	ziranren	2191	alias
 __prompt__:natural_colors	自然色〔e621〕	ziranse	2559	alias
 __prompt__:natural colors	自然色彩〔质量词〕	ziransecai	10000	primary
 __prompt__:spontaneous_ejaculation	自然射精〔e621〕	ziranshejing	3394	alias
+__prompt__:natural body proportions	自然身体比例〔描述短语〕	ziranshentibili	10000	primary
 naturally_cassidy	自然态卡西迪	zirantaikaxidi	1147	primary
 __prompt__:naturally_detached_hair	自然脱离头发〔合并词库〕	zirantuolitoufa	3196	alias
 __prompt__:rock	自然物〔e621〕	ziranwu	4544	alias
@@ -272090,7 +272215,7 @@ __prompt__:purple_handwear	紫色手套〔e621〕	ziseshoutao	3329	alias
 __prompt__:purple_hooves	紫色兽蹄〔e621〕	ziseshouti	2972	alias
 __prompt__:purple_hands	紫色手掌〔e621〕	ziseshouzhang	2772	alias
 __prompt__:purple_fingers	紫色手指〔e621〕	ziseshouzhi	2490	alias
-__prompt__:harumi_shinju	紫色双马尾〔合并词库〕	ziseshuangmayi	2030	alias
+__prompt__:harumi_shinju	紫色双马尾〔合并词库〕	ziseshuangmawei	2030	alias
 __prompt__:weezing	紫色双头气球怪〔e621〕	ziseshuangtouqiqiuguai	2519	alias
 __prompt__:purple_headband	紫色束发带〔e621〕	ziseshufadai	3011	alias
 purple_nightgown	紫色睡裙	ziseshuiqun	2473	primary
@@ -274884,7 +275009,7 @@ __prompt__:quad_drills	钻头卷发〔合并词库〕	zuantoujuanfa	2947	alias
 __prompt__:drill hair	钻头卷公主卷〔提示词库〕	zuantoujuangongzhujuan	5001	alias
 doriruneko	钻头猫	zuantoumao	1302	primary
 __prompt__:drill hair	钻头毛〔提示词库〕	zuantoumao	5001	alias
-__prompt__:drill_ponytail	钻头马尾〔合并词库〕	zuantoumayi	3407	alias
+__prompt__:drill_ponytail	钻头马尾〔合并词库〕	zuantoumawei	3407	alias
 drill_hand	钻头手	zuantoushou	2691	primary
 drill_tank	钻头坦克	zuantoutanke	1381	primary
 __prompt__:too_many_drills	钻头头过量〔合并词库〕	zuantoutouguoliang	2080	alias
@@ -275052,7 +275177,7 @@ anfuu_daisuki	最爱暗风	zuiaianfeng	1147	primary
 zuiai_gongzhu_dianxia	最爱公主殿下	zuiaigongzhudianxia	1909	primary
 omochi_daisuki	最爱麻薯	zuiaimashu	1654	primary
 osushi_daisuki	最爱寿司	zuiaishousi	1042	primary
-zui_ai_shuang_mawei	最爱双马尾	zuiaishuangmayi	1839	primary
+zui_ai_shuang_mawei	最爱双马尾	zuiaishuangmawei	1839	primary
 shouhou-san_daisuki_teitoku	最爱祥凤的提督	zuiaixiangfengdetidu	3154	primary
 __prompt__:Mouth	嘴巴〔提示词库〕	zuiba	5001	alias
 __prompt__:pout	嘴巴〔合并词库〕	zuiba	4540	alias
@@ -276201,6 +276326,7 @@ on_gold	坐卧于金币上	zuowoyujinbishang	1654	primary
 __prompt__:crop_top_overhang	作物顶部悬垂〔提示词库〕	zuowudingbuxuanchui	5001	alias
 sabu_riri	佐武莉莉	zuowulili	1042	primary
 samue	作务衣	zuowuyi	2341	primary
+__prompt__:sitting	坐下〔常用词〕	zuoxia	10000	primary
 __prompt__:sit_and_blow_position	坐下吹箫姿势〔e621〕	zuoxiachuixiaozishi	2995	alias
 __prompt__:hidari_shoutarou	左翔太郎〔合并词库〕	zuoxiangtailang	2196	alias
 sashou_urara	左小丽罗	zuoxiaoliluo	1323	primary
@@ -276281,6 +276407,7 @@ __prompt__:symmetry	左右对称〔e621〕	zuoyouduichen	3461	alias
 __prompt__:symmetry_(reflectional)	左右对称〔e621〕	zuoyouduichen	2236	alias
 __prompt__:heterochromatic_ears	左右耳不同色〔e621〕	zuoyouerbutongse	2844	alias
 sayuu_hanten	左右反转	zuoyoufanzhuan	1864	primary
+__prompt__:asymmetrical abdominal muscles	左右腹肌不对称〔负面词〕	zuoyoufujibuduicheng	10000	primary
 __prompt__:pillarbox	左右黑边〔e621〕	zuoyouheibian	3397	alias
 __prompt__:asymmetrical_footwear	左右脚不同的鞋子〔e621〕	zuoyoujiaobutongdexiezi	3903	alias
 mismatched_boots	左右脚靴子不一	zuoyoujiaoxuezibuyi	1827	primary

@@ -1,4 +1,4 @@
-# booru-annotations-v1	5619ed2989c714bce8a046bd3c13515f2a8f30c0dbd4b048782ade1f1e866ec9
+# booru-annotations-v1	b55dc2defc8918fb69266a2b0bb06d70766ea3c778ee0670c0c7eafb4cfe41fb
 L:!	感叹号	0
 L:!!	双重感叹号	0
 L:!?	表情符号〔合并词库〕	0
@@ -208,7 +208,7 @@ L:3_legs	三条腿	0
 L:3_panel_comic	三分格漫画〔e621〕	0
 L:3_penises	三根性器〔e621〕	0
 L:3_small_spiders	三只小蜘蛛	0
-L:3_tails	三条尾巴〔e621〕	0
+L:3_tails	三根尾巴〔常用词〕	0
 L:3_toes	三根脚趾〔e621〕	0
 L:3am	凌晨三点〔合并词库〕	0
 L:3bai_kaiouken	三倍界王拳	0
@@ -355,7 +355,7 @@ L:9+_legs	九条腿及以上	0
 L:98-tan	哈酱〔合并词库〕	0
 L:9:16	手机比例〔e621〕	0
 L:9_panel_comic	九格漫画〔e621〕	0
-L:9_tails	九条尾巴〔e621〕	0
+L:9_tails	九根尾巴〔常用词〕	0
 L:9tales_comic	九故事漫画〔e621〕	0
 L::/	撇嘴	0
 L::3	猫嘴	0
@@ -1228,7 +1228,7 @@ L:absolute_cinema_(meme)	表情包〔合并词库〕	0
 L:absolute_dc	超级英雄〔合并词库〕	0
 L:absolute_duo	绝对双刃	0
 L:absolute_superman	绝对超人	0
-L:absolute_territory	腹肌〔提示词库〕	0
+L:absolute_territory	大腿空隙〔e621〕	0
 L:absolute_wonder_woman	超级英雄〔合并词库〕	0
 L:absolutely_everyone	全员集合	0
 L:absorbing	吸收	0
@@ -2206,7 +2206,7 @@ L:aioi_yuuko	日常〔合并词库〕	0
 L:aion	永恒之塔	0
 L:aiou_akahiko	相生赤彦	0
 L:aiovia	爱欧维亚	0
-L:aipom	土居忍士〔e621〕	0
+L:aipom	长尾怪手〔e621〕	0
 L:aiqing	爱情	0
 L:air bangs	空气刘海〔提示词库〕	0
 L:air-to-air_missile	空对空导弹	0
@@ -2869,7 +2869,7 @@ L:akinashi_natsuki	春夏冬夏希	0
 L:akinatsu_meguru	秋夏巡	0
 L:akine_eiri	秋根英里	0
 L:akino-kamihara	神原晃野〔e621〕	0
-L:akino_(el-k)	猎豹女孩阿基诺〔e621〕	0
+L:akino_(el-k)	长腿猎豹〔e621〕	0
 L:akino_(princess_connect!)	公主连结〔合并词库〕	0
 L:akino_coto	秋野琴	0
 L:akino_irori	秋野伊炉里	0
@@ -7813,6 +7813,7 @@ L:asuteka	阿斯特卡	0
 L:asutora-chan	阿斯托拉酱	0
 L:asylum	精神病院〔e621〕	0
 L:asymmetric bangs	不对称刘海〔提示词库〕	0
+L:asymmetrical abdominal muscles	腹肌不对称〔描述短语〕	0
 L:asymmetrical bangs	非対称刘海〔提示词库〕	0
 L:asymmetrical hair	非対称〔提示词库〕	0
 L:asymmetrical_antlers	不对称鹿角	0
@@ -7939,6 +7940,7 @@ L:athleisure outfit	休闲运动装〔提示词库〕	0
 L:athlete	运动员〔提示词库〕	0
 L:athletes	运动员〔提示词库〕	0
 L:athletic	健美〔e621〕	0
+L:athletic build	健美体型〔常用词〕	0
 L:athletic_ambiguous	健美性别不明〔e621〕	0
 L:athletic_andromorph	健身身形〔e621〕	0
 L:athletic_anthro	健身兽人〔e621〕	0
@@ -8812,7 +8814,7 @@ L:back_handspring	后手翻	0
 L:back_holster	背部枪套	0
 L:back_mane	背部毛发〔e621〕	0
 L:back_markings	背部斑纹〔e621〕	0
-L:back_muscles	背部肌肉	0
+L:back_muscles	背部肌肉线条〔常用词〕	0
 L:back_pain	背痛	0
 L:back_peek	后背走光	0
 L:back_piercing	背部穿孔	0
@@ -8869,7 +8871,7 @@ L:backless_shirt	露背衬衫	0
 L:backless_sweater	露背毛衣	0
 L:backless_swimsuit	露背泳装	0
 L:backless_vest	露背背心	0
-L:backlighting	逆光〔光照词〕	0
+L:backlighting	背后打光〔常用词〕	0
 L:backpack	背包	0
 L:backpack_basket	背篓	0
 L:backpack_on_one_shoulder	单肩背书包	0
@@ -8902,11 +8904,15 @@ L:bacon_quiche	培根基蛋饼	0
 L:bacteria	细菌	0
 L:bacteria_(organism)	微生物细菌〔e621〕	0
 L:bactrian_camel	双峰驼	0
+L:bad abs	错误的腹肌〔负面词〕	0
+L:bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面〔常用组合〕	0
 L:bad anatomy	解剖错误〔负面词〕	0
+L:bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面〔常用组合〕	0
 L:bad body	坏身体〔负面词〕	0
-L:bad feet	坏脚〔负面词〕	0
+L:bad feet	错误脚部〔负面词〕	0
 L:bad hands	错误手部〔负面词〕	0
-L:bad proportions	错误的比例〔负面词〕	0
+L:bad pecs	错误的胸肌〔负面词〕	0
+L:bad proportions	比例错误〔负面词〕	0
 L:bad_aim	枪法差	0
 L:bad_anatomy	人体结构崩坏	0
 L:bad_arm	画崩的手臂	0
@@ -10241,7 +10247,7 @@ L:beak_growth	喙生长〔e621〕	0
 L:beak_hold	喙衔	0
 L:beak_kiss	喙碰喙〔e621〕	0
 L:beak_lick	喙舔〔e621〕	0
-L:beak_lips	喙唇〔e621〕	0
+L:beak_lips	长嘴配唇〔e621〕	0
 L:beak_mask	鸟嘴面具	0
 L:beak_piercing	喙部穿刺〔e621〕	0
 L:beak_play	喙部交配〔e621〕	0
@@ -14271,7 +14277,7 @@ L:brain_injection	大脑注射	0
 L:brain_matter	脑部物质〔e621〕	0
 L:brainwashing	精神控制〔e621〕	0
 L:braised_cutlass	红烧带鱼	0
-L:braixen	狐狸精进化〔e621〕	0
+L:braixen	长尾火狐〔e621〕	0
 L:braking	刹车	0
 L:bralette	无钢圈内衣	0
 L:bralines	胸罩轮廓	0
@@ -15649,7 +15655,7 @@ L:bushidou_(sekaiju)	浪人〔合并词库〕	0
 L:bushidou_2_(sekaiju)	世界树之迷宫〔合并词库〕	0
 L:bushidou_4_(sekaiju)	世界树之迷宫〔合并词库〕	0
 L:bushinofuji	武之富士	0
-L:bushtit	银喉长尾山雀〔e621〕	0
+L:bushtit	长尾山雀〔e621〕	0
 L:bushy tail	浓密尾巴〔兽人词〕	0
 L:business	商务	0
 L:business card	名片〔提示词库〕	0
@@ -17381,6 +17387,7 @@ L:center_axis_relock_stance	中心轴锁定射击姿态	0
 L:center_cross_lace	中心交叉蕾丝	0
 L:center_frills	中央荷叶边	0
 L:center_opening	胸前开口	0
+L:centered composition	居中构图〔常用词〕	0
 L:centered_hair_bow	居中发带	0
 L:centi_(nikke)	森蒂〔合并词库〕	0
 L:centipede	蜈蚣	0
@@ -18366,7 +18373,7 @@ L:chest_stand	胸倒立	0
 L:chest_stand_handstand	胸倒立手倒立	0
 L:chest_strap	胸前绑带	0
 L:chest_tattoo	胸部纹身	0
-L:chest_tuft	胸部绒毛	0
+L:chest_tuft	胸前绒毛〔常用词〕	0
 L:chest_wraps	缠胸布〔e621〕	0
 L:chestburster	抱脸虫幼体〔e621〕	0
 L:chester_burklight	幻之世界〔合并词库〕	0
@@ -19726,6 +19733,7 @@ L:cle_masahiro	吴正弘	0
 L:clean	无字版	0
 L:clean lineart	干净线稿〔质量词〕	0
 L:clean lines	干净线条〔质量词〕	0
+L:clean outlines	干净轮廓〔常用词〕	0
 L:clean_diaper	干净尿布〔e621〕	0
 L:clean_lineart	干净线条	0
 L:cleaned	已清理	0
@@ -21214,6 +21222,7 @@ L:cooking_show	烹饪节目	0
 L:cooking_together	共同烹饪	0
 L:cooking_with_tracy	恐龙厨师特蕾西〔e621〕	0
 L:cookware	厨房用具〔e621〕	0
+L:cool lighting	冷光〔常用词〕	0
 L:cool-guy	酷哥	0
 L:cool-kyou_shinja	酷教信者	0
 L:cool_(gundam_suisei_no_majo)	高达彗星的魔女〔合并词库〕	0
@@ -22303,7 +22312,7 @@ L:crossdressing_male	男扮女装〔e621〕	0
 L:crossed arms	双手交叉〔提示词库〕	0
 L:crossed bangs	交叉刘海〔提示词库〕	0
 L:crossed_ankles	脚踝交叉	0
-L:crossed_arms	双臂交叉	0
+L:crossed_arms	双手抱胸〔常用词〕	0
 L:crossed_arms_drinking	交叉手臂饮水	0
 L:crossed_bandaids	交叉创可贴	0
 L:crossed_bangs	交叉刘海	0
@@ -24630,6 +24639,9 @@ L:deflation	充气物泄气〔e621〕	0
 L:deflect	弹反	0
 L:defloration	破处	0
 L:deformed	畸形〔负面词〕	0
+L:deformed abdominal muscles	腹肌变形〔负面词〕	0
+L:deformed body	身体畸形〔负面词〕	0
+L:deformed muscles	肌肉变形〔负面词〕	0
 L:deformed_anus	畸形肛门	0
 L:defusing	拆弹	0
 L:defy_(girls'_frontline)	战术人形〔合并词库〕	0
@@ -25043,6 +25055,7 @@ L:detailed	细节丰富	0
 L:detailed background	精细背景〔质量词〕	0
 L:detailed feathers	精细羽毛〔材质词〕	0
 L:detailed fur	精细毛发〔皮毛词〕	0
+L:detailed fur, soft fur, fur texture, fine fur strands, natural fur shading	兽人毛发〔常用组合〕	0
 L:detailed scales	精细鳞片〔材质词〕	0
 L:detailed skin	精细皮肤〔材质词〕	0
 L:detailed_ambient_creature	背景精细生物〔e621〕	0
@@ -25407,6 +25420,7 @@ L:different_sound_effects	不同音效〔e621〕	0
 L:different_viewfinder	异景取景器	0
 L:different_zoom_layer	不同缩放图层	0
 L:diffraction_spikes	衍射星芒	0
+L:diffused lighting	漫射光〔常用词〕	0
 L:dig_dug	打空气	0
 L:digby_(animal_crossing)	迪姬〔e621〕	0
 L:digested	被消化〔e621〕	0
@@ -25482,7 +25496,7 @@ L:digital_walkman	数字随身听	0
 L:digital_watercolor_(artwork)	数码水彩画〔e621〕	0
 L:digitalclaws	数字之爪	0
 L:digitama	数码蛋	0
-L:digitigrade	趾行〔兽人词〕	0
+L:digitigrade	脚跟抬起的兽腿〔常用词〕	0
 L:digitigrade_footwear	兽足高跟鞋〔e621〕	0
 L:digitigrade_heels	兽跟高跟鞋〔e621〕	0
 L:digitigrade_paws	脚趾着地式爪子〔e621〕	0
@@ -25720,7 +25734,7 @@ L:disco_ball	迪斯科球	0
 L:disco_ball_hair_ornament	迪斯科球发饰	0
 L:disco_elysium	极乐迪斯科	0
 L:discomfort	不适感	0
-L:disconnected limbs	肢体不连贯〔负面词〕	0
+L:disconnected limbs	肢体断开〔负面词〕	0
 L:discord	聊天工具〔合并词库〕	0
 L:discord_(app)	聊天软件〔e621〕	0
 L:discord_(mlp)	混乱之神〔e621〕	0
@@ -27638,6 +27652,7 @@ L:eagle_spirit_(touhou)	大鹰灵〔合并词库〕	0
 L:eagle_talon	秘密结社鹰之爪	0
 L:eagle_union_(emblem)	舰船〔合并词库〕	0
 L:ear covers	耳罩〔提示词库〕	0
+L:ear markings	耳朵花纹〔常用词〕	0
 L:ear-to-ear	耳贴耳	0
 L:ear_accessory	耳部配饰〔e621〕	0
 L:ear_armor	耳甲	0
@@ -27715,7 +27730,7 @@ L:earbuds	耳塞式耳机	0
 L:earbuds_charging_case	无线耳机充电盒	0
 L:earclacks	耳部撞击	0
 L:earclip	耳夹	0
-L:eared_owl	有耳鸮〔e621〕	0
+L:eared_owl	长耳鸮属〔e621〕	0
 L:earflap_beanie	护耳针织帽	0
 L:eargasm	耳内高潮	0
 L:earhole	凹陷耳部〔e621〕	0
@@ -29922,10 +29937,11 @@ L:external_gills	体表鳃〔e621〕	0
 L:external_wall	户外墙面〔e621〕	0
 L:externally_piloted_mecha	外置驾驶机甲	0
 L:extra	无名配角	0
-L:extra arms	多余的手臂〔负面词〕	0
+L:extra arms	多余手臂〔负面词〕	0
 L:extra digits	多余手指〔负面词〕	0
 L:extra eyes	额外的眼睛〔提示词库〕	0
-L:extra legs	多余的腿〔负面词〕	0
+L:extra fingers	多余手指〔负面词〕	0
+L:extra legs	多余腿〔负面词〕	0
 L:extra limb	多余的肢体〔负面词〕	0
 L:extra limbs	多余肢体〔负面词〕	0
 L:extra_arms	多臂	0
@@ -29949,7 +29965,7 @@ L:extra_penises	多阴茎	0
 L:extra_pupils	多瞳孔	0
 L:extra_pussies	多重阴部	0
 L:extra_sleeves	加长袖	0
-L:extra_tails	额外尾巴	0
+L:extra_tails	多出来的尾巴〔常用词〕	0
 L:extra_teeth	多余牙齿	0
 L:extra_testicles	多余睾丸	0
 L:extra_tongue	多余的舌头	0
@@ -29960,7 +29976,7 @@ L:extraterrestrial	外星人〔提示词库〕	0
 L:extraterrestrial_vegetation_evaluator	外星植被评估员〔e621〕	0
 L:extreme close-up view	极端特写〔提示词库〕	0
 L:extreme detail description	极详细刻画〔提示词库〕	0
-L:extreme_close-up	超近距离特写〔e621〕	0
+L:extreme_close-up	极近特写〔常用词〕	0
 L:extreme_dangling	极度悬挂	0
 L:extreme_dinosaurs	极端恐龙〔e621〕	0
 L:extreme_engrish	严重中式英语	0
@@ -30183,6 +30199,7 @@ L:fabio_pochet	意大利漫画艺术家〔e621〕	0
 L:fabled_krus	传说中的克鲁斯	0
 L:fabre	法布尔	0
 L:fabric	布料	0
+L:fabric texture	布料纹理〔常用词〕	0
 L:fabric_creature	布料生物〔e621〕	0
 L:fabulous	华丽	0
 L:fabulous_beasts	有兽焉	0
@@ -34088,11 +34105,11 @@ L:from behind	后背视角〔提示词库〕	0
 L:from below	从下面〔提示词库〕	0
 L:from the left	从左侧视角〔提示词库〕	0
 L:from the right	从右侧视角〔提示词库〕	0
-L:from_above	俯视	0
+L:from_above	从上往下看〔常用词〕	0
 L:from_back	后背视角〔提示词库〕	0
 L:from_behind	背面	0
 L:from_behind_position	背后进入〔e621〕	0
-L:from_below	仰视	0
+L:from_below	从下往上看〔常用词〕	0
 L:from_front_position	面对面体位〔e621〕	0
 L:from_ground	从地面视角	0
 L:from_hat_trick	礼帽变戏法	0
@@ -34952,11 +34969,13 @@ L:fuon_shichimi	风音七味	0
 L:fupa	耻骨脂肪垫〔合并词库〕	0
 L:fur	毛皮	0
 L:fur highlights	毛发高光〔皮毛词〕	0
+L:fur markings	毛发花纹〔常用词〕	0
 L:fur shading	毛发明暗〔皮毛词〕	0
 L:fur shawl	皮草披肩〔提示词库〕	0
 L:fur texture	毛发纹理〔皮毛词〕	0
 L:fur trimmed colla	毛领〔提示词库〕	0
 L:fur tuft	毛簇〔兽人词〕	0
+L:fur tufts	毛束〔常用词〕	0
 L:fur-lined_gloves	毛绒内衬手套	0
 L:fur-tipped_tail	毛茸茸尾尖	0
 L:fur-trimmed	毛边的〔提示词库〕	0
@@ -35253,7 +35272,8 @@ L:fuse_ryuuta	布施龙太	0
 L:fuse_tail	引信尾巴	0
 L:fusebox	保险丝盒	0
 L:fused	部位融合〔e621〕	0
-L:fused fingers	融合的手指〔负面词〕	0
+L:fused fingers	手指融合〔负面词〕	0
+L:fused limbs	肢体融合〔负面词〕	0
 L:fused_arms	融合手臂〔e621〕	0
 L:fused_fingers	融合手指〔e621〕	0
 L:fused_legs	融合双腿〔e621〕	0
@@ -38252,7 +38272,7 @@ L:goodyear	固特异	0
 L:gooey_(kirby)	咕伊〔e621〕	0
 L:goof_troop	高飞家族	0
 L:goofy	迪斯尼〔合并词库〕	0
-L:goofy_(disney)	迪士尼傻狗〔e621〕	0
+L:goofy_(disney)	长嘴狗〔e621〕	0
 L:goofy_smile	傻乎乎的笑容〔e621〕	0
 L:googie architecture	古吉建筑〔提示词库〕	0
 L:googie interior design	古吉室内设计〔提示词库〕	0
@@ -41779,7 +41799,7 @@ L:hand_on_headset	手按耳机	0
 L:hand_on_headwear	手扶头饰	0
 L:hand_on_helmet	手放头盔上	0
 L:hand_on_hilt	手按剑柄	0
-L:hand_on_hip	单手叉腰〔提示词库〕	0
+L:hand_on_hip	单手扶腰〔常用词〕	0
 L:hand_on_horn	单手摸角〔e621〕	0
 L:hand_on_knee	手放膝盖〔e621〕	0
 L:hand_on_knot	手触犬根球〔e621〕	0
@@ -44119,7 +44139,7 @@ L:hell's_kitchen	地狱厨房	0
 L:hell_angel	地狱天使	0
 L:hell_butterfly	地狱蝶	0
 L:hell_chihuahua	地狱吉娃娃	0
-L:hell_knight	地狱骑士〔e621〕	0
+L:hell_knight	长角肌肉敌人〔e621〕	0
 L:hell_princess	地狱公主	0
 L:hell_screen	地狱变	0
 L:hella_(path_to_nowhere)	海拉〔合并词库〕	0
@@ -44610,6 +44630,8 @@ L:higeno_shinshi	胡子绅士	0
 L:higglytownhero	高奇镇英雄画师〔e621〕	0
 L:high ponytail	高马尾〔提示词库〕	0
 L:high quality	高画质〔质量词〕	0
+L:high quality, best quality, ultra-detailed, fine details, sharp focus	基础正面〔常用组合〕	0
+L:high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus	写实正面〔常用组合〕	0
 L:high-angle view	高角度视角〔提示词库〕	0
 L:high-angle_view	俯视〔e621〕	0
 L:high-cut_armor_(persona)	护甲〔合并词库〕	0
@@ -47590,7 +47612,7 @@ L:horned_headphones	带角的耳机	0
 L:horned_headwear	有角头饰	0
 L:horned_helmet	角盔	0
 L:horned_hood	有角兜帽	0
-L:horned_humanoid	角人〔e621〕	0
+L:horned_humanoid	长角的类人〔e621〕	0
 L:horned_mask	角饰面具	0
 L:horned_owl	雕鸮	0
 L:horned_tiara	角饰皇冠	0
@@ -62070,7 +62092,7 @@ L:lagiacrus	海竜〔e621〕	0
 L:lagna	拉格纳	0
 L:lagombi_(armor)	怪物猎人盔甲〔合并词库〕	0
 L:lagomorph	动物耳〔e621〕	0
-L:lagomorph_humanoid	兔耳人〔e621〕	0
+L:lagomorph_humanoid	长耳人〔e621〕	0
 L:lagomorph_penis	兔科阴茎〔e621〕	0
 L:lagoon_lounge	泻湖休息室〔e621〕	0
 L:lagreko	拉格雷科	0
@@ -62813,6 +62835,7 @@ L:leaking_through_clothing	漏出布料〔e621〕	0
 L:leaking_urine	滴尿〔e621〕	0
 L:leaking_vagina	屄漏水〔e621〕	0
 L:leally_big_rice	超大米饭	0
+L:lean	精瘦〔常用词〕	0
 L:lean_body	精瘦身材〔e621〕	0
 L:lean_muscle	精瘦肌肉〔e621〕	0
 L:leander_(azur_lane)	皇家海军〔合并词库〕	0
@@ -62878,6 +62901,7 @@ L:leather	皮革	0
 L:leather boots	皮靴〔提示词库〕	0
 L:leather jacket	皮夹克〔提示词库〕	0
 L:leather skirt	皮裙〔提示词库〕	0
+L:leather texture	皮革纹理〔常用词〕	0
 L:leather_ankle_straps	皮革踝带	0
 L:leather_apron	皮革围裙	0
 L:leather_armor	皮甲	0
@@ -63173,7 +63197,7 @@ L:leggings_only	仅穿打底裤〔e621〕	0
 L:leggings_pull	拉扯打底裤	0
 L:leggings_under_shorts	短裤下穿打底裤	0
 L:leggings_under_skirt	裙下连裤袜	0
-L:leggy_lamb	卡通长腿羊〔e621〕	0
+L:leggy_lamb	长腿羊〔e621〕	0
 L:leghorn	莱格霍恩	0
 L:leghorn_chicken	来航鸡〔e621〕	0
 L:legiana	白灵龙〔e621〕	0
@@ -64989,7 +65013,7 @@ L:long fur	长毛〔皮毛词〕	0
 L:long hair	长发〔提示词库〕	0
 L:long neck	长颈〔负面词〕	0
 L:long-tailed_tit	银喉长尾山雀	0
-L:long-tailed_weasel	鼬科动物〔e621〕	0
+L:long-tailed_weasel	长尾貂鼠〔e621〕	0
 L:long_(chainsaw_man)	电锯人〔合并词库〕	0
 L:long_(wish_dragon)	许愿龙角色〔e621〕	0
 L:long_animal_ears	长兽耳	0
@@ -64999,7 +65023,7 @@ L:long_arms	长手臂	0
 L:long_bangs	长刘海	0
 L:long_barrel	长枪管	0
 L:long_bay	龙湾	0
-L:long_beak	细长鸟喙〔e621〕	0
+L:long_beak	长嘴〔e621〕	0
 L:long_beard	长胡须	0
 L:long_belt	长腰带	0
 L:long_body	长身	0
@@ -65015,7 +65039,7 @@ L:long_dildo	长条假阴茎	0
 L:long_dress	长连衣裙	0
 L:long_duration_stimulation	持久刺激〔e621〕	0
 L:long_earlobes	长耳垂	0
-L:long_ears	大耳〔e621〕	0
+L:long_ears	长耳朵〔e621〕	0
 L:long_exposure	长曝光	0
 L:long_eyebrows	长眉	0
 L:long_eyelashes	长睫毛	0
@@ -65037,10 +65061,10 @@ L:long_haired_secretary	长发秘书	0
 L:long_hand	长手	0
 L:long_head	长头	0
 L:long_hoodie	长款连帽衫	0
-L:long_horn	角〔e621〕	0
+L:long_horn	长角〔e621〕	0
 L:long_horns	长角	0
 L:long_image	超细长图〔e621〕	0
-L:long_inner_ear_fluff	耳朵内部长毛〔e621〕	0
+L:long_inner_ear_fluff	长耳内绒毛〔e621〕	0
 L:long_inner_labia	突出小阴唇〔e621〕	0
 L:long_island_(azur_lane)	护航航母〔合并词库〕	0
 L:long_labia	长阴唇	0
@@ -65060,7 +65084,7 @@ L:long_nose	长鼻子	0
 L:long_orgasm	超长性高潮〔e621〕	0
 L:long_pants	长裤〔e621〕	0
 L:long_penis	超长阴茎〔e621〕	0
-L:long_pigtails	超长马尾辫〔e621〕	0
+L:long_pigtails	长双马尾〔e621〕	0
 L:long_playtime	长播放时间〔e621〕	0
 L:long_pointy_ears	长尖耳	0
 L:long_ponytail	长发扎马尾〔e621〕	0
@@ -65084,8 +65108,8 @@ L:long_spout_teapot	长嘴茶壶	0
 L:long_story	长篇故事〔e621〕	0
 L:long_sword	长剑	0
 L:long_table	长桌	0
-L:long_tail	长尾巴	0
-L:long_tail_feathers	尾部长羽〔e621〕	0
+L:long_tail	长尾〔常用词〕	0
+L:long_tail_feathers	长尾羽毛〔e621〕	0
 L:long_taur	多腿兽身〔e621〕	0
 L:long_teeth	獠牙展露〔e621〕	0
 L:long_term	长期〔e621〕	0
@@ -65218,10 +65242,10 @@ L:looking_at_sky	抬头看天	0
 L:looking_at_stomach	注视腹部	0
 L:looking_at_tail	注视尾巴	0
 L:looking_at_tree	注视树木	0
-L:looking_at_viewer	看向观众	0
+L:looking_at_viewer	看镜头〔常用词〕	0
 L:looking_at_vulva	观看阴道〔e621〕	0
 L:looking_at_watch	看表	0
-L:looking_away	看向别处	0
+L:looking_away	不看镜头〔常用词〕	0
 L:looking_back	回头看	0
 L:looking_back_at_another	回头看人〔e621〕	0
 L:looking_back_at_partner	侧头回看〔e621〕	0
@@ -66005,7 +66029,7 @@ L:lydian_academy_school_uniform	莉迪安音乐学院校服	0
 L:lydian_academy_swimsuit	莉迪安音乐学院泳装	0
 L:lydie_malen	炼金工房〔合并词库〕	0
 L:lygarus	利加鲁斯	0
-L:lying	躺着	0
+L:lying	躺下〔常用词〕	0
 L:lying_and_blow_position	口交姿势〔e621〕	0
 L:lying_on_animal	躺在动物身上	0
 L:lying_on_another	躺在他人身上	0
@@ -67242,7 +67266,7 @@ L:malerouille	兽人艺术家〔e621〕	0
 L:malevola_(dispatch)	超级英雄〔合并词库〕	0
 L:malfaren	龙角色〔e621〕	0
 L:malformed hands	畸形的手〔负面词〕	0
-L:malformed limbs	畸形的肢体〔负面词〕	0
+L:malformed limbs	畸形肢体〔常用词〕	0
 L:malfunction	故障〔e621〕	0
 L:malice_(sue_storm)	恶意〔合并词库〕	0
 L:malicious	恶意	0
@@ -68386,6 +68410,7 @@ L:master_up	压盘完成	0
 L:mastercard	万事达卡	0
 L:mastering	母带处理	0
 L:masterpiece	大师级〔质量词〕	0
+L:masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading	动漫正面〔常用组合〕	0
 L:masterploxy	大师拼贴〔e621〕	0
 L:masters_of_the_universe	宇宙巨人希曼	0
 L:masterwork_apocalypse	幻书启世录	0
@@ -69183,7 +69208,7 @@ L:mega_greninja	水暗属性〔e621〕	0
 L:mega_hawlucha	超级进化〔e621〕	0
 L:mega_houndoom	超级戴鲁比〔e621〕	0
 L:mega_kangaskhan	超级袋龙〔e621〕	0
-L:mega_lopunny	超级路卡利欧〔e621〕	0
+L:mega_lopunny	长耳兔〔e621〕	0
 L:mega_lucario	超级卢卡里奥〔e621〕	0
 L:mega_lucario_z	路卡利欧〔e621〕	0
 L:mega_malamar	超级进化〔e621〕	0
@@ -69873,6 +69898,7 @@ L:metalhead	金属头〔e621〕	0
 L:metaling	金属化	0
 L:metallic	金属材质〔e621〕	0
 L:metallic luster	金属光泽〔提示词库〕	0
+L:metallic texture	金属质感〔常用词〕	0
 L:metallic_body	金属身体〔e621〕	0
 L:metallic_child	金属之子	0
 L:metallic_hair	钢铁头发〔e621〕	0
@@ -71590,8 +71616,12 @@ L:missedkenamine	错过氯胺酮	0
 L:missile	导弹	0
 L:missile_pod	导弹发射巢	0
 L:missile_trail	导弹尾迹	0
-L:missing fingers	缺少手指〔负面词〕	0
+L:missing arms	缺少手臂〔负面词〕	0
+L:missing ears	耳朵缺失〔负面词〕	0
+L:missing fingers	手指缺失〔负面词〕	0
+L:missing legs	缺少腿〔负面词〕	0
 L:missing limb	缺少的肢体〔负面词〕	0
+L:missing limbs	肢体缺失〔负面词〕	0
 L:missing_all_arms	失去双臂〔e621〕	0
 L:missing_all_legs	缺失所有腿〔e621〕	0
 L:missing_arm	单臂角色〔e621〕	0
@@ -71605,7 +71635,7 @@ L:missing_hand	单手〔e621〕	0
 L:missing_headwear	头饰缺失	0
 L:missing_leg	缺失腿〔e621〕	0
 L:missing_legwear	未穿腿部衣物	0
-L:missing_limbs	断肢〔e621〕	0
+L:missing_limbs	缺少肢体〔负面词〕	0
 L:missing_nose	无鼻	0
 L:missing_poster	寻人启事	0
 L:missing_sample	缺失样本〔e621〕	0
@@ -72867,7 +72897,7 @@ L:momikumo	揉云	0
 L:momioka_risa	彩南高中〔合并词库〕	0
 L:momizi_kurihachi	栗八红叶	0
 L:mommy_kink	妈妈称呼〔e621〕	0
-L:mommy_long_legs	粉红蜘蛛玩具妈咪〔e621〕	0
+L:mommy_long_legs	长腿蜘蛛娘〔e621〕	0
 L:mommydom	妈妈支配者〔e621〕	0
 L:momo-chan_(dagasi)	萝莉兽耳〔合并词库〕	0
 L:momo-tan	桃子酱	0
@@ -74489,7 +74519,7 @@ L:multi_pecs	多对胸大肌〔e621〕	0
 L:multi_penis	多根阴茎〔e621〕	0
 L:multi_penis_peeing	多头下体小便〔e621〕	0
 L:multi_sheath	多根鞘〔e621〕	0
-L:multi_tail	多条尾巴〔e621〕	0
+L:multi_tail	多根尾巴〔常用词〕	0
 L:multi_teat	超数乳头〔e621〕	0
 L:multi_teeth	多层牙齿〔e621〕	0
 L:multi_tentacle	触手多头〔e621〕	0
@@ -74819,7 +74849,7 @@ L:multiple_style_parody	多重画风模仿	0
 L:multiple_subs	多个受支配者〔e621〕	0
 L:multiple_subs_one_dom	多从一主〔e621〕	0
 L:multiple_swords	多把剑	0
-L:multiple_tails	多尾	0
+L:multiple_tails	多根尾巴〔常用词〕	0
 L:multiple_tattoos	多处纹身	0
 L:multiple_theme_colors	多主题色	0
 L:multiple_thigh_straps	多条腿环	0
@@ -75385,7 +75415,7 @@ L:muzi_folder	木子文件夹	0
 L:muzuki_hikari	睦月光	0
 L:muzuki_uruu	睦月润	0
 L:muzz	匿名画师〔e621〕	0
-L:muzzle	吻部〔兽人词〕	0
+L:muzzle	口鼻部〔常用词〕	0
 L:muzzle_(marking)	鼻吻标记〔e621〕	0
 L:muzzle_(mask)	口嚼子	0
 L:muzzle_(object)	动物嘴套〔e621〕	0
@@ -75664,7 +75694,7 @@ L:nagant_m1895	手枪〔合并词库〕	0
 L:nagant_revolver_(girls'_frontline)	纳甘左轮〔合并词库〕	0
 L:nagant_revolver_(mod3)_(girls'_frontline)	神经升级〔合并词库〕	0
 L:nagao_akemi	长尾朱美	0
-L:nagao_kagetora_(fate)	上杉谦信〔合并词库〕	0
+L:nagao_kagetora_(fate)	长尾景虎〔合并词库〕	0
 L:nagao_kei	长尾景〔合并词库〕	0
 L:nagao_uka	长尾羽花	0
 L:nagaoka_kenzou	长冈建藏	0
@@ -76769,7 +76799,7 @@ L:narmaya_(summer)_(granblue_fantasy)	夏〔合并词库〕	0
 L:narmaya_(valentine)_(granblue_fantasy)	剑术大师〔合并词库〕	0
 L:narration	旁白	0
 L:narrative_formation	叙事组体操	0
-L:narrow waist	细腰〔提示词库〕	0
+L:narrow waist	窄腰〔常用词〕	0
 L:narrow_hips	窄胯	0
 L:narrow_legs	纤细双腿〔e621〕	0
 L:narrow_waist	细腰	0
@@ -77112,9 +77142,13 @@ L:natune	夏音	0
 L:natuo_e	夏尾	0
 L:natupath_summer	夏日路径	0
 L:natural	天然无加工的〔e621〕	0
+L:natural body proportions	自然身体比例〔描述短语〕	0
+L:natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading	自然肌肉〔常用组合〕	0
 L:natural colors	自然色彩〔质量词〕	0
-L:natural lighting	自然光照〔光照词〕	0
+L:natural lighting	自然光〔常用词〕	0
+L:natural muscle definition	自然的肌肉线条〔常用词〕	0
 L:natural skin texture	自然皮肤纹理〔材质词〕	0
+L:natural-looking abdominal muscles	自然的腹肌〔常用词〕	0
 L:natural_1	关键大失败〔e621〕	0
 L:natural_armor	生物甲壳〔e621〕	0
 L:natural_breasts	写实胸部〔e621〕	0
@@ -77341,7 +77375,7 @@ L:neck_tassel	颈部流苏	0
 L:neck_tattoo	颈部纹身	0
 L:neck_tied	颈部系带〔e621〕	0
 L:neck_torture	脖子酷刑〔e621〕	0
-L:neck_tuft	颈部绒毛	0
+L:neck_tuft	颈部鬃毛〔常用词〕	0
 L:neck_violin	颈枷琴	0
 L:neck_warmer	脖套	0
 L:neck_wings	颈部翅膀	0
@@ -79590,7 +79624,7 @@ L:norza	推特画师〔e621〕	0
 L:nos_talgia	怀旧	0
 L:nosa_kouko	纳沙幸子〔合并词库〕	0
 L:nosaka_yuuma	野坂悠马	0
-L:nose	鼻子	0
+L:nose	鼻头〔常用词〕	0
 L:nose leather	鼻镜〔兽人词〕	0
 L:nose_art	机头艺术	0
 L:nose_beak	鼻上喙〔e621〕	0
@@ -80207,7 +80241,7 @@ L:objectification	物品化	0
 L:objection	梗〔合并词库〕	0
 L:obligation_chocolate	义理巧克力	0
 L:oblique-lane	斜向车道	0
-L:obliques	腹外斜肌	0
+L:obliques	腹部两侧肌肉〔常用词〕	0
 L:oblivionis_(bang_dream!)	丰川祥子〔合并词库〕	0
 L:oblivious	不知情〔e621〕	0
 L:oblivious_sex	不知情的做爱〔e621〕	0
@@ -83386,6 +83420,7 @@ L:overbite_fang	龅牙尖牙〔e621〕	0
 L:overcast	阴天	0
 L:overcoat	大衣	0
 L:overcooked	胡闹厨房	0
+L:overdefined abdominal muscles	腹肌太明显〔负面词〕	0
 L:overdose	药物过量	0
 L:overdrawn_eyeliner	扩瞳眼线	0
 L:overeating	暴食	0
@@ -84930,7 +84965,7 @@ L:pectoral_pillow	胸肌枕	0
 L:pectoral_press	胸肌挤压	0
 L:pectoral_squeeze	胸肌挤压	0
 L:pectoral_vore	胸肌活吞〔e621〕	0
-L:pectorals	胸肌	0
+L:pectorals	胸部肌肉〔常用词〕	0
 L:pectorals_on_glass	胸肌压玻璃	0
 L:pectorals_on_table	胸肌压在桌上	0
 L:pectorals_rest	胸肌枕	0
@@ -87105,7 +87140,7 @@ L:plasma_sword	等离子剑	0
 L:plasmid	质粒	0
 L:plaster cast	石膏模型〔提示词库〕	0
 L:plastic	塑料〔e621〕	0
-L:plastic fur	塑料毛皮〔负面词〕	0
+L:plastic fur	塑料毛发〔负面词〕	0
 L:plastic skin	塑料皮肤〔负面词〕	0
 L:plastic_angels	塑料天使	0
 L:plastic_bag	塑料袋	0
@@ -87974,7 +88009,7 @@ L:pooping_together	多人排便〔e621〕	0
 L:pooping_while_masturbating	排便时自慰〔e621〕	0
 L:poor_trainer	贫穷训练师	0
 L:poorly drawn face	画的不好的脸〔负面词〕	0
-L:poorly drawn hands	画的不好的手〔负面词〕	0
+L:poorly drawn hands	画坏的手〔负面词〕	0
 L:poorly_stitched	拼接粗糙	0
 L:poorly_translated	翻译拙劣	0
 L:poorunii	普鲁妮	0
@@ -88506,7 +88541,7 @@ L:prehensile_feet	抓握足	0
 L:prehensile_footjob	缠绕足交〔e621〕	0
 L:prehensile_hair	可动发丝	0
 L:prehensile_penis	触手阴茎〔e621〕	0
-L:prehensile_tail	卷缠尾	0
+L:prehensile_tail	抓握尾〔常用词〕	0
 L:prehensile_toes	灵活脚趾	0
 L:prehensile_tongue	卷缠舌	0
 L:prehensile_wings	可抓握翅膀	0
@@ -92478,6 +92513,7 @@ L:relationship_graph	人物关系图	0
 L:relative_swap	家庭成员交换〔e621〕	0
 L:relax_teatime_(project_sekai)	放松茶歇时刻	0
 L:relaxation	放松〔e621〕	0
+L:relaxed abdomen	放松的腹部〔描述短语〕	0
 L:relaxed posture	放松姿态〔通用姿态·躯干〕	0
 L:relaxed_entity	放松实体	0
 L:relaxed_expression	放松表情〔e621〕	0
@@ -93376,7 +93412,7 @@ L:rillaboom	宝可梦剑盾〔e621〕	0
 L:rilliona_(yu-gi-oh!)	魔女术士〔合并词库〕	0
 L:rilu_rilu_fairilu	莉露莉露妖精莉露	0
 L:rim light	轮廓光〔提示词库〕	0
-L:rim lighting	轮廓光〔光照词〕	0
+L:rim lighting	边缘光〔常用词〕	0
 L:rim_(kamitsubaki_studio)	理芽〔合并词库〕	0
 L:rim_light	边缘光〔e621〕	0
 L:rim_lighting	边缘光〔e621〕	0
@@ -98948,7 +98984,7 @@ L:serrasalmid	锯脂鲤〔e621〕	0
 L:serrated_blade	锯齿刃	0
 L:serrated_knife	锯齿刀	0
 L:serratus	锯齿肌〔e621〕	0
-L:serratus_anterior	前锯肌	0
+L:serratus_anterior	前锯状肌〔常用词〕	0
 L:serval	薮猫	0
 L:serval-chan	动物朋友〔e621〕	0
 L:serval_(kemono_friends)	动物朋友〔合并词库〕	0
@@ -102766,7 +102802,7 @@ L:silken_tofu	嫩豆腐	0
 L:silkie	丝羽乌骨鸡	0
 L:silkpunk	丝绸朋克	0
 L:silkwing_(wof)	丝翼龙〔e621〕	0
-L:silky fur	丝滑毛皮〔皮毛词〕	0
+L:silky fur	丝滑毛发〔常用词〕	0
 L:silky_anteater_(kemono_friends)	姬蚁熊〔合并词库〕	0
 L:sill_plain	兰斯系列〔合并词库〕	0
 L:sills	希尔斯	0
@@ -102954,7 +102990,7 @@ L:simosi	下司	0
 L:simotukiryuusi	霜月龙二	0
 L:simple background	简单的背景〔提示词库〕	0
 L:simple_animation	扁平动画风〔e621〕	0
-L:simple_background	简单背景	0
+L:simple_background	干净背景〔常用词〕	0
 L:simple_bat	简笔蝙蝠	0
 L:simple_bird	简笔鸟	0
 L:simple_butterfly	简约蝴蝶	0
@@ -103300,7 +103336,7 @@ L:sith_pureblood	西斯纯血种	0
 L:sititng	坐姿	0
 L:sitonai_(fate)	神灵马斯库特〔合并词库〕	0
 L:sitrus_berry	文柚果	0
-L:sitting	坐着	0
+L:sitting	坐下〔常用词〕	0
 L:sitting up	坐起〔通用姿态·躯干〕	0
 L:sitting upright	坐直〔通用姿态·躯干〕	0
 L:sitting_against_vehicle	倚靠载具坐	0
@@ -104862,6 +104898,7 @@ L:soles_together	双脚脚底相对	0
 L:soletta_orihime	红色贵族〔合并词库〕	0
 L:solf_j._kimblee	钢之炼金术师〔合并词库〕	0
 L:solgaleo	宝可梦太阳〔e621〕	0
+L:solid background	纯色背景〔常用词〕	0
 L:solid circle eyes	实心圆眼〔提示词库〕	0
 L:solid oval eyes	实心椭圆形眼睛〔提示词库〕	0
 L:solid_chastity_cage	实心贞操笼〔e621〕	0
@@ -107700,7 +107737,7 @@ L:stretched_underwear	撑开的内裤〔e621〕	0
 L:stretched_urethra	扩张尿道〔e621〕	0
 L:stretched_vagina	撑开的阴道〔e621〕	0
 L:stretcher	担架	0
-L:stretching	拉伸	0
+L:stretching	伸懒腰〔常用词〕	0
 L:stretching_arms	拉伸手臂〔e621〕	0
 L:stretching_legs	伸腿〔e621〕	0
 L:stretchy	可变形身体〔e621〕	0
@@ -108259,6 +108296,7 @@ L:subsurface scattering	次表面散射〔材质词〕	0
 L:subsurface_scattering	次表面散射	0
 L:subterranean_animism	东方地灵殿	0
 L:subtitled	有字幕	0
+L:subtle muscle definition	不明显的肌肉线条〔常用词〕	0
 L:subtle skin imperfections	自然皮肤瑕疵〔材质词〕	0
 L:subtle_animation	轻微动画效果〔e621〕	0
 L:suburb	郊区	0
@@ -110310,6 +110348,7 @@ L:taikoubou	封神演义〔合并词库〕	0
 L:taikyoku_tsurugi	太极剑	0
 L:tail	尾巴	0
 L:tail fur	尾部毛发〔兽人词〕	0
+L:tail markings	尾巴花纹〔常用词〕	0
 L:tail-blazer	尾巴爆破者〔e621〕	0
 L:tail-shaped_hair	尾巴状发型	0
 L:tail_(honkai:_star_rail)	藿藿〔合并词库〕	0
@@ -110462,8 +110501,9 @@ L:tail_through_clothes	尾巴穿透衣物	0
 L:tail_through_skirt	尾巴穿裙〔e621〕	0
 L:tail_tickle	挠尾巴〔e621〕	0
 L:tail_tied	尾巴被绑〔e621〕	0
+L:tail_tip	尾尖〔常用词〕	0
 L:tail_to_collar	尾巴绑颈〔e621〕	0
-L:tail_tuft	尾尖毛	0
+L:tail_tuft	尾端毛簇〔常用词〕	0
 L:tail_under_breasts	尾巴托胸	0
 L:tail_under_clothes	衣内尾巴	0
 L:tail_under_skirt	裙底尾巴〔e621〕	0
@@ -111316,7 +111356,7 @@ L:talking_to_viewer	打破第四面墙〔e621〕	0
 L:tall	高〔提示词库〕	0
 L:tall_combat_boots	高筒战斗靴	0
 L:tall_crown	高冠	0
-L:tall_ears	大耳朵〔e621〕	0
+L:tall_ears	长耳〔e621〕	0
 L:tall_female	高挑女性	0
 L:tall_girl	高大少女〔e621〕	0
 L:tall_grass	高草丛	0
@@ -113885,7 +113925,7 @@ L:they_live	极度空间	0
 L:theycallhimcake	蛋糕〔e621〕	0
 L:theyeager_san	耶格尔先生	0
 L:thick eyebrows	浓眉〔提示词库〕	0
-L:thick fur	浓密毛皮〔皮毛词〕	0
+L:thick fur	浓密毛发〔常用词〕	0
 L:thick lips	厚嘴唇〔提示词库〕	0
 L:thick_anal_hair	浓密肛毛	0
 L:thick_arm_hair	浓密臂毛	0
@@ -114152,7 +114192,7 @@ L:threesome_invitation	三人邀请〔e621〕	0
 L:threo_(granblue_fantasy)	萨拉萨〔合并词库〕	0
 L:thresh	魂锁典狱长〔e621〕	0
 L:thresh_(league_of_legends)	锤石〔合并词库〕	0
-L:thresher_shark	鼠鲨〔e621〕	0
+L:thresher_shark	长尾鲨〔e621〕	0
 L:threskiornithid	鹮科〔e621〕	0
 L:thriller_trainee	惊悚练习生	0
 L:throat	喉咙	0
@@ -117928,7 +117968,7 @@ L:turnstile	旋转闸机	0
 L:turntable	唱片机	0
 L:turntable_(animation)	旋转镜头〔e621〕	0
 L:turntable_(decks)	唱机〔e621〕	0
-L:turo_of_akesh	沙漠蝙蝠冒险者〔e621〕	0
+L:turo_of_akesh	长耳蝙蝠角色〔e621〕	0
 L:turok	恐龙猎人	0
 L:turquoise	中绿松石色〔提示词库〕	0
 L:turquoise_(gemstone)	绿松石	0
@@ -118344,7 +118384,7 @@ L:two_side_up	半扎双马尾	0
 L:two_sidriver	双面驱动器	0
 L:two_soyjaks_pointing_(meme)	表情包〔合并词库〕	0
 L:two_subs_one_dom	两受一攻〔e621〕	0
-L:two_tails	双尾	0
+L:two_tails	两根尾巴〔常用词〕	0
 L:two_tone_antennae	双色触角〔e621〕	0
 L:two_tone_anus	二色肛门〔e621〕	0
 L:two_tone_arms	双色调手臂〔e621〕	0
@@ -118859,7 +118899,7 @@ L:ultimate_moe	究极萌	0
 L:ultimate_nipper	究极剪〔合并词库〕	0
 L:ultimateinudog	终极犬狗	0
 L:ultimecia	阿尔迪米西娅〔合并词库〕	0
-L:ultra-detailed	超精细〔质量词〕	0
+L:ultra-detailed	超高细节〔常用词〕	0
 L:ultra-fine painting	超精细绘画〔提示词库〕	0
 L:ultra_ball	高级球	0
 L:ultra_beam	奥特光线	0
@@ -119812,7 +119852,7 @@ L:upanishi_mariko	上西真理子	0
 L:updo	盘发	0
 L:uperior	雄性马〔e621〕	0
 L:upotte!!	枪娘〔合并词库〕	0
-L:upper_body	上半身	0
+L:upper_body	半身照〔常用词〕	0
 L:upper_teeth	上牙〔提示词库〕	0
 L:upper_teeth_only	仅露出上排牙齿	0
 L:uppercut	上勾拳	0
@@ -122123,7 +122163,7 @@ L:warm	暖色调〔e621〕	0
 L:warm-hearted_woodsman	热心的伐木工	0
 L:warm_colored	暖色调	0
 L:warm_colors	暖色调	0
-L:warm_lighting	暖光照明〔e621〕	0
+L:warm_lighting	暖光〔常用词〕	0
 L:warm_sheep	暖羊羊	0
 L:warmcummies	温热精液	0
 L:warmers	保暖物品〔e621〕	0
@@ -122761,6 +122801,7 @@ L:welding_goggles	焊接护目镜	0
 L:welding_mask	焊接面罩	0
 L:welding_torch	焊枪	0
 L:well	水井	0
+L:well-proportioned body	匀称体型〔描述短语〕	0
 L:well_just_you_wait!	等着瞧〔e621〕	0
 L:welling_tears	泪流满面〔e621〕	0
 L:welrod	威灵罗德消音手枪	0
@@ -124355,6 +124396,7 @@ L:worried_look	担心的表情〔e621〕	0
 L:worship	崇拜	0
 L:worship_request	崇拜请求〔e621〕	0
 L:worst quality	最差质量〔负面词〕	0
+L:worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text	基础负面〔常用组合〕	0
 L:worstquality	最差质量〔负面词〕	0
 L:wortox	沃托克斯〔e621〕	0
 L:worvies	沃维斯	0
@@ -129519,7 +129561,13 @@ L:ಠ_ಠ	不满脸〔e621〕	0
 M:101:otosareteiku_onee-chan_to_nani_mo_dekinai_boku_~akogare_no_kanojo_wa_inraku_shi_chitai_wo_sarakedasu~:beiduoluodejiejieyushenmedouzuobudaodewo	被堕落的姐姐与什么都做不到的我	1
 M:102:__prompt__:guild_no_uketsukejou_desu_ga_zangyou_wa_iya_nanode_boss_wo_solo_toubatsu_shiyou_to_omoimasu:woshigonghuiguitaixiaojie	我是公会柜台小姐〔合并词库〕	0
 M:102:aru_hi_otouto_ga_nozokimita_no_wa_furyou-tachi_ni_konsui_rape_sareru_daisuki_datta_ane_no_sugata_datta:moutiandidikuijiandeshibeibuliangshaonianhunmiqiangjiandezuiaijiejiedeshenying	某天弟弟窥见的是被不良少年昏迷强奸的最爱姐姐的身影	1
+M:104:__prompt__:high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus:xieshizhengmian	写实正面〔常用组合〕	1
+M:104:__prompt__:high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus:zhengmian	写实正面〔常用组合〕	1
 M:104:tenkou_saki_no_seiso_karen_na_bishoujo_ga_mukashi_danshi_to_omotte_issho_ni_asonda_osananajimi_datta_ken:zhuanxiaoqingchunmeishaonvjingshiershiwanban	转校清纯美少女竟是儿时玩伴	1
+M:106:__prompt__:masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading:dongmanzhengmian	动漫正面〔常用组合〕	1
+M:106:__prompt__:masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading:zhengmian	动漫正面〔常用组合〕	1
+M:109:__prompt__:bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles:fujifumian	腹肌负面〔常用组合〕	1
+M:109:__prompt__:bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles:fumian	腹肌负面〔常用组合〕	1
 M:10:1jumangoku:yiwanshi	一万石	1
 M:10:5moreyears:zaizhanwunian	再战五年	1
 M:10:7th-heaven:diqitiantang	第七天堂	1
@@ -132702,15 +132750,15 @@ M:10:long_apron:zhangweiqun	长围裙	1
 M:10:long_bangs:zhangliuhai	长刘海	1
 M:10:long_beard:zhanghuxu	长胡须	1
 M:10:long_braid:zhangmahuabian	长麻花辫	1
-M:10:long_claws:zhangzhao	长爪	1
+M:10:long_claws:changzhao	长爪	1
 M:10:long_dildo:changtiaojiayinjing	长条假阴茎	1
 M:10:long_dress:zhanglianyiqun	长连衣裙	1
 M:10:long_fangs:zhangliaoya	长獠牙	1
 M:10:long_glove:zhangshoutao	长手套	1
 M:10:long_grass:zhangcao	长草	1
-M:10:long_horns:zhangjiao	长角	1
+M:10:long_horns:changjiao	长角	1
 M:10:long_labia:zhangyinchun	长阴唇	1
-M:10:long_mouth:zhangzui	长嘴	1
+M:10:long_mouth:changzui	长嘴	1
 M:10:long_scarf:zhangweijin	长围巾	1
 M:10:long_shirt:changkuanchenshan	长款衬衫	1
 M:10:long_skirt:zhangqun	长裙	1
@@ -133972,13 +134020,13 @@ M:10:qingmangzi:qingmangzi	青芒子	1
 M:10:qiongsheng:qiongsheng	琼生	1
 M:10:qiu_youyou:qiuyouyou	秋悠悠	1
 M:10:qiuzijiang:qiuzijiang	秋子酱	1
-M:10:quad_tails:simayi	四马尾	1
+M:10:quad_tails:simawei	四马尾	1
 M:10:quadcopter:sizhoufeixingqi	四轴飞行器	1
 M:10:quartering:chelie	车裂	1
 M:10:quibi-chan:kuibijiang	奎比酱	1
 M:10:quick_ball:xianjiqiu	先机球	1
 M:10:quietmrcat:anjingdemaoxiansheng	安静的猫先生	1
-M:10:quin_tails:wumayi	五马尾	1
+M:10:quin_tails:wumawei	五马尾	1
 M:10:quiz_quest:wendarenwu	问答任务	1
 M:10:rabbit_bag:tuxingbao	兔形包	1
 M:10:rabbit_bow:tuerhudiejie	兔耳蝴蝶结	1
@@ -135879,7 +135927,7 @@ M:10:zanunoneko:zuobumao	座布猫	1
 M:10:zashikiori:zuofuzhi	座敷织	1
 M:10:zebra_ears:banmaer	斑马耳	1
 M:10:zebra_girl:banmaniang	斑马娘	1
-M:10:zebra_tail:banmayi	斑马尾	1
+M:10:zebra_tail:banmawei	斑马尾	1
 M:10:zeff_ozaki:weiqizefu	尾崎泽夫	1
 M:10:zelnogrard:zeernuogelade	泽尔诺格拉德	1
 M:10:zen_migawa:sanchuanchan	三川禅	1
@@ -136599,7 +136647,7 @@ M:11:bike_shorts:qixingku	骑行裤	1
 M:11:bikini_pull:lachebijini	拉扯比基尼	1
 M:11:bikuto_ryuu:bigurenlong	比古人龙	1
 M:11:binchou-tan:beizhangtan	备长炭	1
-M:11:binder_clip:zhangweijia	长尾夹	1
+M:11:binder_clip:changweijia	长尾夹	1
 M:11:bingkuaihei:bingkuaihei	冰块黑	1
 M:11:binkan-chan:minganjiang	敏感酱	1
 M:11:bionekojita:maoshemeinan	猫舌美男	1
@@ -140259,7 +140307,7 @@ M:11:nabana_yuna:caihuayounai	菜花由奈	1
 M:11:nabari_anju:yinxingzhu	隐杏珠	1
 M:11:nagamine_ao:zhangfengkui	长峰葵	1
 M:11:nagano_rira:zhangyelila	长野莉拉	1
-M:11:nagao_akemi:zhangweizhumei	长尾朱美	1
+M:11:nagao_akemi:changweizhumei	长尾朱美	1
 M:11:nagareboshi:liuxing	流星	1
 M:11:nagata_gata:yongtianxing	永田型	1
 M:11:nagata_shuu:yongtianchou	永田愁	1
@@ -142831,14 +142879,14 @@ M:11:twin_blades:shuangren	双刃	1
 M:11:twin_boukun:shuangzibaojun	双子暴君	1
 M:11:twin_braids:shuangbian	双辫	1
 M:11:twin_braids:shuangmahuabian	双麻花辫	1
-M:11:twin_drills:luoxuanshuangmayi	螺旋双马尾	1
+M:11:twin_drills:luoxuanshuangmawei	螺旋双马尾	1
 M:11:twin_switch:shuangziqiehuan	双子切换	1
 M:11:twinkle_eye:shanshuoyan	闪烁眼	1
 M:11:twins_panic:shuangzikonghuang	双子恐慌	1
 M:11:twirl_baton:zhihuibang	指挥棒	1
 M:11:two-man_saw:shuangrenju	双人锯	1
 M:11:two_pokemon:liangzhibaokemeng	两只宝可梦	1
-M:11:two_side_up:banzhashuangmayi	半扎双马尾	1
+M:11:two_side_up:banzhashuangmawei	半扎双马尾	1
 M:11:tying_apron:xiweiqun	系围裙	1
 M:11:tyohensyoku:chaobianse	超变色	1
 M:11:type_11_lmg:shiyinianshiqingjiqiang	十一年式轻机枪	1
@@ -143557,6 +143605,8 @@ M:11:zooming_out:jingtoulayuan	镜头拉远	1
 M:11:zunda_mochi:maodounimashu	毛豆泥麻薯	1
 M:11:zutsuumochi:toutongbing	头痛饼	1
 M:11:zutto_issho:yongyuanzaiyiqi	永远在一起	1
+M:120:__prompt__:natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading:zhengmian	自然肌肉〔常用组合〕	1
+M:120:__prompt__:natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading:ziranjirou	自然肌肉〔常用组合〕	1
 M:122:__prompt__:hisabisa_ni_atta_osananajimi_ga_iroiro_to_seichou_shiteirunoni_nounai_dake_seichou_shiteinakute_douyou_shiteiru:jiuweichongfengdeqingmeizhumazaigezhongfangmiandouchengzhangle	久违重逢的青梅竹马在各种方面都成长了〔合并词库〕	0
 M:122:__prompt__:hisabisa_ni_atta_osananajimi_ga_iroiro_to_seichou_shiteirunoni_nounai_dake_seichou_shiteinakute_douyou_shiteiru:langmanxiju	浪漫喜剧〔合并词库〕	0
 M:122:__prompt__:hisabisa_ni_atta_osananajimi_ga_iroiro_to_seichou_shiteirunoni_nounai_dake_seichou_shiteinakute_douyou_shiteiru:rangwogandaodongyao	让我感到动摇〔合并词库〕	0
@@ -144509,7 +144559,7 @@ M:12:bukui_shi_wo:bukuishiwo	不亏是我	1
 M:12:bulge_to_ass:tunbugubao	臀部鼓包	1
 M:12:bulging_eyes:tuyan	凸眼	1
 M:12:bull_terrier:niutougeng	牛头梗	1
-M:12:bulldog_clip:zhangweijia	长尾夹	1
+M:12:bulldog_clip:changweijia	长尾夹	1
 M:12:bullet_girls:zidanshaonv	子弹少女	1
 M:12:bullet_print:danhenyinhua	弹痕印花	1
 M:12:bullet_witch:zidanmonv	子弹魔女	1
@@ -147633,7 +147683,6 @@ M:12:love_handles:yaojianzhuirou	腰间赘肉	1
 M:12:love_machine:aizhijiqi	爱之机器	1
 M:12:low_neckline:chaodiling	超低领	1
 M:12:low_ponytail:dimawei	低马尾	1
-M:12:low_ponytail:dimayi	低马尾	1
 M:12:lowleg_pants:diyaoku	低腰裤	1
 M:12:lowleg_skirt:diyaoqun	低腰裙	1
 M:12:lucia_hsiang:xiangluxiya	向露西亚	1
@@ -149960,7 +150009,7 @@ M:12:simon_shades:ximengmojing	西蒙墨镜	1
 M:12:simple_sheep:jianbiyang	简笔羊	1
 M:12:sin_moriyama:senshanxin	森山信	1
 M:12:single_braid:danmahuabian	单麻花辫	1
-M:12:single_drill:luoxuandanmayi	螺旋单马尾	1
+M:12:single_drill:luoxuandanmawei	螺旋单马尾	1
 M:12:single_flame:dantuanhuoyan	单团火焰	1
 M:12:single_frame:danzhendonghua	单帧动画	1
 M:12:single_glove:danzhishoutao	单只手套	1
@@ -154302,7 +154351,6 @@ M:13:hige_masamune:huxuzhengzong	胡须正宗	1
 M:13:high-low_coat:qianduanhouzhangwaitao	前短后长外套	1
 M:13:high_contrast:gaoduibidu	高对比度	1
 M:13:high_ponytail:gaomawei	高马尾	1
-M:13:high_ponytail:gaomayi	高马尾	1
 M:13:high_top_fade:gaopingtoujianbianfaxing	高平头渐变发型	1
 M:13:highleg_dress:gaochaqun	高衩裙	1
 M:13:higuchi_isami:tongkouyong	樋口勇	1
@@ -155792,7 +155840,7 @@ M:13:loaf_of_bread:zhengtiaomianbao	整条面包	1
 M:13:location_name:didianming	地点名	1
 M:13:lock_earrings:suotouerhuan	锁头耳环	1
 M:13:lock_necklace:suotouxianglian	锁头项链	1
-M:13:long_earlobes:zhangerchui	长耳垂	1
+M:13:long_earlobes:changerchui	长耳垂	1
 M:13:long_exposure:zhangbaoguang	长曝光	1
 M:13:long_eyebrows:zhangmei	长眉	1
 M:13:long_foreskin:zhangbaopi	长包皮	1
@@ -155812,7 +155860,7 @@ M:13:lotion_bottle:ruyeping	乳液瓶	1
 M:13:lotus_lantern:baoliandeng	宝莲灯	1
 M:13:love_sickubus:lianaimeimo	恋爱魅魔	1
 M:13:love_triangle:sanjiaolian	三角恋	1
-M:13:low_twintails:dishuangmayi	低双马尾	1
+M:13:low_twintails:dishuangmawei	低双马尾	1
 M:13:lowleg_bikini:dichabijini	低叉比基尼	1
 M:13:lowleg_buruma:diyaodenglongku	低腰灯笼裤	1
 M:13:lowleg_shorts:diyaoduanku	低腰短裤	1
@@ -158267,7 +158315,7 @@ M:13:sicklizardman:bingtaixiyiren	病态蜥蜴人	1
 M:13:sickly_prince:bingruowangzi	病弱王子	1
 M:13:side-tie_peek:cejidaiwailu	侧系带外露	1
 M:13:side-tie_vest:cejidaibeixin	侧系带背心	1
-M:13:side_ponytail:cemayi	侧马尾	1
+M:13:side_ponytail:cemawei	侧马尾	1
 M:13:sidechest_atm:cexiongzidongqukuanji	侧胸自动取款机	1
 M:13:sideways_face:cexianglian	侧向脸	1
 M:13:sign_language:shouyu	手语	1
@@ -159466,7 +159514,7 @@ M:13:vow_of_heroes:zhongyanshiyue	终焉誓约	1
 M:13:voyager_probe:lvxingzhehaotanceqi	旅行者号探测器	1
 M:13:vulcan_salute:wakenjushouli	瓦肯举手礼	1
 M:13:vulture_crown:tujiuguan	秃鹫冠	1
-M:13:w_tail_fluffy:pengsongshuangmayi	蓬松双马尾	1
+M:13:w_tail_fluffy:pengsongshuangmawei	蓬松双马尾	1
 M:13:wabisaki_roku:chaxiaoliu	侘咲六	1
 M:13:wagiri_pencil:lunqieqianbi	轮切铅笔	1
 M:13:wakaba_subaru:ruoyemao	若叶昴	1
@@ -159576,7 +159624,7 @@ M:13:white_uniform:baisezhifu	白色制服	1
 M:13:white_unitard:baiseliantijinshenyi	白色连体紧身衣	1
 M:13:white_wetsuit:baiseqianshuifu	白色潜水服	1
 M:13:wicker_basket:liutiaokuang	柳条筐	1
-M:13:wide_ponytail:kuanmayi	宽马尾	1
+M:13:wide_ponytail:kuanmawei	宽马尾	1
 M:13:wife_and_wife:qiqi	妻妻	1
 M:13:wiggling_toes:niudongjiaozhi	扭动脚趾	1
 M:13:wilted_flower:kuweidehua	枯萎的花	1
@@ -162150,7 +162198,7 @@ M:14:drawstring_bag:choushengbao	抽绳包	1
 M:14:dreamfulinmine:mengzhongkuang	梦中矿	1
 M:14:dress_in_mouth:kouhanlianyiqun	口含连衣裙	1
 M:14:dress_swimsuit:qunzhuangyongyi	裙装泳衣	1
-M:14:drill_ponytail:luoxuanmayi	螺旋马尾	1
+M:14:drill_ponytail:luoxuanmawei	螺旋马尾	1
 M:14:drill_sgt_grey:geleixunlianshiguan	格雷训练士官	1
 M:14:drinking_blood:yinxue	饮血	1
 M:14:drinking_glass:bolibei	玻璃杯	1
@@ -162470,7 +162518,7 @@ M:14:front-hook_bra:qiankoushixiongzhao	前扣式胸罩	1
 M:14:front_and_back:zhengbeimianzhanshi	正背面展示	1
 M:14:front_backpack:qianbeishibeibao	前背式背包	1
 M:14:front_innocent:qianxianwugu	前线无辜	1
-M:14:front_ponytail:qianmayi	前马尾	1
+M:14:front_ponytail:qianmawei	前马尾	1
 M:14:frontal_wedgie:zhengmianleidang	正面勒裆	1
 M:14:frosted_border:moshabiankuang	磨砂边框	1
 M:14:frosted_flakes:dongnihumaipian	东尼虎麦片	1
@@ -164367,7 +164415,7 @@ M:14:long_cigarette:zhangzhixiangyan	长支香烟	1
 M:14:long_eyelashes:zhangjiemao	长睫毛	1
 M:14:long_sideburns:zhangbinjiao	长鬓角	1
 M:14:long_sidelocks:zhangbinfa	长鬓发	1
-M:14:longhorn_lance:zhangjiaochangqiang	长角长枪	1
+M:14:longhorn_lance:changjiaochangqiang	长角长枪	1
 M:14:looking_around:huangusizhou	环顾四周	1
 M:14:looking_at_arm:zhushishoubi	注视手臂	1
 M:14:looking_at_ass:dingzhepigukan	盯着屁股看	1
@@ -164394,7 +164442,7 @@ M:14:love-bride_eve:aizhixinniangxiawa	爱之新娘夏娃	1
 M:14:love_evolution:lianaijinhualun	恋爱进化论	1
 M:14:lovely_complex:lianaiqingjie	恋爱情结	1
 M:14:low_frame_rate:dizhenlv	低帧率	1
-M:14:low_quad_tails:dishuangmayi	低双马尾	1
+M:14:low_quad_tails:dishuangmawei	低双马尾	1
 M:14:lowboy_trailer:dipingbanbanguache	低平板半挂车	1
 M:14:lower_lip_only:jinxiachun	仅下唇	1
 M:14:lowlandgorilla:dididaxingxing	低地大猩猩	1
@@ -166433,7 +166481,7 @@ M:14:shooting_range:shejichang	射击场	1
 M:14:short_eyebrows:duanmei	短眉	1
 M:14:short_jumpsuit:duankuanliantiku	短款连体裤	1
 M:14:short_leggings:duandadiku	短打底裤	1
-M:14:short_ponytail:duanmayi	短马尾	1
+M:14:short_ponytail:duanmawei	短马尾	1
 M:14:shorts_on_head:toudingduanku	头顶短裤	1
 M:14:shota_onepiece:zhengtaihaizeiwang	正太海贼王	1
 M:14:shotaxmonsters:zhengtaiyuguaishou	正太与怪兽	1
@@ -166656,7 +166704,7 @@ M:14:spinning_drill:xuanzhuanzuantou	旋转钻头	1
 M:14:spinning_wheel:fangche	纺车	1
 M:14:spitting_blood:tuxie	吐血	1
 M:14:splatter_print:pomoyinhua	泼墨印花	1
-M:14:split_ponytail:fenchamayi	分叉马尾	1
+M:14:split_ponytail:fenchamawei	分叉马尾	1
 M:14:spoken_battery:youshengdianchi	有声电池	1
 M:14:spoken_clothes:huishuohuadeyifu	会说话的衣服	1
 M:14:spoken_kaomoji:kouyuhuayanwenzi	口语化颜文字	1
@@ -168082,6 +168130,8 @@ M:14:zombie_breaker:jiangshipohuaizhe	僵尸破坏者	1
 M:14:zombie_costume:jiangshizhuang	僵尸装	1
 M:14:zukafu_shimoto:xiayuantougai	下元头盖	1
 M:14:zundacroquette:maodoukelebing	毛豆可乐饼	1
+M:153:__prompt__:bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet:fumian	身体结构负面〔常用组合〕	1
+M:153:__prompt__:bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet:shentijiegoufumian	身体结构负面〔常用组合〕	1
 M:15:1nd_protagonist:diyizhujue	第一主角	1
 M:15:3_small_spiders:sanzhixiaozhizhu	三只小蜘蛛	1
 M:15:7-string_guitar:qixianjita	七弦吉他	1
@@ -169301,6 +169351,7 @@ M:15:__prompt__:leak:loushui	漏水〔e621〕	0
 M:15:__prompt__:leak:louye	漏液〔e621〕	0
 M:15:__prompt__:leak:shenlou	渗漏〔e621〕	0
 M:15:__prompt__:leak:xielou	泄漏〔e621〕	0
+M:15:__prompt__:lean:jingshou	精瘦〔常用词〕	1
 M:15:__prompt__:leek:dacong	大葱〔e621〕	0
 M:15:__prompt__:leek:jiucong	韭葱〔e621〕	0
 M:15:__prompt__:leek:qingcong	青葱〔e621〕	0
@@ -169686,6 +169737,7 @@ M:15:__prompt__:noir:heisemeixue	黑色美学〔e621〕	0
 M:15:__prompt__:nomu:jiroutubianti	肌肉突变体〔e621〕	0
 M:15:__prompt__:nomu:naowu	脑无〔e621〕	0
 M:15:__prompt__:nomu:sibingmunaowu	死柄木脑无〔e621〕	0
+M:15:__prompt__:nose:bitou	鼻头〔常用词〕	1
 M:15:__prompt__:nose:lianbu	脸部〔合并词库〕	0
 M:15:__prompt__:nose:wuguan	五官〔合并词库〕	0
 M:15:__prompt__:note:biji	笔记〔e621〕	0
@@ -171635,7 +171687,7 @@ M:15:cure_dream_pose:mengtianshizishi	梦天使姿势	1
 M:15:cure_happy_pose:kuailetianshizishi	快乐天使姿势	1
 M:15:cure_peace_pose:hepingtianshibianshenzishi	和平天使变身姿势	1
 M:15:curly_sidelocks:juanqucefa	卷曲侧发	1
-M:15:curly_twintails:juanfashuangmayi	卷发双马尾	1
+M:15:curly_twintails:juanfashuangmawei	卷发双马尾	1
 M:15:cutting_another:qiegetaren	切割他人	1
 M:15:cutting_clothes:jiankaiyifu	剪开衣服	1
 M:15:cycling_uniform:qixingfu	骑行服	1
@@ -171969,7 +172021,7 @@ M:15:foam_puzzle_mat:paomopintudidian	泡沫拼图地垫	1
 M:15:fold-over_boots:fanbianxue	翻边靴	1
 M:15:fold-over_skirt:fanzhequn	翻折裙	1
 M:15:fold-over_socks:fanbianwa	翻边袜	1
-M:15:folded_ponytail:zhediemayi	折叠马尾	1
+M:15:folded_ponytail:zhediemawei	折叠马尾	1
 M:15:folded_umbrella:zhediesan	折叠伞	1
 M:15:folding_bicycle:zhediezixingche	折叠自行车	1
 M:15:folding_clothes:zheyifu	折衣服	1
@@ -175416,7 +175468,6 @@ M:15:shooting_gloves:shejishoutao	射击手套	1
 M:15:shopping_basket:gouwulan	购物篮	1
 M:15:short_sideburns:duanbinjiao	短鬓角	1
 M:15:short_twintails:duanshuangmawei	短双马尾	1
-M:15:short_twintails:duanshuangmayi	短双马尾	1
 M:15:shoshinsha_mark:xinshoubiaozhi	新手标志	1
 M:15:shoujo_material:shaonvsucai	少女素材	1
 M:15:shoukichi_usagi:xiaojitu	小吉兔	1
@@ -175600,7 +175651,7 @@ M:15:spinning_weapon:xuanzhuanwuqi	旋转武器	1
 M:15:spiral_notebook:luoxuanbijiben	螺旋笔记本	1
 M:15:splash_mountain:feijianshan	飞溅山	1
 M:15:split-color_fur:yisemaofa	异色毛发	1
-M:15:split_twintails:duogushuangmayi	多股双马尾	1
+M:15:split_twintails:duogushuangmawei	多股双马尾	1
 M:15:spoiled_kandume:bianzhiguantou	变质罐头	1
 M:15:spoken_ellipsis:shenglvehaotaici	省略号台词	1
 M:15:spoken_location:koushudidian	口述地点	1
@@ -176920,10 +176971,10 @@ M:16:__prompt__:ahoge:niutianfa	牛舔发〔e621〕	0
 M:16:__prompt__:ahoge:qiaomao	翘毛〔e621〕	0
 M:16:__prompt__:ahoge:shamao	傻毛〔提示词库〕	0
 M:16:__prompt__:aimyu:weizhizuopin	未知作品〔合并词库〕	0
+M:16:__prompt__:aipom:changweiguaishou	长尾怪手〔e621〕	0
+M:16:__prompt__:aipom:changweihou	长尾猴〔e621〕	0
 M:16:__prompt__:aipom:tujurenshi	土居忍士〔e621〕	0
 M:16:__prompt__:aipom:yibanxi	一般系〔e621〕	0
-M:16:__prompt__:aipom:zhangweiguaishou	长尾怪手〔e621〕	0
-M:16:__prompt__:aipom:zhangweihou	长尾猴〔e621〕	0
 M:16:__prompt__:ak-15:buqiang	步枪〔合并词库〕	0
 M:16:__prompt__:ak-15:zhanshurenxing	战术人形〔合并词库〕	0
 M:16:__prompt__:ak-47:kalashennikefubuqiang	卡拉什尼科夫步枪〔e621〕	0
@@ -178175,6 +178226,7 @@ M:16:__prompt__:furby:feibi	菲比〔e621〕	0
 M:16:__prompt__:furby:fubi	富比〔e621〕	0
 M:16:__prompt__:furby:maorongjinglingwanju	毛绒精灵玩具〔e621〕	0
 M:16:__prompt__:furry:furui	福瑞〔兽人词〕	1
+M:16:__prompt__:furry:furuifengge	福瑞风格〔常用词〕	1
 M:16:__prompt__:furry:maorongrongde	毛茸茸的〔提示词库〕	0
 M:16:__prompt__:furry:shouren	兽人〔提示词库〕	0
 M:16:__prompt__:furry:shourenfengge	兽人风格〔合并词库〕	0
@@ -179037,6 +179089,7 @@ M:16:__prompt__:lying:cewo	侧卧〔e621〕	0
 M:16:__prompt__:lying:hengxiang	横向〔e621〕	0
 M:16:__prompt__:lying:pazhe	趴着〔e621〕	0
 M:16:__prompt__:lying:pingtang	平躺〔e621〕	0
+M:16:__prompt__:lying:tangxia	躺下〔常用词〕	1
 M:16:__prompt__:lying:tangzhede	躺着的〔提示词库〕	0
 M:16:__prompt__:lying:wozi	卧姿〔e621〕	0
 M:16:__prompt__:lykoi:langmao	狼猫〔e621〕	0
@@ -180475,9 +180528,9 @@ M:16:__prompt__:store:dianpu	店铺〔e621〕	0
 M:16:__prompt__:store:lingshoudian	零售店〔e621〕	0
 M:16:__prompt__:store:shangdian	商店〔e621〕	0
 M:16:__prompt__:store:zahuopu	杂货铺〔e621〕	0
+M:16:__prompt__:stork:changzuisheqin	长嘴涉禽〔e621〕	0
 M:16:__prompt__:stork:guankeniaolei	鹳科鸟类〔e621〕	0
 M:16:__prompt__:stork:guanniao	鹳鸟〔e621〕	0
-M:16:__prompt__:stork:zhangzuisheqin	长嘴涉禽〔e621〕	0
 M:16:__prompt__:storm:baofengxue	暴风雪〔e621〕	0
 M:16:__prompt__:storm:baofengyu	暴风雨〔e621〕	0
 M:16:__prompt__:storm:leibao	雷暴〔e621〕	0
@@ -181488,7 +181541,7 @@ M:16:bound_puppy_pose:shufuxiaogoushi	束缚小狗式	1
 M:16:boyshort_panties:pingjiaoneiku	平角内裤	1
 M:16:bra_over_clothes:waichuanxiongzhao	外穿胸罩	1
 M:16:braided_mustache:bianzihu	辫子胡	1
-M:16:braided_ponytail:mahuabianmayi	麻花辫马尾	1
+M:16:braided_ponytail:mahuabianmawei	麻花辫马尾	1
 M:16:braided_sidelock:bianfabinjiao	编发鬓角	1
 M:16:brandenburg_gate:bolandengbaomen	勃兰登堡门	1
 M:16:bravest_warriors:yongshidamaoxian	勇士大冒险	1
@@ -182052,7 +182105,7 @@ M:16:flying_teardrops:feijianleidi	飞溅泪滴	1
 M:16:focus_viewfinder:duijiaoqujingqi	对焦取景器	1
 M:16:fold-over_collar:fanzheling	翻折领	1
 M:16:fold-over_gloves:fanzheshoutao	翻褶手套	1
-M:16:folded_twintails:zhedieshuangmayi	折叠双马尾	1
+M:16:folded_twintails:zhedieshuangmawei	折叠双马尾	1
 M:16:folding_umbrella:zhediesan	折叠伞	1
 M:16:food-themed_hair:shiwuzhutifaxing	食物主题发型	1
 M:16:food_malfunction:shiwuguzhang	食物故障	1
@@ -185149,7 +185202,7 @@ M:16:underwear_cutout:neiyiloukong	内衣镂空	1
 M:16:underwear_locked:neikusuo	内裤锁	1
 M:16:undone_chinstrap:weijihaodexiabadai	未系好的下巴带	1
 M:16:undone_cross_tie:jiekaideshizilingdai	解开的十字领带	1
-M:16:uneven_twintails:buduichengshuangmayi	不对称双马尾	1
+M:16:uneven_twintails:buduichengshuangmawei	不对称双马尾	1
 M:16:unicorn_overlord:shengshouzhiwang	圣兽之王	1
 M:16:unintended_humor:wuyijiandeyoumo	无意间的幽默	1
 M:16:union_jack_print:miziqiyinhua	米字旗印花	1
@@ -187950,9 +188003,9 @@ M:17:__prompt__:jayjay:xiongxingshanyang	雄性山羊〔e621〕	0
 M:17:__prompt__:jehuty:annubisi	安努比斯〔合并词库〕	0
 M:17:__prompt__:jehuty:jiefudi	杰夫蒂〔合并词库〕	0
 M:17:__prompt__:jenery:jienalishuziyishujia	杰纳里数字艺术家〔e621〕	0
+M:17:__prompt__:jerboa:changertiaoshu	长耳跳鼠〔e621〕	0
 M:17:__prompt__:jerboa:daishushu	袋鼠鼠〔e621〕	0
 M:17:__prompt__:jerboa:shamotiaoshu	沙漠跳鼠〔e621〕	0
-M:17:__prompt__:jerboa:zhangertiaoshu	长耳跳鼠〔e621〕	0
 M:17:__prompt__:jersey:duifu	队服〔e621〕	0
 M:17:__prompt__:jersey:yundongshan	运动衫〔e621〕	0
 M:17:__prompt__:jester:lingdangxiaochou	铃铛小丑〔e621〕	0
@@ -188749,7 +188802,10 @@ M:17:__prompt__:muumuu:kuansongcaiqun	宽松彩裙〔e621〕	0
 M:17:__prompt__:muumuu:mujinhuaqun	木槿花裙〔e621〕	0
 M:17:__prompt__:muumuu:mumuqun	穆穆裙〔e621〕	0
 M:17:__prompt__:muumuu:xiaweiyizhangqun	夏威夷长裙〔e621〕	0
+M:17:__prompt__:muzzle:koubibu	口鼻部〔常用词〕	1
+M:17:__prompt__:muzzle:shouleikoubi	兽类口鼻〔常用词〕	1
 M:17:__prompt__:muzzle:wenbu	吻部〔兽人词〕	1
+M:17:__prompt__:muzzle:wenbukoubi	吻部口鼻〔常用词〕	1
 M:17:__prompt__:myumon:moumeng	缪梦〔e621〕	0
 M:17:__prompt__:n'doul:disanbu	第三部〔合并词库〕	0
 M:17:__prompt__:n'doul:enduoer	恩多尔〔合并词库〕	0
@@ -188770,7 +188826,7 @@ M:17:__prompt__:nakhta:nahetahuanghou	纳赫塔皇后〔e621〕	0
 M:17:__prompt__:namine:namini	娜米妮〔合并词库〕	0
 M:17:__prompt__:namine:nuobadi	诺巴迪〔合并词库〕	0
 M:17:__prompt__:namine:wangguozhixin	王国之心〔合并词库〕	0
-M:17:__prompt__:nanger:zhangjingling	长颈羚〔e621〕	0
+M:17:__prompt__:nanger:changjingling	长颈羚〔e621〕	0
 M:17:__prompt__:nanoff:agentingchahuashi	阿根廷插画师〔e621〕	0
 M:17:__prompt__:napkin:canjinzhi	餐巾纸〔e621〕	0
 M:17:__prompt__:napkin:canju	餐具〔e621〕	0
@@ -191370,7 +191426,7 @@ M:17:arm_out_of_sleeve:danbituoxiu	单臂脱袖	1
 M:17:arm_over_shoulder:goujiandabei	勾肩搭背	1
 M:17:arm_under_breasts:danbizhiyuruxia	单臂置于乳下	1
 M:17:armored_core_grip:zhuangjiahexinwofa	装甲核心握法	1
-M:17:armored_twintails:zhuangjiashuangmayi	装甲双马尾	1
+M:17:armored_twintails:zhuangjiashuangmawei	装甲双马尾	1
 M:17:arms_around_waist:shuangbilouyao	双臂搂腰	1
 M:17:arms_between_legs:shuangbizhiyutuijian	双臂置于腿间	1
 M:17:aroused_nosebleed:seqingbixue	色情鼻血	1
@@ -191532,7 +191588,7 @@ M:17:box_hair_ornament:hezizhuangfashi	盒子状发饰	1
 M:17:box_of_chocolates:qiaokelihe	巧克力盒	1
 M:17:boyfriend's_shirt:nanyouchenshan	男友衬衫	1
 M:17:braided_sidelocks:bianzhicebin	编织侧鬓	1
-M:17:braided_twintails:bianfashuangmayi	编发双马尾	1
+M:17:braided_twintails:bianfashuangmawei	编发双马尾	1
 M:17:braiding_own_hair:zijigeizijibianfa	自己给自己编发	1
 M:17:brave_girl_ravens:yongqishaonvduya	勇气少女渡鸦	1
 M:17:bread_eating_race:diaomianbaojingzou	叼面包竞走	1
@@ -192320,7 +192376,7 @@ M:17:hinamizawa_kurumi:chujianzehutao	雏见泽胡桃	1
 M:17:hinatsuki_mashiro:chuyuezhenbai	雏月真白	1
 M:17:hippopotamus_ears:hemaer	河马耳	1
 M:17:hippopotamus_girl:hemaniang	河马娘	1
-M:17:hippopotamus_tail:hemayi	河马尾	1
+M:17:hippopotamus_tail:hemawei	河马尾	1
 M:17:hirakata_masahiro:pingfangchanghong	平方昌宏	1
 M:17:hirako_daishougun:pingzidajiangjun	平子大将军	1
 M:17:hiramatsu_tadashi:pingsongzhenshi	平松祯史	1
@@ -192817,7 +192873,7 @@ M:17:loch_ness_monster:nisihushuiguai	尼斯湖水怪	1
 M:17:loli_bitch_island:luolibichidao	萝莉碧池岛	1
 M:17:lollipop_chainsaw:dianjutianxin	电锯甜心	1
 M:17:lollipop_in_mouth:kouhanbangbangtang	口含棒棒糖	1
-M:17:long_spout_teapot:zhangzuichahu	长嘴茶壶	1
+M:17:long_spout_teapot:changzuichahu	长嘴茶壶	1
 M:17:looking_at_animal:zhushidongwu	注视动物	1
 M:17:looking_at_crotch:dingzhekuabu	盯着胯部	1
 M:17:looking_at_mirror:zhaojingzi	照镜子	1
@@ -192833,8 +192889,8 @@ M:17:lord_storm_coffin:lanzhijiuqing	岚之柩卿	1
 M:17:love_and_producer:lianyuzhizuoren	恋与制作人	1
 M:17:love_spiral_tower:lianailuoxuanta	恋爱螺旋塔	1
 M:17:lovedori_halation:aizhiouxiangguangyun	爱之偶像光晕	1
-M:17:low-tied_sidelock:diweicemayi	低位侧马尾	1
-M:17:low_side_ponytail:dicemayi	低侧马尾	1
+M:17:low-tied_sidelock:diweicemawei	低位侧马尾	1
+M:17:low_side_ponytail:dicemawei	低侧马尾	1
 M:17:lucky_small_pride:xingyunxiaojiaoao	幸运小骄傲	1
 M:17:lunch_box_(manga):biandanghe	便当盒	1
 M:17:lute_(instrument):luteqin	鲁特琴	1
@@ -194431,7 +194487,6 @@ M:18:__prompt__:2_horns:shuangjiao	双角〔e621〕	0
 M:18:__prompt__:2_horns:shuangjiaoshou	双角兽〔e621〕	0
 M:18:__prompt__:2_horns:shuangjijiao	双犄角〔e621〕	0
 M:18:__prompt__:2_tails:liangtiaoweiba	两条尾巴〔e621〕	0
-M:18:__prompt__:2_tails:shuangmayi	双马尾〔e621〕	0
 M:18:__prompt__:2_tails:shuangwei	双尾〔e621〕	0
 M:18:__prompt__:2_tails:shuangweijuese	双尾角色〔e621〕	0
 M:18:__prompt__:2others:beijingrenwu	背景人物〔合并词库〕	0
@@ -194450,6 +194505,7 @@ M:18:__prompt__:3_horns:sangejiao	三个角〔e621〕	0
 M:18:__prompt__:3_horns:sangenjijiao	三根犄角〔e621〕	0
 M:18:__prompt__:3_horns:sanjiao	三角〔e621〕	0
 M:18:__prompt__:3_horns:sanzhijiao	三只角〔e621〕	0
+M:18:__prompt__:3_tails:sangenweiba	三根尾巴〔常用词〕	1
 M:18:__prompt__:3_tails:santiaoweiba	三条尾巴〔e621〕	0
 M:18:__prompt__:3_tails:sanwei	三尾〔e621〕	0
 M:18:__prompt__:3others:duoren	多人〔合并词库〕	0
@@ -194519,6 +194575,7 @@ M:18:__prompt__:8_tails:batiaoweiba	八条尾巴〔e621〕	0
 M:18:__prompt__:8_tails:bawei	八尾〔e621〕	0
 M:18:__prompt__:8_tails:baweijuese	八尾角色〔e621〕	0
 M:18:__prompt__:8_tails:baweishou	八尾兽〔e621〕	0
+M:18:__prompt__:9_tails:jiugenweiba	九根尾巴〔常用词〕	1
 M:18:__prompt__:9_tails:jiutiaoweiba	九条尾巴〔e621〕	0
 M:18:__prompt__:9_tails:jiuwei	九尾〔e621〕	0
 M:18:__prompt__:9_tails:jiuweihu	九尾狐〔e621〕	0
@@ -194898,6 +194955,11 @@ M:18:__prompt__:azurill:yuanqiuweixiaoshu	圆球尾小鼠〔e621〕	0
 M:18:__prompt__:b&t_mp9:chongfengqiang	冲锋枪〔合并词库〕	0
 M:18:__prompt__:backrub:beibuanmo	背部按摩〔e621〕	0
 M:18:__prompt__:backrub:beiburoucuo	背部揉搓〔e621〕	0
+M:18:__prompt__:bad abs:cuowudefuji	错误的腹肌〔负面词〕	1
+M:18:__prompt__:bad abs:cuowufuji	错误腹肌〔常用词〕	1
+M:18:__prompt__:bad abs:fujibenghuai	腹肌崩坏〔负面词〕	1
+M:18:__prompt__:bad abs:fujicuowu	腹肌错误〔负面词〕	1
+M:18:__prompt__:bad abs:fujihuacuo	腹肌画错〔负面词〕	1
 M:18:__prompt__:bad_arm:shangbi	伤臂〔合并词库〕	0
 M:18:__prompt__:bad_arm:shangkou	伤口〔合并词库〕	0
 M:18:__prompt__:bad_arm:shoushangdeshoubi	受伤的手臂〔合并词库〕	0
@@ -195328,12 +195390,12 @@ M:18:__prompt__:bracers:hubi	护臂〔e621〕	0
 M:18:__prompt__:bracers:huju	护具〔e621〕	0
 M:18:__prompt__:bracers:huwan	护腕〔e621〕	0
 M:18:__prompt__:braford:agentingshouyishujia	阿根廷兽艺术家〔e621〕	0
+M:18:__prompt__:braixen:changweihuohu	长尾火狐〔e621〕	0
 M:18:__prompt__:braixen:hulijingjinhua	狐狸精进化〔e621〕	0
 M:18:__prompt__:braixen:huohulibaokemeng	火狐狸宝可梦〔e621〕	0
 M:18:__prompt__:braixen:huoxichushi	火系初始〔e621〕	0
 M:18:__prompt__:braixen:yanweihuli	焰尾狐狸〔e621〕	0
 M:18:__prompt__:braixen:yaohuohonghu	妖火红狐〔e621〕	0
-M:18:__prompt__:braixen:zhangweihuohu	长尾火狐〔e621〕	0
 M:18:__prompt__:branded:beilaoyinde	被烙印的〔e621〕	0
 M:18:__prompt__:branded:biaoji	标记〔e621〕	0
 M:18:__prompt__:branded:pinpaiyinji	品牌印记〔e621〕	0
@@ -195437,7 +195499,7 @@ M:18:__prompt__:bullpup:wutuobuqiang	无托步枪〔e621〕	0
 M:18:__prompt__:bumping:chongzhuang	冲撞〔e621〕	0
 M:18:__prompt__:bumping:xiangzhuang	相撞〔e621〕	0
 M:18:__prompt__:bumping:zhuangji	撞击〔e621〕	0
-M:18:__prompt__:bunches:shuangmayi	双马尾〔提示词库〕	0
+M:18:__prompt__:bunches:shuangmawei	双马尾〔提示词库〕	0
 M:18:__prompt__:buneary:bilvmao	比律貓〔e621〕	0
 M:18:__prompt__:buneary:juanjuaner	卷卷耳〔e621〕	0
 M:18:__prompt__:buneary:minitu	迷你兔〔e621〕	0
@@ -195458,8 +195520,8 @@ M:18:__prompt__:burping:dage	打嗝〔e621〕	0
 M:18:__prompt__:burrito:juanbing	卷饼〔e621〕	0
 M:18:__prompt__:burrito:moxigejianbing	墨西哥煎饼〔e621〕	0
 M:18:__prompt__:burrito:xianbingjuan	馅饼卷〔e621〕	0
+M:18:__prompt__:bushtit:changweishanque	长尾山雀〔e621〕	0
 M:18:__prompt__:bushtit:yinhouzhangweishanque	银喉长尾山雀〔e621〕	0
-M:18:__prompt__:bushtit:zhangweishanque	长尾山雀〔e621〕	0
 M:18:__prompt__:bustier:jinshenxiongyi	紧身胸衣〔e621〕	0
 M:18:__prompt__:bustier:nvshijinshenyi	女士紧身衣〔e621〕	0
 M:18:__prompt__:bustier:suxingneiyi	塑形内衣〔e621〕	0
@@ -197015,8 +197077,8 @@ M:18:__prompt__:geodude:longlongshi	隆隆石〔e621〕	0
 M:18:__prompt__:geodude:xiaoquanshi	小拳石〔e621〕	0
 M:18:__prompt__:geodude:yanshidimianxi	岩石地面系〔e621〕	0
 M:18:__prompt__:geodude:yanwan	岩丸〔e621〕	0
-M:18:__prompt__:gerenuk:zhangjingling	长颈羚〔e621〕	0
-M:18:__prompt__:gerenuk:zhangjinglingyang	长颈羚羊〔e621〕	0
+M:18:__prompt__:gerenuk:changjingling	长颈羚〔e621〕	0
+M:18:__prompt__:gerenuk:changjinglingyang	长颈羚羊〔e621〕	0
 M:18:__prompt__:germany:deguowenhua	德国文化〔e621〕	0
 M:18:__prompt__:germany:deyizhi	德意志〔e621〕	0
 M:18:__prompt__:germany:guojia	国家〔e621〕	0
@@ -198195,12 +198257,12 @@ M:18:__prompt__:looming:dishijiao	低视角〔e621〕	0
 M:18:__prompt__:looming:fushi	俯视〔e621〕	0
 M:18:__prompt__:looming:jugaolinxia	居高临下〔e621〕	0
 M:18:__prompt__:lopunny:baokemengxilie	宝可梦系列〔e621〕	0
+M:18:__prompt__:lopunny:changertu	长耳兔〔e621〕	0
+M:18:__prompt__:lopunny:changertubaokemeng	长耳兔宝可梦〔e621〕	0
 M:18:__prompt__:lopunny:disishidai	第四世代〔e621〕	0
 M:18:__prompt__:lopunny:disishidaibaokemeng	第四世代宝可梦〔e621〕	0
 M:18:__prompt__:lopunny:shuangzutubaokemeng	双足兔宝可梦〔e621〕	0
 M:18:__prompt__:lopunny:tuerchuibaokemeng	兔耳垂宝可梦〔e621〕	0
-M:18:__prompt__:lopunny:zhangertu	长耳兔〔e621〕	0
-M:18:__prompt__:lopunny:zhangertubaokemeng	长耳兔宝可梦〔e621〕	0
 M:18:__prompt__:loriine:meiguanyingwu	美冠鹦鹉〔e621〕	0
 M:18:__prompt__:loriine:ximiyingwu	吸蜜鹦鹉〔e621〕	0
 M:18:__prompt__:loriine:yingxingmumeiguanyingwuke	鹦形目美冠鹦鹉科〔e621〕	0
@@ -200337,6 +200399,7 @@ M:18:__prompt__:sisters:qinshu	亲属〔合并词库〕	0
 M:18:__prompt__:sisters:shuangren	双人〔合并词库〕	0
 M:18:__prompt__:sitting:xidierzuo	席地而坐〔e621〕	0
 M:18:__prompt__:sitting:zuo	坐〔提示词库〕	0
+M:18:__prompt__:sitting:zuoxia	坐下〔常用词〕	1
 M:18:__prompt__:sitting:zuozhedejuese	坐着的角色〔e621〕	0
 M:18:__prompt__:skating:bingshangyundong	冰上运动〔e621〕	0
 M:18:__prompt__:skating:hanbing	旱冰〔e621〕	0
@@ -200740,7 +200803,7 @@ M:18:__prompt__:tailmon:bashenguanghuoban	八神光伙伴〔合并词库〕	0
 M:18:__prompt__:tailmon:dilushou	迪路兽〔合并词库〕	0
 M:18:__prompt__:tailmon:shumabaobei	数码宝贝〔合并词库〕	0
 M:18:__prompt__:tailmon:weihuanmao	尾环猫〔合并词库〕	0
-M:18:__prompt__:tailred:hongmayi	红马尾〔合并词库〕	0
+M:18:__prompt__:tailred:hongmawei	红马尾〔合并词库〕	0
 M:18:__prompt__:tailred:yushouxichuan	御手洗川〔合并词库〕	0
 M:18:__prompt__:tailwag:weibabaidong	尾巴摆动〔e621〕	0
 M:18:__prompt__:tailwag:weibadongzuo	尾巴动作〔e621〕	0
@@ -202541,7 +202604,7 @@ M:18:high-waist_panties:gaoyaoneiku	高腰内裤	1
 M:18:high_energy_heroes:gaonengyingxiong	高能英雄	1
 M:18:high_heel_bodysuit:gaogenjinshenyi	高跟紧身衣	1
 M:18:high_heel_sneakers:gaogenyundongxie	高跟运动鞋	1
-M:18:high_side_ponytail:gaocemayi	高侧马尾	1
+M:18:high_side_ponytail:gaocemawei	高侧马尾	1
 M:18:highleg_springsuit:gaochaqianshuifu	高衩潜水服	1
 M:18:himekishi_angelica:jiqishianjielika	姬骑士安洁莉卡	1
 M:18:himenohara_suzuran:jiyeyuanlinglan	姬野原铃兰	1
@@ -204571,7 +204634,12 @@ M:19:__prompt__:backseat:houzuo	后座〔e621〕	0
 M:19:__prompt__:backyard:houhuayuan	后花园〔e621〕	0
 M:19:__prompt__:backyard:tingyuan	庭院〔e621〕	0
 M:19:__prompt__:bad body:huaishenti	坏身体〔负面词〕	0
+M:19:__prompt__:bad feet:cuowujiaobu	错误脚部〔负面词〕	1
 M:19:__prompt__:bad feet:huaijiao	坏脚〔负面词〕	0
+M:19:__prompt__:bad pecs:cuowudexiongji	错误的胸肌〔负面词〕	1
+M:19:__prompt__:bad pecs:cuowuxiongji	错误胸肌〔常用词〕	1
+M:19:__prompt__:bad pecs:xiongjicuowu	胸肌错误〔负面词〕	1
+M:19:__prompt__:bad pecs:xiongjihuacuo	胸肌画错〔负面词〕	1
 M:19:__prompt__:bad_face:dizhilian	低质脸〔合并词库〕	0
 M:19:__prompt__:bad_face:huailian	坏脸〔合并词库〕	0
 M:19:__prompt__:bad_feet:dizhiliang	低质量〔合并词库〕	0
@@ -209479,6 +209547,7 @@ M:19:__prompt__:obedient:shuncong	顺从〔e621〕	0
 M:19:__prompt__:obedient:tinghua	听话〔e621〕	0
 M:19:__prompt__:obedient:zuncong	遵从〔e621〕	0
 M:19:__prompt__:obliques:cefuji	侧腹肌〔e621〕	0
+M:19:__prompt__:obliques:fubuliangcejirou	腹部两侧肌肉〔常用词〕	1
 M:19:__prompt__:obliques:fuji	腹肌〔e621〕	0
 M:19:__prompt__:obliques:funeixieji	腹内斜肌〔e621〕	0
 M:19:__prompt__:obliques:fuxieji	腹斜肌〔e621〕	0
@@ -209807,10 +209876,10 @@ M:19:__prompt__:papillon:babiquan	巴比犬〔e621〕	0
 M:19:__prompt__:papillon:papilongquan	帕皮隆犬〔e621〕	0
 M:19:__prompt__:paradeus:youxipaixi	游戏派系〔合并词库〕	0
 M:19:__prompt__:paradeus:zuzhi	组织〔合并词库〕	0
+M:19:__prompt__:parakeet:changweiyingwu	长尾鹦鹉〔e621〕	0
 M:19:__prompt__:parakeet:hupiyingwu	虎皮鹦鹉〔e621〕	0
 M:19:__prompt__:parakeet:xiaoyingwu	小鹦鹉〔e621〕	0
 M:19:__prompt__:parakeet:yingwu	鹦鹉〔e621〕	0
-M:19:__prompt__:parakeet:zhangweiyingwu	长尾鹦鹉〔e621〕	0
 M:19:__prompt__:parasect:chongcaobaokemeng	虫草宝可梦〔e621〕	0
 M:19:__prompt__:parasect:diyishidai	第一世代〔e621〕	0
 M:19:__prompt__:parasect:jishenggu	寄生菇〔e621〕	0
@@ -209985,11 +210054,11 @@ M:19:__prompt__:pig_nose:bizi	鼻子〔e621〕	0
 M:19:__prompt__:pig_nose:zhubi	猪鼻〔e621〕	0
 M:19:__prompt__:pig_nose:zhuyangbizi	猪样鼻子〔e621〕	0
 M:19:__prompt__:pig_tail:zhuweiba	猪尾巴〔合并词库〕	0
-M:19:__prompt__:pigtails:shuangcemayi	双侧马尾〔e621〕	0
+M:19:__prompt__:pigtails:shuangcemawei	双侧马尾〔e621〕	0
+M:19:__prompt__:pigtails:shuangmawei	双马尾〔e621〕	0
 M:19:__prompt__:pigtails:shuangmaweibian	双马尾辫〔e621〕	0
-M:19:__prompt__:pigtails:shuangmayi	双马尾〔e621〕	0
 M:19:__prompt__:pigtails:shuangmayifaxing	双马尾发型〔e621〕	0
-M:19:__prompt__:pigtails:shuangzhamayi	双扎马尾〔e621〕	0
+M:19:__prompt__:pigtails:shuangzhamawei	双扎马尾〔e621〕	0
 M:19:__prompt__:pigtails:zhuweiba	猪尾巴〔e621〕	0
 M:19:__prompt__:pikmin_2:pikeminxilie	皮克敏系列〔合并词库〕	0
 M:19:__prompt__:pikmin_2:rentiantang	任天堂〔合并词库〕	0
@@ -210149,7 +210218,7 @@ M:19:__prompt__:ponyplay:xiaomabanyan	小马扮演〔e621〕	0
 M:19:__prompt__:ponyplay:xiaomawanshang	小马玩赏〔e621〕	0
 M:19:__prompt__:ponytail:maweibian	马尾辫〔提示词库〕	0
 M:19:__prompt__:ponytail:shufa	束发〔e621〕	0
-M:19:__prompt__:ponytail:zhamayi	扎马尾〔e621〕	0
+M:19:__prompt__:ponytail:zhamawei	扎马尾〔e621〕	0
 M:19:__prompt__:poofroom:pufurumu	普夫如姆〔e621〕	0
 M:19:__prompt__:pool_toy:chongqiwanju	充气玩具〔e621〕	0
 M:19:__prompt__:pool_toy:fushuiwanju	浮水玩具〔e621〕	0
@@ -210793,10 +210862,10 @@ M:19:__prompt__:satanism:sadanzhuyi	撒旦主义〔e621〕	0
 M:19:__prompt__:satsukii:saciji	萨茨基〔e621〕	0
 M:19:__prompt__:saucepan:guo	锅〔e621〕	0
 M:19:__prompt__:saucepan:zhangbingpingdiguo	长柄平底锅〔e621〕	0
+M:19:__prompt__:sauropod:changjinglong	长颈龙〔e621〕	0
 M:19:__prompt__:sauropod:daxingsizukonglong	大型四足恐龙〔e621〕	0
 M:19:__prompt__:sauropod:konglong	恐龙〔e621〕	0
 M:19:__prompt__:sauropod:xijiaolei	蜥脚类〔e621〕	0
-M:19:__prompt__:sauropod:zhangjinglong	长颈龙〔e621〕	0
 M:19:__prompt__:savannah:caoyuan	草原〔合并词库〕	0
 M:19:__prompt__:savannah:jingguan	景观〔合并词库〕	0
 M:19:__prompt__:savannah:ziranchangjing	自然场景〔合并词库〕	0
@@ -211744,6 +211813,7 @@ M:19:__prompt__:tail_sex:weibacharu	尾巴插入〔e621〕	0
 M:19:__prompt__:tail_sex:weibajiaowei	尾巴交尾〔e621〕	0
 M:19:__prompt__:tail_sex:weibaxingxingwei	尾巴性行为〔e621〕	0
 M:19:__prompt__:tail_sex:weibaziyong	尾巴自用〔e621〕	0
+M:19:__prompt__:tail_tip:weijian	尾尖〔常用词〕	1
 M:19:__prompt__:tailband:weibabangdai	尾巴绑带〔e621〕	0
 M:19:__prompt__:tailband:weidai	尾带〔e621〕	0
 M:19:__prompt__:tailband:weigu	尾箍〔e621〕	0
@@ -214193,7 +214263,7 @@ M:19:shirona_tomato_chan:baicaifanqiejiang	白菜番茄酱	1
 M:19:shirt_under_sweater:maoyineichuanchenshan	毛衣内穿衬衫	1
 M:19:shishimanako_hareko:shouyanqingzi	兽眼晴子	1
 M:19:shizuoka_prefecture:jinggangxian	静冈县	1
-M:19:short_side_ponytail:duancemayi	短侧马尾	1
+M:19:short_side_ponytail:duancemawei	短侧马尾	1
 M:19:shorts_under_shorts:duankuneichuanduanku	短裤内穿短裤	1
 M:19:shotgun_speedloader:xiandanqiangkuaisuzhuangtianqi	霰弹枪快速装填器	1
 M:19:shounen_democratica:shaonianminzhuzhuyi	少年民主主义	1
@@ -214611,10 +214681,12 @@ M:19:zetsubou_no_ouhachi:juewangdedabo	绝望的大鉢	1
 M:19:zhishi_ge_fangzhang:zhishigefangzhang	知识格方丈	1
 M:19:ziluolan_jia_de_mao:ziluolanjiademao	紫罗兰家的猫	1
 M:19:zoological_specimen:dongwubiaoben	动物标本	1
-M:19:zui_ai_shuang_mawei:zuiaishuangmayi	最爱双马尾	1
+M:19:zui_ai_shuang_mawei:zuiaishuangmawei	最爱双马尾	1
 M:1:!:gantanhao	感叹号	1
 M:1:?:wenhao	问号	1
 M:1:v:jiandaoshou	剪刀手	1
+M:202:__prompt__:worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text:fumian	基础负面〔常用组合〕	1
+M:202:__prompt__:worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text:jichufumian	基础负面〔常用组合〕	1
 M:20:20th_century_studios:ershishijiyingye	二十世纪影业	1
 M:20:5-string_bass_guitar:wuxianbeisi	五弦贝斯	1
 M:20:6-string_bass_guitar:liuxianbeisi	六弦贝斯	1
@@ -215441,10 +215513,10 @@ M:20:__prompt__:beak_lick:huitian	喙舔〔e621〕	0
 M:20:__prompt__:beak_lick:niaozuishetoutian	鸟嘴舌头舔〔e621〕	0
 M:20:__prompt__:beak_lick:niaozuitian	鸟嘴舔〔e621〕	0
 M:20:__prompt__:beak_lick:tianhui	舔喙〔e621〕	0
+M:20:__prompt__:beak_lips:changzuipeichun	长嘴配唇〔e621〕	0
 M:20:__prompt__:beak_lips:huichun	喙唇〔e621〕	0
 M:20:__prompt__:beak_lips:niaozuidaizuichun	鸟嘴带嘴唇〔e621〕	0
 M:20:__prompt__:beak_lips:youchunniaohui	有唇鸟喙〔e621〕	0
-M:20:__prompt__:beak_lips:zhangzuipeichun	长嘴配唇〔e621〕	0
 M:20:__prompt__:beak_mask:niaomianju	鸟面具〔e621〕	0
 M:20:__prompt__:beak_mask:niaozuimianzhao	鸟嘴面罩〔e621〕	0
 M:20:__prompt__:beak_mask:wenyiyishengmianju	瘟疫医生面具〔e621〕	0
@@ -217395,8 +217467,8 @@ M:20:__prompt__:ear_tails:erceduanfa	耳侧短发〔e621〕	0
 M:20:__prompt__:ear_tails:erhoushufa	耳后束发〔e621〕	0
 M:20:__prompt__:ear_tufts:eryu	耳羽〔合并词库〕	0
 M:20:__prompt__:ear_tufts:maocu	毛簇〔合并词库〕	0
+M:20:__prompt__:eared_owl:changerxiaoshu	长耳鸮属〔e621〕	0
 M:20:__prompt__:eared_owl:youerxiao	有耳鸮〔e621〕	0
-M:20:__prompt__:eared_owl:zhangerxiaoshu	长耳鸮属〔e621〕	0
 M:20:__prompt__:earphones:dianzishebei	电子设备〔合并词库〕	0
 M:20:__prompt__:ears_back:erduochaohou	耳朵朝后〔e621〕	0
 M:20:__prompt__:ears_back:erduohoutie	耳朵后贴〔e621〕	0
@@ -217974,6 +218046,7 @@ M:20:__prompt__:full body:quanshen	全身〔镜头词〕	1
 M:20:__prompt__:full moon:manyue	满月〔提示词库〕	0
 M:20:__prompt__:full_body:quanjing	全景〔合并词库〕	0
 M:20:__prompt__:full_body:quanshenxiang	全身像〔合并词库〕	0
+M:20:__prompt__:full_body:quanshenzhao	全身照〔常用词〕	1
 M:20:__prompt__:full_moon:manyuejingxiang	满月景象〔e621〕	0
 M:20:__prompt__:full_moon:manyuezhiye	满月之夜〔e621〕	0
 M:20:__prompt__:full_moon:yuanyue	圆月〔e621〕	0
@@ -217987,6 +218060,7 @@ M:20:__prompt__:funamusea:chuangzuozhe	创作者〔e621〕	0
 M:20:__prompt__:funamusea:shenhaiqiuren	深海囚人〔e621〕	0
 M:20:__prompt__:funamusea:tongrenshetuan	同人社团〔e621〕	0
 M:20:__prompt__:fur shawl:picaopijian	皮草披肩〔提示词库〕	0
+M:20:__prompt__:fur tufts:maoshu	毛束〔常用词〕	1
 M:20:__prompt__:fur_boots:aigenxiuxianpicaoxue	矮跟休闲皮草靴〔提示词库〕	0
 M:20:__prompt__:fur_boots:dongjixie	冬季鞋〔e621〕	0
 M:20:__prompt__:fur_boots:maoxue	毛靴〔e621〕	0
@@ -218555,7 +218629,7 @@ M:20:__prompt__:half_mask:banmianju	半面具〔e621〕	0
 M:20:__prompt__:half_moon:banyuexing	半月形〔e621〕	0
 M:20:__prompt__:half_moon:yueliang	月亮〔e621〕	0
 M:20:__prompt__:half_note:yinyuefuhao	音乐符号〔合并词库〕	0
-M:20:__prompt__:half_updo:banmayi	半马尾〔合并词库〕	0
+M:20:__prompt__:half_updo:banmawei	半马尾〔合并词库〕	0
 M:20:__prompt__:half_updo:banqifa	半起发〔合并词库〕	0
 M:20:__prompt__:halloween:nanguajie	南瓜节〔e621〕	0
 M:20:__prompt__:halloween:wanshengjiezhuti	万圣节主题〔e621〕	0
@@ -219822,16 +219896,16 @@ M:20:__prompt__:long body:shentizhang	身体长〔负面词〕	0
 M:20:__prompt__:long coat:zhangao	长袄〔提示词库〕	0
 M:20:__prompt__:long face:zhanglian	长脸〔提示词库〕	0
 M:20:__prompt__:long hair:changfa	长发〔提示词库〕	0
-M:20:__prompt__:long neck:zhangjing	长颈〔负面词〕	0
+M:20:__prompt__:long neck:changjing	长颈〔负面词〕	0
 M:20:__prompt__:long_arms:chaochangshoubi	超长手臂〔e621〕	0
 M:20:__prompt__:long_arms:shentitezheng	身体特征〔e621〕	0
 M:20:__prompt__:long_arms:xiuchangshuangbi	修长双臂〔e621〕	0
 M:20:__prompt__:long_arms:zhangbi	长臂〔e621〕	0
 M:20:__prompt__:long_arms:zhiti	肢体〔e621〕	0
+M:20:__prompt__:long_beak:changzui	长嘴〔e621〕	0
 M:20:__prompt__:long_beak:xichangniaohui	细长鸟喙〔e621〕	0
 M:20:__prompt__:long_beak:xiuchangniaozui	修长鸟嘴〔e621〕	0
 M:20:__prompt__:long_beak:zhanghui	长喙〔e621〕	0
-M:20:__prompt__:long_beak:zhangzui	长嘴〔e621〕	0
 M:20:__prompt__:long_belt:fushi	服饰〔合并词库〕	0
 M:20:__prompt__:long_belt:zhangpidai	长皮带〔合并词库〕	0
 M:20:__prompt__:long_body:xichangtitai	细长体态〔e621〕	0
@@ -219841,38 +219915,39 @@ M:20:__prompt__:long_body:zhangshenxing	长身形〔e621〕	0
 M:20:__prompt__:long_coat:dayi	大衣〔e621〕	0
 M:20:__prompt__:long_coat:zhangdayi	长大衣〔e621〕	0
 M:20:__prompt__:long_coat:zhangfengyi	长风衣〔e621〕	0
+M:20:__prompt__:long_ears:changerduo	长耳朵〔e621〕	0
 M:20:__prompt__:long_ears:daer	大耳〔e621〕	0
 M:20:__prompt__:long_ears:gaoer	高耳〔e621〕	0
 M:20:__prompt__:long_ears:shulizhanger	竖立长耳〔e621〕	0
 M:20:__prompt__:long_ears:tuerjuese	兔耳角色〔e621〕	0
-M:20:__prompt__:long_ears:zhangerduo	长耳朵〔e621〕	0
 M:20:__prompt__:long_feet:changzu	长足〔e621〕	0
 M:20:__prompt__:long_feet:dajiao	大脚〔e621〕	0
 M:20:__prompt__:long_hair:jichangfa	极长发〔e621〕	0
 M:20:__prompt__:long_hair:toufa	头发〔e621〕	0
 M:20:__prompt__:long_hair:zhangtoufa	长头发〔e621〕	0
+M:20:__prompt__:long_horn:changjiao	长角〔e621〕	0
 M:20:__prompt__:long_horn:jiao	角〔e621〕	0
 M:20:__prompt__:long_horn:shoujiao	兽角〔e621〕	0
-M:20:__prompt__:long_horn:zhangjiao	长角〔e621〕	0
 M:20:__prompt__:long_horn:zhangjijiao	长犄角〔e621〕	0
+M:20:__prompt__:long_legs:changtuijuese	长腿角色〔e621〕	0
 M:20:__prompt__:long_legs:dazhangtui	大长腿〔e621〕	0
 M:20:__prompt__:long_legs:meitui	美腿〔e621〕	0
 M:20:__prompt__:long_legs:xiuchangmeitui	修长美腿〔e621〕	0
 M:20:__prompt__:long_legs:xiuchangtui	修长腿〔e621〕	0
-M:20:__prompt__:long_legs:zhangtuijuese	长腿角色〔e621〕	0
 M:20:__prompt__:long_mane:changfa	长发〔e621〕	0
 M:20:__prompt__:long_mane:changfapiaopiao	长发飘飘〔e621〕	0
 M:20:__prompt__:long_mane:zhangzong	长鬃〔e621〕	0
 M:20:__prompt__:long_mane:zhangzongmao	长鬃毛〔e621〕	0
+M:20:__prompt__:long_neck:changjing	长颈〔e621〕	0
 M:20:__prompt__:long_neck:chaochangbozi	超长脖子〔e621〕	0
 M:20:__prompt__:long_neck:shentitezheng	身体特征〔e621〕	0
-M:20:__prompt__:long_neck:zhangjing	长颈〔e621〕	0
 M:20:__prompt__:long_nose:mianbutezheng	面部特征〔e621〕	0
 M:20:__prompt__:long_nose:zhangbi	长鼻〔e621〕	0
 M:20:__prompt__:long_nose:zhangbizitezheng	长鼻子特征〔e621〕	0
+M:20:__prompt__:long_tail:changwei	长尾〔常用词〕	1
+M:20:__prompt__:long_tail:changweijuese	长尾角色〔e621〕	0
 M:20:__prompt__:long_tail:chaochangweiba	超长尾巴〔e621〕	0
 M:20:__prompt__:long_tail:jiyaoweiba	及腰尾巴〔e621〕	0
-M:20:__prompt__:long_tail:zhangweijuese	长尾角色〔e621〕	0
 M:20:__prompt__:long_taur:duotuishoushen	多腿兽身〔e621〕	0
 M:20:__prompt__:long_taur:duozuniushenshouren	多足牛身兽人〔e621〕	0
 M:20:__prompt__:long_term:changqi	长期〔e621〕	0
@@ -220426,7 +220501,7 @@ M:20:__prompt__:nagae_iku:tiankongwanxiangjingjie	天空万象境界〔合并词
 M:20:__prompt__:nagae_iku:yongjiangyijiu	永江衣玖〔合并词库〕	0
 M:20:__prompt__:naganadel:jiujiyishou	究极异兽〔e621〕	0
 M:20:__prompt__:naganadel:siezhenlong	四颚针龙〔e621〕	0
-M:20:__prompt__:nagao_kei:zhangweijing	长尾景〔合并词库〕	0
+M:20:__prompt__:nagao_kei:changweijing	长尾景〔合并词库〕	0
 M:20:__prompt__:nailshead:dingtoutuan	钉头图案〔提示词库〕	0
 M:20:__prompt__:naive art:pusudeyishu	朴素的艺术〔提示词库〕	0
 M:20:__prompt__:namba_emi:nanboxiaomei	难波笑美〔合并词库〕	0
@@ -220513,6 +220588,7 @@ M:20:__prompt__:neck_tuft:jingbumaocu	颈部毛簇〔e621〕	0
 M:20:__prompt__:neck_tuft:jingbumaopi	颈部毛皮〔e621〕	0
 M:20:__prompt__:neck_tuft:jingbupengmao	颈部蓬毛〔e621〕	0
 M:20:__prompt__:neck_tuft:jingbupengsongmao	颈部蓬松毛〔e621〕	0
+M:20:__prompt__:neck_tuft:jingbuzongmao	颈部鬃毛〔常用词〕	1
 M:20:__prompt__:neck_tuft:jingmao	颈毛〔e621〕	0
 M:20:__prompt__:neck_tuft:jingmaohuan	颈毛环〔e621〕	0
 M:20:__prompt__:neck_tuft:jingquanrongmao	颈圈绒毛〔e621〕	0
@@ -221074,6 +221150,7 @@ M:20:__prompt__:pecharunt:taodailang	桃歹郎〔e621〕	0
 M:20:__prompt__:peco_peco:kezuogeshou	客座歌手〔合并词库〕	0
 M:20:__prompt__:pectorals:jirou	肌肉〔合并词库〕	0
 M:20:__prompt__:pectorals:xiongbu	胸部〔合并词库〕	0
+M:20:__prompt__:pectorals:xiongbujirou	胸部肌肉〔常用词〕	1
 M:20:__prompt__:pedipalps:chuzhi	触肢〔e621〕	0
 M:20:__prompt__:pedipalps:kouzhi	口肢〔e621〕	0
 M:20:__prompt__:pedophile:xingpi	性癖〔合并词库〕	0
@@ -221461,7 +221538,7 @@ M:20:__prompt__:pompadour:xianghoushufaxing	向后梳发型〔e621〕	0
 M:20:__prompt__:ponto_nei:caihongshe	彩虹社〔合并词库〕	0
 M:20:__prompt__:ponto_nei:lanukulusi	拉努库鲁斯〔合并词库〕	0
 M:20:__prompt__:ponto_nei:xiandouning	先斗宁〔合并词库〕	0
-M:20:__prompt__:pony-tail:mayi	马尾〔提示词库〕	0
+M:20:__prompt__:pony-tail:mawei	马尾〔提示词库〕	0
 M:20:__prompt__:pony_play:chongwubanyan	宠物扮演〔合并词库〕	0
 M:20:__prompt__:pony_play:xiaomawanshang	小马玩赏〔合并词库〕	0
 M:20:__prompt__:ponyville:xiaomazhen	小马镇〔e621〕	0
@@ -222576,6 +222653,7 @@ M:20:__prompt__:signature:yishujiaqianming	艺术家签名〔e621〕	0
 M:20:__prompt__:sika_deer:meihualu	梅花鹿〔e621〕	0
 M:20:__prompt__:sika_deer:ribenlu	日本鹿〔e621〕	0
 M:20:__prompt__:sika_deer:zelu	泽鹿〔e621〕	0
+M:20:__prompt__:silky fur:sihuamaofa	丝滑毛发〔常用词〕	1
 M:20:__prompt__:silky fur:sihuamaopi	丝滑毛皮〔皮毛词〕	1
 M:20:__prompt__:silky fur:sihuapimao	丝滑皮毛〔皮毛词〕	1
 M:20:__prompt__:silviaxrk:xierweiyayishujia	西尔维娅艺术家〔e621〕	0
@@ -223287,6 +223365,7 @@ M:20:__prompt__:tail_tuft:niuwei	牛尾〔e621〕	0
 M:20:__prompt__:tail_tuft:shiwei	狮尾〔e621〕	0
 M:20:__prompt__:tail_tuft:shiziweiba	狮子尾巴〔e621〕	0
 M:20:__prompt__:tail_tuft:weibamoduanmao	尾巴末端毛〔e621〕	0
+M:20:__prompt__:tail_tuft:weiduanmaocu	尾端毛簇〔常用词〕	1
 M:20:__prompt__:tail_tuft:weijianmaocu	尾尖毛簇〔e621〕	0
 M:20:__prompt__:tail_tuft:weimaoshu	尾毛束〔e621〕	0
 M:20:__prompt__:tail_vore:weibatunru	尾巴吞入〔e621〕	0
@@ -223294,10 +223373,10 @@ M:20:__prompt__:tail_vore:weibatunshi	尾巴吞噬〔e621〕	0
 M:20:__prompt__:tail_vore:weiru	尾入〔e621〕	0
 M:20:__prompt__:taker_pov:charuzheshijiao	插入者视角〔合并词库〕	0
 M:20:__prompt__:taker_pov:shijiao	视角〔合并词库〕	0
+M:20:__prompt__:tall_ears:changer	长耳〔e621〕	0
+M:20:__prompt__:tall_ears:changerduojuese	长耳朵角色〔e621〕	0
 M:20:__prompt__:tall_ears:daerduo	大耳朵〔e621〕	0
 M:20:__prompt__:tall_ears:gaoer	高耳〔e621〕	0
-M:20:__prompt__:tall_ears:zhanger	长耳〔e621〕	0
-M:20:__prompt__:tall_ears:zhangerduojuese	长耳朵角色〔e621〕	0
 M:20:__prompt__:tall_girl:gaodashaonv	高大少女〔e621〕	0
 M:20:__prompt__:tall_girl:gaogezinvhai	高个子女孩〔e621〕	0
 M:20:__prompt__:tall_girl:gaotiaonvhai	高挑女孩〔e621〕	0
@@ -223570,6 +223649,7 @@ M:20:__prompt__:theridiid:qiuzhuke	球蛛科〔e621〕	0
 M:20:__prompt__:therrigon:lujiaohuyishou	鹿角狐翼兽〔e621〕	0
 M:20:__prompt__:therrigon:tulonghushou	屠龙狐兽〔e621〕	0
 M:20:__prompt__:therrigon:yiluquanshou	翼鹿犬兽〔e621〕	0
+M:20:__prompt__:thick fur:nongmimaofa	浓密毛发〔常用词〕	1
 M:20:__prompt__:thick fur:nongmimaopi	浓密毛皮〔皮毛词〕	1
 M:20:__prompt__:thick fur:nongmipimao	浓密皮毛〔皮毛词〕	1
 M:20:__prompt__:thick_fur:houshipimao	厚实皮毛〔e621〕	0
@@ -223668,7 +223748,7 @@ M:20:__prompt__:tied_ears:erduobeibangzhu	耳朵被绑住〔e621〕	0
 M:20:__prompt__:tied_ears:shuangerzhaqi	双耳扎起〔e621〕	0
 M:20:__prompt__:tied_ears:shubangdeerduo	束绑的耳朵〔e621〕	0
 M:20:__prompt__:tied_hair:fadaishufa	发带束发〔e621〕	0
-M:20:__prompt__:tied_hair:mayi	马尾〔e621〕	0
+M:20:__prompt__:tied_hair:mawei	马尾〔e621〕	0
 M:20:__prompt__:tied_hair:shufa	束发〔e621〕	0
 M:20:__prompt__:tied_hair:zhaqidetoufa	扎起的头发〔e621〕	0
 M:20:__prompt__:tied_hair:zhatoufa	扎头发〔e621〕	0
@@ -223902,7 +223982,7 @@ M:20:__prompt__:trevenant:diqishidai	第七世代〔e621〕	0
 M:20:__prompt__:trevenant:xiumuyao	朽木妖〔e621〕	0
 M:20:__prompt__:trevenant:youlingcaoxi	幽灵草系〔e621〕	0
 M:20:__prompt__:trexqueen:huashi	画师〔e621〕	0
-M:20:__prompt__:tri tails:sanmayi	三马尾〔提示词库〕	0
+M:20:__prompt__:tri tails:sanmawei	三马尾〔提示词库〕	0
 M:20:__prompt__:tri_tails:duoweiba	多尾巴〔合并词库〕	0
 M:20:__prompt__:tri_tails:santiaoweiba	三条尾巴〔合并词库〕	0
 M:20:__prompt__:tribadism:jiandaoshi	剪刀式〔e621〕	0
@@ -223963,8 +224043,8 @@ M:20:__prompt__:twitching:doudong	抖动〔e621〕	0
 M:20:__prompt__:twitching:duosuo	哆嗦〔e621〕	0
 M:20:__prompt__:twitching:fadou	发抖〔e621〕	0
 M:20:__prompt__:twitching:jingluan	痉挛〔e621〕	0
+M:20:__prompt__:two_tails:lianggenweiba	两根尾巴〔常用词〕	1
 M:20:__prompt__:two_tails:liangtiaoweiba	两条尾巴〔合并词库〕	0
-M:20:__prompt__:two_tails:shuangmayi	双马尾〔合并词库〕	0
 M:20:__prompt__:tyki_mikk:nuoyayizu	诺亚一族〔合并词库〕	0
 M:20:__prompt__:type-moon:xingyue	型月〔e621〕	0
 M:20:__prompt__:type-moon:xingyuegongzuoshi	型月工作室〔e621〕	0
@@ -225016,7 +225096,7 @@ M:20:flower-trimmed_crown:huashiwangguan	花饰王冠	1
 M:20:flower-trimmed_dress:huabianzhuangshiqun	花边装饰裙	1
 M:20:flower-trimmed_skirt:huashiqun	花饰裙	1
 M:20:foaming_at_the_mouth:koutubaimo	口吐白沫	1
-M:20:folded_side_ponytail:zhediecemayi	折叠侧马尾	1
+M:20:folded_side_ponytail:zhediecemawei	折叠侧马尾	1
 M:20:food-themed_bracelet:shiwuzhutishoulian	食物主题手链	1
 M:20:food-themed_creature:shiwuzhutishengwu	食物主题生物	1
 M:20:food-themed_earrings:shiwuzhutierhuan	食物主题耳环	1
@@ -228161,6 +228241,7 @@ M:21:__prompt__:chest_tuft:xiongbumaofa	胸部毛发〔e621〕	0
 M:21:__prompt__:chest_tuft:xiongkoumaocu	胸口毛簇〔e621〕	0
 M:21:__prompt__:chest_tuft:xiongmao	胸毛〔e621〕	0
 M:21:__prompt__:chest_tuft:xiongmaocu	胸毛簇〔e621〕	0
+M:21:__prompt__:chest_tuft:xiongqianrongmao	胸前绒毛〔常用词〕	1
 M:21:__prompt__:chibi_miku:chuyinweilai	初音未来〔合并词库〕	0
 M:21:__prompt__:chibi_miku:xiaochuyinweilai	小初音未来〔合并词库〕	0
 M:21:__prompt__:chief_bogo:bogejuzhang	博戈局长〔e621〕	0
@@ -229123,7 +229204,7 @@ M:21:__prompt__:downblouse:xialingshijiao	下领视角〔合并词库〕	0
 M:21:__prompt__:dr._eggman:aigemanboshi	艾格曼博士〔e621〕	0
 M:21:__prompt__:dr._eggman:dantouboshi	蛋头博士〔e621〕	0
 M:21:__prompt__:dr._eggman:suonikeyingxiong	索尼克英雄〔e621〕	0
-M:21:__prompt__:draculaura:fenheishuangmayi	粉黑双马尾〔e621〕	0
+M:21:__prompt__:draculaura:fenheishuangmawei	粉黑双马尾〔e621〕	0
 M:21:__prompt__:draculaura:xixuegui	吸血鬼〔e621〕	0
 M:21:__prompt__:drag_queen:nanbannvzhuangbiaoyanzhe	男扮女装表演者〔e621〕	0
 M:21:__prompt__:drag_queen:nvzhuangbiaoyanzhe	女装表演者〔e621〕	0
@@ -229463,8 +229544,10 @@ M:21:__prompt__:expressive:biaoqingshengdong	表情生动〔e621〕	0
 M:21:__prompt__:expressive:qingganwailu	情感外露〔e621〕	0
 M:21:__prompt__:expressive:qingxubaoman	情绪饱满〔e621〕	0
 M:21:__prompt__:extra arms:duoyudeshoubi	多余的手臂〔负面词〕	0
+M:21:__prompt__:extra arms:duoyushoubi	多余手臂〔负面词〕	1
 M:21:__prompt__:extra eyes:ewaideyanjing	额外的眼睛〔提示词库〕	0
 M:21:__prompt__:extra legs:duoyudetui	多余的腿〔负面词〕	0
+M:21:__prompt__:extra legs:duoyutui	多余腿〔负面词〕	1
 M:21:__prompt__:extra limb:duoyudezhiti	多余的肢体〔负面词〕	0
 M:21:__prompt__:extra limb:duoyuzhiti	多余肢体〔负面词〕	0
 M:21:__prompt__:extra_arms:duozhishoubi	多只手臂〔提示词库〕	0
@@ -229939,8 +230022,10 @@ M:21:__prompt__:frilly_bra:xiongzhao	胸罩〔e621〕	0
 M:21:__prompt__:frog_print:walei	蛙类〔合并词库〕	0
 M:21:__prompt__:from above:congshangfang	从上方〔提示词库〕	0
 M:21:__prompt__:from below:congxiamian	从下面〔提示词库〕	0
+M:21:__prompt__:from_above:congshangwangxiakan	从上往下看〔常用词〕	1
 M:21:__prompt__:from_above:niaokan	鸟瞰〔合并词库〕	0
 M:21:__prompt__:from_above:shangfangshijiao	上方视角〔合并词库〕	0
+M:21:__prompt__:from_below:congxiawangshangkan	从下往上看〔常用词〕	1
 M:21:__prompt__:from_below:dijiaodu	低角度〔合并词库〕	0
 M:21:__prompt__:from_below:shijiao	视角〔合并词库〕	0
 M:21:__prompt__:front view:zhengmianshijiao	正面视角〔提示词库〕	0
@@ -231195,7 +231280,7 @@ M:21:__prompt__:horse_pose:mazi	马姿〔合并词库〕	0
 M:21:__prompt__:horse_pose:yujia	瑜伽〔合并词库〕	0
 M:21:__prompt__:horse_tail:dongwuweiba	动物尾巴〔e621〕	0
 M:21:__prompt__:horse_tail:mamaowei	马毛尾〔e621〕	0
-M:21:__prompt__:horse_tail:mayi	马尾〔e621〕	0
+M:21:__prompt__:horse_tail:mawei	马尾〔e621〕	0
 M:21:__prompt__:horse_taur:banrenma	半人马〔e621〕	0
 M:21:__prompt__:horse_taur:maren	马人〔e621〕	0
 M:21:__prompt__:horse_taur:mashenren	马身人〔e621〕	0
@@ -232089,8 +232174,8 @@ M:21:__prompt__:leg_tattoo:tuiwenshen	腿纹身〔e621〕	0
 M:21:__prompt__:leg_twitch:tuibuchouchu	腿部抽搐〔e621〕	0
 M:21:__prompt__:leg_twitch:tuidou	腿抖〔e621〕	0
 M:21:__prompt__:leg_twitch:tuijingluan	腿痉挛〔e621〕	0
+M:21:__prompt__:leggy_lamb:changtuiyang	长腿羊〔e621〕	0
 M:21:__prompt__:leggy_lamb:katongzhangtuiyang	卡通长腿羊〔e621〕	0
-M:21:__prompt__:leggy_lamb:zhangtuiyang	长腿羊〔e621〕	0
 M:21:__prompt__:lego_brick:jimu	积木〔e621〕	0
 M:21:__prompt__:lego_brick:legaozhuankuai	乐高砖块〔e621〕	0
 M:21:__prompt__:lego_brick:legaozujian	乐高组件〔e621〕	0
@@ -232327,9 +232412,9 @@ M:21:__prompt__:long_boots:zhangtongxue	长筒靴〔e621〕	0
 M:21:__prompt__:long_boots:zhangxue	长靴〔e621〕	0
 M:21:__prompt__:long_braid:changfa	长发〔e621〕	0
 M:21:__prompt__:long_braid:zhangbianzi	长辫子〔e621〕	0
+M:21:__prompt__:long_claws:changzhuazi	长爪子〔e621〕	0
 M:21:__prompt__:long_claws:ruilizhangzhao	锐利长爪〔e621〕	0
 M:21:__prompt__:long_claws:zhangzhijia	长指甲〔e621〕	0
-M:21:__prompt__:long_claws:zhangzhuazi	长爪子〔e621〕	0
 M:21:__prompt__:long_dildo:changjiayangju	长假阳具〔e621〕	0
 M:21:__prompt__:long_dildo:zhanganmobang	长按摩棒〔e621〕	0
 M:21:__prompt__:long_dildo:zhangzhendongbang	长震动棒〔e621〕	0
@@ -232460,7 +232545,7 @@ M:21:__prompt__:low-riding:diyaochuanfa	低腰穿法〔e621〕	0
 M:21:__prompt__:low-riding:diyaolurou	低腰露肉〔e621〕	0
 M:21:__prompt__:low-riding:luneikubianyuan	露内裤边缘〔e621〕	0
 M:21:__prompt__:low_drills:diluoxuanfa	低螺旋发〔合并词库〕	0
-M:21:__prompt__:low_drills:shuangmayi	双马尾〔合并词库〕	0
+M:21:__prompt__:low_drills:shuangmawei	双马尾〔合并词库〕	0
 M:21:__prompt__:luca_balsa:diwurenge	第五人格〔合并词库〕	0
 M:21:__prompt__:luca_balsa:qiuren	囚人〔合并词库〕	0
 M:21:__prompt__:luca_balsa:qiutu	囚徒〔合并词库〕	0
@@ -233076,6 +233161,7 @@ M:21:__prompt__:multi_pecs:duoduixiongdaji	多对胸大肌〔e621〕	0
 M:21:__prompt__:multi_pecs:duogexiongji	多个胸肌〔e621〕	0
 M:21:__prompt__:multi_pecs:duozuxiongji	多组胸肌〔e621〕	0
 M:21:__prompt__:multi_pecs:fushuxiongji	复数胸肌〔e621〕	0
+M:21:__prompt__:multi_tail:duogenweiba	多根尾巴〔常用词〕	1
 M:21:__prompt__:multi_tail:duotiaoweiba	多条尾巴〔e621〕	0
 M:21:__prompt__:multi_tail:duowei	多尾〔e621〕	0
 M:21:__prompt__:multi_tail:fushuweiba	复数尾巴〔e621〕	0
@@ -234614,7 +234700,7 @@ M:21:__prompt__:pygmy_goat:aishanyang	矮山羊〔e621〕	0
 M:21:__prompt__:pygmy_goat:feizhouzhurushanyang	非洲侏儒山羊〔e621〕	0
 M:21:__prompt__:pygmy_goat:zhurushanyang	侏儒山羊〔e621〕	0
 M:21:__prompt__:pyro_(tf2):zonghuofan	纵火犯〔合并词库〕	0
-M:21:__prompt__:quad tails:simayi	四马尾〔提示词库〕	0
+M:21:__prompt__:quad tails:simawei	四马尾〔提示词库〕	0
 M:21:__prompt__:quad_tails:shuangmayibianti	双马尾变体〔合并词库〕	0
 M:21:__prompt__:quadcopter:feixingqi	飞行器〔合并词库〕	0
 M:21:__prompt__:quadcopter:sixuanyiwurenji	四旋翼无人机〔合并词库〕	0
@@ -234965,7 +235051,7 @@ M:21:__prompt__:rift_apart:liekai	裂开〔e621〕	0
 M:21:__prompt__:rift_apart:silie	撕裂〔e621〕	0
 M:21:__prompt__:rift_apart:sisui	撕碎〔e621〕	0
 M:21:__prompt__:rika_(m_k):futa	扶她〔合并词库〕	0
-M:21:__prompt__:rika_(m_k):jinfamayi	金发马尾〔合并词库〕	0
+M:21:__prompt__:rika_(m_k):jinfamawei	金发马尾〔合并词库〕	0
 M:21:__prompt__:ring_dream:shuaijiao	摔跤〔合并词库〕	0
 M:21:__prompt__:riot_games:quantougongsi	拳头公司〔e621〕	0
 M:21:__prompt__:riot_games:wuweiqiyue	无畏契约〔e621〕	0
@@ -236209,6 +236295,7 @@ M:21:__prompt__:streetwear:jietoufeng	街头风〔e621〕	0
 M:21:__prompt__:streetwear:jietoushishang	街头时尚〔e621〕	0
 M:21:__prompt__:streetwear:jietouzhuangshu	街头装束〔e621〕	0
 M:21:__prompt__:streetwear:shishang	时尚〔e621〕	0
+M:21:__prompt__:stretching:shenlanyao	伸懒腰〔常用词〕	1
 M:21:__prompt__:stretching:shenzhan	伸展〔e621〕	0
 M:21:__prompt__:stretching:shenzhanyundong	伸展运动〔e621〕	0
 M:21:__prompt__:stretching:shuzhanshenti	舒展身体〔e621〕	0
@@ -237328,6 +237415,7 @@ M:21:__prompt__:unworn_wig:weidaidejiafa	未戴的假发〔合并词库〕	0
 M:21:__prompt__:unwrapping:chaibao	拆包〔e621〕	0
 M:21:__prompt__:unwrapping:kaibaozhuang	开包装〔e621〕	0
 M:21:__prompt__:upper_body:banshen	半身〔合并词库〕	0
+M:21:__prompt__:upper_body:banshenzhao	半身照〔常用词〕	1
 M:21:__prompt__:upper_body:shangbanshenxiang	上半身像〔合并词库〕	0
 M:21:__prompt__:upper_body:shangshen	上身〔合并词库〕	0
 M:21:__prompt__:upper_body:xiongxiang	胸像〔合并词库〕	0
@@ -238090,7 +238178,7 @@ M:21:__prompt__:yanase_mai:fenglangxueyuan	峰浪学园〔合并词库〕	0
 M:21:__prompt__:yanase_mai:liulaiwuyi	柳瀬舞衣〔合并词库〕	0
 M:21:__prompt__:yano_erika:baixiang	白箱〔合并词库〕	0
 M:21:__prompt__:yano_erika:shiyeailika	矢野艾莉卡〔合并词库〕	0
-M:21:__prompt__:yano_erika:shuangmayi	双马尾〔合并词库〕	0
+M:21:__prompt__:yano_erika:shuangmawei	双马尾〔合并词库〕	0
 M:21:__prompt__:yano_erika:tiaowenguoxiwa	条纹过膝袜〔合并词库〕	0
 M:21:__prompt__:yashio_rui:bachaoliuwei	八潮瑠唯〔合并词库〕	0
 M:21:__prompt__:yashio_rui:yuezhisennvzixueyuan	月之森女子学园〔合并词库〕	0
@@ -238197,7 +238285,7 @@ M:21:__prompt__:yumeno_uta:mengyege	梦野歌〔合并词库〕	0
 M:21:__prompt__:yumeno_uta:qingwenwodexuanlv	请问我的旋律〔合并词库〕	0
 M:21:__prompt__:yumi_(bow):ribengong	日本弓〔合并词库〕	0
 M:21:__prompt__:yuna_(sao):daojianshenyu	刀剑神域〔合并词库〕	0
-M:21:__prompt__:yuna_(sao):yinfashuangmayi	银发双马尾〔合并词库〕	0
+M:21:__prompt__:yuna_(sao):yinfashuangmawei	银发双马尾〔合并词库〕	0
 M:21:__prompt__:yuri_briar:bulaierxiongmei	布莱尔兄妹〔合并词库〕	0
 M:21:__prompt__:yuri_briar:jiandieguojiajia	间谍过家家〔合并词库〕	0
 M:21:__prompt__:yuru-chara:jixiangwujuese	吉祥物角色〔合并词库〕	0
@@ -238627,7 +238715,7 @@ M:21:hiden_zero-one_driver:feidianlingyiqudongqi	飞电零一驱动器	1
 M:21:hiding_behind_another:duozaitarenshenhou	躲在他人身后	1
 M:21:higashimatsuyama_yone:dongsongshanmi	东松山米	1
 M:21:high-visibility_pants:gaokeshiduchangku	高可视度长裤	1
-M:21:high_braided_ponytail:gaobianzhimayi	高编织马尾	1
+M:21:high_braided_ponytail:gaobianzhimawei	高编织马尾	1
 M:21:hikari_sentai_maskman:guangzhanduifumianren	光战队覆面人	1
 M:21:hinata_(echoloveloli):rixiang	日向	1
 M:21:hirai_hisashi_(style):pingjingjiusifengge	平井久司风格	1
@@ -240226,6 +240314,7 @@ M:22:__prompt__:back_tattoo:shentibiaoji	身体标记〔e621〕	0
 M:22:__prompt__:bad anatomy:cuowudejiepou	错误的解剖〔负面词〕	0
 M:22:__prompt__:bad anatomy:jiepoubuliang	解剖不良〔负面词〕	0
 M:22:__prompt__:bad anatomy:jiepoucuowu	解剖错误〔负面词〕	1
+M:22:__prompt__:bad anatomy:shentijiegoucuowu	身体结构错误〔负面词〕	1
 M:22:__prompt__:bad_anatomy:dizhiliang	低质量〔合并词库〕	0
 M:22:__prompt__:bad_anatomy:jiepoucuowu	解剖错误〔合并词库〕	0
 M:22:__prompt__:bad_anatomy:shentijiegoubenghuai	身体结构崩坏〔合并词库〕	0
@@ -242384,7 +242473,7 @@ M:22:__prompt__:cure_lovely:keaitianshi	可爱天使〔合并词库〕	0
 M:22:__prompt__:cure_marine:haiyangtianshi	海洋天使〔合并词库〕	0
 M:22:__prompt__:cure_marine:laihaihuilixiang	来海绘里香〔合并词库〕	0
 M:22:__prompt__:cure_melody:bianshenxingtai	变身形态〔合并词库〕	0
-M:22:__prompt__:cure_melody:fenseshuangmayi	粉色双马尾〔合并词库〕	0
+M:22:__prompt__:cure_melody:fenseshuangmawei	粉色双马尾〔合并词库〕	0
 M:22:__prompt__:cure_nyammy:maowufuxue	猫屋敷雪〔合并词库〕	0
 M:22:__prompt__:cure_nyammy:miaomiaotianshi	喵喵天使〔合并词库〕	0
 M:22:__prompt__:cure_nyammy:qijiguangzhimeishaonv	奇迹光之美少女〔合并词库〕	0
@@ -242643,6 +242732,7 @@ M:22:__prompt__:digimon_day:shumabaobei	数码宝贝〔合并词库〕	0
 M:22:__prompt__:digital art:shuziyishu	数字艺术〔提示词库〕	0
 M:22:__prompt__:digitigrade:dianjiaozhanli	踮脚站立〔e621〕	0
 M:22:__prompt__:digitigrade:dongwuzu	动物足〔e621〕	0
+M:22:__prompt__:digitigrade:jiaogentaiqideshoutui	脚跟抬起的兽腿〔常用词〕	1
 M:22:__prompt__:digitigrade:shoutui	兽腿〔e621〕	0
 M:22:__prompt__:digitigrade:zhixingdongwu	趾行动物〔e621〕	0
 M:22:__prompt__:digitigrade:zhixingshi	趾行式〔e621〕	0
@@ -243053,7 +243143,7 @@ M:22:__prompt__:emil_(nier):wangguozhizi	王国之子〔合并词库〕	0
 M:22:__prompt__:emil_(nier):zidongrenxing	自动人形〔合并词库〕	0
 M:22:__prompt__:emile_elman:damiangenban	达米安跟班〔合并词库〕	0
 M:22:__prompt__:emile_elman:jiandieguojiajia	间谍过家家〔合并词库〕	0
-M:22:__prompt__:emily_stock:fenfacemayi	粉发侧马尾〔合并词库〕	0
+M:22:__prompt__:emily_stock:fenfacemawei	粉发侧马尾〔合并词库〕	0
 M:22:__prompt__:emiya_alter:xinsuteyidian	新宿特异点〔合并词库〕	0
 M:22:__prompt__:emma_august:caihongshe	彩虹社〔合并词库〕	0
 M:22:__prompt__:emma_august:emoniang	恶魔娘〔合并词库〕	0
@@ -243109,7 +243199,7 @@ M:22:__prompt__:equine_legs:matui	马腿〔e621〕	0
 M:22:__prompt__:equine_legs:shimatuibu	似马腿部〔e621〕	0
 M:22:__prompt__:equine_legs:shoutuizaoxing	兽腿造型〔e621〕	0
 M:22:__prompt__:equine_tail:makeweiba	马科尾巴〔e621〕	0
-M:22:__prompt__:equine_tail:mayi	马尾〔e621〕	0
+M:22:__prompt__:equine_tail:mawei	马尾〔e621〕	0
 M:22:__prompt__:equine_tail:mayiba	马尾巴〔e621〕	0
 M:22:__prompt__:equine_tail:zongmaoweiba	鬃毛尾巴〔e621〕	0
 M:22:__prompt__:equine_taur:banmashengwu	半马生物〔e621〕	0
@@ -243173,7 +243263,9 @@ M:22:__prompt__:extra_mouth:duozui	多嘴〔e621〕	0
 M:22:__prompt__:extra_mouth:ewaidezui	额外的嘴〔e621〕	0
 M:22:__prompt__:extra_mouth:guaiwutezheng	怪物特征〔e621〕	0
 M:22:__prompt__:extra_mouth:youduozhangzuiba	有多张嘴巴〔提示词库〕	0
+M:22:__prompt__:extra_tails:duochulaideweiba	多出来的尾巴〔常用词〕	1
 M:22:__prompt__:extra_tails:duoweiba	多尾巴〔合并词库〕	0
+M:22:__prompt__:extra_tails:duoyuweiba	多余尾巴〔负面词〕	1
 M:22:__prompt__:extra_tails:ewaideweiba	额外的尾巴〔合并词库〕	0
 M:22:__prompt__:extra_teeth:duoyudeyachi	多余的牙齿〔合并词库〕	0
 M:22:__prompt__:extra_teeth:yachi	牙齿〔合并词库〕	0
@@ -243866,6 +243958,7 @@ M:22:__prompt__:fury_bowser:fennubandamowang	愤怒版大魔王〔e621〕	0
 M:22:__prompt__:fury_bowser:fennukuba	愤怒库巴〔e621〕	0
 M:22:__prompt__:fury_bowser:kuangbaokubawang	狂暴酷霸王〔e621〕	0
 M:22:__prompt__:fury_bowser:kuangnubankubawang	狂怒版酷霸王〔e621〕	0
+M:22:__prompt__:fused limbs:zhitironghe	肢体融合〔负面词〕	1
 M:22:__prompt__:futaba_anzu:huiguniangnvhai	灰姑娘女孩〔合并词库〕	0
 M:22:__prompt__:futaba_anzu:shuangyexing	双叶杏〔合并词库〕	0
 M:22:__prompt__:futaba_anzu:wulishuangye	物理双叶〔合并词库〕	0
@@ -244598,10 +244691,12 @@ M:22:__prompt__:hand_on_hat:shoufangzaimaozishang	手放在帽子上〔e621〕	0
 M:22:__prompt__:hand_on_hat:shoumomaozi	手摸帽子〔e621〕	0
 M:22:__prompt__:hand_on_hip:chayao	叉腰〔e621〕	0
 M:22:__prompt__:hand_on_hip:danshouchayao	单手叉腰〔提示词库〕	0
+M:22:__prompt__:hand_on_hip:danshoufuyao	单手扶腰〔常用词〕	1
 M:22:__prompt__:hand_on_hip:shouchayao	手叉腰〔e621〕	0
 M:22:__prompt__:hand_on_hip:shouchazheyao	手叉着腰〔提示词库〕	0
 M:22:__prompt__:hand_on_hip:shoudatunbu	手搭臀部〔e621〕	0
 M:22:__prompt__:hand_on_hip:shoufangtunbu	手放臀部〔e621〕	0
+M:22:__prompt__:hand_on_hip:shoufuyao	手扶腰〔常用词〕	1
 M:22:__prompt__:hand_on_hip:shougezaiyaoshang	手搁在腰上〔提示词库〕	0
 M:22:__prompt__:hand_on_hip:shouzhiyukuanbu	手置于髋部〔e621〕	0
 M:22:__prompt__:hand_on_hip:shuangshouchayao	双手叉腰〔e621〕	0
@@ -244796,9 +244891,9 @@ M:22:__prompt__:height_mark:shinei	室内〔合并词库〕	0
 M:22:__prompt__:helium_tank:haiqichuqiguan	氦气储气罐〔e621〕	0
 M:22:__prompt__:helium_tank:haiqiguan	氦气罐〔e621〕	0
 M:22:__prompt__:helium_tank:haiqiping	氦气瓶〔e621〕	0
+M:22:__prompt__:hell_knight:changjiaojiroudiren	长角肌肉敌人〔e621〕	0
 M:22:__prompt__:hell_knight:diyuqishi	地狱骑士〔e621〕	0
 M:22:__prompt__:hell_knight:niutuiguaiwu	牛腿怪物〔e621〕	0
-M:22:__prompt__:hell_knight:zhangjiaojiroudiren	长角肌肉敌人〔e621〕	0
 M:22:__prompt__:hello_kitty:kaidimao	凯蒂猫〔合并词库〕	0
 M:22:__prompt__:hello_kitty:katong	卡通〔合并词库〕	0
 M:22:__prompt__:hello_kitty:sanliou	三丽鸥〔合并词库〕	0
@@ -245106,8 +245201,8 @@ M:22:__prompt__:hori_kyouko:kuyugongcun	堀与宫村〔合并词库〕	0
 M:22:__prompt__:horn_fetish:jiaolianpi	角恋癖〔e621〕	0
 M:22:__prompt__:horn_fetish:jiaoxingpi	角性癖〔e621〕	0
 M:22:__prompt__:horn_flower:huashi	花饰〔合并词库〕	0
+M:22:__prompt__:horn_growth:changjiaoguocheng	长角过程〔e621〕	0
 M:22:__prompt__:horn_growth:jijiaofayu	犄角发育〔e621〕	0
-M:22:__prompt__:horn_growth:zhangjiaoguocheng	长角过程〔e621〕	0
 M:22:__prompt__:horn_growth:zhengzaizhangjiao	正在长角〔e621〕	0
 M:22:__prompt__:horn_ribbon:jiaobangduandai	角绑缎带〔e621〕	0
 M:22:__prompt__:horn_ribbon:jiaojidai	角系带〔e621〕	0
@@ -245541,10 +245636,10 @@ M:22:__prompt__:jenna_begay:shamohulinirenjuese	沙漠狐狸拟人角色〔e621�
 M:22:__prompt__:jenny_jinya:jinyahuashi	金亚画师〔e621〕	0
 M:22:__prompt__:jenny_jinya:zhennijinya	珍妮金亚〔e621〕	0
 M:22:__prompt__:jeong_taeui:hanguomanhua	韩国漫画〔合并词库〕	0
+M:22:__prompt__:jerboa_tail:changweiba	长尾巴〔合并词库〕	0
 M:22:__prompt__:jerboa_tail:dongwuweiba	动物尾巴〔合并词库〕	0
 M:22:__prompt__:jerboa_tail:maorongweiba	毛茸尾巴〔合并词库〕	0
 M:22:__prompt__:jerboa_tail:niechileiweiba	啮齿类尾巴〔合并词库〕	0
-M:22:__prompt__:jerboa_tail:zhangweiba	长尾巴〔合并词库〕	0
 M:22:__prompt__:jerry_mouse:jierui	杰瑞〔e621〕	0
 M:22:__prompt__:jerry_mouse:jieruilaoshu	杰瑞老鼠〔e621〕	0
 M:22:__prompt__:jerry_mouse:laoshujierui	老鼠杰瑞〔e621〕	0
@@ -247743,7 +247838,7 @@ M:22:__prompt__:one_shoe_on:danjiaochuanxie	单脚穿鞋〔e621〕	0
 M:22:__prompt__:one_shoe_on:danxie	单鞋〔e621〕	0
 M:22:__prompt__:one_shoe_on:danzhixiezi	单只鞋子〔e621〕	0
 M:22:__prompt__:one_shoe_on:zhichuanyizhixie	只穿一只鞋〔e621〕	0
-M:22:__prompt__:one_side_up:banmayi	半马尾〔合并词库〕	0
+M:22:__prompt__:one_side_up:banmawei	半马尾〔合并词库〕	0
 M:22:__prompt__:one_side_up:zhizhaleyibiandetoufa	只扎了一边的头发〔提示词库〕	0
 M:22:__prompt__:one_sock_on:danwa	单袜〔e621〕	0
 M:22:__prompt__:one_sock_on:danzhiwazi	单只袜子〔e621〕	0
@@ -248525,6 +248620,7 @@ M:22:__prompt__:plantigrade:quanjiaozhangzhedi	全脚掌着地〔e621〕	0
 M:22:__prompt__:plantigrade:zhixing	跖行〔兽人词〕	1
 M:22:__prompt__:plantigrade:zhixingdongwu	跖行动物〔e621〕	0
 M:22:__prompt__:plantigrade:zhixingtui	跖行腿〔兽人词〕	1
+M:22:__prompt__:plastic fur:suliaomaofa	塑料毛发〔负面词〕	1
 M:22:__prompt__:plastic fur:suliaomaopi	塑料毛皮〔负面词〕	1
 M:22:__prompt__:plastic fur:suliaopimao	塑料皮毛〔负面词〕	1
 M:22:__prompt__:plastic_bag:baozhuang	包装〔e621〕	0
@@ -251868,7 +251964,7 @@ M:22:__prompt__:twin drills:shuangzuantoumao	双钻头毛〔提示词库〕	0
 M:22:__prompt__:twin_braids:bianzi	辫子〔e621〕	0
 M:22:__prompt__:twin_braids:liangtiaobianzi	两条辫子〔e621〕	0
 M:22:__prompt__:twin_braids:shuangbianzi	双辫子〔e621〕	0
-M:22:__prompt__:twin_drills:shuangmayi	双马尾〔e621〕	0
+M:22:__prompt__:twin_drills:shuangmawei	双马尾〔e621〕	0
 M:22:__prompt__:twin_drills:shuangzuantoufaxing	双钻头发型〔提示词库〕	0
 M:22:__prompt__:twirl_baton:laladui	啦啦队〔合并词库〕	0
 M:22:__prompt__:twirl_baton:zhuanbang	转棒〔合并词库〕	0
@@ -251881,7 +251977,7 @@ M:22:__prompt__:two side up:liangbianxiangshang	两边向上〔提示词库〕	0
 M:22:__prompt__:two_side_up:ceqifa	侧起发〔e621〕	0
 M:22:__prompt__:two_side_up:liangbianzhaqifaxing	两边扎起发型〔e621〕	0
 M:22:__prompt__:two_side_up:shuangcezhafa	双侧扎发〔e621〕	0
-M:22:__prompt__:two_side_up:shuangmayi	双马尾〔e621〕	0
+M:22:__prompt__:two_side_up:shuangmawei	双马尾〔e621〕	0
 M:22:__prompt__:two_side_up:shuangzhafaxing	双扎发型〔e621〕	0
 M:22:__prompt__:tying_apron:jiawu	家务〔合并词库〕	0
 M:22:__prompt__:uchida_momo:fenfashaonv	粉发少女〔合并词库〕	0
@@ -252016,7 +252112,7 @@ M:22:__prompt__:usami_renko:lianzi	莲子〔合并词库〕	0
 M:22:__prompt__:usami_renko:mifengjulebu	秘封俱乐部〔合并词库〕	0
 M:22:__prompt__:usami_renko:yuzuojianlianzi	宇佐见莲子〔合并词库〕	0
 M:22:__prompt__:usami_taiga:liankuwa	连裤袜〔合并词库〕	0
-M:22:__prompt__:usami_taiga:shuangmayi	双马尾〔合并词库〕	0
+M:22:__prompt__:usami_taiga:shuangmawei	双马尾〔合并词库〕	0
 M:22:__prompt__:used_condom:biyuntao	避孕套〔合并词库〕	0
 M:22:__prompt__:used_condom:xingyongpin	性用品〔合并词库〕	0
 M:22:__prompt__:used_diaper:niaoshideniaobu	尿湿的尿布〔e621〕	0
@@ -253093,7 +253189,7 @@ M:22:dragon_ball_multiverse:longzhuchaociyuanluanzhan	龙珠超次元乱战	1
 M:22:dragoon_(cavalry_unit):longqibing	龙骑兵	1
 M:22:drawing_on_fourth_wall:zaidisimianqiangshanghuihua	在第四面墙上绘画	1
 M:22:drowning_in_your_ocean:yanmozainidehaiyangzhong	淹没在你的海洋中	1
-M:22:dutch_braided_ponytail:helanbianmayi	荷兰辫马尾	1
+M:22:dutch_braided_ponytail:helanbianmawei	荷兰辫马尾	1
 M:22:eiga_daisuki_pompo-san:dianyingshaonvpangboxiaojie	电影少女庞波小姐	1
 M:22:el_cazador_de_la_bruja:monvlieren	魔女猎人	1
 M:22:elemental_earth_symbol:diyuansufuhao	地元素符号	1
@@ -253542,7 +253638,7 @@ M:22:playboy_bunny_swimsuit:huahuagongzitunvlangliantiyongyi	花花公子兔女�
 M:22:pochi_to_goshujin-sama:xiaoboqiyuzhuren	小波奇与主人	1
 M:22:pom_pom_(cheerleading):laladuihuaqiu	啦啦队花球	1
 M:22:pomefiore_dorm_uniform:baixueliaozhifu	白雪寮制服	1
-M:22:ponytail_over_shoulder:cejianmayi	侧肩马尾	1
+M:22:ponytail_over_shoulder:cejianmawei	侧肩马尾	1
 M:22:popsicle_hair_ornament:bingbangfashi	冰棒发饰	1
 M:22:pornography_production:chengrenyingpianzhizuo	成人影片制作	1
 M:22:precum_through_clothes:aiyeshentouyiwu	爱液渗透衣物	1
@@ -253631,7 +253727,7 @@ M:22:shinkaigyo_no_anko-san:shenhaiyuankangxiaojie	深海鱼安康小姐	1
 M:22:shinkawa_youji_(style):xinchuanyangsifengge	新川洋司风格	1
 M:22:shometsu-kei_no_teruru:xiaomiexitelulu	消灭系特露露	1
 M:22:shooting_through_heart:chuanxinjian	穿心箭	1
-M:22:short_braided_ponytail:duanbianfamayi	短编发马尾	1
+M:22:short_braided_ponytail:duanbianfamawei	短编发马尾	1
 M:22:short_bridal_gauntlets:duankuanxinniangshoutao	短款新娘手套	1
 M:22:shuetsu_school_uniform:xiuyuexiaofu	秀越校服	1
 M:22:shui_di_yu_bu_lei_shao:shuidiyubuleishao	水滴鱼不累烧	1
@@ -253832,7 +253928,7 @@ M:22:yurianna_girls_college:baiheannanvzixueyuan	百合安娜女子学院	1
 M:22:yuuwaku_namaiki_lolita:youhuoaomanluoli	诱惑傲慢萝莉	1
 M:22:yuzuo_de_yi_tiao_bianr:youzidenatiaobianer	柚子的那条辫儿	1
 M:22:zettai_bouei_leviathan:jueduifangweiliweitan	绝对防卫利维坦	1
-M:22:zhanchang_shuang_mawei:zhanchangshuangmayi	战场双马尾	1
+M:22:zhanchang_shuang_mawei:zhanchangshuangmawei	战场双马尾	1
 M:23:365_days_to_the_wedding:zhendeyaojiehunma	真的要结婚吗	1
 M:23:__prompt__:169_position:shuangrenbeichuantoutiwei	双人被穿透体位〔e621〕	0
 M:23:__prompt__:18th_century:shibashiji	十八世纪〔e621〕	0
@@ -254070,9 +254166,9 @@ M:23:__prompt__:akiba's_trip:qiuyeyuan	秋叶原〔合并词库〕	0
 M:23:__prompt__:akiha_rumiho:feilisimiaomiao	菲利斯喵喵〔合并词库〕	0
 M:23:__prompt__:akiha_rumiho:mingyunshizhimen	命运石之门〔合并词库〕	0
 M:23:__prompt__:akiha_rumiho:qiuyeliuweisui	秋叶留未穂〔合并词库〕	0
+M:23:__prompt__:akino_(el-k):changtuiliebao	长腿猎豹〔e621〕	0
 M:23:__prompt__:akino_(el-k):liebaonvhaiajinuo	猎豹女孩阿基诺〔e621〕	0
 M:23:__prompt__:akino_(el-k):qiuyechuli	秋野楚理〔e621〕	0
-M:23:__prompt__:akino_(el-k):zhangtuiliebao	长腿猎豹〔e621〕	0
 M:23:__prompt__:akitaru_oubi:dibaxiaodui	第八小队〔合并词库〕	0
 M:23:__prompt__:akitaru_oubi:qiuzunyingbei	秋樽桜备〔合并词库〕	0
 M:23:__prompt__:akitaru_oubi:yanyanxiaofangdui	炎炎消防队〔合并词库〕	0
@@ -254672,6 +254768,7 @@ M:23:__prompt__:back_dimples:weinasiwo	维纳斯窝〔e621〕	0
 M:23:__prompt__:back_dimples:xiabeijiuwo	下背酒窝〔e621〕	0
 M:23:__prompt__:back_dimples:yaowo	腰窝〔e621〕	0
 M:23:__prompt__:back_muscles:beibu	背部〔e621〕	0
+M:23:__prompt__:back_muscles:beibujirouxiantiao	背部肌肉线条〔常用词〕	1
 M:23:__prompt__:back_muscles:beibuxiantiao	背部线条〔e621〕	0
 M:23:__prompt__:back_muscles:beiji	背肌〔e621〕	0
 M:23:__prompt__:back_muscles:houbeijirou	后背肌肉〔e621〕	0
@@ -254685,6 +254782,7 @@ M:23:__prompt__:back_to_back:beiduibeizuo	背对背坐〔e621〕	0
 M:23:__prompt__:back_to_back:beikaobei	背靠背〔e621〕	0
 M:23:__prompt__:backlighting:beiguang	背光〔e621〕	0
 M:23:__prompt__:backlighting:beiguangpaishe	背光拍摄〔e621〕	0
+M:23:__prompt__:backlighting:beihoudaguang	背后打光〔常用词〕	1
 M:23:__prompt__:backlighting:guangxiao	光效〔e621〕	0
 M:23:__prompt__:backlighting:guangyuanzaihou	光源在后〔e621〕	0
 M:23:__prompt__:backlighting:niguangdaguang	逆光打光〔e621〕	0
@@ -256600,6 +256698,7 @@ M:23:__prompt__:crossed arms:shuangshoujiaocha	双手交叉〔提示词库〕	0
 M:23:__prompt__:crossed_arms:baobi	抱臂〔e621〕	0
 M:23:__prompt__:crossed_arms:jiaochashuangbi	交叉双臂〔提示词库〕	0
 M:23:__prompt__:crossed_arms:shoubijiaocha	手臂交叉〔e621〕	0
+M:23:__prompt__:crossed_arms:shuangshoubaoxiong	双手抱胸〔常用词〕	1
 M:23:__prompt__:crossed_arms:shuangshoujiaocha	双手交叉〔e621〕	0
 M:23:__prompt__:crossed_feet:jiaochajiao	交叉脚〔e621〕	0
 M:23:__prompt__:crossed_feet:jiaodieshuangjiao	交叠双脚〔e621〕	0
@@ -257386,6 +257485,7 @@ M:23:__prompt__:dynamax_ball:jijuhuaqiu	极巨化球〔合并词库〕	0
 M:23:__prompt__:dynamax_ball:jinglingqiu	精灵球〔合并词库〕	0
 M:23:__prompt__:dynamic pose:dongtaizishi	动态姿势〔提示词库〕	0
 M:23:__prompt__:dynamic_pose:dongtai	动态〔合并词库〕	0
+M:23:__prompt__:ear markings:erduohuawen	耳朵花纹〔常用词〕	1
 M:23:__prompt__:ear_cleaning:erbuhuli	耳部护理〔合并词库〕	0
 M:23:__prompt__:ear_fondling:erbuaifu	耳部爱抚〔合并词库〕	0
 M:23:__prompt__:ear_fondling:fumoerduo	抚摸耳朵〔合并词库〕	0
@@ -257956,6 +258056,7 @@ M:23:__prompt__:final_climax:zhongyangaochao	终焉高潮〔e621〕	0
 M:23:__prompt__:finana_ryugu:redairenyu	热带人鱼〔合并词库〕	0
 M:23:__prompt__:finding_nemo:xunzhaonimo	寻找尼莫〔e621〕	0
 M:23:__prompt__:fine details:jingxixijie	精细细节〔质量词〕	1
+M:23:__prompt__:fine details:jingzhixijie	精致细节〔常用词〕	1
 M:23:__prompt__:finger_claws:lizhua	利爪〔e621〕	0
 M:23:__prompt__:finger_claws:shouzhizhuazi	手指爪子〔e621〕	0
 M:23:__prompt__:finger_claws:zhizhao	指爪〔e621〕	0
@@ -258384,7 +258485,7 @@ M:23:__prompt__:fucked_silly:yuyueshishen	愉悦失神〔e621〕	0
 M:23:__prompt__:fujiwara_aya:tengyuanling	藤原绫〔合并词库〕	0
 M:23:__prompt__:fukuhara_ann:fuyuanxing	福原杏〔合并词库〕	0
 M:23:__prompt__:fukuyama_mai:fushanwu	福山舞〔合并词库〕	0
-M:23:__prompt__:fukuyama_mai:heifamayi	黑发马尾〔合并词库〕	0
+M:23:__prompt__:fukuyama_mai:heifamawei	黑发马尾〔合并词库〕	0
 M:23:__prompt__:fukuyama_mai:ouxiangdashihuiguniangnvhai	偶像大师灰姑娘女孩〔合并词库〕	0
 M:23:__prompt__:full_bladder:chongyingpangguang	充盈膀胱〔e621〕	0
 M:23:__prompt__:full_bladder:pangguangguqi	膀胱鼓起〔e621〕	0
@@ -258402,6 +258503,7 @@ M:23:__prompt__:funada_kiito:chuantianjia	船田家〔合并词库〕	0
 M:23:__prompt__:fungami_yuya:bumiezuanshi	不灭钻石〔合并词库〕	0
 M:23:__prompt__:fungami_yuya:gaosuxingxing	高速星星〔合并词库〕	0
 M:23:__prompt__:fungami_yuya:penshangyuye	喷上裕也〔合并词库〕	0
+M:23:__prompt__:fur markings:maofahuawen	毛发花纹〔常用词〕	1
 M:23:__prompt__:fur_bracelet:maopishouzhuo	毛皮手镯〔合并词库〕	0
 M:23:__prompt__:fur_bracelet:shouzhuo	手镯〔合并词库〕	0
 M:23:__prompt__:fur_clothing:fangmaopiyiwu	仿毛皮衣物〔e621〕	0
@@ -261443,6 +261545,7 @@ M:23:__prompt__:looking_afar:tiaowang	眺望〔e621〕	0
 M:23:__prompt__:looking_afar:yaowang	遥望〔提示词库〕	0
 M:23:__prompt__:looking_away:beidui	背对〔e621〕	0
 M:23:__prompt__:looking_away:beishi	背视〔e621〕	0
+M:23:__prompt__:looking_away:bukanjingtou	不看镜头〔常用词〕	1
 M:23:__prompt__:looking_away:celiankan	侧脸看〔e621〕	0
 M:23:__prompt__:looking_away:cemu	侧目〔e621〕	0
 M:23:__prompt__:looking_away:ceshi	侧视〔e621〕	0
@@ -261500,7 +261603,7 @@ M:23:__prompt__:love_handles:feipang	肥胖〔e621〕	0
 M:23:__prompt__:love_handles:shenti	身体〔e621〕	0
 M:23:__prompt__:love_handles:yaoweizhuirou	腰围赘肉〔e621〕	0
 M:23:__prompt__:love_handles:youyongquan	游泳圈〔e621〕	0
-M:23:__prompt__:low ponytail:dimayi	低马尾〔提示词库〕	0
+M:23:__prompt__:low ponytail:dimawei	低马尾〔提示词库〕	0
 M:23:__prompt__:low_contrast:diduibidu	低对比度〔e621〕	0
 M:23:__prompt__:low_contrast:difancha	低反差〔e621〕	0
 M:23:__prompt__:low_contrast:menglonggan	朦胧感〔e621〕	0
@@ -261508,7 +261611,7 @@ M:23:__prompt__:low_contrast:rouhesediao	柔和色调〔e621〕	0
 M:23:__prompt__:low_neckline:diling	低领〔合并词库〕	0
 M:23:__prompt__:low_neckline:dixiongling	低胸领〔合并词库〕	0
 M:23:__prompt__:low_neckline:fuzhuanglingkou	服装领口〔合并词库〕	0
-M:23:__prompt__:low_ponytail:mayi	马尾〔e621〕	0
+M:23:__prompt__:low_ponytail:mawei	马尾〔e621〕	0
 M:23:__prompt__:lowleg_pants:diyaokuzi	低腰裤子〔提示词库〕	0
 M:23:__prompt__:lowleg_skirt:qunzhuang	裙装〔合并词库〕	0
 M:23:__prompt__:lube_on_butt:piguzhanrunhuaji	屁股沾润滑剂〔e621〕	0
@@ -261876,9 +261979,9 @@ M:23:__prompt__:mega_delphox:chaojihuohuli	超级火狐狸〔e621〕	0
 M:23:__prompt__:mega_delphox:chaojiyaohu	超级妖狐〔e621〕	0
 M:23:__prompt__:mega_delphox:hulijing	狐狸精〔e621〕	0
 M:23:__prompt__:mega_gallade:ailuleiduo	艾路雷朵〔e621〕	0
+M:23:__prompt__:mega_lopunny:changertu	长耳兔〔e621〕	0
 M:23:__prompt__:mega_lopunny:chaojiluqialiou	超级路卡利欧〔e621〕	0
 M:23:__prompt__:mega_lopunny:chaojiwutiane	超级舞天鹅〔e621〕	0
-M:23:__prompt__:mega_lopunny:zhangertu	长耳兔〔e621〕	0
 M:23:__prompt__:mega_lucario:chaojilukaliao	超级卢卡里奥〔e621〕	0
 M:23:__prompt__:mega_lucario:chaojiluqialiou	超级路卡利欧〔e621〕	0
 M:23:__prompt__:mega_malamar:chaojijinhua	超级进化〔e621〕	0
@@ -262082,6 +262185,12 @@ M:23:__prompt__:misgendering:xingbiewucheng	性别误称〔e621〕	0
 M:23:__prompt__:misono_karin:mofashaonvxiaoyuanwaizhuan	魔法少女小圆外传〔合并词库〕	0
 M:23:__prompt__:misono_karin:yuyuanhualin	御园花凛〔合并词库〕	0
 M:23:__prompt__:misora_inaho:yaoguaishoubiaodonghuadierji	妖怪手表动画第二季〔合并词库〕	0
+M:23:__prompt__:missing arms:queshaoshoubi	缺少手臂〔负面词〕	1
+M:23:__prompt__:missing arms:shoubiqueshi	手臂缺失〔负面词〕	1
+M:23:__prompt__:missing ears:erduoqueshi	耳朵缺失〔负面词〕	1
+M:23:__prompt__:missing ears:queshaoerduo	缺少耳朵〔负面词〕	1
+M:23:__prompt__:missing legs:queshaotui	缺少腿〔负面词〕	1
+M:23:__prompt__:missing legs:tuibuqueshi	腿部缺失〔负面词〕	1
 M:23:__prompt__:missing limb:queshaodezhiti	缺少的肢体〔负面词〕	0
 M:23:__prompt__:missing limb:queshaozhiti	缺少肢体〔负面词〕	0
 M:23:__prompt__:missing_halo:guanglunqueshi	光轮缺失〔合并词库〕	0
@@ -262486,6 +262595,7 @@ M:23:__prompt__:nanjo_hikaru:nantiaoguang	南条光〔合并词库〕	0
 M:23:__prompt__:nao_(kuzuyu):xiaosengeyouyuanchuang	小森葛由原创〔合并词库〕	0
 M:23:__prompt__:nao_(kuzuyu):zhi	直〔合并词库〕	0
 M:23:__prompt__:narrow waist:xiyao	细腰〔提示词库〕	0
+M:23:__prompt__:narrow waist:zhaiyao	窄腰〔常用词〕	1
 M:23:__prompt__:narrow_waist:yaobu	腰部〔合并词库〕	0
 M:23:__prompt__:narumi_tsuyu:nvtidu	女提督〔合并词库〕	0
 M:23:__prompt__:narumi_tsuyu:xiongji	熊级〔合并词库〕	0
@@ -264516,6 +264626,7 @@ M:23:__prompt__:riding_dildo:qijiayangju	骑假阳具〔e621〕	0
 M:23:__prompt__:riding_dildo:qizhendongbang	骑振动棒〔e621〕	0
 M:23:__prompt__:rikku_(ff10):daozeilianjinshushi	盗贼炼金术士〔合并词库〕	0
 M:23:__prompt__:rikku_(ff10):like	里克〔合并词库〕	0
+M:23:__prompt__:rim lighting:bianyuanguang	边缘光〔常用词〕	1
 M:23:__prompt__:rim lighting:lunkuoguang	轮廓光〔光照词〕	1
 M:23:__prompt__:rim_lighting:bianyuanguang	边缘光〔e621〕	0
 M:23:__prompt__:rim_lighting:bianyuanzhaoming	边缘照明〔e621〕	0
@@ -265400,10 +265511,10 @@ M:23:__prompt__:simon_(ttgl):ximeng	西蒙〔合并词库〕	0
 M:23:__prompt__:sincastermon:huashi	画师〔e621〕	0
 M:23:__prompt__:sing_(movie):gechangxiu	歌唱秀〔e621〕	0
 M:23:__prompt__:sing_(movie):huanlehaoshengyin	欢乐好声音〔e621〕	0
-M:23:__prompt__:single_braid:bianjiemayi	编结马尾〔e621〕	0
-M:23:__prompt__:single_braid:bianzhimayi	编织马尾〔e621〕	0
+M:23:__prompt__:single_braid:bianjiemawei	编结马尾〔e621〕	0
+M:23:__prompt__:single_braid:bianzhimawei	编织马尾〔e621〕	0
 M:23:__prompt__:single_braid:bianzi	辫子〔e621〕	0
-M:23:__prompt__:single_braid:bianzimayi	辫子马尾〔e621〕	0
+M:23:__prompt__:single_braid:bianzimawei	辫子马尾〔e621〕	0
 M:23:__prompt__:single_braid:danbian	单辫〔e621〕	0
 M:23:__prompt__:single_braid:danbianbianzi	单边辫子〔e621〕	0
 M:23:__prompt__:single_braid:dancebianfa	单侧编发〔e621〕	0
@@ -268481,7 +268592,7 @@ M:23:foot_in_another's_mouth:zurutarenzhikou	足入他人之口	1
 M:23:foot_on_another's_chest:jiaocaitarenxiongkou	脚踩他人胸口	1
 M:23:foot_on_another's_thigh:caitadatui	踩踏大腿	1
 M:23:four-finger_heart_hands:sizhibixin	四指比心	1
-M:23:french_braided_ponytail:fashibianfamayi	法式编发马尾	1
+M:23:french_braided_ponytail:fashibianfamawei	法式编发马尾	1
 M:23:front-tie_bikini_bottom:qianjidaibijinixiazhuang	前系带比基尼下装	1
 M:23:full_moon_hair_ornament:manyuefashi	满月发饰	1
 M:23:fur-trimmed_arm_warmers:maobianhubi	毛边护臂	1
@@ -268510,7 +268621,7 @@ M:23:grabbing_another's_knee:zhuazhetarendexigai	抓着他人的膝盖	1
 M:23:grabbing_another's_nose:zhuatarenbizi	抓他人鼻子	1
 M:23:grabbing_another's_tail:zhuaqutarenweiba	抓取他人尾巴	1
 M:23:grabbing_another's_wing:zhuazhutarendechibang	抓住他人的翅膀	1
-M:23:grabbing_both_twintails:danshouzhuashuangmayi	单手抓双马尾	1
+M:23:grabbing_both_twintails:danshouzhuashuangmawei	单手抓双马尾	1
 M:23:grabbing_own_flat_chest:zhuawopingxiong	抓握平胸	1
 M:23:gradient-tinted_eyewear:jianbianseyanjing	渐变色眼镜	1
 M:23:great_mother_temptation:weidamuqindeyouhuo	伟大母亲的诱惑	1
@@ -268831,7 +268942,7 @@ M:23:poke_ball_hair_ornament:jinglingqiufashi	精灵球发饰	1
 M:23:pokemon_between_breasts:baokemengjiaxiong	宝可梦夹胸	1
 M:23:pokemon_mystery_dungeon:baokemengbukesiyimigong	宝可梦不可思议迷宫	1
 M:23:poking_another's_breast:chuotarenxiongbu	戳他人胸部	1
-M:23:ponytail_with_hair_base:fashuchanraomayi	发束缠绕马尾	1
+M:23:ponytail_with_hair_base:fashuchanraomawei	发束缠绕马尾	1
 M:23:postbox_(outgoing_mail):youtong	邮筒	1
 M:23:pouring_through_clothes:yiwuguolvyeti	衣物过滤液体	1
 M:23:powerpuff_girls_(style):feitianxiaonvjingfengge	飞天小女警风格	1
@@ -269162,7 +269273,7 @@ M:24:__prompt__:Neon lighting:nihongdengzhaoming	霓虹灯照明〔提示词库�
 M:24:__prompt__:Overhead view:fushitu	俯视图〔提示词库〕	0
 M:24:__prompt__:Parallel view:pingxingshijiao	平行视角〔提示词库〕	0
 M:24:__prompt__:Running shoes:paobuxie	跑步鞋〔提示词库〕	0
-M:24:__prompt__:Side ponytail:cemayi	侧马尾〔提示词库〕	0
+M:24:__prompt__:Side ponytail:cemawei	侧马尾〔提示词库〕	0
 M:24:__prompt__:Singapura Cat:jinjilamao	金吉拉猫〔提示词库〕	0
 M:24:__prompt__:Soft lighting:rouhezhaoming	柔和照明〔提示词库〕	0
 M:24:__prompt__:Spider Monkey:juanweihou	卷尾猴〔提示词库〕	0
@@ -271824,6 +271935,7 @@ M:24:__prompt__:conveyor_belt:gongye	工业〔e621〕	0
 M:24:__prompt__:conveyor_belt:liushuixianpidai	流水线皮带〔e621〕	0
 M:24:__prompt__:conveyor_belt:shusongdai	输送带〔e621〕	0
 M:24:__prompt__:cookie_cutter:muju	模具〔合并词库〕	0
+M:24:__prompt__:cool lighting:lengguang	冷光〔常用词〕	1
 M:24:__prompt__:coontail_hair:huanweifaxing	浣尾发型〔e621〕	0
 M:24:__prompt__:coontail_hair:huanxiongweiranfa	浣熊尾染发〔e621〕	0
 M:24:__prompt__:coontail_hair:shuangsetiaowenranfa	双色条纹染发〔e621〕	0
@@ -272304,6 +272416,7 @@ M:24:__prompt__:deer_humanoid:lurenxing	鹿人形〔e621〕	0
 M:24:__prompt__:defeated_hero:baibeiyongzhe	败北勇者〔e621〕	0
 M:24:__prompt__:defeated_hero:daodideyingxiong	倒地的英雄〔e621〕	0
 M:24:__prompt__:defeated_hero:zhanbaiyingxiong	战败英雄〔e621〕	0
+M:24:__prompt__:deformed body:shentijixing	身体畸形〔负面词〕	1
 M:24:__prompt__:deformed_anus:bianxinggangmen	变形肛门〔e621〕	0
 M:24:__prompt__:deformed_anus:gangmenbianxing	肛门变形〔e621〕	0
 M:24:__prompt__:deformed_anus:songchigangmen	松弛肛门〔e621〕	0
@@ -272976,6 +273089,8 @@ M:24:__prompt__:extended_legs:tuibuyanshen	腿部延伸〔e621〕	0
 M:24:__prompt__:external_wall:huwaiqiangmian	户外墙面〔e621〕	0
 M:24:__prompt__:external_wall:jianzhuwaiqiangmian	建筑外墙面〔e621〕	0
 M:24:__prompt__:external_wall:waiqiang	外墙〔e621〕	0
+M:24:__prompt__:extra fingers:duoyushouzhi	多余手指〔负面词〕	1
+M:24:__prompt__:extra fingers:shouzhitaiduo	手指太多〔负面词〕	1
 M:24:__prompt__:extra_breasts:rufang	乳房〔合并词库〕	0
 M:24:__prompt__:extra_breasts:yichang	异常〔合并词库〕	0
 M:24:__prompt__:extra_nipples:chaoduorutou	超多乳头〔合并词库〕	0
@@ -273801,6 +273916,8 @@ M:24:__prompt__:furrowed_brow:meitoujinsuo	眉头紧锁〔提示词库〕	0
 M:24:__prompt__:furrowed_brow:zhoumei	皱眉〔合并词库〕	0
 M:24:__prompt__:furrowed_brow:zhoumeibiaoqing	皱眉表情〔合并词库〕	0
 M:24:__prompt__:fused fingers:ronghedeshouzhi	融合的手指〔负面词〕	0
+M:24:__prompt__:fused fingers:shouzhironghe	手指融合〔负面词〕	1
+M:24:__prompt__:fused fingers:shouzhizhanlian	手指粘连〔负面词〕	1
 M:24:__prompt__:fused_fingers:rongheshouzhi	融合手指〔e621〕	0
 M:24:__prompt__:fused_fingers:shouzhibingsheng	手指并生〔e621〕	0
 M:24:__prompt__:fused_fingers:shouzhiyuhe	手指愈合〔e621〕	0
@@ -274743,7 +274860,7 @@ M:24:__prompt__:harumi_kajika:qinghaijiemei	晴海姐妹〔合并词库〕	0
 M:24:__prompt__:harumi_kajika:yushichangjiazu	鱼市场家族〔合并词库〕	0
 M:24:__prompt__:harumi_shinju:qinghaimeimei	晴海妹妹〔合并词库〕	0
 M:24:__prompt__:harumi_shinju:qinghaizhenzhu	晴海真珠〔合并词库〕	0
-M:24:__prompt__:harumi_shinju:ziseshuangmayi	紫色双马尾〔合并词库〕	0
+M:24:__prompt__:harumi_shinju:ziseshuangmawei	紫色双马尾〔合并词库〕	0
 M:24:__prompt__:harunami_anri:xiaoqingshuiyamei	小清水亚美〔合并词库〕	0
 M:24:__prompt__:harunami_anri:yangnanxingli	阳南杏里〔合并词库〕	0
 M:24:__prompt__:haruno_haruka:chunyeyao	春野遥〔合并词库〕	0
@@ -274995,7 +275112,7 @@ M:24:__prompt__:hieroglyphics:guaiji	古埃及〔合并词库〕	0
 M:24:__prompt__:hieroglyphics:zhuangshiwenzi	装饰文字〔合并词库〕	0
 M:24:__prompt__:hige_habahiro:dashu	大叔〔合并词库〕	0
 M:24:__prompt__:hige_habahiro:rixiafuguang	日下幅広〔合并词库〕	0
-M:24:__prompt__:high ponytail:gaomayi	高马尾〔提示词库〕	0
+M:24:__prompt__:high ponytail:gaomawei	高马尾〔提示词库〕	0
 M:24:__prompt__:high_contrast:gaofancha	高反差〔e621〕	0
 M:24:__prompt__:high_contrast:guangyingxiaoguo	光影效果〔e621〕	0
 M:24:__prompt__:high_contrast:minganduizhaofa	明暗对照法〔e621〕	0
@@ -275003,8 +275120,8 @@ M:24:__prompt__:high_contrast:qiangminganduibi	强明暗对比〔e621〕	0
 M:24:__prompt__:high_contrast:yishufengge	艺术风格〔e621〕	0
 M:24:__prompt__:high_contrast:yishujifa	艺术技法〔e621〕	0
 M:24:__prompt__:high_ponytail:gaogaozhaqidemaweibian	高高扎起的马尾辫〔e621〕	0
-M:24:__prompt__:high_ponytail:gaozhamayi	高扎马尾〔e621〕	0
-M:24:__prompt__:high_ponytail:mayi	马尾〔e621〕	0
+M:24:__prompt__:high_ponytail:gaozhamawei	高扎马尾〔e621〕	0
+M:24:__prompt__:high_ponytail:mawei	马尾〔e621〕	0
 M:24:__prompt__:higuchi_kaede:chudai	初代〔合并词库〕	0
 M:24:__prompt__:higuchi_kaede:tongkoufeng	樋口枫〔合并词库〕	0
 M:24:__prompt__:higuchi_seika:tongkoushenghua	樋口圣华〔合并词库〕	0
@@ -276126,7 +276243,7 @@ M:24:__prompt__:kariya_masaki:leimenzhongxue	雷门中学〔合并词库〕	0
 M:24:__prompt__:kariya_masaki:shouwu	狩屋〔合并词库〕	0
 M:24:__prompt__:karuizawa_kei:gaoduyuchenggaozhong	高度育成高中〔合并词库〕	0
 M:24:__prompt__:karuizawa_kei:huanyinglaidaoshilizhishangzhuyidejiaoshi	欢迎来到实力至上主义的教室〔合并词库〕	0
-M:24:__prompt__:karuizawa_kei:jinsemayi	金色马尾〔合并词库〕	0
+M:24:__prompt__:karuizawa_kei:jinsemawei	金色马尾〔合并词库〕	0
 M:24:__prompt__:karuizawa_kei:qingjingzehui	轻井泽惠〔合并词库〕	0
 M:24:__prompt__:kasaki_nozomi:chuixiangbashangdiyinhao	吹响吧上低音号〔合并词库〕	0
 M:24:__prompt__:kasaki_nozomi:sanmuximei	伞木希美〔合并词库〕	0
@@ -276978,17 +277095,17 @@ M:24:__prompt__:long_mustache:mianbutezheng	面部特征〔e621〕	0
 M:24:__prompt__:long_mustache:zhangbazihu	长八字胡〔e621〕	0
 M:24:__prompt__:long_mustache:zhanghuzi	长胡子〔e621〕	0
 M:24:__prompt__:long_mustache:zhangzi	长髭〔e621〕	0
+M:24:__prompt__:long_pigtails:changshuangmawei	长双马尾〔e621〕	0
 M:24:__prompt__:long_pigtails:chaochangmaweibian	超长马尾辫〔e621〕	0
-M:24:__prompt__:long_pigtails:jiyaoshuangmayi	及腰双马尾〔e621〕	0
+M:24:__prompt__:long_pigtails:jiyaoshuangmawei	及腰双马尾〔e621〕	0
 M:24:__prompt__:long_pigtails:zhangbianzi	长辫子〔e621〕	0
-M:24:__prompt__:long_pigtails:zhangshuangmayi	长双马尾〔e621〕	0
 M:24:__prompt__:long_playtime:zhangbofangshijian	长播放时间〔e621〕	0
 M:24:__prompt__:long_playtime:zhangshidongtai	长时动态〔e621〕	0
 M:24:__prompt__:long_playtime:zhangshijianbofang	长时间播放〔e621〕	0
-M:24:__prompt__:long_ponytail:changfazhamayi	长发扎马尾〔e621〕	0
-M:24:__prompt__:long_ponytail:jiyaomayi	及腰马尾〔e621〕	0
+M:24:__prompt__:long_ponytail:changfazhamawei	长发扎马尾〔e621〕	0
+M:24:__prompt__:long_ponytail:changmawei	长马尾〔e621〕	0
+M:24:__prompt__:long_ponytail:jiyaomawei	及腰马尾〔e621〕	0
 M:24:__prompt__:long_ponytail:zhangmaweibian	长马尾辫〔e621〕	0
-M:24:__prompt__:long_ponytail:zhangmayi	长马尾〔e621〕	0
 M:24:__prompt__:long_toenails:jiaobuxijie	脚部细节〔e621〕	0
 M:24:__prompt__:long_toenails:zhangjiaozhijia	长脚趾甲〔e621〕	0
 M:24:__prompt__:long_whiskers:kuanchuxu	宽触须〔e621〕	0
@@ -277044,7 +277161,7 @@ M:24:__prompt__:lovers_moment:lianrenshike	恋人时刻〔e621〕	0
 M:24:__prompt__:lovers_moment:lianrenshunjian	恋人瞬间〔e621〕	0
 M:24:__prompt__:lovers_moment:qinglvshunjian	情侣瞬间〔e621〕	0
 M:24:__prompt__:loving_reaper:sishenaiwu	死神爱物〔e621〕	0
-M:24:__prompt__:low twintails:dishuangmayi	低双马尾〔提示词库〕	0
+M:24:__prompt__:low twintails:dishuangmawei	低双马尾〔提示词库〕	0
 M:24:__prompt__:low_cut_shirt:dilingchenshan	低领衬衫〔e621〕	0
 M:24:__prompt__:low_cut_shirt:dixiongshangyi	低胸上衣〔e621〕	0
 M:24:__prompt__:low_cut_shirt:dixiongzhuang	低胸装〔e621〕	0
@@ -277053,7 +277170,7 @@ M:24:__prompt__:low_framerate:chouzhenhuamian	抽帧画面〔e621〕	0
 M:24:__prompt__:low_framerate:dizhendonghua	低帧动画〔e621〕	0
 M:24:__prompt__:low_framerate:dizhenlv	低帧率〔e621〕	0
 M:24:__prompt__:low_framerate:kadunhuamian	卡顿画面〔e621〕	0
-M:24:__prompt__:low_twintails:shuangmayi	双马尾〔e621〕	0
+M:24:__prompt__:low_twintails:shuangmawei	双马尾〔e621〕	0
 M:24:__prompt__:lowered_pants:diyaoku	低腰裤〔e621〕	0
 M:24:__prompt__:lowered_pants:kuzixiachui	裤子下垂〔e621〕	0
 M:24:__prompt__:lowered_pants:laxiadekuzi	拉下的裤子〔e621〕	0
@@ -277568,7 +277685,9 @@ M:24:__prompt__:misono_kirika:yuyuanwuxiang	御园雾香〔合并词库〕	0
 M:24:__prompt__:missile_trail:daodanguiji	导弹轨迹〔合并词库〕	0
 M:24:__prompt__:missile_trail:weiji	尾迹〔合并词库〕	0
 M:24:__prompt__:missile_trail:wuqitexiao	武器特效〔合并词库〕	0
+M:24:__prompt__:missing limbs:zhitiqueshi	肢体缺失〔负面词〕	1
 M:24:__prompt__:missing_limbs:duanzhi	断肢〔e621〕	0
+M:24:__prompt__:missing_limbs:queshaozhiti	缺少肢体〔负面词〕	1
 M:24:__prompt__:missing_limbs:quezhi	缺肢〔e621〕	0
 M:24:__prompt__:missing_limbs:zhiticanque	肢体残缺〔e621〕	0
 M:24:__prompt__:missing_limbs:zhitiqueshi	肢体缺失〔e621〕	0
@@ -279395,9 +279514,9 @@ M:24:__prompt__:pollux_(fate):diaosikuli	迪奥斯库里〔合并词库〕	0
 M:24:__prompt__:pommel_tassel:liusu	流苏〔合并词库〕	0
 M:24:__prompt__:pommel_tassel:wuqizhuangshi	武器装饰〔合并词库〕	0
 M:24:__prompt__:pony_(animal):mapi	马匹〔合并词库〕	0
-M:24:__prompt__:ponytail_ears:erduozhamayi	耳朵扎马尾〔e621〕	0
+M:24:__prompt__:ponytail_ears:erduozhamawei	耳朵扎马尾〔e621〕	0
 M:24:__prompt__:ponytail_ears:mayier	马尾耳〔e621〕	0
-M:24:__prompt__:ponytail_ears:shuangershuchengmayi	双耳束成马尾〔e621〕	0
+M:24:__prompt__:ponytail_ears:shuangershuchengmawei	双耳束成马尾〔e621〕	0
 M:24:__prompt__:pool_of_blood:xueji	血迹〔合并词库〕	0
 M:24:__prompt__:poon_(atlyss):tuerzhongzu	兔耳种族〔e621〕	0
 M:24:__prompt__:poon_(atlyss):tuzujuese	兔族角色〔e621〕	0
@@ -280876,11 +280995,11 @@ M:24:__prompt__:shrine_maiden:shendaowunv	神道巫女〔e621〕	0
 M:24:__prompt__:shrine_maiden:shenshewunv	神社巫女〔e621〕	0
 M:24:__prompt__:shrine_maiden:wunv	巫女〔e621〕	0
 M:24:__prompt__:shunga_youkyu:chunhuayaoqiuzigui	春画要求姉贵〔合并词库〕	0
-M:24:__prompt__:side ponytail:cemayi	侧马尾〔提示词库〕	0
+M:24:__prompt__:side ponytail:cemawei	侧马尾〔提示词库〕	0
 M:24:__prompt__:side-tie_peek:cejidaikuishi	侧系带窥视〔合并词库〕	0
-M:24:__prompt__:side_ponytail:cezhamayi	侧扎马尾〔e621〕	0
-M:24:__prompt__:side_ponytail:mayi	马尾〔e621〕	0
-M:24:__prompt__:side_ponytail:piancemayi	偏侧马尾〔e621〕	0
+M:24:__prompt__:side_ponytail:cezhamawei	侧扎马尾〔e621〕	0
+M:24:__prompt__:side_ponytail:mawei	马尾〔e621〕	0
+M:24:__prompt__:side_ponytail:piancemawei	偏侧马尾〔e621〕	0
 M:24:__prompt__:sideways_oral:cetian	侧舔〔e621〕	0
 M:24:__prompt__:sideways_oral:cexi	侧吸〔e621〕	0
 M:24:__prompt__:sideways_oral:cexiangkoujiao	侧向口交〔e621〕	0
@@ -281155,6 +281274,7 @@ M:24:__prompt__:soda_kazuichi:chaogaoxiaojidejixieshi	超高校级的机械师�
 M:24:__prompt__:soda_kazuichi:zuoyoutianheyi	左右田和一〔合并词库〕	0
 M:24:__prompt__:soft feathers:rouruanyumao	柔软羽毛〔材质词〕	1
 M:24:__prompt__:soft lighting:rouguang	柔光〔光照词〕	1
+M:24:__prompt__:soft lighting:rouheguangxian	柔和光线〔常用词〕	1
 M:24:__prompt__:soft lighting:rouheguangzhao	柔和光照〔光照词〕	1
 M:24:__prompt__:soft_lighting:rouguang	柔光〔e621〕	0
 M:24:__prompt__:soft_lighting:rouhuaguangxian	柔化光线〔e621〕	0
@@ -281856,6 +281976,7 @@ M:24:__prompt__:taichi_kamiya:bashentaiyi	八神太一〔e621〕	0
 M:24:__prompt__:taichi_kamiya:yongqiwenzhang	勇气纹章〔e621〕	0
 M:24:__prompt__:taichou_haori:hefu	和服〔合并词库〕	0
 M:24:__prompt__:taichou_haori:yuzhi	羽织〔合并词库〕	0
+M:24:__prompt__:tail markings:weibahuawen	尾巴花纹〔常用词〕	1
 M:24:__prompt__:tail_bracelet:weibashipin	尾巴饰品〔e621〕	0
 M:24:__prompt__:tail_bracelet:weibashouhuan	尾巴手环〔e621〕	0
 M:24:__prompt__:tail_bracelet:weihuan	尾环〔e621〕	0
@@ -282614,13 +282735,13 @@ M:24:__prompt__:turanga_leela:feichugeweilailila	飞出个未来莉拉〔e621〕
 M:24:__prompt__:turborenegade:wolunpannizhe	涡轮叛逆者〔e621〕	0
 M:24:__prompt__:turkey_(food):roulei	肉类〔合并词库〕	0
 M:24:__prompt__:turn_a_gundam:gaoda	高达〔合并词库〕	0
+M:24:__prompt__:turo_of_akesh:changerbianfujuese	长耳蝙蝠角色〔e621〕	0
 M:24:__prompt__:turo_of_akesh:shamobianfumaoxianzhe	沙漠蝙蝠冒险者〔e621〕	0
-M:24:__prompt__:turo_of_akesh:zhangerbianfujuese	长耳蝙蝠角色〔e621〕	0
 M:24:__prompt__:twice_(group):hanguonvtuan	韩国女团〔合并词库〕	0
 M:24:__prompt__:twin_ear_bows:liangcehudiejie	两侧蝴蝶结〔e621〕	0
 M:24:__prompt__:twin_ear_bows:shuangcefashihudiejie	双侧发饰蝴蝶结〔e621〕	0
 M:24:__prompt__:twin_ear_bows:shuangerhudiejie	双耳蝴蝶结〔e621〕	0
-M:24:__prompt__:twintails_day:shuangmayi	双马尾〔合并词库〕	0
+M:24:__prompt__:twintails_day:shuangmawei	双马尾〔合并词库〕	0
 M:24:__prompt__:twirling_hair:faxingdongzuo	发型动作〔e621〕	0
 M:24:__prompt__:twirling_hair:juanfawannong	卷发玩弄〔e621〕	0
 M:24:__prompt__:twirling_hair:juantoufa	卷头发〔e621〕	0
@@ -283109,6 +283230,7 @@ M:24:__prompt__:wanted_poster:tongjihaibao	通缉海报〔e621〕	0
 M:24:__prompt__:wanted_poster:xuanshanghaibao	悬赏海报〔e621〕	0
 M:24:__prompt__:warhammer_40k:zhanchui	战锤〔合并词库〕	0
 M:24:__prompt__:warhammer_40k:zhuoyou	桌游〔合并词库〕	0
+M:24:__prompt__:warm_lighting:nuanguang	暖光〔常用词〕	1
 M:24:__prompt__:warm_lighting:nuanguangzhaoming	暖光照明〔e621〕	0
 M:24:__prompt__:warm_lighting:nuansediao	暖色调〔e621〕	0
 M:24:__prompt__:warm_lighting:nuansediaoguangxian	暖色调光线〔e621〕	0
@@ -283883,7 +284005,7 @@ M:24:footjob_through_footwear:gezhexiewazujiao	隔着鞋袜足交	1
 M:24:forehead_flicking_viewer:danetoushijiao	弹额头视角	1
 M:24:fragment_of_the_universe:yuzhousuipian	宇宙碎片	1
 M:24:freedom_of_russia_legion:eluosiziyoujuntuan	俄罗斯自由军团	1
-M:24:french_braided_twintails:fashibianfashuangmayi	法式编发双马尾	1
+M:24:french_braided_twintails:fashibianfashuangmawei	法式编发双马尾	1
 M:24:frilled_bridal_gauntlets:heyebianxinnianghushou	荷叶边新娘护手	1
 M:24:fudatsuki_no_kyouko-chan:zhayuejiadexiaoxing	札月家的小杏	1
 M:24:full-body_clothes_hanger:quanshenyijia	全身衣架	1
@@ -284138,7 +284260,7 @@ M:24:omoide_no_naka_no_shoujo:huiyizhongdeshaonv	回忆中的少女	1
 M:24:onee-chan_no_te_wo_totte:qianzhejiejiedeshou	牵着姐姐的手	1
 M:24:oomo-san_loves_warhammer:damusangaizhanchui	大母桑爱战锤	1
 M:24:oosaki-san_to_komori-san:daqixiaojieyuxiaosenxiaojie	大崎小姐与小森小姐	1
-M:24:ore_twintail_ni_narimasu:woyaochengweishuangmayi	我要成为双马尾	1
+M:24:ore_twintail_ni_narimasu:woyaochengweishuangmawei	我要成为双马尾	1
 M:24:oretachi_majikou_destroy:womenshimoxiaopohuaizhe	我们是魔校破坏者	1
 M:24:ori_and_the_blind_forest:aoliyuheiansenlin	奥里与黑暗森林	1
 M:24:osafune_katsuobushi_kobo:zhangchuanjianjiegongfang	长船鲣节工房	1
@@ -284239,7 +284361,7 @@ M:24:shorts_partially_removed:duankubantuo	短裤半脱	1
 M:24:shouhou_shoujo_fairy_era:shengfashaonvyaojingshidai	圣法少女妖精时代	1
 M:24:shuuen_no_shiori_project:zhongyanzhikanjihua	终焉之栞计划	1
 M:24:single_horizontal_stripe:danhengtiaowen	单横条纹	1
-M:24:single_low-tied_sidelock:dancedimayi	单侧低马尾	1
+M:24:single_low-tied_sidelock:dancedimawei	单侧低马尾	1
 M:24:single_sleeve_past_elbow:guozhoudanxiu	过肘单袖	1
 M:24:single_sleeve_past_wrist:danbianxiuzhangguowan	单边袖长过腕	1
 M:24:single_suspender_hanging:dancediaodaixiachui	单侧吊带下垂	1
@@ -284306,7 +284428,7 @@ M:24:transverse_plane_cutting:hengjiemianqiege	横截面切割	1
 M:24:triple_horizontal_stripe:sandaohengtiaowen	三道横条纹	1
 M:24:tsukiji_uogashi_sandaime:zhudiyuheansandaimu	筑地鱼河岸三代目	1
 M:24:twelve_heavenly_generals:shiershenjiang	十二神将	1
-M:24:twintails_with_hair_base:fashuchanraoshishuangmayi	发束缠绕式双马尾	1
+M:24:twintails_with_hair_base:fashuchanraoshishuangmawei	发束缠绕式双马尾	1
 M:24:u.a._cheerleader_uniform:xiongyinggaozhonglaladuifu	雄英高中啦啦队服	1
 M:24:uchino_kuroneko_onnanoko:wojiaheimaoshaonv	我家黑猫少女	1
 M:24:ui-chan_no_niizuma_diary:youjiangdexinqiriji	忧酱的新妻日记	1
@@ -285031,6 +285153,7 @@ M:25:__prompt__:atelier_ryza_3:lianjingongfang	炼金工房〔合并词库〕	0
 M:25:__prompt__:atelier_sophie:lianjingongfang	炼金工房〔合并词库〕	0
 M:25:__prompt__:atelier_totori:lianjingongfang	炼金工房〔合并词库〕	0
 M:25:__prompt__:athene_(genus):jixiaoshu	姬鸮属〔e621〕	0
+M:25:__prompt__:athletic build:jianmeitixing	健美体型〔常用词〕	1
 M:25:__prompt__:athletic_human:jianmeirenlei	健美人类〔e621〕	0
 M:25:__prompt__:athletic_human:yundongxingrenlei	运动型人类〔e621〕	0
 M:25:__prompt__:athletic_human:yundongyuanshencai	运动员身材〔e621〕	0
@@ -285275,7 +285398,7 @@ M:25:__prompt__:beaded_jewelry:zhushi	珠饰〔e621〕	0
 M:25:__prompt__:beaded_jewelry:zhuzishipin	珠子饰品〔e621〕	0
 M:25:__prompt__:bean_bag_chair:doudaiyi	豆袋椅〔合并词库〕	0
 M:25:__prompt__:bean_bag_chair:xiuxianyi	休闲椅〔合并词库〕	0
-M:25:__prompt__:beard_ponytail:huxumayi	胡须马尾〔e621〕	0
+M:25:__prompt__:beard_ponytail:huxumawei	胡须马尾〔e621〕	0
 M:25:__prompt__:beard_ponytail:xuweizaoxing	须尾造型〔e621〕	0
 M:25:__prompt__:beard_ponytail:zhaqidehuzi	扎起的胡子〔e621〕	0
 M:25:__prompt__:bearded_dragon:aozhouzongshixi	澳洲鬃狮蜥〔e621〕	0
@@ -286489,6 +286612,8 @@ M:25:__prompt__:claw_hair_clip:fajia	发夹〔合并词库〕	0
 M:25:__prompt__:clay_(pokemon):dawu	大吾〔合并词库〕	0
 M:25:__prompt__:clay_(pokemon):dimianxi	地面系〔合并词库〕	0
 M:25:__prompt__:clay_(pokemon):hezhongdaoguan	合众道馆〔合并词库〕	0
+M:25:__prompt__:clean outlines:ganjinglunkuo	干净轮廓〔常用词〕	1
+M:25:__prompt__:clean outlines:qingxilunkuo	清晰轮廓〔常用词〕	1
 M:25:__prompt__:cleaning_brush:jiajuyongpin	家居用品〔合并词库〕	0
 M:25:__prompt__:cleaning_brush:qingjiegongju	清洁工具〔合并词库〕	0
 M:25:__prompt__:cleft_of_venus:sichu	私处〔合并词库〕	0
@@ -287168,7 +287293,7 @@ M:25:__prompt__:deepthroat_gag:shenhousaiju	深喉塞具〔e621〕	0
 M:25:__prompt__:defensive_wall:chengqiang	城墙〔合并词库〕	0
 M:25:__prompt__:defensive_wall:fangyugongshi	防御工事〔合并词库〕	0
 M:25:__prompt__:defensive_wall:fangyuqiang	防御墙〔合并词库〕	0
-M:25:__prompt__:dekomori_sanae:jinseshuangmayi	金色双马尾〔合并词库〕	0
+M:25:__prompt__:dekomori_sanae:jinseshuangmawei	金色双马尾〔合并词库〕	0
 M:25:__prompt__:dekomori_sanae:tushouzaomiao	凸守早苗〔合并词库〕	0
 M:25:__prompt__:dekomori_sanae:xiaoniaoyouliuhuapuren	小鸟游六花仆人〔合并词库〕	0
 M:25:__prompt__:dekomori_sanae:zhongerbingyeyaotanlianai	中二病也要谈恋爱〔合并词库〕	0
@@ -287208,9 +287333,9 @@ M:25:__prompt__:detached_pants:fenlishikuzi	分离式裤子〔合并词库〕	0
 M:25:__prompt__:detached_wings:buyubentixiangliandechibang	不与本体相连的翅膀〔提示词库〕	0
 M:25:__prompt__:detached_wings:tuolidechibang	脱离的翅膀〔合并词库〕	0
 M:25:__prompt__:detailed_bulge:kejianguqixijie	可见鼓起细节〔e621〕	0
-M:25:__prompt__:detailed_bulge:qingxilunkuo	清晰轮廓〔e621〕	0
 M:25:__prompt__:detailed_bulge:xiangxiguqi	详细鼓起〔e621〕	0
 M:25:__prompt__:detailed_bulge:xiangxiyangjulunkuo	详细阳具轮廓〔e621〕	0
+M:25:__prompt__:detailed_bulge:yixiasichulunkuo	衣下私处轮廓〔e621〕	0
 M:25:__prompt__:detailed_mouth:fuzakouqiang	复杂口腔〔e621〕	0
 M:25:__prompt__:detailed_mouth:xiangxizuiba	详细嘴巴〔e621〕	0
 M:25:__prompt__:detailed_mouth:xijiekouqiang	细节口腔〔e621〕	0
@@ -287453,8 +287578,8 @@ M:25:__prompt__:drew_(pokemon):maxiuduishou	玛绣对手〔合并词库〕	0
 M:25:__prompt__:drew_(pokemon):xietiaoxunlianjia	协调训练家〔合并词库〕	0
 M:25:__prompt__:drew_(pokemon):xiu	修〔合并词库〕	0
 M:25:__prompt__:drill_ponytail:juanfa	卷发〔合并词库〕	0
-M:25:__prompt__:drill_ponytail:mayi	马尾〔合并词库〕	0
-M:25:__prompt__:drill_ponytail:zuantoumayi	钻头马尾〔合并词库〕	0
+M:25:__prompt__:drill_ponytail:mawei	马尾〔合并词库〕	0
+M:25:__prompt__:drill_ponytail:zuantoumawei	钻头马尾〔合并词库〕	0
 M:25:__prompt__:drinking_blood:hexue	喝血〔e621〕	0
 M:25:__prompt__:drinking_blood:xixue	吸血〔e621〕	0
 M:25:__prompt__:drinking_blood:xueyeyinyong	血液饮用〔e621〕	0
@@ -287807,6 +287932,8 @@ M:25:__prompt__:f-4_phantom_ii:junyongfeiji	军用飞机〔合并词库〕	0
 M:25:__prompt__:f-4_phantom_ii:zhandouji	战斗机〔合并词库〕	0
 M:25:__prompt__:faba_(pokemon):yitaijijinhui	以太基金会〔合并词库〕	0
 M:25:__prompt__:faba_(pokemon):zhaaobo	扎奥博〔合并词库〕	0
+M:25:__prompt__:fabric texture:buliaowenli	布料纹理〔常用词〕	1
+M:25:__prompt__:fabric texture:zhiwuwenli	织物纹理〔常用词〕	1
 M:25:__prompt__:face_in_crotch:lianbutiejinkuabu	脸部贴近胯部〔e621〕	0
 M:25:__prompt__:face_in_crotch:lianmaidang	脸埋裆〔e621〕	0
 M:25:__prompt__:face_in_crotch:lianmaikuajian	脸埋胯间〔e621〕	0
@@ -288381,7 +288508,7 @@ M:25:__prompt__:frilly_topwear:zhebianshangyi	褶边上衣〔e621〕	0
 M:25:__prompt__:frilly_topwear:zhezhoushangyi	褶皱上衣〔e621〕	0
 M:25:__prompt__:from the right:congyouceshijiao	从右侧视角〔提示词库〕	0
 M:25:__prompt__:from_hat_trick:zuopinlaiyuan	作品来源〔合并词库〕	0
-M:25:__prompt__:front ponytail:qianmayi	前马尾〔提示词库〕	0
+M:25:__prompt__:front ponytail:qianmawei	前马尾〔提示词库〕	0
 M:25:__prompt__:front-hook_bra:qiankouxiongzhao	前扣胸罩〔合并词库〕	0
 M:25:__prompt__:front-hook_bra:xiongzhao	胸罩〔合并词库〕	0
 M:25:__prompt__:front_and_back:qianhoushitu	前后视图〔e621〕	0
@@ -288391,7 +288518,7 @@ M:25:__prompt__:front_and_back:zhengfanmian	正反面〔e621〕	0
 M:25:__prompt__:front_and_back:zhengfanshitu	正反视图〔e621〕	0
 M:25:__prompt__:front_and_back:zhengmianbeimiantongshi	正面背面同时〔e621〕	0
 M:25:__prompt__:front_and_back:zhengmianyubeimian	正面与背面〔e621〕	0
-M:25:__prompt__:front_ponytail:mayi	马尾〔合并词库〕	0
+M:25:__prompt__:front_ponytail:mawei	马尾〔合并词库〕	0
 M:25:__prompt__:frontal_wedgie:gangazishi	尴尬姿势〔e621〕	0
 M:25:__prompt__:frontal_wedgie:leikucha	勒裤衩〔e621〕	0
 M:25:__prompt__:frontal_wedgie:qianfangleidang	前方勒裆〔e621〕	0
@@ -288714,12 +288841,12 @@ M:25:__prompt__:good_parenting:fumuguanai	父母关爱〔e621〕	0
 M:25:__prompt__:good_parenting:lianghaoyuer	良好育儿〔e621〕	0
 M:25:__prompt__:good_parenting:zhengquejiaoyu	正确教育〔e621〕	0
 M:25:__prompt__:good_parenting:zhengxiangyangyu	正向养育〔e621〕	0
+M:25:__prompt__:goofy_(disney):changzuigou	长嘴狗〔e621〕	0
 M:25:__prompt__:goofy_(disney):dishinishagou	迪士尼傻狗〔e621〕	0
 M:25:__prompt__:goofy_(disney):disini	迪斯尼〔e621〕	0
 M:25:__prompt__:goofy_(disney):gaofei	高飞〔e621〕	0
 M:25:__prompt__:goofy_(disney):gaofeigou	高飞狗〔e621〕	0
 M:25:__prompt__:goofy_(disney):milaoshupengyou	米老鼠朋友〔e621〕	0
-M:25:__prompt__:goofy_(disney):zhangzuigou	长嘴狗〔e621〕	0
 M:25:__prompt__:gordon_freeman:bantiaoming	半条命〔e621〕	0
 M:25:__prompt__:gordon_freeman:bantiaomingzhujue	半条命主角〔e621〕	0
 M:25:__prompt__:gordon_freeman:heishanshiyanshi	黑山实验室〔e621〕	0
@@ -292013,6 +292140,8 @@ M:25:__prompt__:multiple_poses:zitai	姿态〔e621〕	0
 M:25:__prompt__:multiple_rings:jiezhi	戒指〔合并词库〕	0
 M:25:__prompt__:multiple_scars:shangba	伤疤〔e621〕	0
 M:25:__prompt__:multiple_scars:shentibiaoji	身体标记〔e621〕	0
+M:25:__prompt__:multiple_tails:duogenweiba	多根尾巴〔常用词〕	1
+M:25:__prompt__:multiple_tails:duogeweiba	多个尾巴〔常用词〕	1
 M:25:__prompt__:multiple_tails:duotiaoweiba	多条尾巴〔合并词库〕	0
 M:25:__prompt__:multiple_torii:duogeniaoju	多个鸟居〔合并词库〕	0
 M:25:__prompt__:multiple_torii:shenshe	神社〔合并词库〕	0
@@ -292182,7 +292311,7 @@ M:25:__prompt__:nefertari_vivi:alabasitangongzhu	阿拉巴斯坦公主〔合并�
 M:25:__prompt__:nefertari_vivi:caomaohaizeituan	草帽海贼团〔合并词库〕	0
 M:25:__prompt__:negative_space:goutu	构图〔e621〕	0
 M:25:__prompt__:negative_space:liubai	留白〔e621〕	0
-M:25:__prompt__:nekoha_shizuku:lanfamayi	蓝发马尾〔合并词库〕	0
+M:25:__prompt__:nekoha_shizuku:lanfamawei	蓝发马尾〔合并词库〕	0
 M:25:__prompt__:nekoha_shizuku:maoerniang	猫耳娘〔合并词库〕	0
 M:25:__prompt__:nekoha_shizuku:tianchengxiaxiyuanchuang	天城夏希原创〔合并词库〕	0
 M:25:__prompt__:nekomata_okayu:maogongyoujia	猫宫友架〔合并词库〕	0
@@ -292451,7 +292580,7 @@ M:25:__prompt__:ogasawara_kaya:xiaoliyuanxiangye	小笠原香耶〔合并词库�
 M:25:__prompt__:ogawa_sumireko:xuchuanjinzi	绪川菫子〔合并词库〕	0
 M:25:__prompt__:oikawa_shizuku:jichuanna	及川雫〔e621〕	0
 M:25:__prompt__:oikura_sodachi:laocangyu	老仓育〔合并词库〕	0
-M:25:__prompt__:oikura_sodachi:shuangmayi	双马尾〔合并词库〕	0
+M:25:__prompt__:oikura_sodachi:shuangmawei	双马尾〔合并词库〕	0
 M:25:__prompt__:oikura_sodachi:wuyuxilie	物语系列〔合并词库〕	0
 M:25:__prompt__:oikura_sodachi:zhonggushi	终故事〔合并词库〕	0
 M:25:__prompt__:ojigi_(bowing):jinglizishi	敬礼姿势〔合并词库〕	0
@@ -294304,9 +294433,9 @@ M:25:__prompt__:satori_komeiji:duxinshaonv	读心少女〔e621〕	0
 M:25:__prompt__:satori_komeiji:gumingdijue	古明地觉〔e621〕	0
 M:25:__prompt__:satori_komeiji:xiaowu	小五〔e621〕	0
 M:25:__prompt__:sauropodomorph:banlonglei	板龙类〔e621〕	0
+M:25:__prompt__:sauropodomorph:changjingkonglong	长颈恐龙〔e621〕	0
 M:25:__prompt__:sauropodomorph:xijiaoxingyamu	蜥脚形亚目〔e621〕	0
 M:25:__prompt__:sauropodomorph:yuanxijiaolei	原蜥脚类〔e621〕	0
-M:25:__prompt__:sauropodomorph:zhangjingkonglong	长颈恐龙〔e621〕	0
 M:25:__prompt__:sawamura_eijun:qingdaogaozhong	青道高中〔合并词库〕	0
 M:25:__prompt__:sawamura_eijun:toushou	投手〔合并词库〕	0
 M:25:__prompt__:sawamura_eijun:zecunrongchun	沢村栄纯〔合并词库〕	0
@@ -294705,7 +294834,7 @@ M:25:__prompt__:shocking_party:paidui	派对〔合并词库〕	0
 M:25:__prompt__:shooting_range:bachang	靶场〔e621〕	0
 M:25:__prompt__:shooting_range:shejilianxichang	射击练习场〔e621〕	0
 M:25:__prompt__:short eyebrows:duanmeimao	短眉毛〔提示词库〕	0
-M:25:__prompt__:short ponytail:duanmayi	短马尾〔提示词库〕	0
+M:25:__prompt__:short ponytail:duanmawei	短马尾〔提示词库〕	0
 M:25:__prompt__:short_eyebrows:duanmeimao	短眉毛〔e621〕	0
 M:25:__prompt__:short_eyebrows:meimao	眉毛〔e621〕	0
 M:25:__prompt__:short_eyebrows:meimaoduan	眉毛短〔e621〕	0
@@ -294713,8 +294842,8 @@ M:25:__prompt__:short_eyebrows:mianbutezheng	面部特征〔e621〕	0
 M:25:__prompt__:short_eyebrows:ximei	稀眉〔e621〕	0
 M:25:__prompt__:short_jumpsuit:duankutuiliantiyi	短裤腿连体衣〔提示词库〕	0
 M:25:__prompt__:short_jumpsuit:liantiyi	连体衣〔合并词库〕	0
-M:25:__prompt__:short_pigtails:duanduanshuangmayi	短短双马尾〔e621〕	0
-M:25:__prompt__:short_pigtails:duanshuangmayi	短双马尾〔e621〕	0
+M:25:__prompt__:short_pigtails:duanduanshuangmawei	短短双马尾〔e621〕	0
+M:25:__prompt__:short_pigtails:duanshuangmawei	短双马尾〔e621〕	0
 M:25:__prompt__:short_playtime:duanpian	短片〔e621〕	0
 M:25:__prompt__:short_playtime:duanshidonghua	短时动画〔e621〕	0
 M:25:__prompt__:short_playtime:duanshipin	短视频〔e621〕	0
@@ -295175,12 +295304,12 @@ M:25:__prompt__:splatter_print:chouxiangfengge	抽象风格〔合并词库〕	0
 M:25:__prompt__:splatter_print:yinhuatuan	印花图案〔合并词库〕	0
 M:25:__prompt__:splendid_(htf):feishuchaoren	飞鼠超人〔e621〕	0
 M:25:__prompt__:splendid_(htf):guanghuixia	光辉侠〔e621〕	0
-M:25:__prompt__:split ponytail:fenchamayi	分叉马尾〔提示词库〕	0
+M:25:__prompt__:split ponytail:fenchamawei	分叉马尾〔提示词库〕	0
 M:25:__prompt__:split_dialogue:duogeduihua	多格对话〔e621〕	0
 M:25:__prompt__:split_dialogue:fengeduihua	分隔对话〔e621〕	0
 M:25:__prompt__:split_dialogue:fenlieduihuaqipao	分裂对话气泡〔e621〕	0
 M:25:__prompt__:split_dialogue:fenpingduihua	分屏对话〔e621〕	0
-M:25:__prompt__:split_ponytail:kaichamayi	开叉马尾〔合并词库〕	0
+M:25:__prompt__:split_ponytail:kaichamawei	开叉马尾〔合并词库〕	0
 M:25:__prompt__:spoken_sparkle:duihua	对话〔合并词库〕	0
 M:25:__prompt__:spoken_sparkle:shuohuaneirongdaishanshuofuhao	说话内容带闪烁符号〔合并词库〕	0
 M:25:__prompt__:spoken_sparkle:wenzixiaoguo	文字效果〔合并词库〕	0
@@ -295971,8 +296100,8 @@ M:25:__prompt__:thousand_sunny:fulanqi	弗兰奇〔合并词库〕	0
 M:25:__prompt__:thousand_sunny:qianyanghao	千阳号〔合并词库〕	0
 M:25:__prompt__:three_of_clubs:meihuapai	梅花牌〔e621〕	0
 M:25:__prompt__:three_of_clubs:pukepai	扑克牌〔e621〕	0
+M:25:__prompt__:thresher_shark:changweisha	长尾鲨〔e621〕	0
 M:25:__prompt__:thresher_shark:shusha	鼠鲨〔e621〕	0
-M:25:__prompt__:thresher_shark:zhangweisha	长尾鲨〔e621〕	0
 M:25:__prompt__:throbbing_knot:bodongjie	搏动结〔e621〕	0
 M:25:__prompt__:throbbing_knot:choudongshijie	抽动式结〔e621〕	0
 M:25:__prompt__:throbbing_knot:tiaodongjie	跳动结〔e621〕	0
@@ -296471,6 +296600,7 @@ M:25:__prompt__:ukrainian_flag:guoqi	国旗〔e621〕	0
 M:25:__prompt__:ukrainian_flag:qizhi	旗帜〔e621〕	0
 M:25:__prompt__:ukrainian_flag:wukelanqizhi	乌克兰旗帜〔e621〕	0
 M:25:__prompt__:ukrainian_text:waiwenzi	外文字〔e621〕	0
+M:25:__prompt__:ultra-detailed:chaogaoxijie	超高细节〔常用词〕	1
 M:25:__prompt__:ultra-detailed:chaojingxi	超精细〔质量词〕	1
 M:25:__prompt__:ultra-detailed:jizhixijie	极致细节〔质量词〕	1
 M:25:__prompt__:ultra_instinct:jineng	技能〔合并词库〕	0
@@ -296765,7 +296895,7 @@ M:25:__prompt__:very_long_ears:jizhangdeerduo	极长的耳朵〔合并词库〕	
 M:25:__prompt__:very_long_hair:changfa	长发〔合并词库〕	0
 M:25:__prompt__:very_long_hair:jichangfa	极长发〔合并词库〕	0
 M:25:__prompt__:very_long_hair:toufa	头发〔合并词库〕	0
-M:25:__prompt__:very_long_tail:zhangwei	长尾〔合并词库〕	0
+M:25:__prompt__:very_long_tail:changwei	长尾〔合并词库〕	0
 M:25:__prompt__:very_wide_shot:goutu	构图〔合并词库〕	0
 M:25:__prompt__:very_wide_shot:jingtou	镜头〔合并词库〕	0
 M:25:__prompt__:very_wide_shot:yuanjing	远景〔合并词库〕	0
@@ -298703,7 +298833,9 @@ M:26:__prompt__:backless_gloves:wubeishoutao	无背手套〔e621〕	0
 M:26:__prompt__:backless_kimono:lubeifuzhuang	露背服装〔合并词库〕	0
 M:26:__prompt__:backpack_basket:beibao	背包〔合并词库〕	0
 M:26:__prompt__:backpack_basket:lankuangbeibao	篮筐背包〔合并词库〕	0
+M:26:__prompt__:bad proportions:bilicuowu	比例错误〔负面词〕	1
 M:26:__prompt__:bad proportions:cuowudebili	错误的比例〔负面词〕	0
+M:26:__prompt__:bad proportions:shentibilicuowu	身体比例错误〔负面词〕	1
 M:26:__prompt__:bad_end_precure:huaijieju	坏结局〔合并词库〕	0
 M:26:__prompt__:bad_gun_anatomy:cuowudeqiangxiegouzao	错误的枪械构造〔合并词库〕	0
 M:26:__prompt__:bad_gun_anatomy:jiepouquexian	解剖缺陷〔合并词库〕	0
@@ -301063,7 +301195,7 @@ M:26:__prompt__:flying_squirrel:huaxiangshu	滑翔鼠〔e621〕	0
 M:26:__prompt__:flying_squirrel:midaiwu	蜜袋鼯〔e621〕	0
 M:26:__prompt__:fold-over_boots:xielei	鞋类〔合并词库〕	0
 M:26:__prompt__:fold-over_boots:xuezi	靴子〔合并词库〕	0
-M:26:__prompt__:folded ponytail:zhediemayi	折叠马尾〔提示词库〕	0
+M:26:__prompt__:folded ponytail:zhediemawei	折叠马尾〔提示词库〕	0
 M:26:__prompt__:folded_clothing:diefangyiwu	叠放衣物〔e621〕	0
 M:26:__prompt__:folded_clothing:yifuzhedie	衣服折叠〔e621〕	0
 M:26:__prompt__:folded_clothing:zhedieyiwu	折叠衣物〔e621〕	0
@@ -302498,9 +302630,9 @@ M:26:__prompt__:horikita_suzune:shilizhishangzhuyijiaoshi	实力至上主义教�
 M:26:__prompt__:horizontal_anus:cexianggangmen	侧向肛门〔e621〕	0
 M:26:__prompt__:horizontal_anus:shuipinggangmen	水平肛门〔e621〕	0
 M:26:__prompt__:horned_headwear:jiaozhuangtoushi	角状头饰〔提示词库〕	0
+M:26:__prompt__:horned_humanoid:changjiaodeleiren	长角的类人〔e621〕	0
 M:26:__prompt__:horned_humanoid:jiaoren	角人〔e621〕	0
 M:26:__prompt__:horned_humanoid:youjiaoderenxing	有角的人形〔e621〕	0
-M:26:__prompt__:horned_humanoid:zhangjiaodeleiren	长角的类人〔e621〕	0
 M:26:__prompt__:hornet's_needle:fengchaogangzhen	蜂巢钢针〔e621〕	0
 M:26:__prompt__:hornet's_needle:huoentedezhen	霍恩特的针〔e621〕	0
 M:26:__prompt__:horseshoe_print:matitieyinji	马蹄铁印记〔合并词库〕	0
@@ -303547,6 +303679,8 @@ M:26:__prompt__:leaning_on_tree:kaozaishushang	靠在树上〔e621〕	0
 M:26:__prompt__:leaning_on_tree:yikaoshumu	倚靠树木〔e621〕	0
 M:26:__prompt__:leaning_on_wall:kaozaiqiangshang	靠在墙上〔e621〕	0
 M:26:__prompt__:leaning_on_wall:yiqiang	倚墙〔e621〕	0
+M:26:__prompt__:leather texture:pigewenli	皮革纹理〔常用词〕	1
+M:26:__prompt__:leather texture:pigezhigan	皮革质感〔常用词〕	1
 M:26:__prompt__:leather_armwear:pigebihuan	皮革臂环〔e621〕	0
 M:26:__prompt__:leather_armwear:pigebitao	皮革臂套〔e621〕	0
 M:26:__prompt__:leather_armwear:pigehubi	皮革护臂〔e621〕	0
@@ -303772,7 +303906,7 @@ M:26:__prompt__:loincloth_aside:zhexiububokai	遮羞布拨开〔e621〕	0
 M:26:__prompt__:loincloth_aside:zhexiubuchangkai	遮羞布敞开〔e621〕	0
 M:26:__prompt__:lolita hairband:luolitafashi	洛丽塔发饰〔提示词库〕	0
 M:26:__prompt__:lolita_hairband:luolita	洛丽塔〔合并词库〕	0
-M:26:__prompt__:long-tailed_tit:zhangweishanque	长尾山雀〔合并词库〕	0
+M:26:__prompt__:long-tailed_tit:changweishanque	长尾山雀〔合并词库〕	0
 M:26:__prompt__:long_the_dragon:longnvlang	龙女朗〔e621〕	0
 M:26:__prompt__:long_the_dragon:shenjianlongniang	深剑龙娘〔e621〕	0
 M:26:__prompt__:looking_at_anus:dingzhetunbu	盯着臀部〔e621〕	0
@@ -303952,6 +304086,8 @@ M:26:__prompt__:maleherm_(lore):nanxiongyi	男雄异〔e621〕	0
 M:26:__prompt__:maleherm_anthro:xiongxingshuangxingnirenjuese	雄性双性拟人角色〔e621〕	0
 M:26:__prompt__:malformed hands:jixingdeshou	畸形的手〔负面词〕	0
 M:26:__prompt__:malformed limbs:jixingdezhiti	畸形的肢体〔负面词〕	0
+M:26:__prompt__:malformed limbs:jixingzhiti	畸形肢体〔常用词〕	1
+M:26:__prompt__:malformed limbs:zhitijixing	肢体畸形〔负面词〕	1
 M:26:__prompt__:malva_(pokemon):fuladui	弗拉队〔合并词库〕	0
 M:26:__prompt__:malva_(pokemon):kaluosisitianwang	卡洛斯四天王〔合并词库〕	0
 M:26:__prompt__:malva_(pokemon):maniula	玛狃拉〔合并词库〕	0
@@ -304296,6 +304432,7 @@ M:26:__prompt__:misplaced_mouth:mianbujixing	面部畸形〔合并词库〕	0
 M:26:__prompt__:misplaced_mouth:yichang	异常〔合并词库〕	0
 M:26:__prompt__:misplaced_mouth:zuibucuowei	嘴部错位〔合并词库〕	0
 M:26:__prompt__:missing fingers:queshaoshouzhi	缺少手指〔负面词〕	0
+M:26:__prompt__:missing fingers:shouzhiqueshi	手指缺失〔负面词〕	1
 M:26:__prompt__:missing_legwear:luotui	裸腿〔合并词库〕	0
 M:26:__prompt__:missing_legwear:queshaotuibuyiwu	缺少腿部衣物〔合并词库〕	0
 M:26:__prompt__:missing_legwear:tuiyiqueshi	腿衣缺失〔合并词库〕	0
@@ -304367,9 +304504,9 @@ M:26:__prompt__:mole_salamander:rongyuanke	蝾螈科〔e621〕	0
 M:26:__prompt__:molly_macdonald:tuzinvhaimoli	兔子女孩莫莉〔e621〕	0
 M:26:__prompt__:molly_macdonald:yasetumoli	亚瑟兔莫莉〔e621〕	0
 M:26:__prompt__:momijiyama_teru:hongyeshanhui	红叶山辉〔合并词库〕	0
+M:26:__prompt__:mommy_long_legs:changtuizhizhuniang	长腿蜘蛛娘〔e621〕	0
 M:26:__prompt__:mommy_long_legs:fenhongzhizhuwanjumami	粉红蜘蛛玩具妈咪〔e621〕	0
 M:26:__prompt__:mommy_long_legs:mamazhangtui	妈妈长腿〔e621〕	0
-M:26:__prompt__:mommy_long_legs:zhangtuizhizhuniang	长腿蜘蛛娘〔e621〕	0
 M:26:__prompt__:momo_(idolish7):chunyuanbailai	春原百濑〔合并词库〕	0
 M:26:__prompt__:momo_(kancolle):songxingquzhujian	松型驱逐舰〔合并词库〕	0
 M:26:__prompt__:momo_(kancolle):tao	桃〔合并词库〕	0
@@ -305677,6 +305814,7 @@ M:26:__prompt__:prehensile_hair:nengzhuawodetoufa	能抓握的头发〔e621〕	0
 M:26:__prompt__:prehensile_tail:chanraowei	缠绕尾〔e621〕	0
 M:26:__prompt__:prehensile_tail:kezhuawodeweiba	可抓握的尾巴〔e621〕	0
 M:26:__prompt__:prehensile_tail:lingqiaoweiba	灵巧尾巴〔e621〕	0
+M:26:__prompt__:prehensile_tail:zhuawowei	抓握尾〔常用词〕	1
 M:26:__prompt__:presea_combatir:taileiya	泰雷亚〔合并词库〕	0
 M:26:__prompt__:presenting_anus:baolugangmen	暴露肛门〔e621〕	0
 M:26:__prompt__:presenting_anus:houting	后庭〔e621〕	0
@@ -306164,6 +306302,7 @@ M:26:__prompt__:reflective_body:shentifanguang	身体反光〔e621〕	0
 M:26:__prompt__:regal_blue_tang:haiyangshengwu	海洋生物〔合并词库〕	0
 M:26:__prompt__:regal_blue_tang:niciweidiao	拟刺尾鲷〔合并词库〕	0
 M:26:__prompt__:regal_blue_tang:yulei	鱼类〔合并词库〕	0
+M:26:__prompt__:relaxed abdomen:fangsongdefubu	放松的腹部〔描述短语〕	1
 M:26:__prompt__:relaxed posture:fangsongzitai	放松姿态〔通用姿态·躯干〕	1
 M:26:__prompt__:remilia_scarlet:hongmoguan	红魔馆〔e621〕	0
 M:26:__prompt__:remilia_scarlet:hongmoguanguanzhu	红魔馆馆主〔e621〕	0
@@ -306840,9 +306979,9 @@ M:26:__prompt__:shooting_weapon:shejihuamian	射击画面〔e621〕	0
 M:26:__prompt__:shooting_weapon:wuqifashe	武器发射〔e621〕	0
 M:26:__prompt__:shopping_basket:lanzi	篮子〔e621〕	0
 M:26:__prompt__:shopping_basket:riyongpin	日用品〔e621〕	0
-M:26:__prompt__:short twintails:duanshuangmayi	短双马尾〔提示词库〕	0
+M:26:__prompt__:short twintails:duanshuangmawei	短双马尾〔提示词库〕	0
 M:26:__prompt__:short_sideburns:binjiao	鬓角〔合并词库〕	0
-M:26:__prompt__:short_twintails:shuangmayi	双马尾〔e621〕	0
+M:26:__prompt__:short_twintails:shuangmawei	双马尾〔e621〕	0
 M:26:__prompt__:shortstack_male:aipangnanxing	矮胖男性〔e621〕	0
 M:26:__prompt__:shortstack_male:chahunan	茶壶男〔e621〕	0
 M:26:__prompt__:shortstack_male:duanzhuangnanxing	短壮男性〔e621〕	0
@@ -310601,12 +310740,12 @@ M:27:__prompt__:bra_over_clothes:xiongzhaochuanzaiyifuwaimian	胸罩穿在衣服
 M:27:__prompt__:braided ponytail:mayibianfa	马尾编发〔提示词库〕	0
 M:27:__prompt__:braided_mustache:bianbianhuxu	编辫胡须〔e621〕	0
 M:27:__prompt__:braided_mustache:bianzhihuzi	编织胡子〔e621〕	0
-M:27:__prompt__:braided_pigtails:bianzhishuangmayi	编织双马尾〔e621〕	0
-M:27:__prompt__:braided_pigtails:bianzishuangmayi	辫子双马尾〔e621〕	0
-M:27:__prompt__:braided_pigtails:mahuashuangmayi	麻花双马尾〔e621〕	0
-M:27:__prompt__:braided_ponytail:bianjiemayi	编结马尾〔e621〕	0
-M:27:__prompt__:braided_ponytail:bianzhimayi	编织马尾〔e621〕	0
-M:27:__prompt__:braided_ponytail:bianzimayi	辫子马尾〔e621〕	0
+M:27:__prompt__:braided_pigtails:bianzhishuangmawei	编织双马尾〔e621〕	0
+M:27:__prompt__:braided_pigtails:bianzishuangmawei	辫子双马尾〔e621〕	0
+M:27:__prompt__:braided_pigtails:mahuashuangmawei	麻花双马尾〔e621〕	0
+M:27:__prompt__:braided_ponytail:bianjiemawei	编结马尾〔e621〕	0
+M:27:__prompt__:braided_ponytail:bianzhimawei	编织马尾〔e621〕	0
+M:27:__prompt__:braided_ponytail:bianzimawei	辫子马尾〔e621〕	0
 M:27:__prompt__:braided_sidelock:bianfacefa	编发侧发〔合并词库〕	0
 M:27:__prompt__:braided_sidelock:bianzi	辫子〔合并词库〕	0
 M:27:__prompt__:brand_new_animal:dongwuxinshidai	动物新世代〔e621〕	0
@@ -311567,6 +311706,8 @@ M:27:__prompt__:defeated_heroine:baibeinvzhujue	败北女主角〔e621〕	0
 M:27:__prompt__:defeated_heroine:beidabaidenvzhujue	被打败的女主角〔e621〕	0
 M:27:__prompt__:defeated_heroine:shibaidenvyongzhe	失败的女勇者〔e621〕	0
 M:27:__prompt__:defeated_heroine:zhanbainvyingxiong	战败女英雄〔e621〕	0
+M:27:__prompt__:deformed muscles:jiroubianxing	肌肉变形〔负面词〕	1
+M:27:__prompt__:deformed muscles:jiroujixing	肌肉畸形〔描述短语〕	1
 M:27:__prompt__:deidara_(naruto):baozharenzhe	爆炸忍者〔合并词库〕	0
 M:27:__prompt__:deidara_(naruto):didala	迪达拉〔合并词库〕	0
 M:27:__prompt__:deidara_(naruto):xiaozuzhi	晓组织〔合并词库〕	0
@@ -311980,6 +312121,7 @@ M:27:__prompt__:extraterrestrial:waixingren	外星人〔提示词库〕	0
 M:27:__prompt__:extreme_close-up:chaojinjulitexie	超近距离特写〔e621〕	0
 M:27:__prompt__:extreme_close-up:jiduanjinshe	极端近摄〔e621〕	0
 M:27:__prompt__:extreme_close-up:jiduantexie	极端特写〔e621〕	0
+M:27:__prompt__:extreme_close-up:jijintexie	极近特写〔常用词〕	1
 M:27:__prompt__:extreme_close-up:jizhijinshe	极致近摄〔e621〕	0
 M:27:__prompt__:extreme_close-up:lianbudatexie	脸部大特写〔e621〕	0
 M:27:__prompt__:extreme_dangling:xuanchui	悬垂〔合并词库〕	0
@@ -312277,7 +312419,7 @@ M:27:__prompt__:foggy_background:wumengmengbeijing	雾蒙蒙背景〔e621〕	0
 M:27:__prompt__:foggy_background:yanwubeijing	烟雾背景〔e621〕	0
 M:27:__prompt__:fold-over_collar:lingkou	领口〔合并词库〕	0
 M:27:__prompt__:fold-over_collar:zheling	折领〔合并词库〕	0
-M:27:__prompt__:folded_twintails:shuangmayi	双马尾〔合并词库〕	0
+M:27:__prompt__:folded_twintails:shuangmawei	双马尾〔合并词库〕	0
 M:27:__prompt__:folkloric outfit:minsufenggefuzhuang	民俗风格服装〔提示词库〕	0
 M:27:__prompt__:food-themed_hair:chuangyifaxing	创意发型〔合并词库〕	0
 M:27:__prompt__:food_penetration:shiwucharuxingxingwei	食物插入性行为〔e621〕	0
@@ -314900,6 +315042,7 @@ M:27:__prompt__:mermaidification:renyuhua	人鱼化〔e621〕	0
 M:27:__prompt__:mermaidification:yuweihua	鱼尾化〔e621〕	0
 M:27:__prompt__:metabole_piglets:xinchendaixiezhu	新陈代谢猪〔合并词库〕	0
 M:27:__prompt__:metabole_piglets:zhulei	猪类〔合并词库〕	0
+M:27:__prompt__:metallic texture:jinshuzhigan	金属质感〔常用词〕	1
 M:27:__prompt__:metaphysical art:xingershangyishu	形而上艺术〔提示词库〕	0
 M:27:__prompt__:metroid:_other_m:kehuanyouxi	科幻游戏〔合并词库〕	0
 M:27:__prompt__:metroid:_other_m:yinhezhanshi	银河战士〔合并词库〕	0
@@ -315351,6 +315494,7 @@ M:27:__prompt__:natsuiro_matsuri:jihui	祭絵〔合并词库〕	0
 M:27:__prompt__:natsume_kyousuke:zaogongjie	枣恭介〔合并词库〕	0
 M:27:__prompt__:natsuumi_manatsu:redailuzhiguangxian	热带露治光线〔合并词库〕	0
 M:27:__prompt__:natsuumi_manatsu:xiahaizhenxia	夏海真夏〔合并词库〕	0
+M:27:__prompt__:natural lighting:ziranguang	自然光〔常用词〕	1
 M:27:__prompt__:natural lighting:ziranguangzhao	自然光照〔光照词〕	1
 M:27:__prompt__:naveen_(pokemon):pilu	琵鲁〔合并词库〕	0
 M:27:__prompt__:naveen_(pokemon):toujinhunhun	头巾混混〔合并词库〕	0
@@ -315868,10 +316012,10 @@ M:27:__prompt__:peeing_on_viewer:duizheguanzhongpainiao	对着观众排尿〔e62
 M:27:__prompt__:peeing_on_viewer:duizhejingtouniaoniao	对着镜头尿尿〔e621〕	0
 M:27:__prompt__:peeing_on_viewer:xiangguanzhongpenniao	向观众喷尿〔e621〕	0
 M:27:__prompt__:pencil_sharpener:wenju	文具〔e621〕	0
+M:27:__prompt__:pendant_earrings:changerzhui	长耳坠〔合并词库〕	0
 M:27:__prompt__:pendant_earrings:chuizhuierhuan	垂坠耳环〔合并词库〕	0
 M:27:__prompt__:pendant_earrings:diaozhuiershi	吊坠耳饰〔合并词库〕	0
 M:27:__prompt__:pendant_earrings:lianzhuierhuan	链坠耳环〔合并词库〕	0
-M:27:__prompt__:pendant_earrings:zhangerzhui	长耳坠〔合并词库〕	0
 M:27:__prompt__:pendant_earrings:zhuishierhuan	坠式耳环〔合并词库〕	0
 M:27:__prompt__:penetration_lick:chuantoushitianshi	穿透式舔舐〔e621〕	0
 M:27:__prompt__:penetration_lick:chuantouxingtianshi	穿透性舔舐〔e621〕	0
@@ -317549,6 +317693,7 @@ M:27:__prompt__:solana_(pokemon):baokemengxunchaguan	宝可梦寻查官〔合并
 M:27:__prompt__:solana_(pokemon):nvzhujue	女主角〔合并词库〕	0
 M:27:__prompt__:solana_(pokemon):rixiang	日向〔合并词库〕	0
 M:27:__prompt__:solarpunk outfit:taiyangpengkefenggefuzhuang	太阳朋克风格服装〔提示词库〕	0
+M:27:__prompt__:solid background:chunsebeijing	纯色背景〔常用词〕	1
 M:27:__prompt__:solution_epsilon:maoxingtuan	昴星团〔合并词库〕	0
 M:27:__prompt__:solution_epsilon:shilaimunvpu	史莱姆女仆〔合并词库〕	0
 M:27:__prompt__:sonata_dusk_(eg):muguangxiaomafanpaijuese	暮光小马反派角色〔e621〕	0
@@ -318719,7 +318864,7 @@ M:27:__prompt__:underbust_corset:luxiongjinshenyi	露胸紧身衣〔e621〕	0
 M:27:__prompt__:underbust_corset:xiaweisushenyi	下围塑身衣〔e621〕	0
 M:27:__prompt__:undertale_yellow:chuanshuohuang	传说黄〔e621〕	0
 M:27:__prompt__:undertale_yellow:chuanshuozhixiahuang	传说之下黄〔e621〕	0
-M:27:__prompt__:uneven_twintails:shuangmayi	双马尾〔合并词库〕	0
+M:27:__prompt__:uneven_twintails:shuangmawei	双马尾〔合并词库〕	0
 M:27:__prompt__:unicorn_humanoid:dujiaoniren	独角拟人〔e621〕	0
 M:27:__prompt__:unicorn_humanoid:dujiaoshouren	独角兽人〔e621〕	0
 M:27:__prompt__:unicorn_overlord:dujiaoshoubawang	独角兽霸王〔e621〕	0
@@ -319358,7 +319503,7 @@ M:27:gankutsu-sou_no_fuyajou-san:yankuzhuangdebuyechengxiaojie	岩窟庄的不�
 M:27:godly_artist_introvert-chan:shenhuashiyinjiaojiang	神画师阴角酱	1
 M:27:gojou's_imaginary_technique:wutiaowudexushi	五条悟的虚式	1
 M:27:grabbing_another's_shoulder:zhuajian	抓肩	1
-M:27:grabbing_another's_twintail:zhuadanceshuangmayi	抓单侧双马尾	1
+M:27:grabbing_another's_twintail:zhuadanceshuangmawei	抓单侧双马尾	1
 M:27:gradient_one-piece_swimsuit:jianbianseliantiyongyi	渐变色连体泳衣	1
 M:27:granguignol_the_dusk_dragon:huanghunzhilonggelanjinuoer	黄昏之龙格兰基诺尔	1
 M:27:gudaguda_teito_seihai_kitan:gudagudadidushengbeiqitan	咕哒咕哒帝都圣杯奇谭	1
@@ -319592,7 +319737,7 @@ M:27:tsuki_no_kanata_de_aimashou:yuezhibifangxiangjianba	月之彼方相见吧	1
 M:27:tsuki_to_laika_to_nosferatu:yueyulaikayuxixuegongzhu	月与莱卡与吸血公主	1
 M:27:tsukinosawa_academy_uniform:yuezhizexueyuanzhifu	月之泽学院制服	1
 M:27:tutorial_ga_hajimaru_mae_ni:zaijiaochengkaishiqian	在教程开始前	1
-M:27:twintails_with_braided_base:bianfajidishuangmayi	编发基底双马尾	1
+M:27:twintails_with_braided_base:bianfajidishuangmawei	编发基底双马尾	1
 M:27:two-tone_one-piece_swimsuit:shuangseliantiyongyi	双色连体泳衣	1
 M:27:two-tone_slingshot_swimsuit:shuangsedangongyongyi	双色弹弓泳衣	1
 M:27:unconventional_sound_effect:feichangguinishengci	非常规拟声词	1
@@ -319933,7 +320078,7 @@ M:28:__prompt__:anthro_penetrated:shourenxiashenbeijinru	兽人下身被进入�
 M:28:__prompt__:anus_behind_thong:dingzikulutun	丁字裤露臀〔e621〕	0
 M:28:__prompt__:anus_behind_thong:dingzikuxiadegangmen	丁字裤下的肛门〔e621〕	0
 M:28:__prompt__:aoi_sora_(pairan):cangtongkong	苍囲空〔合并词库〕	0
-M:28:__prompt__:aoi_sora_(pairan):shuangmayi	双马尾〔合并词库〕	0
+M:28:__prompt__:aoi_sora_(pairan):shuangmawei	双马尾〔合并词库〕	0
 M:28:__prompt__:aoi_sora_(pairan):zuqiuzhifu	足球制服〔合并词库〕	0
 M:28:__prompt__:aphrodite_(hades):aishen	爱神〔合并词库〕	0
 M:28:__prompt__:aphrodite_(hades):hadisi	哈迪斯〔合并词库〕	0
@@ -320735,7 +320880,7 @@ M:28:__prompt__:bra_(dragon_ball):bula	布拉〔合并词库〕	0
 M:28:__prompt__:bradamante_(fate):buladamante	布拉达曼特〔合并词库〕	0
 M:28:__prompt__:braided_sidelocks:bianfacebin	编发侧鬓〔合并词库〕	0
 M:28:__prompt__:braided_sidelocks:bianzi	辫子〔合并词库〕	0
-M:28:__prompt__:braided_twintails:shuangmayi	双马尾〔合并词库〕	0
+M:28:__prompt__:braided_twintails:shuangmawei	双马尾〔合并词库〕	0
 M:28:__prompt__:brandy_harrington:bulandi	布兰迪〔e621〕	0
 M:28:__prompt__:bread_eating_race:bisai	比赛〔合并词库〕	0
 M:28:__prompt__:bread_eating_race:yundonghui	运动会〔合并词库〕	0
@@ -321874,6 +322019,7 @@ M:28:__prompt__:diddy_kong_racing:dijisaiche	迪基赛车〔e621〕	0
 M:28:__prompt__:diddy_kong_racing:timubodaosaiche	提姆伯岛赛车〔e621〕	0
 M:28:__prompt__:diesel_locomotive:huoche	火车〔e621〕	0
 M:28:__prompt__:diesel_locomotive:jiche	机车〔e621〕	0
+M:28:__prompt__:diffused lighting:mansheguang	漫射光〔常用词〕	1
 M:28:__prompt__:digestion_implied:xiaohuaanshi	消化暗示〔e621〕	0
 M:28:__prompt__:digestion_implied:yijinshianshi	已进食暗示〔e621〕	0
 M:28:__prompt__:digging_into_butt:koupifeng	抠屁缝〔e621〕	0
@@ -323375,7 +323521,7 @@ M:28:__prompt__:hatching_from_egg:congdanzhongfuhua	从蛋中孵化〔e621〕	0
 M:28:__prompt__:hatching_from_egg:fuchu	孵出〔e621〕	0
 M:28:__prompt__:hatching_from_egg:podanersheng	破蛋而生〔e621〕	0
 M:28:__prompt__:hatching_from_egg:poke	破壳〔e621〕	0
-M:28:__prompt__:hatsune_miku_(if):wushuangmayi	无双马尾〔合并词库〕	0
+M:28:__prompt__:hatsune_miku_(if):wushuangmawei	无双马尾〔合并词库〕	0
 M:28:__prompt__:hatsune_miku_(if):xiangtingshejidasai	箱庭设计大赛〔合并词库〕	0
 M:28:__prompt__:hatsune_miku_expo:chuyinweilai	初音未来〔合并词库〕	0
 M:28:__prompt__:haven't_seen_them:meijianguotamen	没见过他们〔e621〕	0
@@ -324565,7 +324711,9 @@ M:28:__prompt__:looking_at_screen:kanpingmu	看屏幕〔e621〕	0
 M:28:__prompt__:looking_at_screen:shixian	视线〔e621〕	0
 M:28:__prompt__:looking_at_screen:zhushi	注视〔e621〕	0
 M:28:__prompt__:looking_at_viewer:disimianqiangduishi	第四面墙对视〔e621〕	0
+M:28:__prompt__:looking_at_viewer:kanjingtou	看镜头〔常用词〕	1
 M:28:__prompt__:looking_at_viewer:mianxiangguanzhong	面向观众〔e621〕	0
+M:28:__prompt__:looking_at_viewer:mushiguanzhong	目视观众〔常用词〕	1
 M:28:__prompt__:looking_at_viewer:shijiao	视角〔e621〕	0
 M:28:__prompt__:looking_at_viewer:yanshen	眼神〔e621〕	0
 M:28:__prompt__:looking_at_viewer:zhengmian	正面〔e621〕	0
@@ -324593,7 +324741,7 @@ M:28:__prompt__:loss_of_dexterity:shoubugongnengsangshi	手部功能丧失〔e62
 M:28:__prompt__:loss_of_dexterity:tizishou	蹄子手〔e621〕	0
 M:28:__prompt__:loss_of_dexterity:zhuazishou	爪子手〔e621〕	0
 M:28:__prompt__:love_and_producer:lianai	恋爱〔合并词库〕	0
-M:28:__prompt__:low_side_ponytail:mayi	马尾〔合并词库〕	0
+M:28:__prompt__:low_side_ponytail:mawei	马尾〔合并词库〕	0
 M:28:__prompt__:lrl_(last_origin):yuanchengguang	远程光〔合并词库〕	0
 M:28:__prompt__:lucia:_dawn_(pgr):chengfahuiya	惩罚灰鸦〔合并词库〕	0
 M:28:__prompt__:lucia:_dawn_(pgr):liming	黎明〔合并词库〕	0
@@ -326928,6 +327076,7 @@ M:28:__prompt__:sendai_(kancolle):chuannei	川内〔合并词库〕	0
 M:28:__prompt__:sendai_(kancolle):chuanneiji	川内级〔合并词库〕	0
 M:28:__prompt__:sendai_(kancolle):qingxunyangjian	轻巡洋舰〔合并词库〕	0
 M:28:__prompt__:sera_(snoot_game):zisesanjiaolongshaonv	紫色三角龙少女〔e621〕	0
+M:28:__prompt__:serratus_anterior:qianjuzhuangji	前锯状肌〔常用词〕	1
 M:28:__prompt__:seven_frame_image:qigegushihua	七格故事画〔e621〕	0
 M:28:__prompt__:seven_frame_image:qigemanhua	七格漫画〔e621〕	0
 M:28:__prompt__:seven_frame_image:qigetu	七格图〔e621〕	0
@@ -327097,6 +327246,7 @@ M:28:__prompt__:silvia_van_hossen:deguozhuanxuesheng	德国转学生〔合并词
 M:28:__prompt__:simple background:jiandandebeijing	简单的背景〔提示词库〕	0
 M:28:__prompt__:simple_background:chunsebeijing	纯色背景〔e621〕	0
 M:28:__prompt__:simple_background:dansebeijing	单色背景〔e621〕	0
+M:28:__prompt__:simple_background:ganjingbeijing	干净背景〔常用词〕	1
 M:28:__prompt__:simple_background:jiandandebeijing	简单的背景〔提示词库〕	0
 M:28:__prompt__:simple_background:jianyuebeijing	简约背景〔e621〕	0
 M:28:__prompt__:simple_background:kongbaibeijing	空白背景〔e621〕	0
@@ -329076,7 +329226,7 @@ M:28:goshuushou-sama_ninomiya-kun:qingbieyoulverzhigongjun	请别忧虑二之宫
 M:28:grabbed_breast_over_shoulder:yuejianzhuaru	越肩抓乳	1
 M:28:grabbing_another's_pectorals:zhuaxiongji	抓胸肌	1
 M:28:grabbing_another's_testicles:zhuawotarengaowan	抓握他人睾丸	1
-M:28:grabbing_another's_twintails:zhuatarenshuangmayi	抓他人双马尾	1
+M:28:grabbing_another's_twintails:zhuatarenshuangmawei	抓他人双马尾	1
 M:28:great_stellated_dodecahedron:daxingxingshiermianti	大星形十二面体	1
 M:28:gunjou_gakuen_school_uniform:qunqingxueyuanxiaofu	群青学园校服	1
 M:28:hagun_academy_school_uniform:pojunxueyuanzhifu	破军学园制服	1
@@ -329240,7 +329390,7 @@ M:28:shinkyoku_soukai_polyphonica:shenquzoujie	神曲奏界	1
 M:28:shitsurakuen_(paradise_lost):shileyuan	失乐园	1
 M:28:shokei_shoujo_no_virgin_road:chuxingshaonvdeguowangzhilu	处刑少女的过往之路	1
 M:28:shoujo_jigoku_no_doku_musume:shaonvdiyuzhiduniang	少女地狱之毒娘	1
-M:28:side_ponytail_with_hair_base:fashuchanraoshicemayi	发束缠绕式侧马尾	1
+M:28:side_ponytail_with_hair_base:fashuchanraoshicemawei	发束缠绕式侧马尾	1
 M:28:sleeping_bag_of_a_bygone_day:wangrishuidai	往日睡袋	1
 M:28:small_stellated_dodecahedron:xiaoxingxingshiermianti	小星形十二面体	1
 M:28:sonna_futari_wa_tsukiatteiru:nayangliangrendejiaowang	那样两人的交往	1
@@ -329368,15 +329518,14 @@ M:29:__prompt__:abandoned_building:feiqiloufang	废弃楼房〔e621〕	0
 M:29:__prompt__:abandoned_building:feiqiwu	废弃屋〔e621〕	0
 M:29:__prompt__:abandoned_building:huangfeijianzhu	荒废建筑〔e621〕	0
 M:29:__prompt__:absolute_territory:datuikongxi	大腿空隙〔e621〕	0
-M:29:__prompt__:absolute_territory:fuji	腹肌〔提示词库〕	0
 M:29:__prompt__:absolute_territory:jueduilingyu	绝对领域〔e621〕	0
 M:29:__prompt__:absolute_territory:qunwazhijian	裙袜之间〔e621〕	0
 M:29:__prompt__:absolute_territory:tuibu	腿部〔e621〕	0
 M:29:__prompt__:absurdly long hair:chaochaochangfa	超超长发〔提示词库〕	0
 M:29:__prompt__:absurdly_long_hair:changfa	长发〔合并词库〕	0
 M:29:__prompt__:absurdly_long_hair:huangmiudechangfa	荒谬的长发〔合并词库〕	0
+M:29:__prompt__:absurdly_long_tail:changweiba	长尾巴〔合并词库〕	0
 M:29:__prompt__:absurdly_long_tail:jiqizhangdeweiba	极其长的尾巴〔合并词库〕	0
-M:29:__prompt__:absurdly_long_tail:zhangweiba	长尾巴〔合并词库〕	0
 M:29:__prompt__:abukuma_(kancolle):awuwei	阿武隈〔合并词库〕	0
 M:29:__prompt__:abukuma_(kancolle):qingxunyangjian	轻巡洋舰〔合并词库〕	0
 M:29:__prompt__:accidental_pervert:selang	色狼〔合并词库〕	0
@@ -331952,6 +332101,8 @@ M:29:__prompt__:discarded_footwear:tuodiaodexie	脱掉的鞋〔e621〕	0
 M:29:__prompt__:discarded_swimwear:diuqideyongzhuang	丢弃的泳装〔e621〕	0
 M:29:__prompt__:discarded_swimwear:tuodiaodeyongyi	脱掉的泳衣〔e621〕	0
 M:29:__prompt__:disconnected limbs:zhitibulianguan	肢体不连贯〔负面词〕	0
+M:29:__prompt__:disconnected limbs:zhitiduankai	肢体断开〔负面词〕	1
+M:29:__prompt__:disconnected limbs:zhitiduanlie	肢体断裂〔负面词〕	1
 M:29:__prompt__:discordia_(vtuber):huniang	狐娘〔合并词库〕	0
 M:29:__prompt__:disembodied_tongue:dulishetou	独立舌头〔e621〕	0
 M:29:__prompt__:disembodied_tongue:piaofushetou	漂浮舌头〔e621〕	0
@@ -334414,10 +334565,10 @@ M:29:__prompt__:laevatein_(nanoha):laiwading	莱瓦丁〔合并词库〕	0
 M:29:__prompt__:laevatein_(nanoha):mofashaonvnaiye	魔法少女奈叶〔合并词库〕	0
 M:29:__prompt__:laevatein_(touhou):laiwating	莱瓦汀〔合并词库〕	0
 M:29:__prompt__:laffey_(azur_lane):bensenji	本森级〔合并词库〕	0
+M:29:__prompt__:lagomorph_humanoid:changerren	长耳人〔e621〕	0
 M:29:__prompt__:lagomorph_humanoid:tuerren	兔耳人〔e621〕	0
 M:29:__prompt__:lagomorph_humanoid:tushouren	兔兽人〔e621〕	0
 M:29:__prompt__:lagomorph_humanoid:tuxingren	兔形人〔e621〕	0
-M:29:__prompt__:lagomorph_humanoid:zhangerren	长耳人〔e621〕	0
 M:29:__prompt__:lambda_(arknights):lanmuda	兰姆达〔合并词库〕	0
 M:29:__prompt__:lana_(fire_emblem):lana	拉娜〔合并词库〕	0
 M:29:__prompt__:lana_(fire_emblem):shengzhanxipu	圣战系谱〔合并词库〕	0
@@ -334558,12 +334709,12 @@ M:29:__prompt__:loki_(fire_emblem):nvshen	女神〔合并词库〕	0
 M:29:__prompt__:london_(azur_lane):huangjiahaijun	皇家海军〔合并词库〕	0
 M:29:__prompt__:london_(azur_lane):lundun	伦敦〔合并词库〕	0
 M:29:__prompt__:london_(azur_lane):zhongxunyangjian	重巡洋舰〔合并词库〕	0
+M:29:__prompt__:long-tailed_weasel:changweidiaoshu	长尾貂鼠〔e621〕	0
+M:29:__prompt__:long-tailed_weasel:changweiyou	长尾鼬〔e621〕	0
 M:29:__prompt__:long-tailed_weasel:youkedongwu	鼬科动物〔e621〕	0
-M:29:__prompt__:long-tailed_weasel:zhangweidiaoshu	长尾貂鼠〔e621〕	0
-M:29:__prompt__:long-tailed_weasel:zhangweiyou	长尾鼬〔e621〕	0
 M:29:__prompt__:long_(wish_dragon):xuyuanlongjuese	许愿龙角色〔e621〕	0
+M:29:__prompt__:long_tail_feathers:changweiyumao	长尾羽毛〔e621〕	0
 M:29:__prompt__:long_tail_feathers:weibuzhangyu	尾部长羽〔e621〕	0
-M:29:__prompt__:long_tail_feathers:zhangweiyumao	长尾羽毛〔e621〕	0
 M:29:__prompt__:long_term_chastity:changqisuojingzhuangzhi	长期锁精装置〔e621〕	0
 M:29:__prompt__:long_term_chastity:changqizhencaolong	长期贞操笼〔e621〕	0
 M:29:__prompt__:long_term_chastity:changqizhencaosuo	长期贞操锁〔e621〕	0
@@ -336238,6 +336389,7 @@ M:29:__prompt__:pooping_on_another:fenbianluozaijueseshang	粪便落在角色上
 M:29:__prompt__:pooping_on_another:paibianzaibierenshenshang	排便在别人身上〔e621〕	0
 M:29:__prompt__:pooping_on_another:shilazaibierenshenshang	屎拉在别人身上〔e621〕	0
 M:29:__prompt__:poorly drawn hands:huadebuhaodeshou	画的不好的手〔负面词〕	0
+M:29:__prompt__:poorly drawn hands:huahuaideshou	画坏的手〔负面词〕	1
 M:29:__prompt__:poorly drawn hands:shouhuadecha	手画得差〔负面词〕	0
 M:29:__prompt__:pop_(sound_effect):bosheng	啵声〔e621〕	0
 M:29:__prompt__:pop_(sound_effect):pasheng	啪声〔e621〕	0
@@ -342313,7 +342465,7 @@ M:30:__prompt__:harukaze_(kancolle):chunfeng	春风〔合并词库〕	0
 M:30:__prompt__:harukaze_(kancolle):shenfengji	神风级〔合并词库〕	0
 M:30:__prompt__:harusame_(kancolle):bailuxingquzhujian	白露型驱逐舰〔合并词库〕	0
 M:30:__prompt__:harusame_(kancolle):chunyu	春雨〔合并词库〕	0
-M:30:__prompt__:harusame_(kancolle):fenfamayi	粉发马尾〔合并词库〕	0
+M:30:__prompt__:harusame_(kancolle):fenfamawei	粉发马尾〔合并词库〕	0
 M:30:__prompt__:hasu_no_shousankaku:baihe	百合〔合并词库〕	0
 M:30:__prompt__:hasumi_souji_(eroe):lianjianzongsi	莲见总司〔合并词库〕	0
 M:30:__prompt__:hatakaze_(kancolle):qifeng	旗风〔合并词库〕	0
@@ -343289,7 +343441,7 @@ M:30:__prompt__:magical_stimulation:mofacuiqing	魔法催情〔e621〕	0
 M:30:__prompt__:magical_stimulation:mofatiaodou	魔法挑逗〔e621〕	0
 M:30:__prompt__:mai_(senran_kagura):shanluankagela	闪乱卡格拉〔合并词库〕	0
 M:30:__prompt__:mai_(senran_kagura):wu	舞〔合并词库〕	0
-M:30:__prompt__:maia_(blue_archive):baifashuangmayi	白发双马尾〔合并词库〕	0
+M:30:__prompt__:maia_(blue_archive):baifashuangmawei	白发双马尾〔合并词库〕	0
 M:30:__prompt__:maia_(blue_archive):diliuzhang	第六章〔合并词库〕	0
 M:30:__prompt__:maia_(blue_archive):limumaiya	立木迈亚〔合并词库〕	0
 M:30:__prompt__:makai_senki_disgaea:mojiezhanji	魔界战记〔合并词库〕	0
@@ -347783,6 +347935,7 @@ M:31:__prompt__:celica_(fire_emblem):huoyanwenzhangwaizhuan	火焰纹章外传�
 M:31:__prompt__:celica_(fire_emblem):sailika	塞莉卡〔合并词库〕	0
 M:31:__prompt__:celica_(fire_emblem):suofeiyagongzhu	索菲亚公主〔合并词库〕	0
 M:31:__prompt__:celine_(fire_emblem):sailin	塞琳〔合并词库〕	0
+M:31:__prompt__:centered composition:juzhonggoutu	居中构图〔常用词〕	1
 M:31:__prompt__:centre parting bangs:zhongfenliuhai	中分刘海〔提示词库〕	0
 M:31:__prompt__:cerberus_(helltaker):diyuhougong	地狱后宫〔e621〕	0
 M:31:__prompt__:cerberus_(helltaker):diyuliequansanrenzu	地狱猎犬三人组〔e621〕	0
@@ -349896,9 +350049,9 @@ M:31:__prompt__:location_in_dialogue:changjingduibai	场景对白〔e621〕	0
 M:31:__prompt__:location_in_dialogue:duihuazhongchuxiandidian	对话中出现地点〔e621〕	0
 M:31:__prompt__:lon'qu_(fire_emblem):juexing	觉醒〔合并词库〕	0
 M:31:__prompt__:lon'qu_(fire_emblem):longku	隆库〔合并词库〕	0
+M:31:__prompt__:long_inner_ear_fluff:changerneirongmao	长耳内绒毛〔e621〕	0
 M:31:__prompt__:long_inner_ear_fluff:erduoneibuchangmao	耳朵内部长毛〔e621〕	0
 M:31:__prompt__:long_inner_ear_fluff:erneimaofawaiyi	耳内毛发外溢〔e621〕	0
-M:31:__prompt__:long_inner_ear_fluff:zhangerneirongmao	长耳内绒毛〔e621〕	0
 M:31:__prompt__:long_single_sidelock:binjiao	鬓角〔合并词库〕	0
 M:31:__prompt__:long_single_sidelock:dancezhangbinjiao	单侧长鬓角〔合并词库〕	0
 M:31:__prompt__:looking over glasses:touguoyanjingkan	透过眼镜看〔提示词库〕	0
@@ -350749,7 +350902,7 @@ M:31:__prompt__:penis_towards_viewer:yinjingchaoqian	阴茎朝前〔e621〕	0
 M:31:__prompt__:penlight_(glowstick):dengguang	灯光〔合并词库〕	0
 M:31:__prompt__:penlight_(glowstick):yanchanghui	演唱会〔合并词库〕	0
 M:31:__prompt__:penlight_(glowstick):yingguangbang	荧光棒〔合并词库〕	0
-M:31:__prompt__:perfectheart_(omori):fenseshuangmayi	粉色双马尾〔合并词库〕	0
+M:31:__prompt__:perfectheart_(omori):fenseshuangmawei	粉色双马尾〔合并词库〕	0
 M:31:__prompt__:perfectheart_(omori):wanmeizhixin	完美之心〔合并词库〕	0
 M:31:__prompt__:perfumer_(arknights):diaoxiangshi	调香师〔合并词库〕	0
 M:31:__prompt__:perfumer_(arknights):huli	狐狸〔合并词库〕	0
@@ -353154,7 +353307,7 @@ M:31:shikabane-gurai_no_bouken_meshi:shitishiyongdemaoxianfan	尸体食用的冒
 M:31:shinji_to_yukai_na_nakama-tachi:zhensiyuyukuaidexiaohuobanmen	真嗣与愉快的小伙伴们	1
 M:31:shitsuji_ga_aruji_wo_erabu_toki:zhishixuanzezhurenzhishi	执事选择主人之时	1
 M:31:shoujo-tachi_wa_kouya_wo_mezasu:shaonvmenxianghuangyejinfa	少女们向荒野进发	1
-M:31:side_ponytail_with_braided_base:bianfajidicemayi	编发基底侧马尾	1
+M:31:side_ponytail_with_braided_base:bianfajidicemawei	编发基底侧马尾	1
 M:31:sono_bisque_doll_wa_koi_wo_suru:gengyirenouzhuiruaihe	更衣人偶坠入爱河	1
 M:31:sora_no_kane_no_hibiku_hoshi_de:kongzhizhongxiangqidexingqiu	空之钟响起的星球	1
 M:31:standing_on_another's_shoulders:zhanzaitarenjianshang	站在他人肩上	1
@@ -353534,7 +353687,7 @@ M:32:__prompt__:book_covering_breasts:shubenzhexiong	书本遮胸〔e621〕	0
 M:32:__prompt__:book_of_the_azure_sky:cangtianzhishu	苍天之书〔合并词库〕	0
 M:32:__prompt__:boryeon_(last_origin):anzhuo	安卓〔合并词库〕	0
 M:32:__prompt__:boryeon_(last_origin):baolian	宝莲〔合并词库〕	0
-M:32:__prompt__:botan_(yu_yu_hakusho):lanmayi	蓝马尾〔合并词库〕	0
+M:32:__prompt__:botan_(yu_yu_hakusho):lanmawei	蓝马尾〔合并词库〕	0
 M:32:__prompt__:botan_(yu_yu_hakusho):lingjiezhentanzhushou	灵界侦探助手〔合并词库〕	0
 M:32:__prompt__:botan_(yu_yu_hakusho):mudan	牡丹〔合并词库〕	0
 M:32:__prompt__:botan_(yu_yu_hakusho):youyoubaishu	幽游白书〔合并词库〕	0
@@ -354572,7 +354725,7 @@ M:32:__prompt__:hiding_behind_another:duozaibierenhoumian	躲在别人后面〔e
 M:32:__prompt__:hiding_behind_another:yincang	隐藏〔e621〕	0
 M:32:__prompt__:hifumi_(blue_archive):acigurifumei	阿慈谷日富美〔合并词库〕	0
 M:32:__prompt__:hifumi_(blue_archive):bukebu	补课部〔合并词库〕	0
-M:32:__prompt__:high_braided_ponytail:mayi	马尾〔合并词库〕	0
+M:32:__prompt__:high_braided_ponytail:mawei	马尾〔合并词库〕	0
 M:32:__prompt__:highlights_(coloring):caisefasi	彩色发丝〔e621〕	0
 M:32:__prompt__:highlights_(coloring):fasetiaoran	发色挑染〔e621〕	0
 M:32:__prompt__:highlights_(coloring):ranfa	染发〔e621〕	0
@@ -355476,8 +355629,8 @@ M:32:__prompt__:mythological_firebird:huoniao	火鸟〔e621〕	0
 M:32:__prompt__:mythological_firebird:shenhuahuoniao	神话火鸟〔e621〕	0
 M:32:__prompt__:mythological_mandrake:mandelacao	曼德拉草〔e621〕	0
 M:32:__prompt__:mythological_mandrake:qihuanzhiwu	奇幻植物〔e621〕	0
+M:32:__prompt__:nagao_kagetora_(fate):changweijinghu	长尾景虎〔合并词库〕	0
 M:32:__prompt__:nagao_kagetora_(fate):shangshanqianxin	上杉谦信〔合并词库〕	0
-M:32:__prompt__:nagao_kagetora_(fate):zhangweijinghu	长尾景虎〔合并词库〕	0
 M:32:__prompt__:nagisa_(blue_archive):chahui	茶会〔合并词库〕	0
 M:32:__prompt__:nagisa_(blue_archive):tongtengzhu	桐藤渚〔合并词库〕	0
 M:32:__prompt__:nagusa_(blue_archive):baihualiaoluanduiceweiyuanhui	百花缭乱对策委员会〔合并词库〕	0
@@ -357064,10 +357217,10 @@ M:32:__prompt__:tuscaloosa_(kancolle):tasikalusa	塔斯卡卢萨〔合并词库�
 M:32:__prompt__:tuscaloosa_(kancolle):zhongxunyangjian	重巡洋舰〔合并词库〕	0
 M:32:__prompt__:twilight_sparkle_(eg):renleihuamuguang	人类化暮光〔e621〕	0
 M:32:__prompt__:twilight_velvet_(mlp):muguangtianerong	暮光天鹅绒〔e621〕	0
-M:32:__prompt__:twintails_(hairstyle):shuangcemayi	双侧马尾〔e621〕	0
-M:32:__prompt__:twintails_(hairstyle):shuangmayi	双马尾〔e621〕	0
+M:32:__prompt__:twintails_(hairstyle):shuangcemawei	双侧马尾〔e621〕	0
+M:32:__prompt__:twintails_(hairstyle):shuangmawei	双马尾〔e621〕	0
 M:32:__prompt__:twintails_(hairstyle):shuangmayifaxing	双马尾发型〔e621〕	0
-M:32:__prompt__:twintails_(hairstyle):shuangzhamayi	双扎马尾〔e621〕	0
+M:32:__prompt__:twintails_(hairstyle):shuangzhamawei	双扎马尾〔e621〕	0
 M:32:__prompt__:two-tone_sweater_vest:fensebeixin	分色背心〔合并词库〕	0
 M:32:__prompt__:two-tone_sweater_vest:liangsemaobeixin	两色毛背心〔合并词库〕	0
 M:32:__prompt__:two-tone_sweater_vest:shuangdiaomaoyimajia	双调毛衣马甲〔合并词库〕	0
@@ -357497,7 +357650,7 @@ M:32:indonesian_civil_servant_uniform:yinnigongwuyuanzhifu	印尼公务员制服
 M:32:indonesian_middle_school_uniform:yinnichuzhongxiaofu	印尼初中校服	1
 M:32:interlocked_gender_symbols_print:jiaozhixingbiefuhaoyinhua	交织性别符号印花	1
 M:32:itan_private_high_school_uniform:yidansiligaozhongxiaofu	伊旦私立高中校服	1
-M:32:jianpu_di-yi_ye_xian_za_gaomawei:jianpudiyiyexianzagaomayi	简谱第一页现杂高马尾	1
+M:32:jianpu_di-yi_ye_xian_za_gaomawei:jianpudiyiyexianzagaomawei	简谱第一页现杂高马尾	1
 M:32:juuban_elementary_school_uniform:shifanxiaoxuezhifu	十番小学制服	1
 M:32:katsute_kami_datta_kemonotachi_e:zhicengweishenzhizhongshou	致曾为神之众兽	1
 M:32:katze-reis-kuchen--nyankoromochi:maofantuanmashu	猫饭团麻糬	1
@@ -358531,8 +358684,8 @@ M:33:__prompt__:durin_(genshin_impact):dulin	杜林〔合并词库〕	0
 M:33:__prompt__:durin_(genshin_impact):longzhizi	龙之子〔合并词库〕	0
 M:33:__prompt__:durin_(genshin_impact):yuanxiagong	渊下宫〔合并词库〕	0
 M:33:__prompt__:dutch_braided_ponytail:bianfa	编发〔合并词库〕	0
-M:33:__prompt__:dutch_braided_ponytail:helanbianfamayi	荷兰编发马尾〔合并词库〕	0
-M:33:__prompt__:dutch_braided_ponytail:mayi	马尾〔合并词库〕	0
+M:33:__prompt__:dutch_braided_ponytail:helanbianfamawei	荷兰编发马尾〔合并词库〕	0
+M:33:__prompt__:dutch_braided_ponytail:mawei	马尾〔合并词库〕	0
 M:33:__prompt__:ejaculating_on_another:jingyesazaitarenshenshang	精液洒在他人身上〔e621〕	0
 M:33:__prompt__:ejaculating_on_another:shejingzaitarenshenshang	射精在他人身上〔e621〕	0
 M:33:__prompt__:ekubo_(mob_psycho_100):lingnengbaifenbai	灵能百分百〔合并词库〕	0
@@ -361398,6 +361551,7 @@ M:33:__prompt__:washington_(azur_lane):huashengdunji	华盛顿级〔合并词库
 M:33:__prompt__:wattson_(apex_legends):dianmei	电妹〔合并词库〕	0
 M:33:__prompt__:wattson_(apex_legends):shandianzhuanjia	闪电专家〔合并词库〕	0
 M:33:__prompt__:wavecat_(blue_archive):bomao	波猫〔合并词库〕	0
+M:33:__prompt__:well-proportioned body:yunchentixing	匀称体型〔描述短语〕	1
 M:33:__prompt__:welsh_springer_spaniel:weiershijifeiliequan	威尔士激飞猎犬〔e621〕	0
 M:33:__prompt__:welsh_springer_spaniel:weiershitiaoliequan	威尔士跳猎犬〔e621〕	0
 M:33:__prompt__:welsh_springer_spaniel:weiersijifeiliequan	韦尔斯激飞猎犬〔e621〕	0
@@ -367214,7 +367368,7 @@ M:35:__prompt__:fox_devil_(chainsaw_man):huliemo	狐狸恶魔〔e621〕	0
 M:35:__prompt__:fox_devil_(chainsaw_man):lianjuren	链锯人〔e621〕	0
 M:35:__prompt__:francesca_prelati_(fate):puleiladifashi	普雷拉蒂法师〔合并词库〕	0
 M:35:__prompt__:french_braided_twintails:bianfa	编发〔合并词库〕	0
-M:35:__prompt__:french_braided_twintails:shuangmayi	双马尾〔合并词库〕	0
+M:35:__prompt__:french_braided_twintails:shuangmawei	双马尾〔合并词库〕	0
 M:35:__prompt__:friday_the_13th_(series):heisexingqiwuxilie	黑色星期五系列〔e621〕	0
 M:35:__prompt__:friday_the_13th_(series):jiesensharenkuang	杰森杀人狂〔e621〕	0
 M:35:__prompt__:friday_the_13th_(series):shisanhaoxingqiwu	十三号星期五〔e621〕	0
@@ -368455,6 +368609,7 @@ M:35:__prompt__:native_american_clothing:buluofushi	部落服饰〔e621〕	0
 M:35:__prompt__:native_american_clothing:meizhouyuanzhuminfushi	美洲原住民服饰〔e621〕	0
 M:35:__prompt__:native_american_clothing:nawahuofenggefuzhuang	纳瓦霍风格服装〔e621〕	0
 M:35:__prompt__:native_american_clothing:yindianfenggefuzhuang	印第安风格服装〔e621〕	0
+M:35:__prompt__:natural body proportions:ziranshentibili	自然身体比例〔描述短语〕	1
 M:35:__prompt__:nautical interior design:hanghaishineisheji	航海室内设计〔提示词库〕	0
 M:35:__prompt__:nazuna_(hidamari_sketch):ticai	薙菜〔合并词库〕	0
 M:35:__prompt__:necklace_between_breasts:xianglian	项链〔合并词库〕	0
@@ -368672,7 +368827,7 @@ M:35:__prompt__:orange and off-white fur:chengyumibaisemaopi	橙＋米白色皮�
 M:35:__prompt__:orange and off-white fur:chengyumibaisepimao	橙＋米白色皮毛〔皮毛配色〕	1
 M:35:__prompt__:ore_twintail_ni_narimasu:wo	我〔合并词库〕	0
 M:35:__prompt__:ore_twintail_ni_narimasu:xiju	喜剧〔合并词库〕	0
-M:35:__prompt__:ore_twintail_ni_narimasu:yaochengweishuangmayi	要成为双马尾〔合并词库〕	0
+M:35:__prompt__:ore_twintail_ni_narimasu:yaochengweishuangmawei	要成为双马尾〔合并词库〕	0
 M:35:__prompt__:oryou_(girls_und_panzer):hemadui	河马队〔合并词库〕	0
 M:35:__prompt__:oryou_(girls_und_panzer):xiaojiudui	小鸠队〔合并词库〕	0
 M:35:__prompt__:oryou_(girls_und_panzer):yeshangwuzi	野上武子〔合并词库〕	0
@@ -369227,6 +369382,8 @@ M:35:__prompt__:stitch_(lilo_and_stitch):sibiwaixingren	四臂外星人〔e621�
 M:35:__prompt__:stitch_(lilo_and_stitch):xingjibaobei	星际宝贝〔e621〕	0
 M:35:__prompt__:stocking_(psg)_(cosplay):donghuajuese	动画角色〔合并词库〕	0
 M:35:__prompt__:sturm_(granblue_fantasy):situmu	斯图姆〔e621〕	0
+M:35:__prompt__:subtle muscle definition:bumingxiandejirouxiantiao	不明显的肌肉线条〔常用词〕	1
+M:35:__prompt__:subtle muscle definition:rouhejirouxiantiao	柔和肌肉线条〔描述短语〕	1
 M:35:__prompt__:sucrose_(genshin_impact):lianjinshushi	炼金术士〔e621〕	0
 M:35:__prompt__:sucrose_(genshin_impact):mengde	蒙德〔e621〕	0
 M:35:__prompt__:sucrose_(genshin_impact):shatang	砂糖〔e621〕	0
@@ -369359,8 +369516,8 @@ M:35:__prompt__:tune_squad_outfit_(1996):taikongdaguanlanqiuyi	太空大灌篮�
 M:35:__prompt__:tune_squad_outfit_(2021):donghualanqiuduifu	动画篮球队服〔e621〕	0
 M:35:__prompt__:twilight_sparkle_(human):muguangshanshan	暮光闪闪〔合并词库〕	0
 M:35:__prompt__:twilight_sparkle_(human):ziyue	紫悦〔合并词库〕	0
-M:35:__prompt__:twintails_with_hair_base:shuangmayi	双马尾〔合并词库〕	0
-M:35:__prompt__:twintails_with_hair_base:youfashujibudeshuangmayi	有发束基部的双马尾〔合并词库〕	0
+M:35:__prompt__:twintails_with_hair_base:shuangmawei	双马尾〔合并词库〕	0
+M:35:__prompt__:twintails_with_hair_base:youfashujibudeshuangmawei	有发束基部的双马尾〔合并词库〕	0
 M:35:__prompt__:u.a._cheerleader_uniform:laladuifu	啦啦队服〔合并词库〕	0
 M:35:__prompt__:u.a._cheerleader_uniform:xiongyinggaozhonglaladuizhifu	雄英高中啦啦队制服〔合并词库〕	0
 M:35:__prompt__:ubel_(sousou_no_frieren):monv	魔女〔合并词库〕	0
@@ -369695,7 +369852,7 @@ M:35:french_national_soccer_team_uniform:faguoguojiazuqiuduiduifu	法国国家�
 M:35:futago_shimai-chan_no_yuri_seikatsu:shuangzijiemeihuadebaiheshenghuo	双子姐妹花的百合生活	1
 M:35:gaoxingde_bingxianhsudong_niurouwan:gaoxingdebingxiansudongniurouwan	高兴的冰鲜速冻牛肉丸	1
 M:35:german_national_soccer_team_uniform:deguoguojiazuqiuduiduifu	德国国家足球队队服	1
-M:35:grabbing_one_of_another's_twintails:zhuadanceshuangmayi	抓单侧双马尾	1
+M:35:grabbing_one_of_another's_twintails:zhuadanceshuangmawei	抓单侧双马尾	1
 M:35:great_spirit_revealing_maid_costume:dajinglingxianxiannvpuzhuang	大精灵显现女仆装	1
 M:35:hokkyoku_hyakkaten_no_concierge-san:beijibaihuodejiedaiyuan	北极百货的接待员	1
 M:35:hoshimi_private_high_school_uniform:xingjiansiligaozhongzhifu	星见私立高中制服	1
@@ -371752,6 +371909,8 @@ M:36:__prompt__:napoleon_bonaparte_(fate):yiwendai	异闻带〔合并词库〕	0
 M:36:__prompt__:nasu_no_yoichi_(drifters):naxujielong	那须介隆〔合并词库〕	0
 M:36:__prompt__:nasu_no_yoichi_(drifters):naxuyuyi	那须与一〔合并词库〕	0
 M:36:__prompt__:native_american_headdress:meizhouyuanzhuminfeng	美洲原住民风〔合并词库〕	0
+M:36:__prompt__:natural muscle definition:zirandejirouxiantiao	自然的肌肉线条〔常用词〕	1
+M:36:__prompt__:natural muscle definition:ziranjirouxiantiao	自然肌肉线条〔描述短语〕	1
 M:36:__prompt__:navigator_(alchemy_stars):baiyejiguang	白夜极光〔合并词库〕	0
 M:36:__prompt__:navigator_(alchemy_stars):daohangyuan	导航员〔合并词库〕	0
 M:36:__prompt__:navigator_(alchemy_stars):lianjinshuxingchen	炼金术星辰〔合并词库〕	0
@@ -372276,7 +372435,7 @@ M:36:__prompt__:shinjin-chan_(douki-chan):xinrenjiang	新人酱〔合并词库�
 M:36:__prompt__:shinkai_shoujo_(vocaloid):shenhaishaonv	深海少女〔合并词库〕	0
 M:36:__prompt__:shinkon_gattai_godannar!!:shenhunheti	神魂合体〔合并词库〕	0
 M:36:__prompt__:shiny_heart_(alice_girls):shanyaozhixin	闪耀之心〔合并词库〕	0
-M:36:__prompt__:shiny_heart_(alice_girls):shuangmayi	双马尾〔合并词库〕	0
+M:36:__prompt__:shiny_heart_(alice_girls):shuangmawei	双马尾〔合并词库〕	0
 M:36:__prompt__:shirakami_fubuki_(street):disanfuzhuang	第三服装〔合并词库〕	0
 M:36:__prompt__:shiranui_flare_(new_year):dazhengshidaifengge	大正时代风格〔合并词库〕	0
 M:36:__prompt__:shiranui_flare_(new_year):zhengyue	正月〔合并词库〕	0
@@ -373379,6 +373538,8 @@ M:37:__prompt__:date_a_live:_date_a_bullet:kuangsanwaizhuan	狂三外传〔合�
 M:37:__prompt__:date_a_live:_date_a_bullet:yuehuidazuozhan	约会大作战〔合并词库〕	0
 M:37:__prompt__:date_a_live:_spirit_pledge:jingling	精灵〔合并词库〕	0
 M:37:__prompt__:date_a_live:_spirit_pledge:yuehuidazuozhan	约会大作战〔合并词库〕	0
+M:37:__prompt__:deformed abdominal muscles:fujibianxing	腹肌变形〔负面词〕	1
+M:37:__prompt__:deformed abdominal muscles:fujijixing	腹肌畸形〔描述短语〕	1
 M:37:__prompt__:denken_(sousou_no_frieren):danken	丹肯〔合并词库〕	0
 M:37:__prompt__:denken_(sousou_no_frieren):diguo	帝国〔合并词库〕	0
 M:37:__prompt__:denken_(sousou_no_frieren):yidengmodaoshi	一等魔导师〔合并词库〕	0
@@ -374860,8 +375021,8 @@ M:37:__prompt__:pokemon_scarlet_and_violet:padiyadiqu	帕底亚地区〔合并�
 M:37:__prompt__:pollux_(honkai:_star_rail):bolvkesi	玻吕刻斯〔合并词库〕	0
 M:37:__prompt__:pollux_(honkai:_star_rail):kasituoliqie	卡斯托莉切〔合并词库〕	0
 M:37:__prompt__:pollux_(honkai:_star_rail):mingyicanhai	冥翼残骸〔合并词库〕	0
-M:37:__prompt__:ponytail_with_braided_base:bianfadizuomayi	编发底座马尾〔合并词库〕	0
-M:37:__prompt__:ponytail_with_braided_base:mayi	马尾〔合并词库〕	0
+M:37:__prompt__:ponytail_with_braided_base:bianfadizuomawei	编发底座马尾〔合并词库〕	0
+M:37:__prompt__:ponytail_with_braided_base:mawei	马尾〔合并词库〕	0
 M:37:__prompt__:pooping_while_masturbating:paibianshiziwei	排便时自慰〔e621〕	0
 M:37:__prompt__:pooping_while_masturbating:shuangchongxingwei	双重行为〔e621〕	0
 M:37:__prompt__:pooping_while_masturbating:yibianpaibianyibianziwei	一边排便一边自慰〔e621〕	0
@@ -377888,7 +378049,7 @@ M:38:__prompt__:tail_around_another's_waist:weibachanraozaibierenyaoshang	尾巴
 M:38:__prompt__:tail_around_another's_waist:weibazishi	尾巴姿势〔合并词库〕	0
 M:38:__prompt__:taimanin_asagi_kessen_arena:duimoren	对魔忍〔合并词库〕	0
 M:38:__prompt__:takamiya_rion_(1st_costume):dihuagaoxiao	帝华高校〔合并词库〕	0
-M:38:__prompt__:takamiya_rion_(1st_costume):shuangmayi	双马尾〔合并词库〕	0
+M:38:__prompt__:takamiya_rion_(1st_costume):shuangmawei	双马尾〔合并词库〕	0
 M:38:__prompt__:takodachi_(ninomae_ina'nis):yinafensi	伊纳粉丝〔合并词库〕	0
 M:38:__prompt__:tan and orange color scheme:huanghechengpeise	黄褐＋橙配色〔通用短语〕	1
 M:38:__prompt__:tan and orange color scheme:huanghesechengsepeise	黄褐＋橙配色〔通用短语〕	1
@@ -378012,8 +378173,8 @@ M:38:__prompt__:tsumugi_(princess_connect!):jiangongchou	茧宫紬〔合并词�
 M:38:__prompt__:tsumugi_(princess_connect!):kamina	卡蜜娜〔合并词库〕	0
 M:38:__prompt__:turn_a_gundam_(mobile_suit):baiwawa	白娃娃〔合并词库〕	0
 M:38:__prompt__:turn_a_gundam_(mobile_suit):yueguangdie	月光蝶〔合并词库〕	0
-M:38:__prompt__:twintails_with_braided_base:bianfajidideshuangmayi	编发基底的双马尾〔合并词库〕	0
-M:38:__prompt__:twintails_with_braided_base:shuangmayi	双马尾〔合并词库〕	0
+M:38:__prompt__:twintails_with_braided_base:bianfajidideshuangmawei	编发基底的双马尾〔合并词库〕	0
+M:38:__prompt__:twintails_with_braided_base:shuangmawei	双马尾〔合并词库〕	0
 M:38:__prompt__:two-tone_one-piece_swimsuit:liantiyongyi	连体泳衣〔合并词库〕	0
 M:38:__prompt__:two_soyjaks_pointing_(meme):biaoqingbao	表情包〔合并词库〕	0
 M:38:__prompt__:type_100_(girls'_frontline):baishi	百式〔合并词库〕	0
@@ -378972,7 +379133,7 @@ M:39:__prompt__:goshuushou-sama_ninomiya-kun:jieaishunbian	节哀顺变〔合并
 M:39:__prompt__:gothic_princess_(idolmaster):getefengge	哥特风格〔合并词库〕	0
 M:39:__prompt__:gothic_princess_(idolmaster):getegongzhu	哥特公主〔合并词库〕	0
 M:39:__prompt__:grabbed_breast_over_shoulder:zhuawo	抓握〔合并词库〕	0
-M:39:__prompt__:grabbing_another's_twintails:zhuatarendeshuangmayi	抓他人的双马尾〔合并词库〕	0
+M:39:__prompt__:grabbing_another's_twintails:zhuatarendeshuangmawei	抓他人的双马尾〔合并词库〕	0
 M:39:__prompt__:gradient green pleated skirt:jianbianlvqun	渐变绿裙〔提示词库〕	0
 M:39:__prompt__:gray and orange color scheme:huichengpeise	灰＋橙配色〔通用短语〕	1
 M:39:__prompt__:gray and orange color scheme:huisechengsepeise	灰＋橙配色〔通用短语〕	1
@@ -379797,8 +379958,8 @@ M:39:__prompt__:shokatsuryou_(koihime_musou):kongming	孔明〔合并词库〕	0
 M:39:__prompt__:shokatsuryou_(koihime_musou):zhugeliang	诸葛亮〔合并词库〕	0
 M:39:__prompt__:shokatsuryou_(koihime_musou):zhuli	朱里〔合并词库〕	0
 M:39:__prompt__:shukusei!!_loli-kami_requiem:luoli	萝莉〔合并词库〕	0
-M:39:__prompt__:side_ponytail_with_hair_base:cemayi	侧马尾〔合并词库〕	0
-M:39:__prompt__:side_ponytail_with_hair_base:daifajicemayi	带发基侧马尾〔合并词库〕	0
+M:39:__prompt__:side_ponytail_with_hair_base:cemawei	侧马尾〔合并词库〕	0
+M:39:__prompt__:side_ponytail_with_hair_base:daifajicemawei	带发基侧马尾〔合并词库〕	0
 M:39:__prompt__:siegfried_(granblue_fantasy):gelanlanhuanxiang	格兰蓝幻想〔合并词库〕	0
 M:39:__prompt__:siegfried_(granblue_fantasy):longqishi	龙骑士〔合并词库〕	0
 M:39:__prompt__:siegfried_(granblue_fantasy):qigefei	齐格飞〔合并词库〕	0
@@ -381137,6 +381298,8 @@ M:40:__prompt__:orange and white color scheme:chengbaipeise	橙＋白配色〔�
 M:40:__prompt__:orange and white color scheme:chengsebaisepeise	橙＋白配色〔通用短语〕	1
 M:40:__prompt__:orange and white color scheme:chengseyubaise	橙＋白配色〔通用短语〕	1
 M:40:__prompt__:orfevre_(control)_(umamusume):huangjinjujiang	黄金巨匠〔合并词库〕	0
+M:40:__prompt__:overdefined abdominal muscles:fujitaimingxian	腹肌太明显〔负面词〕	1
+M:40:__prompt__:overdefined abdominal muscles:guodumingxiandefuji	过度明显的腹肌〔描述短语〕	1
 M:40:__prompt__:pallas's_cat_(kemono_friends):palasimao	帕拉斯猫〔合并词库〕	0
 M:40:__prompt__:pallas's_cat_(kemono_friends):shouniangpengyou	兽娘朋友〔合并词库〕	0
 M:40:__prompt__:paper_mario:_the_origami_king:maliao	马里奥〔e621〕	0
@@ -381592,6 +381755,8 @@ M:41:__prompt__:asashio_(halloween)_(kancolle):chaochao	朝潮〔合并词库〕
 M:41:__prompt__:asashio_(halloween)_(kancolle):quzhujian	驱逐舰〔合并词库〕	0
 M:41:__prompt__:astolfo_monster_cosplay_(meme):geng	梗〔合并词库〕	0
 M:41:__prompt__:asuna_(blue_archive)_(cosplay):landang	蓝档〔合并词库〕	0
+M:41:__prompt__:asymmetrical abdominal muscles:fujibuduicheng	腹肌不对称〔描述短语〕	1
+M:41:__prompt__:asymmetrical abdominal muscles:zuoyoufujibuduicheng	左右腹肌不对称〔负面词〕	1
 M:41:__prompt__:atlanta_(christmas)_(kancolle):qingxunyangjian	轻巡洋舰〔合并词库〕	0
 M:41:__prompt__:atlanta_(christmas)_(kancolle):shengdanpifu	圣诞皮肤〔合并词库〕	0
 M:41:__prompt__:aventurine_(honkai:_star_rail):kakawaxia	卡卡瓦夏〔合并词库〕	0
@@ -383225,7 +383390,7 @@ M:42:__prompt__:shub-niggurath_(h.p._lovecraft):kesulushenhuaxieshen	克苏鲁�
 M:42:__prompt__:shub-niggurath_(h.p._lovecraft):qianyingzhimu	千婴之母〔e621〕	0
 M:42:__prompt__:siberian_tiger_(kemono_friends):amuerhu	阿穆尔虎〔e621〕	0
 M:42:__prompt__:siberian_tiger_(kemono_friends):shouniangdongwuyuan	兽娘动物园〔e621〕	0
-M:42:__prompt__:side_ponytail_with_braided_base:cemayi	侧马尾〔合并词库〕	0
+M:42:__prompt__:side_ponytail_with_braided_base:cemawei	侧马尾〔合并词库〕	0
 M:42:__prompt__:silky_anteater_(kemono_friends):jiyixiong	姬蚁熊〔合并词库〕	0
 M:42:__prompt__:silky_anteater_(kemono_friends):shiyishoupengyou	食蚁兽朋友〔合并词库〕	0
 M:42:__prompt__:silver_wolf_(honkai:_star_rail):benghuaixingqiongtiedao	崩坏星穹铁道〔合并词库〕	0
@@ -384753,6 +384918,8 @@ M:44:__prompt__:mutsuki_(new_year)_(blue_archive):bilandangan	碧蓝档案〔合
 M:44:__prompt__:mutsuki_(new_year)_(blue_archive):xinnianpifu	新年皮肤〔合并词库〕	0
 M:44:__prompt__:mysterious_heroine_x_alter_(fate):aertuoliyagai	阿尔托莉雅改〔合并词库〕	0
 M:44:__prompt__:mysterious_heroine_x_alter_(fate):kuangzhanshi	狂战士〔合并词库〕	0
+M:44:__prompt__:natural-looking abdominal muscles:zirandefuji	自然的腹肌〔常用词〕	1
+M:44:__prompt__:natural-looking abdominal muscles:ziranfuji	自然腹肌〔描述短语〕	1
 M:44:__prompt__:negative_yuusha_to_maou-gun_kanbu:yinchenyongzheyumowangjunganbu	阴沉勇者与魔王军干部〔合并词库〕	0
 M:44:__prompt__:negative_yuusha_to_maou-gun_kanbu:yishijie	异世界〔合并词库〕	0
 M:44:__prompt__:negative_yuusha_to_maou-gun_kanbu:yongzhemowang	勇者魔王〔合并词库〕	0
@@ -385779,7 +385946,7 @@ M:46:__prompt__:misato_(summer)_(princess_connect!):gongzhulianjie	公主连结�
 M:46:__prompt__:misato_(summer)_(princess_connect!):jiumingqishituan	救命骑士团〔合并词库〕	0
 M:46:__prompt__:misato_(summer)_(princess_connect!):xiazhuangjingling	夏装精灵〔合并词库〕	0
 M:46:__prompt__:modernia_(second_affection)_(nikke):guanfangpifu	官方皮肤〔合并词库〕	0
-M:46:__prompt__:mof's_silver_haired_twintailed_girl:yinfashuangmayi	银发双马尾〔合并词库〕	0
+M:46:__prompt__:mof's_silver_haired_twintailed_girl:yinfashuangmawei	银发双马尾〔合并词库〕	0
 M:46:__prompt__:monika_(doki_doki_literature_club!):monika	莫妮卡〔e621〕	0
 M:46:__prompt__:monika_(doki_doki_literature_club!):xintiaowenxuebu	心跳文学部〔e621〕	0
 M:46:__prompt__:monster_hunter_mezeporta_kaitaku-ki:guaiwulierenxilie	怪物猎人系列〔合并词库〕	0
@@ -391952,7 +392119,7 @@ M:6:mao_yu:zhenyangyou	真央优	1
 M:6:maomao:maomao	猫猫	1
 M:6:maosen:maoxian	猫仙	1
 M:6:maosha:maosha	猫砂	1
-M:6:margay:zhangweihumao	长尾虎猫	1
+M:6:margay:changweihumao	长尾虎猫	1
 M:6:marimo:qiuzao	球藻	1
 M:6:marina:youtingmatou	游艇码头	1
 M:6:marisu:malisi	玛丽丝	1
@@ -396598,6 +396765,8 @@ M:7:zumochi:toubing	头饼	1
 M:7:zurumon:fuyoushou	浮游兽	1
 M:7:zuzhang:zuzhang	组长	1
 M:7:zyugoya:shiwuye	十五夜	1
+M:80:__prompt__:high quality, best quality, ultra-detailed, fine details, sharp focus:jichuzhengmian	基础正面〔常用组合〕	1
+M:80:__prompt__:high quality, best quality, ultra-detailed, fine details, sharp focus:zhengmian	基础正面〔常用组合〕	1
 M:80:__prompt__:tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san_puzzle_party!:ailitongxuepintu	艾莉同学拼图〔合并词库〕	0
 M:80:__prompt__:tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san_puzzle_party!:eyulinzuoaili	俄语邻座艾莉〔合并词库〕	0
 M:80:__prompt__:tokidoki_bosotto_roshia-go_de_dereru_tonari_no_alya-san_puzzle_party!:qingxiaoshuoyouxi	轻小说游戏〔合并词库〕	0
@@ -396608,6 +396777,8 @@ M:82:__prompt__:otonari_no_tenshi-sama_ni_itsu_no_mani_ka_dame_ningen_ni_sarete_
 M:82:__prompt__:tensei_shitara_dai_nana_oji_datta_no_de:_kimama_ni_majutsu_o_kiwamemasu:diqiwangzi	第七王子〔合并词库〕	0
 M:82:__prompt__:tensei_shitara_dai_nana_oji_datta_no_de:_kimama_ni_majutsu_o_kiwamemasu:yishijie	异世界〔合并词库〕	0
 M:83:jogakkou_de_otoko_hitori_na_node_kousoku_de_seiyoku_no_hakeguchi_ni_sareru_nichijou:nvxiaozhongweiyidenanshengyinxiaoguilunweixingyufaxieduixiangderichangshenghuo	女校中唯一的男生因校规沦为性欲发泄对象的日常生活	1
+M:85:__prompt__:detailed fur, soft fur, fur texture, fine fur strands, natural fur shading:shourenmaofa	兽人毛发〔常用组合〕	1
+M:85:__prompt__:detailed fur, soft fur, fur texture, fine fur strands, natural fur shading:zhengmian	兽人毛发〔常用组合〕	1
 M:85:higeki_no_genkyou_tonaru_saikyou_gedou_last_boss_joou_wa_tami_no_tame_ni_tsukushimasu:beijuzhiyuandezuiqiangxieezuihoutoumunvwangweilerenminjiejinquanli	悲剧之源的最强邪恶最后头目女王为了人民竭尽全力	1
 M:86:__prompt__:ore_no_nounai_sentakushi_ga_gakuen_love-comedy_wo_zenryoku_de_jama_shiteiru:lianaixiju	恋爱喜剧〔合并词库〕	0
 M:86:__prompt__:ore_no_nounai_sentakushi_ga_gakuen_love-comedy_wo_zenryoku_de_jama_shiteiru:wodenaoneixuanxiangzhengzaiquanlifangaixueyuanlianaixiju	我的脑内选项正在全力妨碍学园恋爱喜剧〔合并词库〕	0
@@ -399629,7 +399800,7 @@ M:8:pao-chan:paojiang	泡酱	1
 M:8:papillon:hudiequan	蝴蝶犬	1
 M:8:paradeus:paladisi	帕拉蒂斯	1
 M:8:paraffin:shila	石蜡	1
-M:8:parakeet:zhangweixiaoyingwu	长尾小鹦鹉	1
+M:8:parakeet:changweixiaoyingwu	长尾小鹦鹉	1
 M:8:parallax:shicha	视差	1
 M:8:paramore:palamoeryuedui	帕拉摩尔乐队	1
 M:8:paranoid:pianzhi	偏执	1
@@ -399743,7 +399914,6 @@ M:8:politics:zhengzhi	政治	1
 M:8:pollywog:kedou	蝌蚪	1
 M:8:pomupomu:budingbuding	布丁布丁	1
 M:8:ponytail:mawei	马尾	1
-M:8:ponytail:mayi	马尾	1
 M:8:poolside:chipan	池畔	1
 M:8:poorunii:puluni	普鲁妮	1
 M:8:pop_mart:paopaomate	泡泡玛特	1
@@ -402859,7 +403029,7 @@ M:9:hero_bank:yingxiongyinhang	英雄银行	1
 M:9:hershey's:haoshi	好时	1
 M:9:hetaraion:feichaishi	废柴狮	1
 M:9:hewu_ahua:hewuahua	何物阿华	1
-M:9:hex_tails:liumayi	六马尾	1
+M:9:hex_tails:liumawei	六马尾	1
 M:9:hiba_airi:feiyuaili	飞羽爱莉	1
 M:9:hibiki_ao:xiangmuqing	响木青	1
 M:9:hibiyairo:ribiguse	日比谷色	1
@@ -403166,7 +403336,7 @@ M:9:izumi_kei:hequangui	和泉桂	1
 M:9:izumi_sai:hequancai	和泉彩	1
 M:9:izumitanu:hequanli	和泉狸	1
 M:9:izuna_nie:fanganghua	饭纲錵	1
-M:9:jackalope:zhangjiaotu	长角兔	1
+M:9:jackalope:changjiaotu	长角兔	1
 M:9:jaco_pose:jiakezishi	加克姿势	1
 M:9:jade_vine:feicuiteng	翡翠藤	1
 M:9:jadeqilin:yuqilin	玉麒麟	1
@@ -403693,12 +403863,12 @@ M:9:long_feet:zhangjiao	长脚	1
 M:9:long_hair:changfa	长发	1
 M:9:long_hand:zhangshou	长手	1
 M:9:long_head:zhangtou	长头	1
-M:9:long_legs:zhangtui	长腿	1
+M:9:long_legs:changtui	长腿	1
 M:9:long_locs:zhangzangbian	长脏辫	1
 M:9:long_neck:zhangbozi	长脖子	1
 M:9:long_nose:zhangbizi	长鼻子	1
 M:9:long_scar:zhangshangba	长伤疤	1
-M:9:long_tail:zhangweiba	长尾巴	1
+M:9:long_tail:changweiba	长尾巴	1
 M:9:long_toes:zhangjiaozhi	长脚趾	1
 M:9:long_veil:zhangmiansha	长面纱	1
 M:9:look_back:moranhuishou	蓦然回首	1
@@ -404084,7 +404254,7 @@ M:9:nachoneko:ganchengxiaxi	甘城夏希	1
 M:9:naga_naga:changchang	长长	1
 M:9:nagachika:yongjin	永近	1
 M:9:nagai_yuu:zhangjuyou	长居优	1
-M:9:nagao_uka:zhangweiyuhua	长尾羽花	1
+M:9:nagao_uka:changweiyuhua	长尾羽花	1
 M:9:nagaotama:yongweiyu	永尾玉	1
 M:9:nagi_ryou:zhiliang	凪良	1
 M:9:nagiayase:zhilinglai	凪绫濑	1
@@ -405757,7 +405927,7 @@ M:9:trebuchet:toushiji	投石机	1
 M:9:tree_bark:shupi	树皮	1
 M:9:treehouse:shuwu	树屋	1
 M:9:trembling:chandou	颤抖	1
-M:9:tri_tails:sanmayi	三马尾	1
+M:9:tri_tails:sanmawei	三马尾	1
 M:9:triathlon:tierensanxiang	铁人三项	1
 M:9:tribadism:modoufu	磨豆腐	1
 M:9:trilobite:sanyechong	三叶虫	1
@@ -405802,7 +405972,6 @@ M:9:tv_dinner:lengdongkuaican	冷冻快餐	1
 M:9:twin_milf:shuangbaotairenqi	双胞胎人妻	1
 M:9:twins_day:shuangzizhiri	双子之日	1
 M:9:twintails:shuangmawei	双马尾	1
-M:9:twintails:shuangmayi	双马尾	1
 M:9:twitching:chouchu	抽搐	1
 M:9:two_tails:shuangwei	双尾	1
 M:9:tying_bow:xihudiejie	系蝴蝶结	1

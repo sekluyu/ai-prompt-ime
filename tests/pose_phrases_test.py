@@ -10,6 +10,7 @@ import sys
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from general_phrases import PREFIX,pose_rows
+from term_repairs import repair_rows, expansion_rows, repair_target_keys
 
 def main():
     expected=pose_rows()
@@ -18,8 +19,8 @@ def main():
     lookup=lambda r:(r['code'],r['tag'].removeprefix(PREFIX))
     current={lookup(r):r for r in rows}
     old=list(csv.DictReader(io.StringIO(subprocess.check_output(['git','show','v0.2.5:rime/booru.tsv'],cwd=ROOT).decode('utf-8')),delimiter='\t'))
-    previous={lookup(r):r for r in old}
-    expected_keys={lookup(r) for r in expected}
+    previous={lookup(r):r for r in repair_rows(old)}
+    expected_keys={lookup(r) for r in expected+expansion_rows()} | repair_target_keys()
     assert len(current)==len(rows),'Duplicate pinyin/output pair'
     assert set(previous)<=set(current),'Existing output removed'
     assert set(current)-set(previous)==expected_keys-set(previous)
@@ -57,7 +58,7 @@ def main():
         assert any(r['tag']==PREFIX+side+' supporting chin' for r in expected)
     # Selecting two independent entries gives the same clause content as a preset.
     assert cases['zuoshoufuyao']+', '+cases['youshoumotou']==cases['zuoshoufuyaoyoushoumotou']
-    result={'status':'PASS','baseline':'v0.2.5','baseline_rows':len(old),'rows':len(rows),'curated_pose_mappings':len(expected),'new_lookup_pairs':len(set(current)-set(previous)),'all_prior_pairs_preserved':True,'unrelated_rows_unchanged':True,'assignment_samples':cases,'dictionary_sha256':hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest(),'native_dictionary_sha256':hashlib.sha256((ROOT/'rime/booru.dict.yaml').read_bytes()).hexdigest(),'scope':'Data and compiled exact-code priority only; no real input or image-quality acceptance.'}
+    result={'status':'PASS','baseline':'v0.2.5','baseline_rows':len(old),'rows':len(rows),'curated_pose_mappings':len(expected),'new_lookup_pairs':len(set(current)-set(previous)),'prior_pairs_preserved_after_reviewed_repairs':True,'unrelated_rows_unchanged':True,'assignment_samples':cases,'dictionary_sha256':hashlib.sha256((ROOT/'rime/booru.tsv').read_bytes()).hexdigest(),'native_dictionary_sha256':hashlib.sha256((ROOT/'rime/booru.dict.yaml').read_bytes()).hexdigest(),'scope':'Data and compiled exact-code priority only; no real input or image-quality acceptance.'}
     target=ROOT/'validation/gpt/pose-phrases.json'
     target.parent.mkdir(parents=True,exist_ok=True)
     target.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

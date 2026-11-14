@@ -1,0 +1,136 @@
+english	zh	code	category	weight	role	source
+clean outlines	清晰轮廓	qingxilunkuo	常用词	10000	primary	本项目整理
+lean	精瘦	jingshou	常用词	10000	primary	本项目整理
+athletic build	健美体型	jianmeitixing	常用词	10000	primary	本项目整理
+narrow waist	窄腰	zhaiyao	常用词	10000	primary	本项目整理
+natural body proportions	自然身体比例	ziranshentibili	描述短语	10000	primary	本项目整理
+well-proportioned body	匀称体型	yunchentixing	描述短语	10000	primary	本项目整理
+natural muscle definition	自然肌肉线条	ziranjirouxiantiao	描述短语	10000	primary	本项目整理
+natural-looking abdominal muscles	自然腹肌	ziranfuji	描述短语	10000	primary	本项目整理
+subtle muscle definition	柔和肌肉线条	rouhejirouxiantiao	描述短语	10000	primary	本项目整理
+relaxed abdomen	放松的腹部	fangsongdefubu	描述短语	10000	primary	本项目整理
+furry	福瑞风格	furuifengge	常用词	10000	primary	本项目整理
+muzzle	口鼻部	koubibu	常用词	10000	primary	本项目整理
+nose	鼻头	bitou	常用词	10000	primary	本项目整理
+long_tail	长尾	changwei	常用词	10000	primary	本项目整理
+tail_tip	尾尖	weijian	常用词	10000	primary	本项目整理
+prehensile_tail	抓握尾	zhuawowei	常用词	10000	primary	本项目整理
+thick fur	浓密毛发	nongmimaofa	常用词	10000	primary	本项目整理
+silky fur	丝滑毛发	sihuamaofa	常用词	10000	primary	本项目整理
+fur tufts	毛束	maoshu	常用词	10000	primary	本项目整理
+neck_tuft	颈部鬃毛	jingbuzongmao	常用词	10000	primary	本项目整理
+looking_at_viewer	目视观众	mushiguanzhong	常用词	10000	primary	本项目整理
+sitting	坐下	zuoxia	常用词	10000	primary	本项目整理
+lying	躺下	tangxia	常用词	10000	primary	本项目整理
+stretching	伸懒腰	shenlanyao	常用词	10000	primary	本项目整理
+hand_on_hip	手扶腰	shoufuyao	常用词	10000	primary	本项目整理
+extreme_close-up	极近特写	jijintexie	常用词	10000	primary	本项目整理
+centered composition	居中构图	juzhonggoutu	常用词	10000	primary	本项目整理
+natural lighting	自然光	ziranguang	常用词	10000	primary	本项目整理
+diffused lighting	漫射光	mansheguang	常用词	10000	primary	本项目整理
+warm_lighting	暖光	nuanguang	常用词	10000	primary	本项目整理
+cool lighting	冷光	lengguang	常用词	10000	primary	本项目整理
+solid background	纯色背景	chunsebeijing	常用词	10000	primary	本项目整理
+metallic texture	金属质感	jinshuzhigan	常用词	10000	primary	本项目整理
+leather texture	皮革质感	pigezhigan	常用词	10000	primary	本项目整理
+fabric texture	布料纹理	buliaowenli	常用词	10000	primary	本项目整理
+bad proportions	比例错误	bilicuowu	负面词	10000	primary	本项目整理
+deformed body	身体畸形	shentijixing	负面词	10000	primary	本项目整理
+malformed limbs	肢体畸形	zhitijixing	负面词	10000	primary	本项目整理
+missing_limbs	缺少肢体	queshaozhiti	负面词	10000	primary	本项目整理
+disconnected limbs	肢体断开	zhitiduankai	负面词	10000	primary	本项目整理
+fused limbs	肢体融合	zhitironghe	负面词	10000	primary	本项目整理
+poorly drawn hands	画坏的手	huahuaideshou	负面词	10000	primary	本项目整理
+extra fingers	多余手指	duoyushouzhi	负面词	10000	primary	本项目整理
+fused fingers	手指粘连	shouzhizhanlian	负面词	10000	primary	本项目整理
+extra arms	多余手臂	duoyushoubi	负面词	10000	primary	本项目整理
+missing arms	缺少手臂	queshaoshoubi	负面词	10000	primary	本项目整理
+extra legs	多余腿	duoyutui	负面词	10000	primary	本项目整理
+missing legs	缺少腿	queshaotui	负面词	10000	primary	本项目整理
+bad feet	错误脚部	cuowujiaobu	负面词	10000	primary	本项目整理
+bad abs	错误的腹肌	cuowudefuji	负面词	10000	primary	本项目整理
+bad abs	腹肌错误	fujicuowu	负面词	10000	primary	本项目整理
+bad pecs	错误的胸肌	cuowudexiongji	负面词	10000	primary	本项目整理
+bad pecs	胸肌错误	xiongjicuowu	负面词	10000	primary	本项目整理
+deformed abdominal muscles	腹肌畸形	fujijixing	描述短语	10000	primary	本项目整理
+asymmetrical abdominal muscles	腹肌不对称	fujibuduicheng	描述短语	10000	primary	本项目整理
+overdefined abdominal muscles	过度明显的腹肌	guodumingxiandefuji	描述短语	10000	primary	本项目整理
+deformed muscles	肌肉畸形	jiroujixing	描述短语	10000	primary	本项目整理
+extra_tails	多余尾巴	duoyuweiba	负面词	10000	primary	本项目整理
+missing ears	缺少耳朵	queshaoerduo	负面词	10000	primary	本项目整理
+plastic fur	塑料毛发	suliaomaofa	负面词	10000	primary	本项目整理
+multiple_tails	多根尾巴	duogenweiba	常用词	10000	primary	本项目整理
+multiple_tails	多个尾巴	duogeweiba	常用词	10000	primary	本项目整理
+two_tails	两根尾巴	lianggenweiba	常用词	10000	primary	本项目整理
+3_tails	三根尾巴	sangenweiba	常用词	10000	primary	本项目整理
+bad abs	错误腹肌	cuowufuji	常用词	10000	primary	本项目整理
+bad pecs	错误胸肌	cuowuxiongji	常用词	10000	primary	本项目整理
+muzzle	兽类口鼻	shouleikoubi	常用词	10000	primary	本项目整理
+9_tails	九根尾巴	jiugenweiba	常用词	10000	primary	本项目整理
+multi_tail	多根尾巴	duogenweiba	常用词	10000	primary	本项目整理
+extra_tails	多出来的尾巴	duochulaideweiba	常用词	10000	primary	本项目整理
+missing limbs	肢体缺失	zhitiqueshi	负面词	10000	primary	本项目整理
+missing arms	手臂缺失	shoubiqueshi	负面词	10000	primary	本项目整理
+missing legs	腿部缺失	tuibuqueshi	负面词	10000	primary	本项目整理
+missing ears	耳朵缺失	erduoqueshi	负面词	10000	primary	本项目整理
+bad abs	腹肌画错	fujihuacuo	负面词	10000	primary	本项目整理
+bad abs	腹肌崩坏	fujibenghuai	负面词	10000	primary	本项目整理
+bad pecs	胸肌画错	xiongjihuacuo	负面词	10000	primary	本项目整理
+bad proportions	身体比例错误	shentibilicuowu	负面词	10000	primary	本项目整理
+bad anatomy	身体结构错误	shentijiegoucuowu	负面词	10000	primary	本项目整理
+malformed limbs	畸形肢体	jixingzhiti	常用词	10000	primary	本项目整理
+fused fingers	手指融合	shouzhironghe	负面词	10000	primary	本项目整理
+missing fingers	手指缺失	shouzhiqueshi	负面词	10000	primary	本项目整理
+extra fingers	手指太多	shouzhitaiduo	负面词	10000	primary	本项目整理
+disconnected limbs	肢体断裂	zhitiduanlie	负面词	10000	primary	本项目整理
+deformed muscles	肌肉变形	jiroubianxing	负面词	10000	primary	本项目整理
+deformed abdominal muscles	腹肌变形	fujibianxing	负面词	10000	primary	本项目整理
+asymmetrical abdominal muscles	左右腹肌不对称	zuoyoufujibuduicheng	负面词	10000	primary	本项目整理
+overdefined abdominal muscles	腹肌太明显	fujitaimingxian	负面词	10000	primary	本项目整理
+natural muscle definition	自然的肌肉线条	zirandejirouxiantiao	常用词	10000	primary	本项目整理
+subtle muscle definition	不明显的肌肉线条	bumingxiandejirouxiantiao	常用词	10000	primary	本项目整理
+natural-looking abdominal muscles	自然的腹肌	zirandefuji	常用词	10000	primary	本项目整理
+muzzle	吻部口鼻	wenbukoubi	常用词	10000	primary	本项目整理
+fur markings	毛发花纹	maofahuawen	常用词	10000	primary	本项目整理
+tail markings	尾巴花纹	weibahuawen	常用词	10000	primary	本项目整理
+ear markings	耳朵花纹	erduohuawen	常用词	10000	primary	本项目整理
+tail_tuft	尾端毛簇	weiduanmaocu	常用词	10000	primary	本项目整理
+chest_tuft	胸前绒毛	xiongqianrongmao	常用词	10000	primary	本项目整理
+digitigrade	脚跟抬起的兽腿	jiaogentaiqideshoutui	常用词	10000	primary	本项目整理
+back_muscles	背部肌肉线条	beibujirouxiantiao	常用词	10000	primary	本项目整理
+pectorals	胸部肌肉	xiongbujirou	常用词	10000	primary	本项目整理
+obliques	腹部两侧肌肉	fubuliangcejirou	常用词	10000	primary	本项目整理
+serratus_anterior	前锯状肌	qianjuzhuangji	常用词	10000	primary	本项目整理
+soft lighting	柔和光线	rouheguangxian	常用词	10000	primary	本项目整理
+rim lighting	边缘光	bianyuanguang	常用词	10000	primary	本项目整理
+backlighting	背后打光	beihoudaguang	常用词	10000	primary	本项目整理
+looking_at_viewer	看镜头	kanjingtou	常用词	10000	primary	本项目整理
+looking_away	不看镜头	bukanjingtou	常用词	10000	primary	本项目整理
+from_above	从上往下看	congshangwangxiakan	常用词	10000	primary	本项目整理
+from_below	从下往上看	congxiawangshangkan	常用词	10000	primary	本项目整理
+full_body	全身照	quanshenzhao	常用词	10000	primary	本项目整理
+upper_body	半身照	banshenzhao	常用词	10000	primary	本项目整理
+crossed_arms	双手抱胸	shuangshoubaoxiong	常用词	10000	primary	本项目整理
+hand_on_hip	单手扶腰	danshoufuyao	常用词	10000	primary	本项目整理
+simple_background	干净背景	ganjingbeijing	常用词	10000	primary	本项目整理
+clean outlines	干净轮廓	ganjinglunkuo	常用词	10000	primary	本项目整理
+fabric texture	织物纹理	zhiwuwenli	常用词	10000	primary	本项目整理
+leather texture	皮革纹理	pigewenli	常用词	10000	primary	本项目整理
+fine details	精致细节	jingzhixijie	常用词	10000	primary	本项目整理
+ultra-detailed	超高细节	chaogaoxijie	常用词	10000	primary	本项目整理
+high quality, best quality, ultra-detailed, fine details, sharp focus	基础正面	jichuzhengmian	常用组合	12000	primary	本项目整理；部分描述短语未验证绘图效果
+high quality, best quality, ultra-detailed, fine details, sharp focus	基础正面	zhengmian	常用组合	12000	primary	本项目整理；部分描述短语未验证绘图效果
+masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading	动漫正面	dongmanzhengmian	常用组合	11500	primary	本项目整理；部分描述短语未验证绘图效果
+masterpiece, best quality, high quality, detailed illustration, clean lineart, detailed shading	动漫正面	zhengmian	常用组合	11500	primary	本项目整理；部分描述短语未验证绘图效果
+high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus	写实正面	xieshizhengmian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
+high quality, photorealistic, fine details, realistic textures, natural lighting, sharp focus	写实正面	zhengmian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
+detailed fur, soft fur, fur texture, fine fur strands, natural fur shading	兽人毛发	shourenmaofa	常用组合	11300	primary	本项目整理；部分描述短语未验证绘图效果
+detailed fur, soft fur, fur texture, fine fur strands, natural fur shading	兽人毛发	zhengmian	常用组合	11300	primary	本项目整理；部分描述短语未验证绘图效果
+natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading	自然肌肉	ziranjirou	常用组合	11200	primary	本项目整理；部分描述短语未验证绘图效果
+natural body proportions, natural muscle definition, natural-looking abdominal muscles, subtle muscle shading	自然肌肉	zhengmian	常用组合	11200	primary	本项目整理；部分描述短语未验证绘图效果
+worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text	基础负面	jichufumian	常用组合	12000	primary	本项目整理；部分描述短语未验证绘图效果
+worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad proportions, extra limbs, missing limbs, extra fingers, missing fingers, fused fingers, watermark, signature, text	基础负面	fumian	常用组合	12000	primary	本项目整理；部分描述短语未验证绘图效果
+bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面	shentijiegoufumian	常用组合	11500	primary	本项目整理；部分描述短语未验证绘图效果
+bad anatomy, bad proportions, deformed body, malformed limbs, extra limbs, missing limbs, disconnected limbs, fused limbs, bad hands, bad feet	身体结构负面	fumian	常用组合	11500	primary	本项目整理；部分描述短语未验证绘图效果
+bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面	fujifumian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
+bad abs, deformed abdominal muscles, asymmetrical abdominal muscles, overdefined abdominal muscles	腹肌负面	fumian	常用组合	11400	primary	本项目整理；部分描述短语未验证绘图效果
