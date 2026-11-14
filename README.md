@@ -2,7 +2,7 @@
 
 输入中文拼音，选出英文提示词，直接填进 ComfyUI、Stable Diffusion WebUI 或其他绘图软件。基于 Windows 小狼毫（Rime），词库离线运行，不需要 API Key，也不用开翻译网页。
 
-**当前版本：[v0.2.9](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.9)** · 收录 **276,926 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
+**当前版本：[v0.2.10](https://github.com/sekluyu/ai-prompt-ime/releases/tag/v0.2.10)** · 收录 **278,290 条拼音映射**。一个英文词可以有多个中文入口，这个数字不是独立词汇数量，也不代表所有常用词都已覆盖。
 
 ## 下载和安装
 
@@ -10,9 +10,9 @@
 
 | 下载 | 说明 |
 |---|---|
-| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/ai-prompt-ime-0.2.9-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
-| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/ai-prompt-ime-0.2.9.zip) | 包含相同安装器、词库和使用说明 |
-| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.9/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
+| [独立安装器](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/ai-prompt-ime-0.2.10-setup.exe) | 下载后直接运行，不需要 Python、Go 或 .NET |
+| [ZIP 安装包](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/ai-prompt-ime-0.2.10.zip) | 包含相同安装器、词库和使用说明 |
+| [校验文件](https://github.com/sekluyu/ai-prompt-ime/releases/download/v0.2.10/SHA256SUMS.txt) | 用于核对下载文件的 SHA-256 |
 
 1. 运行安装器。安装前会备份需要替换的文件，不创建桌面快捷方式。
 2. 右键小狼毫托盘图标，点击“重新部署”。
@@ -60,12 +60,14 @@ worst quality, low quality, lowres, blurry, jpeg artifacts, bad anatomy, bad pro
 
 ## 这次更新了什么
 
-- 修正马尾、长尾巴等词的拼音，保留原有正常入口。
-- 移除“腹肌→绝对领域”“双马尾→实体双尾”的错误对应，补明容易误解的中文说明。
-- 补充多根尾巴、腹肌错误等常用说法，以及身体结构、毛发和光照相关词。
-- 加入 8 组正面、负面常用组合，一次选择就能输入整串。
+- 新增腿、脚放在桌子、椅子、沙发、床、地面等12种位置的表达。
+- 分清左腿、右腿、双腿，以及左脚、右脚、双脚；另有一侧和另一侧的入口。
+- 支持“放在……上面”“搭在……上”“搁在……上”等常用说法。
+- 补充左右交叉搭膝和两侧位置不同的组合。
 
-详细变化见[更新记录](CHANGELOG.md)。词库仍有从上游继承的自动翻译和拼音；遇到不合适的词，可以在 [Issues](https://github.com/sekluyu/ai-prompt-ime/issues) 中附上输入拼音、候选中文和实际英文。
+例如输入 `zuotuifangzaizhuozishangmian`，选择后得到 `left leg resting on the table, `。左右指角色自身的左右。[查看腿脚放置用法和完整英文清单](docs/腿脚放置.md)。
+
+详细变化见[更新记录](CHANGELOG.md)。遇到不合适的词，可以在 [Issues](https://github.com/sekluyu/ai-prompt-ime/issues) 中附上输入拼音、候选中文和实际英文。
 
 ## 可选：截图识图
 

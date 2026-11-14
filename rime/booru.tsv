@@ -93222,6 +93222,22 @@ mako_sameshima	鲛岛真子	jiaodaozhenzi	1569	primary
 __prompt__:dogmatika_ecclesia_the_virtuous	教导族〔合并词库〕	jiaodaozu	2076	alias
 __prompt__:tapping_foot	脚打拍子〔e621〕	jiaodapaizi	2457	alias
 __prompt__:larger_human	较大人类〔e621〕	jiaodarenlei	4060	alias
+__prompt__:one foot resting on the bench	脚搭在长椅上〔脚部放置〕	jiaodazaichangyishang	10000	primary
+__prompt__:one foot resting on the bed	脚搭在床上〔脚部放置〕	jiaodazaichuangshang	10000	primary
+__prompt__:one foot resting on the windowsill	脚搭在窗台上〔脚部放置〕	jiaodazaichuangtaishang	10000	primary
+__prompt__:one foot resting on the stool	脚搭在凳上〔脚部放置〕	jiaodazaidengshang	10000	primary
+__prompt__:one foot resting on the stool	脚搭在凳子上〔脚部放置〕	jiaodazaidengzishang	10000	primary
+__prompt__:one foot resting on the floor	脚搭在地面上〔脚部放置〕	jiaodazaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	脚搭在地上〔脚部放置〕	jiaodazaidishang	10000	primary
+__prompt__:one foot resting on the footstool	脚搭在脚凳上〔脚部放置〕	jiaodazaijiaodengshang	10000	primary
+__prompt__:one foot resting on the railing	脚搭在栏杆上〔脚部放置〕	jiaodazailanganshang	10000	primary
+__prompt__:one foot resting on the sofa	脚搭在沙发上〔脚部放置〕	jiaodazaishafashang	10000	primary
+__prompt__:one foot resting on the rock	脚搭在石头上〔脚部放置〕	jiaodazaishitoushang	10000	primary
+__prompt__:one foot resting on the step	脚搭在台阶上〔脚部放置〕	jiaodazaitaijieshang	10000	primary
+__prompt__:one foot resting on the chair	脚搭在椅上〔脚部放置〕	jiaodazaiyishang	10000	primary
+__prompt__:one foot resting on the chair	脚搭在椅子上〔脚部放置〕	jiaodazaiyizishang	10000	primary
+__prompt__:one foot resting on the table	脚搭在桌上〔脚部放置〕	jiaodazaizhuoshang	10000	primary
+__prompt__:one foot resting on the table	脚搭在桌子上〔脚部放置〕	jiaodazaizhuozishang	10000	primary
 __prompt__:larger_rimmed	较大者被舔肛〔e621〕	jiaodazhebeitiangang	3096	alias
 __prompt__:foot_on_table	脚搭桌面〔e621〕	jiaodazhuomian	3231	alias
 __prompt__:dirty_feet	脚的画法错误〔提示词库〕	jiaodehuafacuowu	5001	alias
@@ -93279,20 +93295,84 @@ __prompt__:perspective_text	角度文字〔e621〕	jiaoduwenzi	2304	alias
 mizura	角发	jiaofa	2588	primary
 __prompt__:horn_hairband	角发带〔合并词库〕	jiaofadai	3589	alias
 __prompt__:fake_horns	角发带〔e621〕	jiaofadai	3498	alias
+__prompt__:one foot resting on the bench	脚放长椅上〔脚部放置〕	jiaofangchangyishang	10000	primary
+__prompt__:one foot resting on the bench	脚放长椅上面〔脚部放置〕	jiaofangchangyishangmian	10000	primary
+__prompt__:one foot resting on the bed	脚放床上〔脚部放置〕	jiaofangchuangshang	10000	primary
+__prompt__:one foot resting on the bed	脚放床上面〔脚部放置〕	jiaofangchuangshangmian	10000	primary
+__prompt__:one foot resting on the windowsill	脚放窗台上〔脚部放置〕	jiaofangchuangtaishang	10000	primary
+__prompt__:one foot resting on the windowsill	脚放窗台上面〔脚部放置〕	jiaofangchuangtaishangmian	10000	primary
 __prompt__:foot_on_thigh	脚放大腿上〔e621〕	jiaofangdatuishang	2308	alias
+__prompt__:one foot resting on the stool	脚放凳上〔脚部放置〕	jiaofangdengshang	10000	primary
+__prompt__:one foot resting on the stool	脚放凳上面〔脚部放置〕	jiaofangdengshangmian	10000	primary
+__prompt__:one foot resting on the stool	脚放凳子上〔脚部放置〕	jiaofangdengzishang	10000	primary
+__prompt__:one foot resting on the stool	脚放凳子上面〔脚部放置〕	jiaofangdengzishangmian	10000	primary
+__prompt__:one foot resting on the floor	脚放地面上〔脚部放置〕	jiaofangdimianshang	10000	primary
+__prompt__:one foot resting on the floor	脚放地面上面〔脚部放置〕	jiaofangdimianshangmian	10000	primary
+__prompt__:one foot resting on the floor	脚放地上〔脚部放置〕	jiaofangdishang	10000	primary
+__prompt__:one foot resting on the floor	脚放地上面〔脚部放置〕	jiaofangdishangmian	10000	primary
 __prompt__:foot_on_shoulder	脚放肩上〔e621〕	jiaofangjianshang	2228	alias
+__prompt__:one foot resting on the footstool	脚放脚凳上〔脚部放置〕	jiaofangjiaodengshang	10000	primary
+__prompt__:one foot resting on the footstool	脚放脚凳上面〔脚部放置〕	jiaofangjiaodengshangmian	10000	primary
+__prompt__:one foot resting on the railing	脚放栏杆上〔脚部放置〕	jiaofanglanganshang	10000	primary
+__prompt__:one foot resting on the railing	脚放栏杆上面〔脚部放置〕	jiaofanglanganshangmian	10000	primary
 __prompt__:foot_in_water	脚放入水里〔e621〕	jiaofangrushuili	2935	alias
+__prompt__:one foot resting on the sofa	脚放沙发上〔脚部放置〕	jiaofangshafashang	10000	primary
+__prompt__:one foot resting on the sofa	脚放沙发上面〔脚部放置〕	jiaofangshafashangmian	10000	primary
+__prompt__:one foot resting on the rock	脚放石头上〔脚部放置〕	jiaofangshitoushang	10000	primary
+__prompt__:one foot resting on the rock	脚放石头上面〔脚部放置〕	jiaofangshitoushangmian	10000	primary
+__prompt__:one foot resting on the step	脚放台阶上〔脚部放置〕	jiaofangtaijieshang	10000	primary
+__prompt__:one foot resting on the step	脚放台阶上面〔脚部放置〕	jiaofangtaijieshangmian	10000	primary
 __prompt__:feet_behind_head	脚放头后〔e621〕	jiaofangtouhou	2366	alias
 feet_on_dashboard	脚放仪表盘	jiaofangyibiaopan	1362	primary
+__prompt__:one foot resting on the chair	脚放椅上〔脚部放置〕	jiaofangyishang	10000	primary
+__prompt__:one foot resting on the chair	脚放椅上面〔脚部放置〕	jiaofangyishangmian	10000	primary
+__prompt__:one foot resting on the chair	脚放椅子上〔脚部放置〕	jiaofangyizishang	10000	primary
+__prompt__:one foot resting on the chair	脚放椅子上面〔脚部放置〕	jiaofangyizishangmian	10000	primary
 __prompt__:foot_on_back	脚放在背部〔e621〕	jiaofangzaibeibu	2772	alias
+__prompt__:one foot resting on the bench	脚放在长椅上〔脚部放置〕	jiaofangzaichangyishang	10000	primary
+__prompt__:one foot resting on the bench	脚放在长椅上面〔脚部放置〕	jiaofangzaichangyishangmian	10000	primary
+__prompt__:one foot resting on the bed	脚放在床上〔脚部放置〕	jiaofangzaichuangshang	10000	primary
+__prompt__:one foot resting on the bed	脚放在床上面〔脚部放置〕	jiaofangzaichuangshangmian	10000	primary
+__prompt__:one foot resting on the windowsill	脚放在窗台上〔脚部放置〕	jiaofangzaichuangtaishang	10000	primary
+__prompt__:one foot resting on the windowsill	脚放在窗台上面〔脚部放置〕	jiaofangzaichuangtaishangmian	10000	primary
+__prompt__:one foot resting on the stool	脚放在凳上〔脚部放置〕	jiaofangzaidengshang	10000	primary
+__prompt__:one foot resting on the stool	脚放在凳上面〔脚部放置〕	jiaofangzaidengshangmian	10000	primary
+__prompt__:one foot resting on the stool	脚放在凳子上〔脚部放置〕	jiaofangzaidengzishang	10000	primary
+__prompt__:one foot resting on the stool	脚放在凳子上面〔脚部放置〕	jiaofangzaidengzishangmian	10000	primary
+__prompt__:one foot resting on the floor	脚放在地面上〔脚部放置〕	jiaofangzaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	脚放在地面上面〔脚部放置〕	jiaofangzaidimianshangmian	10000	primary
+__prompt__:one foot resting on the floor	脚放在地上〔脚部放置〕	jiaofangzaidishang	10000	primary
+__prompt__:one foot resting on the floor	脚放在地上面〔脚部放置〕	jiaofangzaidishangmian	10000	primary
+__prompt__:one foot resting on the footstool	脚放在脚凳上〔脚部放置〕	jiaofangzaijiaodengshang	10000	primary
+__prompt__:one foot resting on the footstool	脚放在脚凳上面〔脚部放置〕	jiaofangzaijiaodengshangmian	10000	primary
+__prompt__:one foot resting on the railing	脚放在栏杆上〔脚部放置〕	jiaofangzailanganshang	10000	primary
+__prompt__:one foot resting on the railing	脚放在栏杆上面〔脚部放置〕	jiaofangzailanganshangmian	10000	primary
+__prompt__:one foot resting on the sofa	脚放在沙发上〔脚部放置〕	jiaofangzaishafashang	10000	primary
+__prompt__:one foot resting on the sofa	脚放在沙发上面〔脚部放置〕	jiaofangzaishafashangmian	10000	primary
+__prompt__:one foot resting on the rock	脚放在石头上〔脚部放置〕	jiaofangzaishitoushang	10000	primary
+__prompt__:one foot resting on the rock	脚放在石头上面〔脚部放置〕	jiaofangzaishitoushangmian	10000	primary
+__prompt__:one foot resting on the step	脚放在台阶上〔脚部放置〕	jiaofangzaitaijieshang	10000	primary
+__prompt__:one foot resting on the step	脚放在台阶上面〔脚部放置〕	jiaofangzaitaijieshangmian	10000	primary
 __prompt__:foot_on_leg	脚放在腿上〔e621〕	jiaofangzaituishang	2482	alias
 __prompt__:foot_on_chest	脚放在胸口〔e621〕	jiaofangzaixiongkou	2933	alias
+__prompt__:one foot resting on the chair	脚放在椅上〔脚部放置〕	jiaofangzaiyishang	10000	primary
+__prompt__:one foot resting on the chair	脚放在椅上面〔脚部放置〕	jiaofangzaiyishangmian	10000	primary
+__prompt__:one foot resting on the chair	脚放在椅子上〔脚部放置〕	jiaofangzaiyizishang	10000	primary
 __prompt__:feet_on_chair	脚放在椅子上〔合并词库〕	jiaofangzaiyizishang	2929	alias
 __prompt__:foot_on_chair	脚放在椅子上〔e621〕	jiaofangzaiyizishang	1569	alias
+__prompt__:one foot resting on the chair	脚放在椅子上面〔脚部放置〕	jiaofangzaiyizishangmian	10000	primary
+__prompt__:one foot resting on the table	脚放在桌上〔脚部放置〕	jiaofangzaizhuoshang	10000	primary
 __prompt__:foot_on_table	脚放在桌上〔e621〕	jiaofangzaizhuoshang	3231	alias
 __prompt__:feet_on_table	脚放在桌上〔合并词库〕	jiaofangzaizhuoshang	2970	alias
+__prompt__:one foot resting on the table	脚放在桌上面〔脚部放置〕	jiaofangzaizhuoshangmian	10000	primary
+__prompt__:one foot resting on the table	脚放在桌子上〔脚部放置〕	jiaofangzaizhuozishang	10000	primary
+__prompt__:one foot resting on the table	脚放在桌子上面〔脚部放置〕	jiaofangzaizhuozishangmian	10000	primary
+__prompt__:one foot resting on the table	脚放桌上〔脚部放置〕	jiaofangzhuoshang	10000	primary
 __prompt__:foot_on_table	脚放桌上〔e621〕	jiaofangzhuoshang	3231	alias
 __prompt__:feet_on_desk	脚放桌上〔e621〕	jiaofangzhuoshang	2379	alias
+__prompt__:one foot resting on the table	脚放桌上面〔脚部放置〕	jiaofangzhuoshangmian	10000	primary
+__prompt__:one foot resting on the table	脚放桌子上〔脚部放置〕	jiaofangzhuozishang	10000	primary
+__prompt__:one foot resting on the table	脚放桌子上面〔脚部放置〕	jiaofangzhuozishangmian	10000	primary
 __prompt__:matterhorn_(arknights)	角峰〔e621〕	jiaofeng	2483	alias
 the_godfather	教父	jiaofu	1893	primary
 tsunotsuki_(uguisu_maccha)	角付	jiaofu	1545	primary
@@ -93305,6 +93385,22 @@ __prompt__:tiptoes	脚跟抬起〔e621〕	jiaogentaiqi	4231	alias
 __prompt__:digitigrade	脚跟抬起的兽腿〔常用词〕	jiaogentaiqideshoutui	10000	primary
 heel_drop_split	脚跟下压劈叉	jiaogenxiayapicha	1682	primary
 __prompt__:heel_claw	脚跟爪〔e621〕	jiaogenzhao	2891	alias
+__prompt__:one foot resting on the bench	脚搁在长椅上〔脚部放置〕	jiaogezaichangyishang	10000	primary
+__prompt__:one foot resting on the bed	脚搁在床上〔脚部放置〕	jiaogezaichuangshang	10000	primary
+__prompt__:one foot resting on the windowsill	脚搁在窗台上〔脚部放置〕	jiaogezaichuangtaishang	10000	primary
+__prompt__:one foot resting on the stool	脚搁在凳上〔脚部放置〕	jiaogezaidengshang	10000	primary
+__prompt__:one foot resting on the stool	脚搁在凳子上〔脚部放置〕	jiaogezaidengzishang	10000	primary
+__prompt__:one foot resting on the floor	脚搁在地面上〔脚部放置〕	jiaogezaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	脚搁在地上〔脚部放置〕	jiaogezaidishang	10000	primary
+__prompt__:one foot resting on the footstool	脚搁在脚凳上〔脚部放置〕	jiaogezaijiaodengshang	10000	primary
+__prompt__:one foot resting on the railing	脚搁在栏杆上〔脚部放置〕	jiaogezailanganshang	10000	primary
+__prompt__:one foot resting on the sofa	脚搁在沙发上〔脚部放置〕	jiaogezaishafashang	10000	primary
+__prompt__:one foot resting on the rock	脚搁在石头上〔脚部放置〕	jiaogezaishitoushang	10000	primary
+__prompt__:one foot resting on the step	脚搁在台阶上〔脚部放置〕	jiaogezaitaijieshang	10000	primary
+__prompt__:one foot resting on the chair	脚搁在椅上〔脚部放置〕	jiaogezaiyishang	10000	primary
+__prompt__:one foot resting on the chair	脚搁在椅子上〔脚部放置〕	jiaogezaiyizishang	10000	primary
+__prompt__:one foot resting on the table	脚搁在桌上〔脚部放置〕	jiaogezaizhuoshang	10000	primary
+__prompt__:one foot resting on the table	脚搁在桌子上〔脚部放置〕	jiaogezaizhuozishang	10000	primary
 feet_on_table	脚搁桌上	jiaogezhuoshang	3019	primary
 __prompt__:horn_bow	角弓〔e621〕	jiaogong	3658	alias
 __prompt__:after_vaginal_penetration	交媾后状态〔e621〕	jiaogouhouzhuangtai	3312	alias
@@ -120234,6 +120330,102 @@ liangtianlinge	良田灵歌	liangtianlingge	1177	primary
 __prompt__:twin_braids	两条辫子〔e621〕	liangtiaobianzi	5364	alias
 __prompt__:2_artificial_limbs	两条假肢〔e621〕	liangtiaojiazhi	2284	alias
 __prompt__:2_tongues	两条舌头〔e621〕	liangtiaoshetou	2493	alias
+__prompt__:both legs resting on the bench	两条腿搭在长椅上〔腿部放置〕	liangtiaotuidazaichangyishang	10000	primary
+__prompt__:both legs resting on the bed	两条腿搭在床上〔腿部放置〕	liangtiaotuidazaichuangshang	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿搭在窗台上〔腿部放置〕	liangtiaotuidazaichuangtaishang	10000	primary
+__prompt__:both legs resting on the stool	两条腿搭在凳上〔腿部放置〕	liangtiaotuidazaidengshang	10000	primary
+__prompt__:both legs resting on the stool	两条腿搭在凳子上〔腿部放置〕	liangtiaotuidazaidengzishang	10000	primary
+__prompt__:both legs resting on the floor	两条腿搭在地面上〔腿部放置〕	liangtiaotuidazaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	两条腿搭在地上〔腿部放置〕	liangtiaotuidazaidishang	10000	primary
+__prompt__:both legs resting on the footstool	两条腿搭在脚凳上〔腿部放置〕	liangtiaotuidazaijiaodengshang	10000	primary
+__prompt__:both legs resting on the railing	两条腿搭在栏杆上〔腿部放置〕	liangtiaotuidazailanganshang	10000	primary
+__prompt__:both legs resting on the sofa	两条腿搭在沙发上〔腿部放置〕	liangtiaotuidazaishafashang	10000	primary
+__prompt__:both legs resting on the rock	两条腿搭在石头上〔腿部放置〕	liangtiaotuidazaishitoushang	10000	primary
+__prompt__:both legs resting on the step	两条腿搭在台阶上〔腿部放置〕	liangtiaotuidazaitaijieshang	10000	primary
+__prompt__:both legs resting on the chair	两条腿搭在椅上〔腿部放置〕	liangtiaotuidazaiyishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿搭在椅子上〔腿部放置〕	liangtiaotuidazaiyizishang	10000	primary
+__prompt__:both legs resting on the table	两条腿搭在桌上〔腿部放置〕	liangtiaotuidazaizhuoshang	10000	primary
+__prompt__:both legs resting on the table	两条腿搭在桌子上〔腿部放置〕	liangtiaotuidazaizhuozishang	10000	primary
+__prompt__:both legs resting on the bench	两条腿放长椅上〔腿部放置〕	liangtiaotuifangchangyishang	10000	primary
+__prompt__:both legs resting on the bench	两条腿放长椅上面〔腿部放置〕	liangtiaotuifangchangyishangmian	10000	primary
+__prompt__:both legs resting on the bed	两条腿放床上〔腿部放置〕	liangtiaotuifangchuangshang	10000	primary
+__prompt__:both legs resting on the bed	两条腿放床上面〔腿部放置〕	liangtiaotuifangchuangshangmian	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿放窗台上〔腿部放置〕	liangtiaotuifangchuangtaishang	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿放窗台上面〔腿部放置〕	liangtiaotuifangchuangtaishangmian	10000	primary
+__prompt__:both legs resting on the stool	两条腿放凳上〔腿部放置〕	liangtiaotuifangdengshang	10000	primary
+__prompt__:both legs resting on the stool	两条腿放凳上面〔腿部放置〕	liangtiaotuifangdengshangmian	10000	primary
+__prompt__:both legs resting on the stool	两条腿放凳子上〔腿部放置〕	liangtiaotuifangdengzishang	10000	primary
+__prompt__:both legs resting on the stool	两条腿放凳子上面〔腿部放置〕	liangtiaotuifangdengzishangmian	10000	primary
+__prompt__:both legs resting on the floor	两条腿放地面上〔腿部放置〕	liangtiaotuifangdimianshang	10000	primary
+__prompt__:both legs resting on the floor	两条腿放地面上面〔腿部放置〕	liangtiaotuifangdimianshangmian	10000	primary
+__prompt__:both legs resting on the floor	两条腿放地上〔腿部放置〕	liangtiaotuifangdishang	10000	primary
+__prompt__:both legs resting on the floor	两条腿放地上面〔腿部放置〕	liangtiaotuifangdishangmian	10000	primary
+__prompt__:both legs resting on the footstool	两条腿放脚凳上〔腿部放置〕	liangtiaotuifangjiaodengshang	10000	primary
+__prompt__:both legs resting on the footstool	两条腿放脚凳上面〔腿部放置〕	liangtiaotuifangjiaodengshangmian	10000	primary
+__prompt__:both legs resting on the railing	两条腿放栏杆上〔腿部放置〕	liangtiaotuifanglanganshang	10000	primary
+__prompt__:both legs resting on the railing	两条腿放栏杆上面〔腿部放置〕	liangtiaotuifanglanganshangmian	10000	primary
+__prompt__:both legs resting on the sofa	两条腿放沙发上〔腿部放置〕	liangtiaotuifangshafashang	10000	primary
+__prompt__:both legs resting on the sofa	两条腿放沙发上面〔腿部放置〕	liangtiaotuifangshafashangmian	10000	primary
+__prompt__:both legs resting on the rock	两条腿放石头上〔腿部放置〕	liangtiaotuifangshitoushang	10000	primary
+__prompt__:both legs resting on the rock	两条腿放石头上面〔腿部放置〕	liangtiaotuifangshitoushangmian	10000	primary
+__prompt__:both legs resting on the step	两条腿放台阶上〔腿部放置〕	liangtiaotuifangtaijieshang	10000	primary
+__prompt__:both legs resting on the step	两条腿放台阶上面〔腿部放置〕	liangtiaotuifangtaijieshangmian	10000	primary
+__prompt__:both legs resting on the chair	两条腿放椅上〔腿部放置〕	liangtiaotuifangyishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿放椅上面〔腿部放置〕	liangtiaotuifangyishangmian	10000	primary
+__prompt__:both legs resting on the chair	两条腿放椅子上〔腿部放置〕	liangtiaotuifangyizishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿放椅子上面〔腿部放置〕	liangtiaotuifangyizishangmian	10000	primary
+__prompt__:both legs resting on the bench	两条腿放在长椅上〔腿部放置〕	liangtiaotuifangzaichangyishang	10000	primary
+__prompt__:both legs resting on the bench	两条腿放在长椅上面〔腿部放置〕	liangtiaotuifangzaichangyishangmian	10000	primary
+__prompt__:both legs resting on the bed	两条腿放在床上〔腿部放置〕	liangtiaotuifangzaichuangshang	10000	primary
+__prompt__:both legs resting on the bed	两条腿放在床上面〔腿部放置〕	liangtiaotuifangzaichuangshangmian	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿放在窗台上〔腿部放置〕	liangtiaotuifangzaichuangtaishang	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿放在窗台上面〔腿部放置〕	liangtiaotuifangzaichuangtaishangmian	10000	primary
+__prompt__:both legs resting on the stool	两条腿放在凳上〔腿部放置〕	liangtiaotuifangzaidengshang	10000	primary
+__prompt__:both legs resting on the stool	两条腿放在凳上面〔腿部放置〕	liangtiaotuifangzaidengshangmian	10000	primary
+__prompt__:both legs resting on the stool	两条腿放在凳子上〔腿部放置〕	liangtiaotuifangzaidengzishang	10000	primary
+__prompt__:both legs resting on the stool	两条腿放在凳子上面〔腿部放置〕	liangtiaotuifangzaidengzishangmian	10000	primary
+__prompt__:both legs resting on the floor	两条腿放在地面上〔腿部放置〕	liangtiaotuifangzaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	两条腿放在地面上面〔腿部放置〕	liangtiaotuifangzaidimianshangmian	10000	primary
+__prompt__:both legs resting on the floor	两条腿放在地上〔腿部放置〕	liangtiaotuifangzaidishang	10000	primary
+__prompt__:both legs resting on the floor	两条腿放在地上面〔腿部放置〕	liangtiaotuifangzaidishangmian	10000	primary
+__prompt__:both legs resting on the footstool	两条腿放在脚凳上〔腿部放置〕	liangtiaotuifangzaijiaodengshang	10000	primary
+__prompt__:both legs resting on the footstool	两条腿放在脚凳上面〔腿部放置〕	liangtiaotuifangzaijiaodengshangmian	10000	primary
+__prompt__:both legs resting on the railing	两条腿放在栏杆上〔腿部放置〕	liangtiaotuifangzailanganshang	10000	primary
+__prompt__:both legs resting on the railing	两条腿放在栏杆上面〔腿部放置〕	liangtiaotuifangzailanganshangmian	10000	primary
+__prompt__:both legs resting on the sofa	两条腿放在沙发上〔腿部放置〕	liangtiaotuifangzaishafashang	10000	primary
+__prompt__:both legs resting on the sofa	两条腿放在沙发上面〔腿部放置〕	liangtiaotuifangzaishafashangmian	10000	primary
+__prompt__:both legs resting on the rock	两条腿放在石头上〔腿部放置〕	liangtiaotuifangzaishitoushang	10000	primary
+__prompt__:both legs resting on the rock	两条腿放在石头上面〔腿部放置〕	liangtiaotuifangzaishitoushangmian	10000	primary
+__prompt__:both legs resting on the step	两条腿放在台阶上〔腿部放置〕	liangtiaotuifangzaitaijieshang	10000	primary
+__prompt__:both legs resting on the step	两条腿放在台阶上面〔腿部放置〕	liangtiaotuifangzaitaijieshangmian	10000	primary
+__prompt__:both legs resting on the chair	两条腿放在椅上〔腿部放置〕	liangtiaotuifangzaiyishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿放在椅上面〔腿部放置〕	liangtiaotuifangzaiyishangmian	10000	primary
+__prompt__:both legs resting on the chair	两条腿放在椅子上〔腿部放置〕	liangtiaotuifangzaiyizishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿放在椅子上面〔腿部放置〕	liangtiaotuifangzaiyizishangmian	10000	primary
+__prompt__:both legs resting on the table	两条腿放在桌上〔腿部放置〕	liangtiaotuifangzaizhuoshang	10000	primary
+__prompt__:both legs resting on the table	两条腿放在桌上面〔腿部放置〕	liangtiaotuifangzaizhuoshangmian	10000	primary
+__prompt__:both legs resting on the table	两条腿放在桌子上〔腿部放置〕	liangtiaotuifangzaizhuozishang	10000	primary
+__prompt__:both legs resting on the table	两条腿放在桌子上面〔腿部放置〕	liangtiaotuifangzaizhuozishangmian	10000	primary
+__prompt__:both legs resting on the table	两条腿放桌上〔腿部放置〕	liangtiaotuifangzhuoshang	10000	primary
+__prompt__:both legs resting on the table	两条腿放桌上面〔腿部放置〕	liangtiaotuifangzhuoshangmian	10000	primary
+__prompt__:both legs resting on the table	两条腿放桌子上〔腿部放置〕	liangtiaotuifangzhuozishang	10000	primary
+__prompt__:both legs resting on the table	两条腿放桌子上面〔腿部放置〕	liangtiaotuifangzhuozishangmian	10000	primary
+__prompt__:both legs resting on the bench	两条腿搁在长椅上〔腿部放置〕	liangtiaotuigezaichangyishang	10000	primary
+__prompt__:both legs resting on the bed	两条腿搁在床上〔腿部放置〕	liangtiaotuigezaichuangshang	10000	primary
+__prompt__:both legs resting on the windowsill	两条腿搁在窗台上〔腿部放置〕	liangtiaotuigezaichuangtaishang	10000	primary
+__prompt__:both legs resting on the stool	两条腿搁在凳上〔腿部放置〕	liangtiaotuigezaidengshang	10000	primary
+__prompt__:both legs resting on the stool	两条腿搁在凳子上〔腿部放置〕	liangtiaotuigezaidengzishang	10000	primary
+__prompt__:both legs resting on the floor	两条腿搁在地面上〔腿部放置〕	liangtiaotuigezaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	两条腿搁在地上〔腿部放置〕	liangtiaotuigezaidishang	10000	primary
+__prompt__:both legs resting on the footstool	两条腿搁在脚凳上〔腿部放置〕	liangtiaotuigezaijiaodengshang	10000	primary
+__prompt__:both legs resting on the railing	两条腿搁在栏杆上〔腿部放置〕	liangtiaotuigezailanganshang	10000	primary
+__prompt__:both legs resting on the sofa	两条腿搁在沙发上〔腿部放置〕	liangtiaotuigezaishafashang	10000	primary
+__prompt__:both legs resting on the rock	两条腿搁在石头上〔腿部放置〕	liangtiaotuigezaishitoushang	10000	primary
+__prompt__:both legs resting on the step	两条腿搁在台阶上〔腿部放置〕	liangtiaotuigezaitaijieshang	10000	primary
+__prompt__:both legs resting on the chair	两条腿搁在椅上〔腿部放置〕	liangtiaotuigezaiyishang	10000	primary
+__prompt__:both legs resting on the chair	两条腿搁在椅子上〔腿部放置〕	liangtiaotuigezaiyizishang	10000	primary
+__prompt__:both legs resting on the table	两条腿搁在桌上〔腿部放置〕	liangtiaotuigezaizhuoshang	10000	primary
+__prompt__:both legs resting on the table	两条腿搁在桌子上〔腿部放置〕	liangtiaotuigezaizhuozishang	10000	primary
 __prompt__:two_tails	两条尾巴〔合并词库〕	liangtiaoweiba	4253	alias
 __prompt__:2_tails	两条尾巴〔e621〕	liangtiaoweiba	4179	alias
 __prompt__:2_missing_limbs	两条肢体截肢〔e621〕	liangtiaozhitijiezhi	2926	alias
@@ -120349,6 +120541,102 @@ __prompt__:two_frame_image	两帧画面〔e621〕	liangzhenhuamian	2275	alias
 __prompt__:2_toes	两趾〔e621〕	liangzhi	4211	alias
 two_pokemon	两只宝可梦	liangzhibaokemeng	1833	primary
 __prompt__:2_horns	两只角〔e621〕	liangzhijiao	4700	alias
+__prompt__:both feet resting on the bench	两只脚搭在长椅上〔脚部放置〕	liangzhijiaodazaichangyishang	10000	primary
+__prompt__:both feet resting on the bed	两只脚搭在床上〔脚部放置〕	liangzhijiaodazaichuangshang	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚搭在窗台上〔脚部放置〕	liangzhijiaodazaichuangtaishang	10000	primary
+__prompt__:both feet resting on the stool	两只脚搭在凳上〔脚部放置〕	liangzhijiaodazaidengshang	10000	primary
+__prompt__:both feet resting on the stool	两只脚搭在凳子上〔脚部放置〕	liangzhijiaodazaidengzishang	10000	primary
+__prompt__:both feet resting on the floor	两只脚搭在地面上〔脚部放置〕	liangzhijiaodazaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	两只脚搭在地上〔脚部放置〕	liangzhijiaodazaidishang	10000	primary
+__prompt__:both feet resting on the footstool	两只脚搭在脚凳上〔脚部放置〕	liangzhijiaodazaijiaodengshang	10000	primary
+__prompt__:both feet resting on the railing	两只脚搭在栏杆上〔脚部放置〕	liangzhijiaodazailanganshang	10000	primary
+__prompt__:both feet resting on the sofa	两只脚搭在沙发上〔脚部放置〕	liangzhijiaodazaishafashang	10000	primary
+__prompt__:both feet resting on the rock	两只脚搭在石头上〔脚部放置〕	liangzhijiaodazaishitoushang	10000	primary
+__prompt__:both feet resting on the step	两只脚搭在台阶上〔脚部放置〕	liangzhijiaodazaitaijieshang	10000	primary
+__prompt__:both feet resting on the chair	两只脚搭在椅上〔脚部放置〕	liangzhijiaodazaiyishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚搭在椅子上〔脚部放置〕	liangzhijiaodazaiyizishang	10000	primary
+__prompt__:both feet resting on the table	两只脚搭在桌上〔脚部放置〕	liangzhijiaodazaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	两只脚搭在桌子上〔脚部放置〕	liangzhijiaodazaizhuozishang	10000	primary
+__prompt__:both feet resting on the bench	两只脚放长椅上〔脚部放置〕	liangzhijiaofangchangyishang	10000	primary
+__prompt__:both feet resting on the bench	两只脚放长椅上面〔脚部放置〕	liangzhijiaofangchangyishangmian	10000	primary
+__prompt__:both feet resting on the bed	两只脚放床上〔脚部放置〕	liangzhijiaofangchuangshang	10000	primary
+__prompt__:both feet resting on the bed	两只脚放床上面〔脚部放置〕	liangzhijiaofangchuangshangmian	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚放窗台上〔脚部放置〕	liangzhijiaofangchuangtaishang	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚放窗台上面〔脚部放置〕	liangzhijiaofangchuangtaishangmian	10000	primary
+__prompt__:both feet resting on the stool	两只脚放凳上〔脚部放置〕	liangzhijiaofangdengshang	10000	primary
+__prompt__:both feet resting on the stool	两只脚放凳上面〔脚部放置〕	liangzhijiaofangdengshangmian	10000	primary
+__prompt__:both feet resting on the stool	两只脚放凳子上〔脚部放置〕	liangzhijiaofangdengzishang	10000	primary
+__prompt__:both feet resting on the stool	两只脚放凳子上面〔脚部放置〕	liangzhijiaofangdengzishangmian	10000	primary
+__prompt__:both feet resting on the floor	两只脚放地面上〔脚部放置〕	liangzhijiaofangdimianshang	10000	primary
+__prompt__:both feet resting on the floor	两只脚放地面上面〔脚部放置〕	liangzhijiaofangdimianshangmian	10000	primary
+__prompt__:both feet resting on the floor	两只脚放地上〔脚部放置〕	liangzhijiaofangdishang	10000	primary
+__prompt__:both feet resting on the floor	两只脚放地上面〔脚部放置〕	liangzhijiaofangdishangmian	10000	primary
+__prompt__:both feet resting on the footstool	两只脚放脚凳上〔脚部放置〕	liangzhijiaofangjiaodengshang	10000	primary
+__prompt__:both feet resting on the footstool	两只脚放脚凳上面〔脚部放置〕	liangzhijiaofangjiaodengshangmian	10000	primary
+__prompt__:both feet resting on the railing	两只脚放栏杆上〔脚部放置〕	liangzhijiaofanglanganshang	10000	primary
+__prompt__:both feet resting on the railing	两只脚放栏杆上面〔脚部放置〕	liangzhijiaofanglanganshangmian	10000	primary
+__prompt__:both feet resting on the sofa	两只脚放沙发上〔脚部放置〕	liangzhijiaofangshafashang	10000	primary
+__prompt__:both feet resting on the sofa	两只脚放沙发上面〔脚部放置〕	liangzhijiaofangshafashangmian	10000	primary
+__prompt__:both feet resting on the rock	两只脚放石头上〔脚部放置〕	liangzhijiaofangshitoushang	10000	primary
+__prompt__:both feet resting on the rock	两只脚放石头上面〔脚部放置〕	liangzhijiaofangshitoushangmian	10000	primary
+__prompt__:both feet resting on the step	两只脚放台阶上〔脚部放置〕	liangzhijiaofangtaijieshang	10000	primary
+__prompt__:both feet resting on the step	两只脚放台阶上面〔脚部放置〕	liangzhijiaofangtaijieshangmian	10000	primary
+__prompt__:both feet resting on the chair	两只脚放椅上〔脚部放置〕	liangzhijiaofangyishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚放椅上面〔脚部放置〕	liangzhijiaofangyishangmian	10000	primary
+__prompt__:both feet resting on the chair	两只脚放椅子上〔脚部放置〕	liangzhijiaofangyizishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚放椅子上面〔脚部放置〕	liangzhijiaofangyizishangmian	10000	primary
+__prompt__:both feet resting on the bench	两只脚放在长椅上〔脚部放置〕	liangzhijiaofangzaichangyishang	10000	primary
+__prompt__:both feet resting on the bench	两只脚放在长椅上面〔脚部放置〕	liangzhijiaofangzaichangyishangmian	10000	primary
+__prompt__:both feet resting on the bed	两只脚放在床上〔脚部放置〕	liangzhijiaofangzaichuangshang	10000	primary
+__prompt__:both feet resting on the bed	两只脚放在床上面〔脚部放置〕	liangzhijiaofangzaichuangshangmian	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚放在窗台上〔脚部放置〕	liangzhijiaofangzaichuangtaishang	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚放在窗台上面〔脚部放置〕	liangzhijiaofangzaichuangtaishangmian	10000	primary
+__prompt__:both feet resting on the stool	两只脚放在凳上〔脚部放置〕	liangzhijiaofangzaidengshang	10000	primary
+__prompt__:both feet resting on the stool	两只脚放在凳上面〔脚部放置〕	liangzhijiaofangzaidengshangmian	10000	primary
+__prompt__:both feet resting on the stool	两只脚放在凳子上〔脚部放置〕	liangzhijiaofangzaidengzishang	10000	primary
+__prompt__:both feet resting on the stool	两只脚放在凳子上面〔脚部放置〕	liangzhijiaofangzaidengzishangmian	10000	primary
+__prompt__:both feet resting on the floor	两只脚放在地面上〔脚部放置〕	liangzhijiaofangzaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	两只脚放在地面上面〔脚部放置〕	liangzhijiaofangzaidimianshangmian	10000	primary
+__prompt__:both feet resting on the floor	两只脚放在地上〔脚部放置〕	liangzhijiaofangzaidishang	10000	primary
+__prompt__:both feet resting on the floor	两只脚放在地上面〔脚部放置〕	liangzhijiaofangzaidishangmian	10000	primary
+__prompt__:both feet resting on the footstool	两只脚放在脚凳上〔脚部放置〕	liangzhijiaofangzaijiaodengshang	10000	primary
+__prompt__:both feet resting on the footstool	两只脚放在脚凳上面〔脚部放置〕	liangzhijiaofangzaijiaodengshangmian	10000	primary
+__prompt__:both feet resting on the railing	两只脚放在栏杆上〔脚部放置〕	liangzhijiaofangzailanganshang	10000	primary
+__prompt__:both feet resting on the railing	两只脚放在栏杆上面〔脚部放置〕	liangzhijiaofangzailanganshangmian	10000	primary
+__prompt__:both feet resting on the sofa	两只脚放在沙发上〔脚部放置〕	liangzhijiaofangzaishafashang	10000	primary
+__prompt__:both feet resting on the sofa	两只脚放在沙发上面〔脚部放置〕	liangzhijiaofangzaishafashangmian	10000	primary
+__prompt__:both feet resting on the rock	两只脚放在石头上〔脚部放置〕	liangzhijiaofangzaishitoushang	10000	primary
+__prompt__:both feet resting on the rock	两只脚放在石头上面〔脚部放置〕	liangzhijiaofangzaishitoushangmian	10000	primary
+__prompt__:both feet resting on the step	两只脚放在台阶上〔脚部放置〕	liangzhijiaofangzaitaijieshang	10000	primary
+__prompt__:both feet resting on the step	两只脚放在台阶上面〔脚部放置〕	liangzhijiaofangzaitaijieshangmian	10000	primary
+__prompt__:both feet resting on the chair	两只脚放在椅上〔脚部放置〕	liangzhijiaofangzaiyishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚放在椅上面〔脚部放置〕	liangzhijiaofangzaiyishangmian	10000	primary
+__prompt__:both feet resting on the chair	两只脚放在椅子上〔脚部放置〕	liangzhijiaofangzaiyizishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚放在椅子上面〔脚部放置〕	liangzhijiaofangzaiyizishangmian	10000	primary
+__prompt__:both feet resting on the table	两只脚放在桌上〔脚部放置〕	liangzhijiaofangzaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	两只脚放在桌上面〔脚部放置〕	liangzhijiaofangzaizhuoshangmian	10000	primary
+__prompt__:both feet resting on the table	两只脚放在桌子上〔脚部放置〕	liangzhijiaofangzaizhuozishang	10000	primary
+__prompt__:both feet resting on the table	两只脚放在桌子上面〔脚部放置〕	liangzhijiaofangzaizhuozishangmian	10000	primary
+__prompt__:both feet resting on the table	两只脚放桌上〔脚部放置〕	liangzhijiaofangzhuoshang	10000	primary
+__prompt__:both feet resting on the table	两只脚放桌上面〔脚部放置〕	liangzhijiaofangzhuoshangmian	10000	primary
+__prompt__:both feet resting on the table	两只脚放桌子上〔脚部放置〕	liangzhijiaofangzhuozishang	10000	primary
+__prompt__:both feet resting on the table	两只脚放桌子上面〔脚部放置〕	liangzhijiaofangzhuozishangmian	10000	primary
+__prompt__:both feet resting on the bench	两只脚搁在长椅上〔脚部放置〕	liangzhijiaogezaichangyishang	10000	primary
+__prompt__:both feet resting on the bed	两只脚搁在床上〔脚部放置〕	liangzhijiaogezaichuangshang	10000	primary
+__prompt__:both feet resting on the windowsill	两只脚搁在窗台上〔脚部放置〕	liangzhijiaogezaichuangtaishang	10000	primary
+__prompt__:both feet resting on the stool	两只脚搁在凳上〔脚部放置〕	liangzhijiaogezaidengshang	10000	primary
+__prompt__:both feet resting on the stool	两只脚搁在凳子上〔脚部放置〕	liangzhijiaogezaidengzishang	10000	primary
+__prompt__:both feet resting on the floor	两只脚搁在地面上〔脚部放置〕	liangzhijiaogezaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	两只脚搁在地上〔脚部放置〕	liangzhijiaogezaidishang	10000	primary
+__prompt__:both feet resting on the footstool	两只脚搁在脚凳上〔脚部放置〕	liangzhijiaogezaijiaodengshang	10000	primary
+__prompt__:both feet resting on the railing	两只脚搁在栏杆上〔脚部放置〕	liangzhijiaogezailanganshang	10000	primary
+__prompt__:both feet resting on the sofa	两只脚搁在沙发上〔脚部放置〕	liangzhijiaogezaishafashang	10000	primary
+__prompt__:both feet resting on the rock	两只脚搁在石头上〔脚部放置〕	liangzhijiaogezaishitoushang	10000	primary
+__prompt__:both feet resting on the step	两只脚搁在台阶上〔脚部放置〕	liangzhijiaogezaitaijieshang	10000	primary
+__prompt__:both feet resting on the chair	两只脚搁在椅上〔脚部放置〕	liangzhijiaogezaiyishang	10000	primary
+__prompt__:both feet resting on the chair	两只脚搁在椅子上〔脚部放置〕	liangzhijiaogezaiyizishang	10000	primary
+__prompt__:both feet resting on the table	两只脚搁在桌上〔脚部放置〕	liangzhijiaogezaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	两只脚搁在桌子上〔脚部放置〕	liangzhijiaogezaizhuozishang	10000	primary
 liangzhi_mian_gou	两只棉狗	liangzhimiangou	1114	primary
 __prompt__:2_finger_fingering	两指指交〔e621〕	liangzhizhijiao	2885	alias
 __prompt__:two_tone_bodysuit	两种颜色紧身衣〔e621〕	liangzhongyansejinshenyi	2802	alias
@@ -123768,6 +124056,198 @@ __prompt__:the other hand covering face	另一手遮脸〔通用姿态·单手�
 __prompt__:the other hand covering eyes	另一手遮眼睛〔通用姿态·单手〕	lingyishouzheyanjing	10000	primary
 __prompt__:the other hand hanging loosely at side	另一手自然下垂〔通用姿态·单手〕	lingyishouziranxiachui	10000	primary
 __prompt__:what_if	另一条世界线〔提示词库〕	lingyitiaoshijiexian	5001	alias
+__prompt__:the other leg resting on the bench	另一条腿搭在长椅上〔腿部放置〕	lingyitiaotuidazaichangyishang	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿搭在床上〔腿部放置〕	lingyitiaotuidazaichuangshang	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿搭在窗台上〔腿部放置〕	lingyitiaotuidazaichuangtaishang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿搭在凳上〔腿部放置〕	lingyitiaotuidazaidengshang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿搭在凳子上〔腿部放置〕	lingyitiaotuidazaidengzishang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿搭在地面上〔腿部放置〕	lingyitiaotuidazaidimianshang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿搭在地上〔腿部放置〕	lingyitiaotuidazaidishang	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿搭在脚凳上〔腿部放置〕	lingyitiaotuidazaijiaodengshang	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿搭在栏杆上〔腿部放置〕	lingyitiaotuidazailanganshang	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿搭在沙发上〔腿部放置〕	lingyitiaotuidazaishafashang	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿搭在石头上〔腿部放置〕	lingyitiaotuidazaishitoushang	10000	primary
+__prompt__:the other leg resting on the step	另一条腿搭在台阶上〔腿部放置〕	lingyitiaotuidazaitaijieshang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿搭在椅上〔腿部放置〕	lingyitiaotuidazaiyishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿搭在椅子上〔腿部放置〕	lingyitiaotuidazaiyizishang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿搭在桌上〔腿部放置〕	lingyitiaotuidazaizhuoshang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿搭在桌子上〔腿部放置〕	lingyitiaotuidazaizhuozishang	10000	primary
+__prompt__:the other leg resting on the bench	另一条腿放长椅上〔腿部放置〕	lingyitiaotuifangchangyishang	10000	primary
+__prompt__:the other leg resting on the bench	另一条腿放长椅上面〔腿部放置〕	lingyitiaotuifangchangyishangmian	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿放床上〔腿部放置〕	lingyitiaotuifangchuangshang	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿放床上面〔腿部放置〕	lingyitiaotuifangchuangshangmian	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿放窗台上〔腿部放置〕	lingyitiaotuifangchuangtaishang	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿放窗台上面〔腿部放置〕	lingyitiaotuifangchuangtaishangmian	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放凳上〔腿部放置〕	lingyitiaotuifangdengshang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放凳上面〔腿部放置〕	lingyitiaotuifangdengshangmian	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放凳子上〔腿部放置〕	lingyitiaotuifangdengzishang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放凳子上面〔腿部放置〕	lingyitiaotuifangdengzishangmian	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放地面上〔腿部放置〕	lingyitiaotuifangdimianshang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放地面上面〔腿部放置〕	lingyitiaotuifangdimianshangmian	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放地上〔腿部放置〕	lingyitiaotuifangdishang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放地上面〔腿部放置〕	lingyitiaotuifangdishangmian	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿放脚凳上〔腿部放置〕	lingyitiaotuifangjiaodengshang	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿放脚凳上面〔腿部放置〕	lingyitiaotuifangjiaodengshangmian	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿放栏杆上〔腿部放置〕	lingyitiaotuifanglanganshang	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿放栏杆上面〔腿部放置〕	lingyitiaotuifanglanganshangmian	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿放沙发上〔腿部放置〕	lingyitiaotuifangshafashang	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿放沙发上面〔腿部放置〕	lingyitiaotuifangshafashangmian	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿放石头上〔腿部放置〕	lingyitiaotuifangshitoushang	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿放石头上面〔腿部放置〕	lingyitiaotuifangshitoushangmian	10000	primary
+__prompt__:the other leg resting on the step	另一条腿放台阶上〔腿部放置〕	lingyitiaotuifangtaijieshang	10000	primary
+__prompt__:the other leg resting on the step	另一条腿放台阶上面〔腿部放置〕	lingyitiaotuifangtaijieshangmian	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放椅上〔腿部放置〕	lingyitiaotuifangyishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放椅上面〔腿部放置〕	lingyitiaotuifangyishangmian	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放椅子上〔腿部放置〕	lingyitiaotuifangyizishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放椅子上面〔腿部放置〕	lingyitiaotuifangyizishangmian	10000	primary
+__prompt__:the other leg resting on the bench	另一条腿放在长椅上〔腿部放置〕	lingyitiaotuifangzaichangyishang	10000	primary
+__prompt__:the other leg resting on the bench	另一条腿放在长椅上面〔腿部放置〕	lingyitiaotuifangzaichangyishangmian	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿放在床上〔腿部放置〕	lingyitiaotuifangzaichuangshang	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿放在床上面〔腿部放置〕	lingyitiaotuifangzaichuangshangmian	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿放在窗台上〔腿部放置〕	lingyitiaotuifangzaichuangtaishang	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿放在窗台上面〔腿部放置〕	lingyitiaotuifangzaichuangtaishangmian	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放在凳上〔腿部放置〕	lingyitiaotuifangzaidengshang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放在凳上面〔腿部放置〕	lingyitiaotuifangzaidengshangmian	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放在凳子上〔腿部放置〕	lingyitiaotuifangzaidengzishang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿放在凳子上面〔腿部放置〕	lingyitiaotuifangzaidengzishangmian	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放在地面上〔腿部放置〕	lingyitiaotuifangzaidimianshang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放在地面上面〔腿部放置〕	lingyitiaotuifangzaidimianshangmian	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放在地上〔腿部放置〕	lingyitiaotuifangzaidishang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿放在地上面〔腿部放置〕	lingyitiaotuifangzaidishangmian	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿放在脚凳上〔腿部放置〕	lingyitiaotuifangzaijiaodengshang	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿放在脚凳上面〔腿部放置〕	lingyitiaotuifangzaijiaodengshangmian	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿放在栏杆上〔腿部放置〕	lingyitiaotuifangzailanganshang	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿放在栏杆上面〔腿部放置〕	lingyitiaotuifangzailanganshangmian	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿放在沙发上〔腿部放置〕	lingyitiaotuifangzaishafashang	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿放在沙发上面〔腿部放置〕	lingyitiaotuifangzaishafashangmian	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿放在石头上〔腿部放置〕	lingyitiaotuifangzaishitoushang	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿放在石头上面〔腿部放置〕	lingyitiaotuifangzaishitoushangmian	10000	primary
+__prompt__:the other leg resting on the step	另一条腿放在台阶上〔腿部放置〕	lingyitiaotuifangzaitaijieshang	10000	primary
+__prompt__:the other leg resting on the step	另一条腿放在台阶上面〔腿部放置〕	lingyitiaotuifangzaitaijieshangmian	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放在椅上〔腿部放置〕	lingyitiaotuifangzaiyishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放在椅上面〔腿部放置〕	lingyitiaotuifangzaiyishangmian	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放在椅子上〔腿部放置〕	lingyitiaotuifangzaiyizishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿放在椅子上面〔腿部放置〕	lingyitiaotuifangzaiyizishangmian	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放在桌上〔腿部放置〕	lingyitiaotuifangzaizhuoshang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放在桌上面〔腿部放置〕	lingyitiaotuifangzaizhuoshangmian	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放在桌子上〔腿部放置〕	lingyitiaotuifangzaizhuozishang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放在桌子上面〔腿部放置〕	lingyitiaotuifangzaizhuozishangmian	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放桌上〔腿部放置〕	lingyitiaotuifangzhuoshang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放桌上面〔腿部放置〕	lingyitiaotuifangzhuoshangmian	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放桌子上〔腿部放置〕	lingyitiaotuifangzhuozishang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿放桌子上面〔腿部放置〕	lingyitiaotuifangzhuozishangmian	10000	primary
+__prompt__:the other leg resting on the bench	另一条腿搁在长椅上〔腿部放置〕	lingyitiaotuigezaichangyishang	10000	primary
+__prompt__:the other leg resting on the bed	另一条腿搁在床上〔腿部放置〕	lingyitiaotuigezaichuangshang	10000	primary
+__prompt__:the other leg resting on the windowsill	另一条腿搁在窗台上〔腿部放置〕	lingyitiaotuigezaichuangtaishang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿搁在凳上〔腿部放置〕	lingyitiaotuigezaidengshang	10000	primary
+__prompt__:the other leg resting on the stool	另一条腿搁在凳子上〔腿部放置〕	lingyitiaotuigezaidengzishang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿搁在地面上〔腿部放置〕	lingyitiaotuigezaidimianshang	10000	primary
+__prompt__:the other leg resting on the floor	另一条腿搁在地上〔腿部放置〕	lingyitiaotuigezaidishang	10000	primary
+__prompt__:the other leg resting on the footstool	另一条腿搁在脚凳上〔腿部放置〕	lingyitiaotuigezaijiaodengshang	10000	primary
+__prompt__:the other leg resting on the railing	另一条腿搁在栏杆上〔腿部放置〕	lingyitiaotuigezailanganshang	10000	primary
+__prompt__:the other leg resting on the sofa	另一条腿搁在沙发上〔腿部放置〕	lingyitiaotuigezaishafashang	10000	primary
+__prompt__:the other leg resting on the rock	另一条腿搁在石头上〔腿部放置〕	lingyitiaotuigezaishitoushang	10000	primary
+__prompt__:the other leg resting on the step	另一条腿搁在台阶上〔腿部放置〕	lingyitiaotuigezaitaijieshang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿搁在椅上〔腿部放置〕	lingyitiaotuigezaiyishang	10000	primary
+__prompt__:the other leg resting on the chair	另一条腿搁在椅子上〔腿部放置〕	lingyitiaotuigezaiyizishang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿搁在桌上〔腿部放置〕	lingyitiaotuigezaizhuoshang	10000	primary
+__prompt__:the other leg resting on the table	另一条腿搁在桌子上〔腿部放置〕	lingyitiaotuigezaizhuozishang	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚搭在长椅上〔脚部放置〕	lingyizhijiaodazaichangyishang	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚搭在床上〔脚部放置〕	lingyizhijiaodazaichuangshang	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚搭在窗台上〔脚部放置〕	lingyizhijiaodazaichuangtaishang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚搭在凳上〔脚部放置〕	lingyizhijiaodazaidengshang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚搭在凳子上〔脚部放置〕	lingyizhijiaodazaidengzishang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚搭在地面上〔脚部放置〕	lingyizhijiaodazaidimianshang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚搭在地上〔脚部放置〕	lingyizhijiaodazaidishang	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚搭在脚凳上〔脚部放置〕	lingyizhijiaodazaijiaodengshang	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚搭在栏杆上〔脚部放置〕	lingyizhijiaodazailanganshang	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚搭在沙发上〔脚部放置〕	lingyizhijiaodazaishafashang	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚搭在石头上〔脚部放置〕	lingyizhijiaodazaishitoushang	10000	primary
+__prompt__:the other foot resting on the step	另一只脚搭在台阶上〔脚部放置〕	lingyizhijiaodazaitaijieshang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚搭在椅上〔脚部放置〕	lingyizhijiaodazaiyishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚搭在椅子上〔脚部放置〕	lingyizhijiaodazaiyizishang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚搭在桌上〔脚部放置〕	lingyizhijiaodazaizhuoshang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚搭在桌子上〔脚部放置〕	lingyizhijiaodazaizhuozishang	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚放长椅上〔脚部放置〕	lingyizhijiaofangchangyishang	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚放长椅上面〔脚部放置〕	lingyizhijiaofangchangyishangmian	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚放床上〔脚部放置〕	lingyizhijiaofangchuangshang	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚放床上面〔脚部放置〕	lingyizhijiaofangchuangshangmian	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚放窗台上〔脚部放置〕	lingyizhijiaofangchuangtaishang	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚放窗台上面〔脚部放置〕	lingyizhijiaofangchuangtaishangmian	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放凳上〔脚部放置〕	lingyizhijiaofangdengshang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放凳上面〔脚部放置〕	lingyizhijiaofangdengshangmian	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放凳子上〔脚部放置〕	lingyizhijiaofangdengzishang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放凳子上面〔脚部放置〕	lingyizhijiaofangdengzishangmian	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放地面上〔脚部放置〕	lingyizhijiaofangdimianshang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放地面上面〔脚部放置〕	lingyizhijiaofangdimianshangmian	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放地上〔脚部放置〕	lingyizhijiaofangdishang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放地上面〔脚部放置〕	lingyizhijiaofangdishangmian	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚放脚凳上〔脚部放置〕	lingyizhijiaofangjiaodengshang	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚放脚凳上面〔脚部放置〕	lingyizhijiaofangjiaodengshangmian	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚放栏杆上〔脚部放置〕	lingyizhijiaofanglanganshang	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚放栏杆上面〔脚部放置〕	lingyizhijiaofanglanganshangmian	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚放沙发上〔脚部放置〕	lingyizhijiaofangshafashang	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚放沙发上面〔脚部放置〕	lingyizhijiaofangshafashangmian	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚放石头上〔脚部放置〕	lingyizhijiaofangshitoushang	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚放石头上面〔脚部放置〕	lingyizhijiaofangshitoushangmian	10000	primary
+__prompt__:the other foot resting on the step	另一只脚放台阶上〔脚部放置〕	lingyizhijiaofangtaijieshang	10000	primary
+__prompt__:the other foot resting on the step	另一只脚放台阶上面〔脚部放置〕	lingyizhijiaofangtaijieshangmian	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放椅上〔脚部放置〕	lingyizhijiaofangyishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放椅上面〔脚部放置〕	lingyizhijiaofangyishangmian	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放椅子上〔脚部放置〕	lingyizhijiaofangyizishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放椅子上面〔脚部放置〕	lingyizhijiaofangyizishangmian	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚放在长椅上〔脚部放置〕	lingyizhijiaofangzaichangyishang	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚放在长椅上面〔脚部放置〕	lingyizhijiaofangzaichangyishangmian	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚放在床上〔脚部放置〕	lingyizhijiaofangzaichuangshang	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚放在床上面〔脚部放置〕	lingyizhijiaofangzaichuangshangmian	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚放在窗台上〔脚部放置〕	lingyizhijiaofangzaichuangtaishang	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚放在窗台上面〔脚部放置〕	lingyizhijiaofangzaichuangtaishangmian	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放在凳上〔脚部放置〕	lingyizhijiaofangzaidengshang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放在凳上面〔脚部放置〕	lingyizhijiaofangzaidengshangmian	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放在凳子上〔脚部放置〕	lingyizhijiaofangzaidengzishang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚放在凳子上面〔脚部放置〕	lingyizhijiaofangzaidengzishangmian	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放在地面上〔脚部放置〕	lingyizhijiaofangzaidimianshang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放在地面上面〔脚部放置〕	lingyizhijiaofangzaidimianshangmian	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放在地上〔脚部放置〕	lingyizhijiaofangzaidishang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚放在地上面〔脚部放置〕	lingyizhijiaofangzaidishangmian	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚放在脚凳上〔脚部放置〕	lingyizhijiaofangzaijiaodengshang	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚放在脚凳上面〔脚部放置〕	lingyizhijiaofangzaijiaodengshangmian	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚放在栏杆上〔脚部放置〕	lingyizhijiaofangzailanganshang	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚放在栏杆上面〔脚部放置〕	lingyizhijiaofangzailanganshangmian	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚放在沙发上〔脚部放置〕	lingyizhijiaofangzaishafashang	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚放在沙发上面〔脚部放置〕	lingyizhijiaofangzaishafashangmian	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚放在石头上〔脚部放置〕	lingyizhijiaofangzaishitoushang	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚放在石头上面〔脚部放置〕	lingyizhijiaofangzaishitoushangmian	10000	primary
+__prompt__:the other foot resting on the step	另一只脚放在台阶上〔脚部放置〕	lingyizhijiaofangzaitaijieshang	10000	primary
+__prompt__:the other foot resting on the step	另一只脚放在台阶上面〔脚部放置〕	lingyizhijiaofangzaitaijieshangmian	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放在椅上〔脚部放置〕	lingyizhijiaofangzaiyishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放在椅上面〔脚部放置〕	lingyizhijiaofangzaiyishangmian	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放在椅子上〔脚部放置〕	lingyizhijiaofangzaiyizishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚放在椅子上面〔脚部放置〕	lingyizhijiaofangzaiyizishangmian	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放在桌上〔脚部放置〕	lingyizhijiaofangzaizhuoshang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放在桌上面〔脚部放置〕	lingyizhijiaofangzaizhuoshangmian	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放在桌子上〔脚部放置〕	lingyizhijiaofangzaizhuozishang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放在桌子上面〔脚部放置〕	lingyizhijiaofangzaizhuozishangmian	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放桌上〔脚部放置〕	lingyizhijiaofangzhuoshang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放桌上面〔脚部放置〕	lingyizhijiaofangzhuoshangmian	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放桌子上〔脚部放置〕	lingyizhijiaofangzhuozishang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚放桌子上面〔脚部放置〕	lingyizhijiaofangzhuozishangmian	10000	primary
+__prompt__:the other foot resting on the bench	另一只脚搁在长椅上〔脚部放置〕	lingyizhijiaogezaichangyishang	10000	primary
+__prompt__:the other foot resting on the bed	另一只脚搁在床上〔脚部放置〕	lingyizhijiaogezaichuangshang	10000	primary
+__prompt__:the other foot resting on the windowsill	另一只脚搁在窗台上〔脚部放置〕	lingyizhijiaogezaichuangtaishang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚搁在凳上〔脚部放置〕	lingyizhijiaogezaidengshang	10000	primary
+__prompt__:the other foot resting on the stool	另一只脚搁在凳子上〔脚部放置〕	lingyizhijiaogezaidengzishang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚搁在地面上〔脚部放置〕	lingyizhijiaogezaidimianshang	10000	primary
+__prompt__:the other foot resting on the floor	另一只脚搁在地上〔脚部放置〕	lingyizhijiaogezaidishang	10000	primary
+__prompt__:the other foot resting on the footstool	另一只脚搁在脚凳上〔脚部放置〕	lingyizhijiaogezaijiaodengshang	10000	primary
+__prompt__:the other foot resting on the railing	另一只脚搁在栏杆上〔脚部放置〕	lingyizhijiaogezailanganshang	10000	primary
+__prompt__:the other foot resting on the sofa	另一只脚搁在沙发上〔脚部放置〕	lingyizhijiaogezaishafashang	10000	primary
+__prompt__:the other foot resting on the rock	另一只脚搁在石头上〔脚部放置〕	lingyizhijiaogezaishitoushang	10000	primary
+__prompt__:the other foot resting on the step	另一只脚搁在台阶上〔脚部放置〕	lingyizhijiaogezaitaijieshang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚搁在椅上〔脚部放置〕	lingyizhijiaogezaiyishang	10000	primary
+__prompt__:the other foot resting on the chair	另一只脚搁在椅子上〔脚部放置〕	lingyizhijiaogezaiyizishang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚搁在桌上〔脚部放置〕	lingyizhijiaogezaizhuoshang	10000	primary
+__prompt__:the other foot resting on the table	另一只脚搁在桌子上〔脚部放置〕	lingyizhijiaogezaizhuozishang	10000	primary
 __prompt__:the other hand holding an object	另一只手持物〔通用姿态·单手〕	lingyizhishouchiwu	10000	primary
 __prompt__:the other hand behind back	另一只手放背后〔通用姿态·单手〕	lingyizhishoufangbeihou	10000	primary
 __prompt__:the other hand resting on thigh	另一只手放大腿上〔通用姿态·单手〕	lingyizhishoufangdatuishang	10000	primary
@@ -193194,9 +193674,105 @@ __prompt__:feet_together	双脚并拢姿势〔e621〕	shuangjiaobinglongzishi	33
 __prompt__:feet_out_of_frame	双脚不在图内〔提示词库〕	shuangjiaobuzaitunei	5001	alias
 feet_on_another's_face	双脚踩脸	shuangjiaocailian	2304	primary
 feet_on_chair	双脚踩椅	shuangjiaocaiyi	2954	primary
+__prompt__:both feet resting on the bench	双脚搭在长椅上〔脚部放置〕	shuangjiaodazaichangyishang	10000	primary
+__prompt__:both feet resting on the bed	双脚搭在床上〔脚部放置〕	shuangjiaodazaichuangshang	10000	primary
+__prompt__:both feet resting on the windowsill	双脚搭在窗台上〔脚部放置〕	shuangjiaodazaichuangtaishang	10000	primary
+__prompt__:both feet resting on the stool	双脚搭在凳上〔脚部放置〕	shuangjiaodazaidengshang	10000	primary
+__prompt__:both feet resting on the stool	双脚搭在凳子上〔脚部放置〕	shuangjiaodazaidengzishang	10000	primary
+__prompt__:both feet resting on the floor	双脚搭在地面上〔脚部放置〕	shuangjiaodazaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	双脚搭在地上〔脚部放置〕	shuangjiaodazaidishang	10000	primary
+__prompt__:both feet resting on the footstool	双脚搭在脚凳上〔脚部放置〕	shuangjiaodazaijiaodengshang	10000	primary
+__prompt__:both feet resting on the railing	双脚搭在栏杆上〔脚部放置〕	shuangjiaodazailanganshang	10000	primary
+__prompt__:both feet resting on the sofa	双脚搭在沙发上〔脚部放置〕	shuangjiaodazaishafashang	10000	primary
+__prompt__:both feet resting on the rock	双脚搭在石头上〔脚部放置〕	shuangjiaodazaishitoushang	10000	primary
+__prompt__:both feet resting on the step	双脚搭在台阶上〔脚部放置〕	shuangjiaodazaitaijieshang	10000	primary
+__prompt__:both feet resting on the chair	双脚搭在椅上〔脚部放置〕	shuangjiaodazaiyishang	10000	primary
+__prompt__:both feet resting on the chair	双脚搭在椅子上〔脚部放置〕	shuangjiaodazaiyizishang	10000	primary
+__prompt__:both feet resting on the table	双脚搭在桌上〔脚部放置〕	shuangjiaodazaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	双脚搭在桌子上〔脚部放置〕	shuangjiaodazaizhuozishang	10000	primary
 feet_against_wall	双脚抵墙	shuangjiaodiqiang	1654	primary
 __prompt__:multicolored_feet	双脚多色〔e621〕	shuangjiaoduose	2360	alias
+__prompt__:both feet resting on the bench	双脚放长椅上〔脚部放置〕	shuangjiaofangchangyishang	10000	primary
+__prompt__:both feet resting on the bench	双脚放长椅上面〔脚部放置〕	shuangjiaofangchangyishangmian	10000	primary
+__prompt__:both feet resting on the bed	双脚放床上〔脚部放置〕	shuangjiaofangchuangshang	10000	primary
+__prompt__:both feet resting on the bed	双脚放床上面〔脚部放置〕	shuangjiaofangchuangshangmian	10000	primary
+__prompt__:both feet resting on the windowsill	双脚放窗台上〔脚部放置〕	shuangjiaofangchuangtaishang	10000	primary
+__prompt__:both feet resting on the windowsill	双脚放窗台上面〔脚部放置〕	shuangjiaofangchuangtaishangmian	10000	primary
+__prompt__:both feet resting on the stool	双脚放凳上〔脚部放置〕	shuangjiaofangdengshang	10000	primary
+__prompt__:both feet resting on the stool	双脚放凳上面〔脚部放置〕	shuangjiaofangdengshangmian	10000	primary
+__prompt__:both feet resting on the stool	双脚放凳子上〔脚部放置〕	shuangjiaofangdengzishang	10000	primary
+__prompt__:both feet resting on the stool	双脚放凳子上面〔脚部放置〕	shuangjiaofangdengzishangmian	10000	primary
+__prompt__:both feet resting on the floor	双脚放地面上〔脚部放置〕	shuangjiaofangdimianshang	10000	primary
+__prompt__:both feet resting on the floor	双脚放地面上面〔脚部放置〕	shuangjiaofangdimianshangmian	10000	primary
+__prompt__:both feet resting on the floor	双脚放地上〔脚部放置〕	shuangjiaofangdishang	10000	primary
+__prompt__:both feet resting on the floor	双脚放地上面〔脚部放置〕	shuangjiaofangdishangmian	10000	primary
+__prompt__:both feet resting on the footstool	双脚放脚凳上〔脚部放置〕	shuangjiaofangjiaodengshang	10000	primary
+__prompt__:both feet resting on the footstool	双脚放脚凳上面〔脚部放置〕	shuangjiaofangjiaodengshangmian	10000	primary
+__prompt__:both feet resting on the railing	双脚放栏杆上〔脚部放置〕	shuangjiaofanglanganshang	10000	primary
+__prompt__:both feet resting on the railing	双脚放栏杆上面〔脚部放置〕	shuangjiaofanglanganshangmian	10000	primary
+__prompt__:both feet resting on the sofa	双脚放沙发上〔脚部放置〕	shuangjiaofangshafashang	10000	primary
+__prompt__:both feet resting on the sofa	双脚放沙发上面〔脚部放置〕	shuangjiaofangshafashangmian	10000	primary
+__prompt__:both feet resting on the rock	双脚放石头上〔脚部放置〕	shuangjiaofangshitoushang	10000	primary
+__prompt__:both feet resting on the rock	双脚放石头上面〔脚部放置〕	shuangjiaofangshitoushangmian	10000	primary
+__prompt__:both feet resting on the step	双脚放台阶上〔脚部放置〕	shuangjiaofangtaijieshang	10000	primary
+__prompt__:both feet resting on the step	双脚放台阶上面〔脚部放置〕	shuangjiaofangtaijieshangmian	10000	primary
+__prompt__:both feet resting on the chair	双脚放椅上〔脚部放置〕	shuangjiaofangyishang	10000	primary
+__prompt__:both feet resting on the chair	双脚放椅上面〔脚部放置〕	shuangjiaofangyishangmian	10000	primary
+__prompt__:both feet resting on the chair	双脚放椅子上〔脚部放置〕	shuangjiaofangyizishang	10000	primary
+__prompt__:both feet resting on the chair	双脚放椅子上面〔脚部放置〕	shuangjiaofangyizishangmian	10000	primary
+__prompt__:both feet resting on the bench	双脚放在长椅上〔脚部放置〕	shuangjiaofangzaichangyishang	10000	primary
+__prompt__:both feet resting on the bench	双脚放在长椅上面〔脚部放置〕	shuangjiaofangzaichangyishangmian	10000	primary
+__prompt__:both feet resting on the bed	双脚放在床上〔脚部放置〕	shuangjiaofangzaichuangshang	10000	primary
+__prompt__:both feet resting on the bed	双脚放在床上面〔脚部放置〕	shuangjiaofangzaichuangshangmian	10000	primary
+__prompt__:both feet resting on the windowsill	双脚放在窗台上〔脚部放置〕	shuangjiaofangzaichuangtaishang	10000	primary
+__prompt__:both feet resting on the windowsill	双脚放在窗台上面〔脚部放置〕	shuangjiaofangzaichuangtaishangmian	10000	primary
+__prompt__:both feet resting on the stool	双脚放在凳上〔脚部放置〕	shuangjiaofangzaidengshang	10000	primary
+__prompt__:both feet resting on the stool	双脚放在凳上面〔脚部放置〕	shuangjiaofangzaidengshangmian	10000	primary
+__prompt__:both feet resting on the stool	双脚放在凳子上〔脚部放置〕	shuangjiaofangzaidengzishang	10000	primary
+__prompt__:both feet resting on the stool	双脚放在凳子上面〔脚部放置〕	shuangjiaofangzaidengzishangmian	10000	primary
+__prompt__:both feet resting on the floor	双脚放在地面上〔脚部放置〕	shuangjiaofangzaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	双脚放在地面上面〔脚部放置〕	shuangjiaofangzaidimianshangmian	10000	primary
+__prompt__:both feet resting on the floor	双脚放在地上〔脚部放置〕	shuangjiaofangzaidishang	10000	primary
+__prompt__:both feet resting on the floor	双脚放在地上面〔脚部放置〕	shuangjiaofangzaidishangmian	10000	primary
+__prompt__:both feet resting on the footstool	双脚放在脚凳上〔脚部放置〕	shuangjiaofangzaijiaodengshang	10000	primary
+__prompt__:both feet resting on the footstool	双脚放在脚凳上面〔脚部放置〕	shuangjiaofangzaijiaodengshangmian	10000	primary
+__prompt__:both feet resting on the railing	双脚放在栏杆上〔脚部放置〕	shuangjiaofangzailanganshang	10000	primary
+__prompt__:both feet resting on the railing	双脚放在栏杆上面〔脚部放置〕	shuangjiaofangzailanganshangmian	10000	primary
+__prompt__:both feet resting on the sofa	双脚放在沙发上〔脚部放置〕	shuangjiaofangzaishafashang	10000	primary
+__prompt__:both feet resting on the sofa	双脚放在沙发上面〔脚部放置〕	shuangjiaofangzaishafashangmian	10000	primary
+__prompt__:both feet resting on the rock	双脚放在石头上〔脚部放置〕	shuangjiaofangzaishitoushang	10000	primary
+__prompt__:both feet resting on the rock	双脚放在石头上面〔脚部放置〕	shuangjiaofangzaishitoushangmian	10000	primary
+__prompt__:both feet resting on the step	双脚放在台阶上〔脚部放置〕	shuangjiaofangzaitaijieshang	10000	primary
+__prompt__:both feet resting on the step	双脚放在台阶上面〔脚部放置〕	shuangjiaofangzaitaijieshangmian	10000	primary
+__prompt__:both feet resting on the chair	双脚放在椅上〔脚部放置〕	shuangjiaofangzaiyishang	10000	primary
+__prompt__:both feet resting on the chair	双脚放在椅上面〔脚部放置〕	shuangjiaofangzaiyishangmian	10000	primary
+__prompt__:both feet resting on the chair	双脚放在椅子上〔脚部放置〕	shuangjiaofangzaiyizishang	10000	primary
+__prompt__:both feet resting on the chair	双脚放在椅子上面〔脚部放置〕	shuangjiaofangzaiyizishangmian	10000	primary
+__prompt__:both feet resting on the table	双脚放在桌上〔脚部放置〕	shuangjiaofangzaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	双脚放在桌上面〔脚部放置〕	shuangjiaofangzaizhuoshangmian	10000	primary
+__prompt__:both feet resting on the table	双脚放在桌子上〔脚部放置〕	shuangjiaofangzaizhuozishang	10000	primary
+__prompt__:both feet resting on the table	双脚放在桌子上面〔脚部放置〕	shuangjiaofangzaizhuozishangmian	10000	primary
+__prompt__:both feet resting on the table	双脚放桌上〔脚部放置〕	shuangjiaofangzhuoshang	10000	primary
+__prompt__:both feet resting on the table	双脚放桌上面〔脚部放置〕	shuangjiaofangzhuoshangmian	10000	primary
+__prompt__:both feet resting on the table	双脚放桌子上〔脚部放置〕	shuangjiaofangzhuozishang	10000	primary
+__prompt__:both feet resting on the table	双脚放桌子上面〔脚部放置〕	shuangjiaofangzhuozishangmian	10000	primary
 __prompt__:wide_stance	双脚分开站立〔e621〕	shuangjiaofenkaizhanli	3443	alias
+__prompt__:both feet resting on the bench	双脚搁在长椅上〔脚部放置〕	shuangjiaogezaichangyishang	10000	primary
+__prompt__:both feet resting on the bed	双脚搁在床上〔脚部放置〕	shuangjiaogezaichuangshang	10000	primary
+__prompt__:both feet resting on the windowsill	双脚搁在窗台上〔脚部放置〕	shuangjiaogezaichuangtaishang	10000	primary
+__prompt__:both feet resting on the stool	双脚搁在凳上〔脚部放置〕	shuangjiaogezaidengshang	10000	primary
+__prompt__:both feet resting on the stool	双脚搁在凳子上〔脚部放置〕	shuangjiaogezaidengzishang	10000	primary
+__prompt__:both feet resting on the floor	双脚搁在地面上〔脚部放置〕	shuangjiaogezaidimianshang	10000	primary
+__prompt__:both feet resting on the floor	双脚搁在地上〔脚部放置〕	shuangjiaogezaidishang	10000	primary
+__prompt__:both feet resting on the footstool	双脚搁在脚凳上〔脚部放置〕	shuangjiaogezaijiaodengshang	10000	primary
+__prompt__:both feet resting on the railing	双脚搁在栏杆上〔脚部放置〕	shuangjiaogezailanganshang	10000	primary
+__prompt__:both feet resting on the sofa	双脚搁在沙发上〔脚部放置〕	shuangjiaogezaishafashang	10000	primary
+__prompt__:both feet resting on the rock	双脚搁在石头上〔脚部放置〕	shuangjiaogezaishitoushang	10000	primary
+__prompt__:both feet resting on the step	双脚搁在台阶上〔脚部放置〕	shuangjiaogezaitaijieshang	10000	primary
+__prompt__:both feet resting on the chair	双脚搁在椅上〔脚部放置〕	shuangjiaogezaiyishang	10000	primary
+__prompt__:both feet resting on the chair	双脚搁在椅子上〔脚部放置〕	shuangjiaogezaiyizishang	10000	primary
+__prompt__:both feet resting on the table	双脚搁在桌上〔脚部放置〕	shuangjiaogezaizhuoshang	10000	primary
+__prompt__:both feet resting on the table	双脚搁在桌子上〔脚部放置〕	shuangjiaogezaizhuozishang	10000	primary
 __prompt__:foot_on_table	双脚搁桌〔e621〕	shuangjiaogezhuo	3231	alias
 __prompt__:double_footjob	双脚交〔e621〕	shuangjiaojiao	2297	alias
 __prompt__:crossed_feet	双脚交叉〔e621〕	shuangjiaojiaocha	2870	alias
@@ -194247,12 +194823,108 @@ __prompt__:leg_wrap	双腿缠腰〔e621〕	shuangtuichanyao	3841	alias
 __prompt__:legs_over_edge	双腿搭边〔e621〕	shuangtuidabian	3037	alias
 __prompt__:legs_on_shoulders	双腿搭肩〔e621〕	shuangtuidajian	2362	alias
 wide_spread_legs	双腿大开	shuangtuidakai	3848	primary
+__prompt__:both legs resting on the bench	双腿搭在长椅上〔腿部放置〕	shuangtuidazaichangyishang	10000	primary
+__prompt__:both legs resting on the bed	双腿搭在床上〔腿部放置〕	shuangtuidazaichuangshang	10000	primary
+__prompt__:both legs resting on the windowsill	双腿搭在窗台上〔腿部放置〕	shuangtuidazaichuangtaishang	10000	primary
+__prompt__:both legs resting on the stool	双腿搭在凳上〔腿部放置〕	shuangtuidazaidengshang	10000	primary
+__prompt__:both legs resting on the stool	双腿搭在凳子上〔腿部放置〕	shuangtuidazaidengzishang	10000	primary
+__prompt__:both legs resting on the floor	双腿搭在地面上〔腿部放置〕	shuangtuidazaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	双腿搭在地上〔腿部放置〕	shuangtuidazaidishang	10000	primary
+__prompt__:both legs resting on the footstool	双腿搭在脚凳上〔腿部放置〕	shuangtuidazaijiaodengshang	10000	primary
+__prompt__:both legs resting on the railing	双腿搭在栏杆上〔腿部放置〕	shuangtuidazailanganshang	10000	primary
+__prompt__:both legs resting on the sofa	双腿搭在沙发上〔腿部放置〕	shuangtuidazaishafashang	10000	primary
+__prompt__:both legs resting on the rock	双腿搭在石头上〔腿部放置〕	shuangtuidazaishitoushang	10000	primary
+__prompt__:both legs resting on the step	双腿搭在台阶上〔腿部放置〕	shuangtuidazaitaijieshang	10000	primary
+__prompt__:both legs resting on the chair	双腿搭在椅上〔腿部放置〕	shuangtuidazaiyishang	10000	primary
+__prompt__:both legs resting on the chair	双腿搭在椅子上〔腿部放置〕	shuangtuidazaiyizishang	10000	primary
+__prompt__:both legs resting on the table	双腿搭在桌上〔腿部放置〕	shuangtuidazaizhuoshang	10000	primary
+__prompt__:both legs resting on the table	双腿搭在桌子上〔腿部放置〕	shuangtuidazaizhuozishang	10000	primary
 trembling_legs	双腿发抖	shuangtuifadou	2536	primary
 __prompt__:shaking_legs	双腿发抖〔e621〕	shuangtuifadou	3248	alias
+__prompt__:both legs resting on the bench	双腿放长椅上〔腿部放置〕	shuangtuifangchangyishang	10000	primary
+__prompt__:both legs resting on the bench	双腿放长椅上面〔腿部放置〕	shuangtuifangchangyishangmian	10000	primary
+__prompt__:both legs resting on the bed	双腿放床上〔腿部放置〕	shuangtuifangchuangshang	10000	primary
+__prompt__:both legs resting on the bed	双腿放床上面〔腿部放置〕	shuangtuifangchuangshangmian	10000	primary
+__prompt__:both legs resting on the windowsill	双腿放窗台上〔腿部放置〕	shuangtuifangchuangtaishang	10000	primary
+__prompt__:both legs resting on the windowsill	双腿放窗台上面〔腿部放置〕	shuangtuifangchuangtaishangmian	10000	primary
+__prompt__:both legs resting on the stool	双腿放凳上〔腿部放置〕	shuangtuifangdengshang	10000	primary
+__prompt__:both legs resting on the stool	双腿放凳上面〔腿部放置〕	shuangtuifangdengshangmian	10000	primary
+__prompt__:both legs resting on the stool	双腿放凳子上〔腿部放置〕	shuangtuifangdengzishang	10000	primary
+__prompt__:both legs resting on the stool	双腿放凳子上面〔腿部放置〕	shuangtuifangdengzishangmian	10000	primary
+__prompt__:both legs resting on the floor	双腿放地面上〔腿部放置〕	shuangtuifangdimianshang	10000	primary
+__prompt__:both legs resting on the floor	双腿放地面上面〔腿部放置〕	shuangtuifangdimianshangmian	10000	primary
+__prompt__:both legs resting on the floor	双腿放地上〔腿部放置〕	shuangtuifangdishang	10000	primary
+__prompt__:both legs resting on the floor	双腿放地上面〔腿部放置〕	shuangtuifangdishangmian	10000	primary
+__prompt__:both legs resting on the footstool	双腿放脚凳上〔腿部放置〕	shuangtuifangjiaodengshang	10000	primary
+__prompt__:both legs resting on the footstool	双腿放脚凳上面〔腿部放置〕	shuangtuifangjiaodengshangmian	10000	primary
+__prompt__:both legs resting on the railing	双腿放栏杆上〔腿部放置〕	shuangtuifanglanganshang	10000	primary
+__prompt__:both legs resting on the railing	双腿放栏杆上面〔腿部放置〕	shuangtuifanglanganshangmian	10000	primary
+__prompt__:both legs resting on the sofa	双腿放沙发上〔腿部放置〕	shuangtuifangshafashang	10000	primary
+__prompt__:both legs resting on the sofa	双腿放沙发上面〔腿部放置〕	shuangtuifangshafashangmian	10000	primary
+__prompt__:both legs resting on the rock	双腿放石头上〔腿部放置〕	shuangtuifangshitoushang	10000	primary
+__prompt__:both legs resting on the rock	双腿放石头上面〔腿部放置〕	shuangtuifangshitoushangmian	10000	primary
+__prompt__:both legs resting on the step	双腿放台阶上〔腿部放置〕	shuangtuifangtaijieshang	10000	primary
+__prompt__:both legs resting on the step	双腿放台阶上面〔腿部放置〕	shuangtuifangtaijieshangmian	10000	primary
+__prompt__:both legs resting on the chair	双腿放椅上〔腿部放置〕	shuangtuifangyishang	10000	primary
+__prompt__:both legs resting on the chair	双腿放椅上面〔腿部放置〕	shuangtuifangyishangmian	10000	primary
+__prompt__:both legs resting on the chair	双腿放椅子上〔腿部放置〕	shuangtuifangyizishang	10000	primary
+__prompt__:both legs resting on the chair	双腿放椅子上面〔腿部放置〕	shuangtuifangyizishangmian	10000	primary
+__prompt__:both legs resting on the bench	双腿放在长椅上〔腿部放置〕	shuangtuifangzaichangyishang	10000	primary
+__prompt__:both legs resting on the bench	双腿放在长椅上面〔腿部放置〕	shuangtuifangzaichangyishangmian	10000	primary
+__prompt__:both legs resting on the bed	双腿放在床上〔腿部放置〕	shuangtuifangzaichuangshang	10000	primary
+__prompt__:both legs resting on the bed	双腿放在床上面〔腿部放置〕	shuangtuifangzaichuangshangmian	10000	primary
+__prompt__:both legs resting on the windowsill	双腿放在窗台上〔腿部放置〕	shuangtuifangzaichuangtaishang	10000	primary
+__prompt__:both legs resting on the windowsill	双腿放在窗台上面〔腿部放置〕	shuangtuifangzaichuangtaishangmian	10000	primary
+__prompt__:both legs resting on the stool	双腿放在凳上〔腿部放置〕	shuangtuifangzaidengshang	10000	primary
+__prompt__:both legs resting on the stool	双腿放在凳上面〔腿部放置〕	shuangtuifangzaidengshangmian	10000	primary
+__prompt__:both legs resting on the stool	双腿放在凳子上〔腿部放置〕	shuangtuifangzaidengzishang	10000	primary
+__prompt__:both legs resting on the stool	双腿放在凳子上面〔腿部放置〕	shuangtuifangzaidengzishangmian	10000	primary
+__prompt__:both legs resting on the floor	双腿放在地面上〔腿部放置〕	shuangtuifangzaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	双腿放在地面上面〔腿部放置〕	shuangtuifangzaidimianshangmian	10000	primary
+__prompt__:both legs resting on the floor	双腿放在地上〔腿部放置〕	shuangtuifangzaidishang	10000	primary
+__prompt__:both legs resting on the floor	双腿放在地上面〔腿部放置〕	shuangtuifangzaidishangmian	10000	primary
+__prompt__:both legs resting on the footstool	双腿放在脚凳上〔腿部放置〕	shuangtuifangzaijiaodengshang	10000	primary
+__prompt__:both legs resting on the footstool	双腿放在脚凳上面〔腿部放置〕	shuangtuifangzaijiaodengshangmian	10000	primary
+__prompt__:both legs resting on the railing	双腿放在栏杆上〔腿部放置〕	shuangtuifangzailanganshang	10000	primary
+__prompt__:both legs resting on the railing	双腿放在栏杆上面〔腿部放置〕	shuangtuifangzailanganshangmian	10000	primary
+__prompt__:both legs resting on the sofa	双腿放在沙发上〔腿部放置〕	shuangtuifangzaishafashang	10000	primary
+__prompt__:both legs resting on the sofa	双腿放在沙发上面〔腿部放置〕	shuangtuifangzaishafashangmian	10000	primary
+__prompt__:both legs resting on the rock	双腿放在石头上〔腿部放置〕	shuangtuifangzaishitoushang	10000	primary
+__prompt__:both legs resting on the rock	双腿放在石头上面〔腿部放置〕	shuangtuifangzaishitoushangmian	10000	primary
+__prompt__:both legs resting on the step	双腿放在台阶上〔腿部放置〕	shuangtuifangzaitaijieshang	10000	primary
+__prompt__:both legs resting on the step	双腿放在台阶上面〔腿部放置〕	shuangtuifangzaitaijieshangmian	10000	primary
+__prompt__:both legs resting on the chair	双腿放在椅上〔腿部放置〕	shuangtuifangzaiyishang	10000	primary
+__prompt__:both legs resting on the chair	双腿放在椅上面〔腿部放置〕	shuangtuifangzaiyishangmian	10000	primary
+__prompt__:both legs resting on the chair	双腿放在椅子上〔腿部放置〕	shuangtuifangzaiyizishang	10000	primary
+__prompt__:both legs resting on the chair	双腿放在椅子上面〔腿部放置〕	shuangtuifangzaiyizishangmian	10000	primary
+__prompt__:both legs resting on the table	双腿放在桌上〔腿部放置〕	shuangtuifangzaizhuoshang	10000	primary
+__prompt__:both legs resting on the table	双腿放在桌上面〔腿部放置〕	shuangtuifangzaizhuoshangmian	10000	primary
+__prompt__:both legs resting on the table	双腿放在桌子上〔腿部放置〕	shuangtuifangzaizhuozishang	10000	primary
+__prompt__:both legs resting on the table	双腿放在桌子上面〔腿部放置〕	shuangtuifangzaizhuozishangmian	10000	primary
+__prompt__:both legs resting on the table	双腿放桌上〔腿部放置〕	shuangtuifangzhuoshang	10000	primary
+__prompt__:both legs resting on the table	双腿放桌上面〔腿部放置〕	shuangtuifangzhuoshangmian	10000	primary
+__prompt__:both legs resting on the table	双腿放桌子上〔腿部放置〕	shuangtuifangzhuozishang	10000	primary
+__prompt__:both legs resting on the table	双腿放桌子上面〔腿部放置〕	shuangtuifangzhuozishangmian	10000	primary
 legs_bound_apart	双腿分绑	shuangtuifenbang	3018	primary
 spread_legs	双腿分开	shuangtuifenkai	5556	primary
 separated_legs	双腿分开	shuangtuifenkai	2890	primary
+__prompt__:both legs resting on the bench	双腿搁在长椅上〔腿部放置〕	shuangtuigezaichangyishang	10000	primary
+__prompt__:both legs resting on the bed	双腿搁在床上〔腿部放置〕	shuangtuigezaichuangshang	10000	primary
+__prompt__:both legs resting on the windowsill	双腿搁在窗台上〔腿部放置〕	shuangtuigezaichuangtaishang	10000	primary
+__prompt__:both legs resting on the stool	双腿搁在凳上〔腿部放置〕	shuangtuigezaidengshang	10000	primary
+__prompt__:both legs resting on the stool	双腿搁在凳子上〔腿部放置〕	shuangtuigezaidengzishang	10000	primary
+__prompt__:both legs resting on the floor	双腿搁在地面上〔腿部放置〕	shuangtuigezaidimianshang	10000	primary
+__prompt__:both legs resting on the floor	双腿搁在地上〔腿部放置〕	shuangtuigezaidishang	10000	primary
+__prompt__:both legs resting on the footstool	双腿搁在脚凳上〔腿部放置〕	shuangtuigezaijiaodengshang	10000	primary
+__prompt__:both legs resting on the railing	双腿搁在栏杆上〔腿部放置〕	shuangtuigezailanganshang	10000	primary
+__prompt__:both legs resting on the sofa	双腿搁在沙发上〔腿部放置〕	shuangtuigezaishafashang	10000	primary
+__prompt__:both legs resting on the rock	双腿搁在石头上〔腿部放置〕	shuangtuigezaishitoushang	10000	primary
+__prompt__:both legs resting on the step	双腿搁在台阶上〔腿部放置〕	shuangtuigezaitaijieshang	10000	primary
+__prompt__:both legs resting on the chair	双腿搁在椅上〔腿部放置〕	shuangtuigezaiyishang	10000	primary
+__prompt__:both legs resting on the chair	双腿搁在椅子上〔腿部放置〕	shuangtuigezaiyizishang	10000	primary
+__prompt__:both legs resting on the table	双腿搁在桌上〔腿部放置〕	shuangtuigezaizhuoshang	10000	primary
 legs_on_table	双腿搁在桌上	shuangtuigezaizhuoshang	2437	primary
+__prompt__:both legs resting on the table	双腿搁在桌子上〔腿部放置〕	shuangtuigezaizhuozishang	10000	primary
 __prompt__:full_nelson_(legs_held)	双腿固定全尼尔森〔e621〕	shuangtuigudingquanniersen	3492	alias
 legs_over_head	双腿过头	shuangtuiguotou	3306	primary
 __prompt__:legs_above_head	双腿过头〔e621〕	shuangtuiguotou	3030	alias
@@ -211596,6 +212268,22 @@ push_down	推倒	tuidao	2013	primary
 __prompt__:pushing	推倒〔e621〕	tuidao	3346	alias
 __prompt__:push_down	推倒在地〔合并词库〕	tuidaozaidi	2005	alias
 __prompt__:pushed_down	推倒姿势〔e621〕	tuidaozishi	2111	alias
+__prompt__:one leg resting on the bench	腿搭在长椅上〔腿部放置〕	tuidazaichangyishang	10000	primary
+__prompt__:one leg resting on the bed	腿搭在床上〔腿部放置〕	tuidazaichuangshang	10000	primary
+__prompt__:one leg resting on the windowsill	腿搭在窗台上〔腿部放置〕	tuidazaichuangtaishang	10000	primary
+__prompt__:one leg resting on the stool	腿搭在凳上〔腿部放置〕	tuidazaidengshang	10000	primary
+__prompt__:one leg resting on the stool	腿搭在凳子上〔腿部放置〕	tuidazaidengzishang	10000	primary
+__prompt__:one leg resting on the floor	腿搭在地面上〔腿部放置〕	tuidazaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	腿搭在地上〔腿部放置〕	tuidazaidishang	10000	primary
+__prompt__:one leg resting on the footstool	腿搭在脚凳上〔腿部放置〕	tuidazaijiaodengshang	10000	primary
+__prompt__:one leg resting on the railing	腿搭在栏杆上〔腿部放置〕	tuidazailanganshang	10000	primary
+__prompt__:one leg resting on the sofa	腿搭在沙发上〔腿部放置〕	tuidazaishafashang	10000	primary
+__prompt__:one leg resting on the rock	腿搭在石头上〔腿部放置〕	tuidazaishitoushang	10000	primary
+__prompt__:one leg resting on the step	腿搭在台阶上〔腿部放置〕	tuidazaitaijieshang	10000	primary
+__prompt__:one leg resting on the chair	腿搭在椅上〔腿部放置〕	tuidazaiyishang	10000	primary
+__prompt__:one leg resting on the chair	腿搭在椅子上〔腿部放置〕	tuidazaiyizishang	10000	primary
+__prompt__:one leg resting on the table	腿搭在桌上〔腿部放置〕	tuidazaizhuoshang	10000	primary
+__prompt__:one leg resting on the table	腿搭在桌子上〔腿部放置〕	tuidazaizhuozishang	10000	primary
 oshi_no_love_yori_koi_no_love	推的爱比恋更胜一筹	tuideaibiliangengshengyichou	1771	primary
 __prompt__:leg_garter	腿吊带〔e621〕	tuidiaodai	2707	alias
 suitei	推定	tuiding	1302	primary
@@ -211607,7 +212295,71 @@ __prompt__:leg_twitch	腿抖〔e621〕	tuidou	2174	alias
 __prompt__:leg_ribbon	腿锻带〔提示词库〕	tuiduandai	5001	alias
 wheelbarrow_pose	推独轮车姿势	tuidulunchezishi	1279	primary
 __prompt__:shaky_legs	腿发抖〔e621〕	tuifadou	2202	alias
+__prompt__:one leg resting on the bench	腿放长椅上〔腿部放置〕	tuifangchangyishang	10000	primary
+__prompt__:one leg resting on the bench	腿放长椅上面〔腿部放置〕	tuifangchangyishangmian	10000	primary
+__prompt__:one leg resting on the bed	腿放床上〔腿部放置〕	tuifangchuangshang	10000	primary
+__prompt__:one leg resting on the bed	腿放床上面〔腿部放置〕	tuifangchuangshangmian	10000	primary
+__prompt__:one leg resting on the windowsill	腿放窗台上〔腿部放置〕	tuifangchuangtaishang	10000	primary
+__prompt__:one leg resting on the windowsill	腿放窗台上面〔腿部放置〕	tuifangchuangtaishangmian	10000	primary
+__prompt__:one leg resting on the stool	腿放凳上〔腿部放置〕	tuifangdengshang	10000	primary
+__prompt__:one leg resting on the stool	腿放凳上面〔腿部放置〕	tuifangdengshangmian	10000	primary
+__prompt__:one leg resting on the stool	腿放凳子上〔腿部放置〕	tuifangdengzishang	10000	primary
+__prompt__:one leg resting on the stool	腿放凳子上面〔腿部放置〕	tuifangdengzishangmian	10000	primary
+__prompt__:one leg resting on the floor	腿放地面上〔腿部放置〕	tuifangdimianshang	10000	primary
+__prompt__:one leg resting on the floor	腿放地面上面〔腿部放置〕	tuifangdimianshangmian	10000	primary
+__prompt__:one leg resting on the floor	腿放地上〔腿部放置〕	tuifangdishang	10000	primary
+__prompt__:one leg resting on the floor	腿放地上面〔腿部放置〕	tuifangdishangmian	10000	primary
 __prompt__:legs_on_shoulders	腿放肩上〔e621〕	tuifangjianshang	2362	alias
+__prompt__:one leg resting on the footstool	腿放脚凳上〔腿部放置〕	tuifangjiaodengshang	10000	primary
+__prompt__:one leg resting on the footstool	腿放脚凳上面〔腿部放置〕	tuifangjiaodengshangmian	10000	primary
+__prompt__:one leg resting on the railing	腿放栏杆上〔腿部放置〕	tuifanglanganshang	10000	primary
+__prompt__:one leg resting on the railing	腿放栏杆上面〔腿部放置〕	tuifanglanganshangmian	10000	primary
+__prompt__:one leg resting on the sofa	腿放沙发上〔腿部放置〕	tuifangshafashang	10000	primary
+__prompt__:one leg resting on the sofa	腿放沙发上面〔腿部放置〕	tuifangshafashangmian	10000	primary
+__prompt__:one leg resting on the rock	腿放石头上〔腿部放置〕	tuifangshitoushang	10000	primary
+__prompt__:one leg resting on the rock	腿放石头上面〔腿部放置〕	tuifangshitoushangmian	10000	primary
+__prompt__:one leg resting on the step	腿放台阶上〔腿部放置〕	tuifangtaijieshang	10000	primary
+__prompt__:one leg resting on the step	腿放台阶上面〔腿部放置〕	tuifangtaijieshangmian	10000	primary
+__prompt__:one leg resting on the chair	腿放椅上〔腿部放置〕	tuifangyishang	10000	primary
+__prompt__:one leg resting on the chair	腿放椅上面〔腿部放置〕	tuifangyishangmian	10000	primary
+__prompt__:one leg resting on the chair	腿放椅子上〔腿部放置〕	tuifangyizishang	10000	primary
+__prompt__:one leg resting on the chair	腿放椅子上面〔腿部放置〕	tuifangyizishangmian	10000	primary
+__prompt__:one leg resting on the bench	腿放在长椅上〔腿部放置〕	tuifangzaichangyishang	10000	primary
+__prompt__:one leg resting on the bench	腿放在长椅上面〔腿部放置〕	tuifangzaichangyishangmian	10000	primary
+__prompt__:one leg resting on the bed	腿放在床上〔腿部放置〕	tuifangzaichuangshang	10000	primary
+__prompt__:one leg resting on the bed	腿放在床上面〔腿部放置〕	tuifangzaichuangshangmian	10000	primary
+__prompt__:one leg resting on the windowsill	腿放在窗台上〔腿部放置〕	tuifangzaichuangtaishang	10000	primary
+__prompt__:one leg resting on the windowsill	腿放在窗台上面〔腿部放置〕	tuifangzaichuangtaishangmian	10000	primary
+__prompt__:one leg resting on the stool	腿放在凳上〔腿部放置〕	tuifangzaidengshang	10000	primary
+__prompt__:one leg resting on the stool	腿放在凳上面〔腿部放置〕	tuifangzaidengshangmian	10000	primary
+__prompt__:one leg resting on the stool	腿放在凳子上〔腿部放置〕	tuifangzaidengzishang	10000	primary
+__prompt__:one leg resting on the stool	腿放在凳子上面〔腿部放置〕	tuifangzaidengzishangmian	10000	primary
+__prompt__:one leg resting on the floor	腿放在地面上〔腿部放置〕	tuifangzaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	腿放在地面上面〔腿部放置〕	tuifangzaidimianshangmian	10000	primary
+__prompt__:one leg resting on the floor	腿放在地上〔腿部放置〕	tuifangzaidishang	10000	primary
+__prompt__:one leg resting on the floor	腿放在地上面〔腿部放置〕	tuifangzaidishangmian	10000	primary
+__prompt__:one leg resting on the footstool	腿放在脚凳上〔腿部放置〕	tuifangzaijiaodengshang	10000	primary
+__prompt__:one leg resting on the footstool	腿放在脚凳上面〔腿部放置〕	tuifangzaijiaodengshangmian	10000	primary
+__prompt__:one leg resting on the railing	腿放在栏杆上〔腿部放置〕	tuifangzailanganshang	10000	primary
+__prompt__:one leg resting on the railing	腿放在栏杆上面〔腿部放置〕	tuifangzailanganshangmian	10000	primary
+__prompt__:one leg resting on the sofa	腿放在沙发上〔腿部放置〕	tuifangzaishafashang	10000	primary
+__prompt__:one leg resting on the sofa	腿放在沙发上面〔腿部放置〕	tuifangzaishafashangmian	10000	primary
+__prompt__:one leg resting on the rock	腿放在石头上〔腿部放置〕	tuifangzaishitoushang	10000	primary
+__prompt__:one leg resting on the rock	腿放在石头上面〔腿部放置〕	tuifangzaishitoushangmian	10000	primary
+__prompt__:one leg resting on the step	腿放在台阶上〔腿部放置〕	tuifangzaitaijieshang	10000	primary
+__prompt__:one leg resting on the step	腿放在台阶上面〔腿部放置〕	tuifangzaitaijieshangmian	10000	primary
+__prompt__:one leg resting on the chair	腿放在椅上〔腿部放置〕	tuifangzaiyishang	10000	primary
+__prompt__:one leg resting on the chair	腿放在椅上面〔腿部放置〕	tuifangzaiyishangmian	10000	primary
+__prompt__:one leg resting on the chair	腿放在椅子上〔腿部放置〕	tuifangzaiyizishang	10000	primary
+__prompt__:one leg resting on the chair	腿放在椅子上面〔腿部放置〕	tuifangzaiyizishangmian	10000	primary
+__prompt__:one leg resting on the table	腿放在桌上〔腿部放置〕	tuifangzaizhuoshang	10000	primary
+__prompt__:one leg resting on the table	腿放在桌上面〔腿部放置〕	tuifangzaizhuoshangmian	10000	primary
+__prompt__:one leg resting on the table	腿放在桌子上〔腿部放置〕	tuifangzaizhuozishang	10000	primary
+__prompt__:one leg resting on the table	腿放在桌子上面〔腿部放置〕	tuifangzaizhuozishangmian	10000	primary
+__prompt__:one leg resting on the table	腿放桌上〔腿部放置〕	tuifangzhuoshang	10000	primary
+__prompt__:one leg resting on the table	腿放桌上面〔腿部放置〕	tuifangzhuoshangmian	10000	primary
+__prompt__:one leg resting on the table	腿放桌子上〔腿部放置〕	tuifangzhuozishang	10000	primary
+__prompt__:one leg resting on the table	腿放桌子上面〔腿部放置〕	tuifangzhuozishangmian	10000	primary
 __prompt__:grunge_(fashion)	颓废风〔e621〕	tuifeifeng	2124	alias
 __prompt__:between_legs	腿缝〔e621〕	tuifeng	4661	alias
 __prompt__:thigh_sex	腿缝摩擦〔e621〕	tuifengmoca	3890	alias
@@ -211615,7 +212367,23 @@ putter	推杆	tuigan	1114	primary
 __prompt__:leg_on_shoulder	腿搁肩上〔e621〕	tuigejianshang	2612	alias
 __prompt__:crotch_lines	腿根线条〔e621〕	tuigenxiantiao	3680	alias
 __prompt__:leg_over_knee	腿搁膝盖〔e621〕	tuigexigai	2030	alias
+__prompt__:one leg resting on the bench	腿搁在长椅上〔腿部放置〕	tuigezaichangyishang	10000	primary
+__prompt__:one leg resting on the bed	腿搁在床上〔腿部放置〕	tuigezaichuangshang	10000	primary
+__prompt__:one leg resting on the windowsill	腿搁在窗台上〔腿部放置〕	tuigezaichuangtaishang	10000	primary
+__prompt__:one leg resting on the stool	腿搁在凳上〔腿部放置〕	tuigezaidengshang	10000	primary
+__prompt__:one leg resting on the stool	腿搁在凳子上〔腿部放置〕	tuigezaidengzishang	10000	primary
+__prompt__:one leg resting on the floor	腿搁在地面上〔腿部放置〕	tuigezaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	腿搁在地上〔腿部放置〕	tuigezaidishang	10000	primary
+__prompt__:one leg resting on the footstool	腿搁在脚凳上〔腿部放置〕	tuigezaijiaodengshang	10000	primary
+__prompt__:one leg resting on the railing	腿搁在栏杆上〔腿部放置〕	tuigezailanganshang	10000	primary
+__prompt__:one leg resting on the sofa	腿搁在沙发上〔腿部放置〕	tuigezaishafashang	10000	primary
+__prompt__:one leg resting on the rock	腿搁在石头上〔腿部放置〕	tuigezaishitoushang	10000	primary
+__prompt__:one leg resting on the step	腿搁在台阶上〔腿部放置〕	tuigezaitaijieshang	10000	primary
+__prompt__:one leg resting on the chair	腿搁在椅上〔腿部放置〕	tuigezaiyishang	10000	primary
+__prompt__:one leg resting on the chair	腿搁在椅子上〔腿部放置〕	tuigezaiyizishang	10000	primary
+__prompt__:one leg resting on the table	腿搁在桌上〔腿部放置〕	tuigezaizhuoshang	10000	primary
 __prompt__:legs_on_table	腿搁在桌上〔合并词库〕	tuigezaizhuoshang	2398	alias
+__prompt__:one leg resting on the table	腿搁在桌子上〔腿部放置〕	tuigezaizhuozishang	10000	primary
 __prompt__:thigh_pouch	腿挂包〔e621〕	tuiguabao	3779	alias
 __prompt__:leg_pouch	腿挂口袋〔e621〕	tuiguakoudai	2556	alias
 __prompt__:thigh_holster	腿挂枪套〔e621〕	tuiguaqiangtao	3992	alias
@@ -250911,6 +251679,102 @@ ichijo_seira	一条青罗	yitiaoqingluo	1691	primary
 yitiaoqingshuiyu	一条清水鱼	yitiaoqingshuiyu	1506	primary
 ichijou_hitoshi	一条仁志	yitiaorenzhi	2118	primary
 ichijoji_kotna	一条寺琴那	yitiaosiqinna	1663	primary
+__prompt__:one leg resting on the bench	一条腿搭在长椅上〔腿部放置〕	yitiaotuidazaichangyishang	10000	primary
+__prompt__:one leg resting on the bed	一条腿搭在床上〔腿部放置〕	yitiaotuidazaichuangshang	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿搭在窗台上〔腿部放置〕	yitiaotuidazaichuangtaishang	10000	primary
+__prompt__:one leg resting on the stool	一条腿搭在凳上〔腿部放置〕	yitiaotuidazaidengshang	10000	primary
+__prompt__:one leg resting on the stool	一条腿搭在凳子上〔腿部放置〕	yitiaotuidazaidengzishang	10000	primary
+__prompt__:one leg resting on the floor	一条腿搭在地面上〔腿部放置〕	yitiaotuidazaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	一条腿搭在地上〔腿部放置〕	yitiaotuidazaidishang	10000	primary
+__prompt__:one leg resting on the footstool	一条腿搭在脚凳上〔腿部放置〕	yitiaotuidazaijiaodengshang	10000	primary
+__prompt__:one leg resting on the railing	一条腿搭在栏杆上〔腿部放置〕	yitiaotuidazailanganshang	10000	primary
+__prompt__:one leg resting on the sofa	一条腿搭在沙发上〔腿部放置〕	yitiaotuidazaishafashang	10000	primary
+__prompt__:one leg resting on the rock	一条腿搭在石头上〔腿部放置〕	yitiaotuidazaishitoushang	10000	primary
+__prompt__:one leg resting on the step	一条腿搭在台阶上〔腿部放置〕	yitiaotuidazaitaijieshang	10000	primary
+__prompt__:one leg resting on the chair	一条腿搭在椅上〔腿部放置〕	yitiaotuidazaiyishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿搭在椅子上〔腿部放置〕	yitiaotuidazaiyizishang	10000	primary
+__prompt__:one leg resting on the table	一条腿搭在桌上〔腿部放置〕	yitiaotuidazaizhuoshang	10000	primary
+__prompt__:one leg resting on the table	一条腿搭在桌子上〔腿部放置〕	yitiaotuidazaizhuozishang	10000	primary
+__prompt__:one leg resting on the bench	一条腿放长椅上〔腿部放置〕	yitiaotuifangchangyishang	10000	primary
+__prompt__:one leg resting on the bench	一条腿放长椅上面〔腿部放置〕	yitiaotuifangchangyishangmian	10000	primary
+__prompt__:one leg resting on the bed	一条腿放床上〔腿部放置〕	yitiaotuifangchuangshang	10000	primary
+__prompt__:one leg resting on the bed	一条腿放床上面〔腿部放置〕	yitiaotuifangchuangshangmian	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿放窗台上〔腿部放置〕	yitiaotuifangchuangtaishang	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿放窗台上面〔腿部放置〕	yitiaotuifangchuangtaishangmian	10000	primary
+__prompt__:one leg resting on the stool	一条腿放凳上〔腿部放置〕	yitiaotuifangdengshang	10000	primary
+__prompt__:one leg resting on the stool	一条腿放凳上面〔腿部放置〕	yitiaotuifangdengshangmian	10000	primary
+__prompt__:one leg resting on the stool	一条腿放凳子上〔腿部放置〕	yitiaotuifangdengzishang	10000	primary
+__prompt__:one leg resting on the stool	一条腿放凳子上面〔腿部放置〕	yitiaotuifangdengzishangmian	10000	primary
+__prompt__:one leg resting on the floor	一条腿放地面上〔腿部放置〕	yitiaotuifangdimianshang	10000	primary
+__prompt__:one leg resting on the floor	一条腿放地面上面〔腿部放置〕	yitiaotuifangdimianshangmian	10000	primary
+__prompt__:one leg resting on the floor	一条腿放地上〔腿部放置〕	yitiaotuifangdishang	10000	primary
+__prompt__:one leg resting on the floor	一条腿放地上面〔腿部放置〕	yitiaotuifangdishangmian	10000	primary
+__prompt__:one leg resting on the footstool	一条腿放脚凳上〔腿部放置〕	yitiaotuifangjiaodengshang	10000	primary
+__prompt__:one leg resting on the footstool	一条腿放脚凳上面〔腿部放置〕	yitiaotuifangjiaodengshangmian	10000	primary
+__prompt__:one leg resting on the railing	一条腿放栏杆上〔腿部放置〕	yitiaotuifanglanganshang	10000	primary
+__prompt__:one leg resting on the railing	一条腿放栏杆上面〔腿部放置〕	yitiaotuifanglanganshangmian	10000	primary
+__prompt__:one leg resting on the sofa	一条腿放沙发上〔腿部放置〕	yitiaotuifangshafashang	10000	primary
+__prompt__:one leg resting on the sofa	一条腿放沙发上面〔腿部放置〕	yitiaotuifangshafashangmian	10000	primary
+__prompt__:one leg resting on the rock	一条腿放石头上〔腿部放置〕	yitiaotuifangshitoushang	10000	primary
+__prompt__:one leg resting on the rock	一条腿放石头上面〔腿部放置〕	yitiaotuifangshitoushangmian	10000	primary
+__prompt__:one leg resting on the step	一条腿放台阶上〔腿部放置〕	yitiaotuifangtaijieshang	10000	primary
+__prompt__:one leg resting on the step	一条腿放台阶上面〔腿部放置〕	yitiaotuifangtaijieshangmian	10000	primary
+__prompt__:one leg resting on the chair	一条腿放椅上〔腿部放置〕	yitiaotuifangyishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿放椅上面〔腿部放置〕	yitiaotuifangyishangmian	10000	primary
+__prompt__:one leg resting on the chair	一条腿放椅子上〔腿部放置〕	yitiaotuifangyizishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿放椅子上面〔腿部放置〕	yitiaotuifangyizishangmian	10000	primary
+__prompt__:one leg resting on the bench	一条腿放在长椅上〔腿部放置〕	yitiaotuifangzaichangyishang	10000	primary
+__prompt__:one leg resting on the bench	一条腿放在长椅上面〔腿部放置〕	yitiaotuifangzaichangyishangmian	10000	primary
+__prompt__:one leg resting on the bed	一条腿放在床上〔腿部放置〕	yitiaotuifangzaichuangshang	10000	primary
+__prompt__:one leg resting on the bed	一条腿放在床上面〔腿部放置〕	yitiaotuifangzaichuangshangmian	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿放在窗台上〔腿部放置〕	yitiaotuifangzaichuangtaishang	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿放在窗台上面〔腿部放置〕	yitiaotuifangzaichuangtaishangmian	10000	primary
+__prompt__:one leg resting on the stool	一条腿放在凳上〔腿部放置〕	yitiaotuifangzaidengshang	10000	primary
+__prompt__:one leg resting on the stool	一条腿放在凳上面〔腿部放置〕	yitiaotuifangzaidengshangmian	10000	primary
+__prompt__:one leg resting on the stool	一条腿放在凳子上〔腿部放置〕	yitiaotuifangzaidengzishang	10000	primary
+__prompt__:one leg resting on the stool	一条腿放在凳子上面〔腿部放置〕	yitiaotuifangzaidengzishangmian	10000	primary
+__prompt__:one leg resting on the floor	一条腿放在地面上〔腿部放置〕	yitiaotuifangzaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	一条腿放在地面上面〔腿部放置〕	yitiaotuifangzaidimianshangmian	10000	primary
+__prompt__:one leg resting on the floor	一条腿放在地上〔腿部放置〕	yitiaotuifangzaidishang	10000	primary
+__prompt__:one leg resting on the floor	一条腿放在地上面〔腿部放置〕	yitiaotuifangzaidishangmian	10000	primary
+__prompt__:one leg resting on the footstool	一条腿放在脚凳上〔腿部放置〕	yitiaotuifangzaijiaodengshang	10000	primary
+__prompt__:one leg resting on the footstool	一条腿放在脚凳上面〔腿部放置〕	yitiaotuifangzaijiaodengshangmian	10000	primary
+__prompt__:one leg resting on the railing	一条腿放在栏杆上〔腿部放置〕	yitiaotuifangzailanganshang	10000	primary
+__prompt__:one leg resting on the railing	一条腿放在栏杆上面〔腿部放置〕	yitiaotuifangzailanganshangmian	10000	primary
+__prompt__:one leg resting on the sofa	一条腿放在沙发上〔腿部放置〕	yitiaotuifangzaishafashang	10000	primary
+__prompt__:one leg resting on the sofa	一条腿放在沙发上面〔腿部放置〕	yitiaotuifangzaishafashangmian	10000	primary
+__prompt__:one leg resting on the rock	一条腿放在石头上〔腿部放置〕	yitiaotuifangzaishitoushang	10000	primary
+__prompt__:one leg resting on the rock	一条腿放在石头上面〔腿部放置〕	yitiaotuifangzaishitoushangmian	10000	primary
+__prompt__:one leg resting on the step	一条腿放在台阶上〔腿部放置〕	yitiaotuifangzaitaijieshang	10000	primary
+__prompt__:one leg resting on the step	一条腿放在台阶上面〔腿部放置〕	yitiaotuifangzaitaijieshangmian	10000	primary
+__prompt__:one leg resting on the chair	一条腿放在椅上〔腿部放置〕	yitiaotuifangzaiyishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿放在椅上面〔腿部放置〕	yitiaotuifangzaiyishangmian	10000	primary
+__prompt__:one leg resting on the chair	一条腿放在椅子上〔腿部放置〕	yitiaotuifangzaiyizishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿放在椅子上面〔腿部放置〕	yitiaotuifangzaiyizishangmian	10000	primary
+__prompt__:one leg resting on the table	一条腿放在桌上〔腿部放置〕	yitiaotuifangzaizhuoshang	10000	primary
+__prompt__:one leg resting on the table	一条腿放在桌上面〔腿部放置〕	yitiaotuifangzaizhuoshangmian	10000	primary
+__prompt__:one leg resting on the table	一条腿放在桌子上〔腿部放置〕	yitiaotuifangzaizhuozishang	10000	primary
+__prompt__:one leg resting on the table	一条腿放在桌子上面〔腿部放置〕	yitiaotuifangzaizhuozishangmian	10000	primary
+__prompt__:one leg resting on the table	一条腿放桌上〔腿部放置〕	yitiaotuifangzhuoshang	10000	primary
+__prompt__:one leg resting on the table	一条腿放桌上面〔腿部放置〕	yitiaotuifangzhuoshangmian	10000	primary
+__prompt__:one leg resting on the table	一条腿放桌子上〔腿部放置〕	yitiaotuifangzhuozishang	10000	primary
+__prompt__:one leg resting on the table	一条腿放桌子上面〔腿部放置〕	yitiaotuifangzhuozishangmian	10000	primary
+__prompt__:one leg resting on the bench	一条腿搁在长椅上〔腿部放置〕	yitiaotuigezaichangyishang	10000	primary
+__prompt__:one leg resting on the bed	一条腿搁在床上〔腿部放置〕	yitiaotuigezaichuangshang	10000	primary
+__prompt__:one leg resting on the windowsill	一条腿搁在窗台上〔腿部放置〕	yitiaotuigezaichuangtaishang	10000	primary
+__prompt__:one leg resting on the stool	一条腿搁在凳上〔腿部放置〕	yitiaotuigezaidengshang	10000	primary
+__prompt__:one leg resting on the stool	一条腿搁在凳子上〔腿部放置〕	yitiaotuigezaidengzishang	10000	primary
+__prompt__:one leg resting on the floor	一条腿搁在地面上〔腿部放置〕	yitiaotuigezaidimianshang	10000	primary
+__prompt__:one leg resting on the floor	一条腿搁在地上〔腿部放置〕	yitiaotuigezaidishang	10000	primary
+__prompt__:one leg resting on the footstool	一条腿搁在脚凳上〔腿部放置〕	yitiaotuigezaijiaodengshang	10000	primary
+__prompt__:one leg resting on the railing	一条腿搁在栏杆上〔腿部放置〕	yitiaotuigezailanganshang	10000	primary
+__prompt__:one leg resting on the sofa	一条腿搁在沙发上〔腿部放置〕	yitiaotuigezaishafashang	10000	primary
+__prompt__:one leg resting on the rock	一条腿搁在石头上〔腿部放置〕	yitiaotuigezaishitoushang	10000	primary
+__prompt__:one leg resting on the step	一条腿搁在台阶上〔腿部放置〕	yitiaotuigezaitaijieshang	10000	primary
+__prompt__:one leg resting on the chair	一条腿搁在椅上〔腿部放置〕	yitiaotuigezaiyishang	10000	primary
+__prompt__:one leg resting on the chair	一条腿搁在椅子上〔腿部放置〕	yitiaotuigezaiyizishang	10000	primary
+__prompt__:one leg resting on the table	一条腿搁在桌上〔腿部放置〕	yitiaotuigezaizhuoshang	10000	primary
+__prompt__:one leg resting on the table	一条腿搁在桌子上〔腿部放置〕	yitiaotuigezaizhuozishang	10000	primary
 __prompt__:skirt_around_one_leg	一条腿上挂着短裙〔提示词库〕	yitiaotuishangguazheduanqun	5001	alias
 ichijou_sayoko	一条小夜子	yitiaoxiaoyezi	1381	primary
 ichijou_kokona	一条心菜	yitiaoxincai	1624	primary
@@ -251640,6 +252504,102 @@ inhibitor_rings	抑制环	yizhihuan	1448	primary
 __prompt__:inhibitor_ring	抑制环〔e621〕	yizhihuan	2231	alias
 prosthetic_sword	义肢剑	yizhijian	1827	primary
 yizhi_jiandan	一只简单	yizhijiandan	1080	primary
+__prompt__:one foot resting on the bench	一只脚搭在长椅上〔脚部放置〕	yizhijiaodazaichangyishang	10000	primary
+__prompt__:one foot resting on the bed	一只脚搭在床上〔脚部放置〕	yizhijiaodazaichuangshang	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚搭在窗台上〔脚部放置〕	yizhijiaodazaichuangtaishang	10000	primary
+__prompt__:one foot resting on the stool	一只脚搭在凳上〔脚部放置〕	yizhijiaodazaidengshang	10000	primary
+__prompt__:one foot resting on the stool	一只脚搭在凳子上〔脚部放置〕	yizhijiaodazaidengzishang	10000	primary
+__prompt__:one foot resting on the floor	一只脚搭在地面上〔脚部放置〕	yizhijiaodazaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	一只脚搭在地上〔脚部放置〕	yizhijiaodazaidishang	10000	primary
+__prompt__:one foot resting on the footstool	一只脚搭在脚凳上〔脚部放置〕	yizhijiaodazaijiaodengshang	10000	primary
+__prompt__:one foot resting on the railing	一只脚搭在栏杆上〔脚部放置〕	yizhijiaodazailanganshang	10000	primary
+__prompt__:one foot resting on the sofa	一只脚搭在沙发上〔脚部放置〕	yizhijiaodazaishafashang	10000	primary
+__prompt__:one foot resting on the rock	一只脚搭在石头上〔脚部放置〕	yizhijiaodazaishitoushang	10000	primary
+__prompt__:one foot resting on the step	一只脚搭在台阶上〔脚部放置〕	yizhijiaodazaitaijieshang	10000	primary
+__prompt__:one foot resting on the chair	一只脚搭在椅上〔脚部放置〕	yizhijiaodazaiyishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚搭在椅子上〔脚部放置〕	yizhijiaodazaiyizishang	10000	primary
+__prompt__:one foot resting on the table	一只脚搭在桌上〔脚部放置〕	yizhijiaodazaizhuoshang	10000	primary
+__prompt__:one foot resting on the table	一只脚搭在桌子上〔脚部放置〕	yizhijiaodazaizhuozishang	10000	primary
+__prompt__:one foot resting on the bench	一只脚放长椅上〔脚部放置〕	yizhijiaofangchangyishang	10000	primary
+__prompt__:one foot resting on the bench	一只脚放长椅上面〔脚部放置〕	yizhijiaofangchangyishangmian	10000	primary
+__prompt__:one foot resting on the bed	一只脚放床上〔脚部放置〕	yizhijiaofangchuangshang	10000	primary
+__prompt__:one foot resting on the bed	一只脚放床上面〔脚部放置〕	yizhijiaofangchuangshangmian	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚放窗台上〔脚部放置〕	yizhijiaofangchuangtaishang	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚放窗台上面〔脚部放置〕	yizhijiaofangchuangtaishangmian	10000	primary
+__prompt__:one foot resting on the stool	一只脚放凳上〔脚部放置〕	yizhijiaofangdengshang	10000	primary
+__prompt__:one foot resting on the stool	一只脚放凳上面〔脚部放置〕	yizhijiaofangdengshangmian	10000	primary
+__prompt__:one foot resting on the stool	一只脚放凳子上〔脚部放置〕	yizhijiaofangdengzishang	10000	primary
+__prompt__:one foot resting on the stool	一只脚放凳子上面〔脚部放置〕	yizhijiaofangdengzishangmian	10000	primary
+__prompt__:one foot resting on the floor	一只脚放地面上〔脚部放置〕	yizhijiaofangdimianshang	10000	primary
+__prompt__:one foot resting on the floor	一只脚放地面上面〔脚部放置〕	yizhijiaofangdimianshangmian	10000	primary
+__prompt__:one foot resting on the floor	一只脚放地上〔脚部放置〕	yizhijiaofangdishang	10000	primary
+__prompt__:one foot resting on the floor	一只脚放地上面〔脚部放置〕	yizhijiaofangdishangmian	10000	primary
+__prompt__:one foot resting on the footstool	一只脚放脚凳上〔脚部放置〕	yizhijiaofangjiaodengshang	10000	primary
+__prompt__:one foot resting on the footstool	一只脚放脚凳上面〔脚部放置〕	yizhijiaofangjiaodengshangmian	10000	primary
+__prompt__:one foot resting on the railing	一只脚放栏杆上〔脚部放置〕	yizhijiaofanglanganshang	10000	primary
+__prompt__:one foot resting on the railing	一只脚放栏杆上面〔脚部放置〕	yizhijiaofanglanganshangmian	10000	primary
+__prompt__:one foot resting on the sofa	一只脚放沙发上〔脚部放置〕	yizhijiaofangshafashang	10000	primary
+__prompt__:one foot resting on the sofa	一只脚放沙发上面〔脚部放置〕	yizhijiaofangshafashangmian	10000	primary
+__prompt__:one foot resting on the rock	一只脚放石头上〔脚部放置〕	yizhijiaofangshitoushang	10000	primary
+__prompt__:one foot resting on the rock	一只脚放石头上面〔脚部放置〕	yizhijiaofangshitoushangmian	10000	primary
+__prompt__:one foot resting on the step	一只脚放台阶上〔脚部放置〕	yizhijiaofangtaijieshang	10000	primary
+__prompt__:one foot resting on the step	一只脚放台阶上面〔脚部放置〕	yizhijiaofangtaijieshangmian	10000	primary
+__prompt__:one foot resting on the chair	一只脚放椅上〔脚部放置〕	yizhijiaofangyishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚放椅上面〔脚部放置〕	yizhijiaofangyishangmian	10000	primary
+__prompt__:one foot resting on the chair	一只脚放椅子上〔脚部放置〕	yizhijiaofangyizishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚放椅子上面〔脚部放置〕	yizhijiaofangyizishangmian	10000	primary
+__prompt__:one foot resting on the bench	一只脚放在长椅上〔脚部放置〕	yizhijiaofangzaichangyishang	10000	primary
+__prompt__:one foot resting on the bench	一只脚放在长椅上面〔脚部放置〕	yizhijiaofangzaichangyishangmian	10000	primary
+__prompt__:one foot resting on the bed	一只脚放在床上〔脚部放置〕	yizhijiaofangzaichuangshang	10000	primary
+__prompt__:one foot resting on the bed	一只脚放在床上面〔脚部放置〕	yizhijiaofangzaichuangshangmian	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚放在窗台上〔脚部放置〕	yizhijiaofangzaichuangtaishang	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚放在窗台上面〔脚部放置〕	yizhijiaofangzaichuangtaishangmian	10000	primary
+__prompt__:one foot resting on the stool	一只脚放在凳上〔脚部放置〕	yizhijiaofangzaidengshang	10000	primary
+__prompt__:one foot resting on the stool	一只脚放在凳上面〔脚部放置〕	yizhijiaofangzaidengshangmian	10000	primary
+__prompt__:one foot resting on the stool	一只脚放在凳子上〔脚部放置〕	yizhijiaofangzaidengzishang	10000	primary
+__prompt__:one foot resting on the stool	一只脚放在凳子上面〔脚部放置〕	yizhijiaofangzaidengzishangmian	10000	primary
+__prompt__:one foot resting on the floor	一只脚放在地面上〔脚部放置〕	yizhijiaofangzaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	一只脚放在地面上面〔脚部放置〕	yizhijiaofangzaidimianshangmian	10000	primary
+__prompt__:one foot resting on the floor	一只脚放在地上〔脚部放置〕	yizhijiaofangzaidishang	10000	primary
+__prompt__:one foot resting on the floor	一只脚放在地上面〔脚部放置〕	yizhijiaofangzaidishangmian	10000	primary
+__prompt__:one foot resting on the footstool	一只脚放在脚凳上〔脚部放置〕	yizhijiaofangzaijiaodengshang	10000	primary
+__prompt__:one foot resting on the footstool	一只脚放在脚凳上面〔脚部放置〕	yizhijiaofangzaijiaodengshangmian	10000	primary
+__prompt__:one foot resting on the railing	一只脚放在栏杆上〔脚部放置〕	yizhijiaofangzailanganshang	10000	primary
+__prompt__:one foot resting on the railing	一只脚放在栏杆上面〔脚部放置〕	yizhijiaofangzailanganshangmian	10000	primary
+__prompt__:one foot resting on the sofa	一只脚放在沙发上〔脚部放置〕	yizhijiaofangzaishafashang	10000	primary
+__prompt__:one foot resting on the sofa	一只脚放在沙发上面〔脚部放置〕	yizhijiaofangzaishafashangmian	10000	primary
+__prompt__:one foot resting on the rock	一只脚放在石头上〔脚部放置〕	yizhijiaofangzaishitoushang	10000	primary
+__prompt__:one foot resting on the rock	一只脚放在石头上面〔脚部放置〕	yizhijiaofangzaishitoushangmian	10000	primary
+__prompt__:one foot resting on the step	一只脚放在台阶上〔脚部放置〕	yizhijiaofangzaitaijieshang	10000	primary
+__prompt__:one foot resting on the step	一只脚放在台阶上面〔脚部放置〕	yizhijiaofangzaitaijieshangmian	10000	primary
+__prompt__:one foot resting on the chair	一只脚放在椅上〔脚部放置〕	yizhijiaofangzaiyishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚放在椅上面〔脚部放置〕	yizhijiaofangzaiyishangmian	10000	primary
+__prompt__:one foot resting on the chair	一只脚放在椅子上〔脚部放置〕	yizhijiaofangzaiyizishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚放在椅子上面〔脚部放置〕	yizhijiaofangzaiyizishangmian	10000	primary
+__prompt__:one foot resting on the table	一只脚放在桌上〔脚部放置〕	yizhijiaofangzaizhuoshang	10000	primary
+__prompt__:one foot resting on the table	一只脚放在桌上面〔脚部放置〕	yizhijiaofangzaizhuoshangmian	10000	primary
+__prompt__:one foot resting on the table	一只脚放在桌子上〔脚部放置〕	yizhijiaofangzaizhuozishang	10000	primary
+__prompt__:one foot resting on the table	一只脚放在桌子上面〔脚部放置〕	yizhijiaofangzaizhuozishangmian	10000	primary
+__prompt__:one foot resting on the table	一只脚放桌上〔脚部放置〕	yizhijiaofangzhuoshang	10000	primary
+__prompt__:one foot resting on the table	一只脚放桌上面〔脚部放置〕	yizhijiaofangzhuoshangmian	10000	primary
+__prompt__:one foot resting on the table	一只脚放桌子上〔脚部放置〕	yizhijiaofangzhuozishang	10000	primary
+__prompt__:one foot resting on the table	一只脚放桌子上面〔脚部放置〕	yizhijiaofangzhuozishangmian	10000	primary
+__prompt__:one foot resting on the bench	一只脚搁在长椅上〔脚部放置〕	yizhijiaogezaichangyishang	10000	primary
+__prompt__:one foot resting on the bed	一只脚搁在床上〔脚部放置〕	yizhijiaogezaichuangshang	10000	primary
+__prompt__:one foot resting on the windowsill	一只脚搁在窗台上〔脚部放置〕	yizhijiaogezaichuangtaishang	10000	primary
+__prompt__:one foot resting on the stool	一只脚搁在凳上〔脚部放置〕	yizhijiaogezaidengshang	10000	primary
+__prompt__:one foot resting on the stool	一只脚搁在凳子上〔脚部放置〕	yizhijiaogezaidengzishang	10000	primary
+__prompt__:one foot resting on the floor	一只脚搁在地面上〔脚部放置〕	yizhijiaogezaidimianshang	10000	primary
+__prompt__:one foot resting on the floor	一只脚搁在地上〔脚部放置〕	yizhijiaogezaidishang	10000	primary
+__prompt__:one foot resting on the footstool	一只脚搁在脚凳上〔脚部放置〕	yizhijiaogezaijiaodengshang	10000	primary
+__prompt__:one foot resting on the railing	一只脚搁在栏杆上〔脚部放置〕	yizhijiaogezailanganshang	10000	primary
+__prompt__:one foot resting on the sofa	一只脚搁在沙发上〔脚部放置〕	yizhijiaogezaishafashang	10000	primary
+__prompt__:one foot resting on the rock	一只脚搁在石头上〔脚部放置〕	yizhijiaogezaishitoushang	10000	primary
+__prompt__:one foot resting on the step	一只脚搁在台阶上〔脚部放置〕	yizhijiaogezaitaijieshang	10000	primary
+__prompt__:one foot resting on the chair	一只脚搁在椅上〔脚部放置〕	yizhijiaogezaiyishang	10000	primary
+__prompt__:one foot resting on the chair	一只脚搁在椅子上〔脚部放置〕	yizhijiaogezaiyizishang	10000	primary
+__prompt__:one foot resting on the table	一只脚搁在桌上〔脚部放置〕	yizhijiaogezaizhuoshang	10000	primary
+__prompt__:one foot resting on the table	一只脚搁在桌子上〔脚部放置〕	yizhijiaogezaizhuozishang	10000	primary
 __prompt__:single_boot	一只脚没穿靴子〔提示词库〕	yizhijiaomeichuanxuezi	5001	alias
 __prompt__:game_show	益智竞赛节目〔e621〕	yizhijingsaijiemu	2351	alias
 ichi-nose	一之濑	yizhilai	1147	primary
@@ -253064,8 +254024,109 @@ yuumano_yuuki	有间乃由纪	youjiannaiyouji	1663	primary
 __prompt__:postal_delivery	邮件派送〔e621〕	youjianpaisong	2879	alias
 __prompt__:mail art	邮件艺术〔提示词库〕	youjianyishu	5001	alias
 __prompt__:musky_feet	有脚臭的脚〔e621〕	youjiaochoudejiao	3221	alias
+__prompt__:right foot resting on the bench	右脚搭在长椅上〔脚部放置〕	youjiaodazaichangyishang	10000	primary
+__prompt__:right foot resting on the bed	右脚搭在床上〔脚部放置〕	youjiaodazaichuangshang	10000	primary
+__prompt__:right foot resting on the windowsill	右脚搭在窗台上〔脚部放置〕	youjiaodazaichuangtaishang	10000	primary
+__prompt__:right foot resting on the stool	右脚搭在凳上〔脚部放置〕	youjiaodazaidengshang	10000	primary
+__prompt__:right foot resting on the stool	右脚搭在凳子上〔脚部放置〕	youjiaodazaidengzishang	10000	primary
+__prompt__:right foot resting on the floor	右脚搭在地面上〔脚部放置〕	youjiaodazaidimianshang	10000	primary
+__prompt__:right foot resting on the floor	右脚搭在地上〔脚部放置〕	youjiaodazaidishang	10000	primary
+__prompt__:right foot resting on the footstool	右脚搭在脚凳上〔脚部放置〕	youjiaodazaijiaodengshang	10000	primary
+__prompt__:right foot resting on the railing	右脚搭在栏杆上〔脚部放置〕	youjiaodazailanganshang	10000	primary
+__prompt__:right foot resting on the sofa	右脚搭在沙发上〔脚部放置〕	youjiaodazaishafashang	10000	primary
+__prompt__:right foot resting on the rock	右脚搭在石头上〔脚部放置〕	youjiaodazaishitoushang	10000	primary
+__prompt__:right foot resting on the step	右脚搭在台阶上〔脚部放置〕	youjiaodazaitaijieshang	10000	primary
+__prompt__:right foot resting on the chair	右脚搭在椅上〔脚部放置〕	youjiaodazaiyishang	10000	primary
+__prompt__:right foot resting on the chair	右脚搭在椅子上〔脚部放置〕	youjiaodazaiyizishang	10000	primary
+__prompt__:right foot resting on the table	右脚搭在桌上〔脚部放置〕	youjiaodazaizhuoshang	10000	primary
+__prompt__:right foot resting on the table	右脚搭在桌子上〔脚部放置〕	youjiaodazaizhuozishang	10000	primary
 __prompt__:horned_humanoid	有角的人形〔e621〕	youjiaoderenxing	4520	alias
 horned_hood	有角兜帽	youjiaodoumao	3115	primary
+__prompt__:right foot resting on the bench	右脚放长椅上〔脚部放置〕	youjiaofangchangyishang	10000	primary
+__prompt__:right foot resting on the bench	右脚放长椅上面〔脚部放置〕	youjiaofangchangyishangmian	10000	primary
+__prompt__:right foot resting on the bed	右脚放床上〔脚部放置〕	youjiaofangchuangshang	10000	primary
+__prompt__:right foot resting on the bed	右脚放床上面〔脚部放置〕	youjiaofangchuangshangmian	10000	primary
+__prompt__:right foot resting on the windowsill	右脚放窗台上〔脚部放置〕	youjiaofangchuangtaishang	10000	primary
+__prompt__:right foot resting on the windowsill	右脚放窗台上面〔脚部放置〕	youjiaofangchuangtaishangmian	10000	primary
+__prompt__:right foot resting on the stool	右脚放凳上〔脚部放置〕	youjiaofangdengshang	10000	primary
+__prompt__:right foot resting on the stool	右脚放凳上面〔脚部放置〕	youjiaofangdengshangmian	10000	primary
+__prompt__:right foot resting on the stool	右脚放凳子上〔脚部放置〕	youjiaofangdengzishang	10000	primary
+__prompt__:right foot resting on the stool	右脚放凳子上面〔脚部放置〕	youjiaofangdengzishangmian	10000	primary
+__prompt__:right foot resting on the stool, left foot resting on the floor	右脚放凳子上左脚放地上〔左右腿脚组合〕	youjiaofangdengzishangzuojiaofangdishang	10000	primary
+__prompt__:right foot resting on the floor	右脚放地面上〔脚部放置〕	youjiaofangdimianshang	10000	primary
+__prompt__:right foot resting on the floor	右脚放地面上面〔脚部放置〕	youjiaofangdimianshangmian	10000	primary
+__prompt__:right foot resting on the floor	右脚放地上〔脚部放置〕	youjiaofangdishang	10000	primary
+__prompt__:right foot resting on the floor	右脚放地上面〔脚部放置〕	youjiaofangdishangmian	10000	primary
+__prompt__:right foot resting on the footstool	右脚放脚凳上〔脚部放置〕	youjiaofangjiaodengshang	10000	primary
+__prompt__:right foot resting on the footstool	右脚放脚凳上面〔脚部放置〕	youjiaofangjiaodengshangmian	10000	primary
+__prompt__:right foot resting on the railing	右脚放栏杆上〔脚部放置〕	youjiaofanglanganshang	10000	primary
+__prompt__:right foot resting on the railing	右脚放栏杆上面〔脚部放置〕	youjiaofanglanganshangmian	10000	primary
+__prompt__:right foot resting on the sofa	右脚放沙发上〔脚部放置〕	youjiaofangshafashang	10000	primary
+__prompt__:right foot resting on the sofa	右脚放沙发上面〔脚部放置〕	youjiaofangshafashangmian	10000	primary
+__prompt__:right foot resting on the rock	右脚放石头上〔脚部放置〕	youjiaofangshitoushang	10000	primary
+__prompt__:right foot resting on the rock	右脚放石头上面〔脚部放置〕	youjiaofangshitoushangmian	10000	primary
+__prompt__:right foot resting on the step	右脚放台阶上〔脚部放置〕	youjiaofangtaijieshang	10000	primary
+__prompt__:right foot resting on the step	右脚放台阶上面〔脚部放置〕	youjiaofangtaijieshangmian	10000	primary
+__prompt__:right foot resting on the chair	右脚放椅上〔脚部放置〕	youjiaofangyishang	10000	primary
+__prompt__:right foot resting on the chair	右脚放椅上面〔脚部放置〕	youjiaofangyishangmian	10000	primary
+__prompt__:right foot resting on the chair	右脚放椅子上〔脚部放置〕	youjiaofangyizishang	10000	primary
+__prompt__:right foot resting on the chair	右脚放椅子上面〔脚部放置〕	youjiaofangyizishangmian	10000	primary
+__prompt__:right foot resting on the bench	右脚放在长椅上〔脚部放置〕	youjiaofangzaichangyishang	10000	primary
+__prompt__:right foot resting on the bench	右脚放在长椅上面〔脚部放置〕	youjiaofangzaichangyishangmian	10000	primary
+__prompt__:right foot resting on the bed	右脚放在床上〔脚部放置〕	youjiaofangzaichuangshang	10000	primary
+__prompt__:right foot resting on the bed	右脚放在床上面〔脚部放置〕	youjiaofangzaichuangshangmian	10000	primary
+__prompt__:right foot resting on the windowsill	右脚放在窗台上〔脚部放置〕	youjiaofangzaichuangtaishang	10000	primary
+__prompt__:right foot resting on the windowsill	右脚放在窗台上面〔脚部放置〕	youjiaofangzaichuangtaishangmian	10000	primary
+__prompt__:right foot resting on the stool	右脚放在凳上〔脚部放置〕	youjiaofangzaidengshang	10000	primary
+__prompt__:right foot resting on the stool	右脚放在凳上面〔脚部放置〕	youjiaofangzaidengshangmian	10000	primary
+__prompt__:right foot resting on the stool	右脚放在凳子上〔脚部放置〕	youjiaofangzaidengzishang	10000	primary
+__prompt__:right foot resting on the stool	右脚放在凳子上面〔脚部放置〕	youjiaofangzaidengzishangmian	10000	primary
+__prompt__:right foot resting on the floor	右脚放在地面上〔脚部放置〕	youjiaofangzaidimianshang	10000	primary
+__prompt__:right foot resting on the floor	右脚放在地面上面〔脚部放置〕	youjiaofangzaidimianshangmian	10000	primary
+__prompt__:right foot resting on the floor	右脚放在地上〔脚部放置〕	youjiaofangzaidishang	10000	primary
+__prompt__:right foot resting on the floor	右脚放在地上面〔脚部放置〕	youjiaofangzaidishangmian	10000	primary
+__prompt__:right foot resting on the footstool	右脚放在脚凳上〔脚部放置〕	youjiaofangzaijiaodengshang	10000	primary
+__prompt__:right foot resting on the footstool	右脚放在脚凳上面〔脚部放置〕	youjiaofangzaijiaodengshangmian	10000	primary
+__prompt__:right foot resting on the railing	右脚放在栏杆上〔脚部放置〕	youjiaofangzailanganshang	10000	primary
+__prompt__:right foot resting on the railing	右脚放在栏杆上面〔脚部放置〕	youjiaofangzailanganshangmian	10000	primary
+__prompt__:right foot resting on the sofa	右脚放在沙发上〔脚部放置〕	youjiaofangzaishafashang	10000	primary
+__prompt__:right foot resting on the sofa	右脚放在沙发上面〔脚部放置〕	youjiaofangzaishafashangmian	10000	primary
+__prompt__:right foot resting on the rock	右脚放在石头上〔脚部放置〕	youjiaofangzaishitoushang	10000	primary
+__prompt__:right foot resting on the rock	右脚放在石头上面〔脚部放置〕	youjiaofangzaishitoushangmian	10000	primary
+__prompt__:right foot resting on the step	右脚放在台阶上〔脚部放置〕	youjiaofangzaitaijieshang	10000	primary
+__prompt__:right foot resting on the step	右脚放在台阶上面〔脚部放置〕	youjiaofangzaitaijieshangmian	10000	primary
+__prompt__:right foot resting on the chair	右脚放在椅上〔脚部放置〕	youjiaofangzaiyishang	10000	primary
+__prompt__:right foot resting on the chair	右脚放在椅上面〔脚部放置〕	youjiaofangzaiyishangmian	10000	primary
+__prompt__:right foot resting on the chair	右脚放在椅子上〔脚部放置〕	youjiaofangzaiyizishang	10000	primary
+__prompt__:right foot resting on the chair	右脚放在椅子上面〔脚部放置〕	youjiaofangzaiyizishangmian	10000	primary
+__prompt__:right foot resting on the table	右脚放在桌上〔脚部放置〕	youjiaofangzaizhuoshang	10000	primary
+__prompt__:right foot resting on the table	右脚放在桌上面〔脚部放置〕	youjiaofangzaizhuoshangmian	10000	primary
+__prompt__:right foot resting on the table	右脚放在桌子上〔脚部放置〕	youjiaofangzaizhuozishang	10000	primary
+__prompt__:right foot resting on the table	右脚放在桌子上面〔脚部放置〕	youjiaofangzaizhuozishangmian	10000	primary
+__prompt__:right foot resting on left knee	右脚放在左膝〔交叉腿脚〕	youjiaofangzaizuoxi	10000	primary
+__prompt__:right foot resting on left knee	右脚放在左膝盖上〔交叉腿脚〕	youjiaofangzaizuoxigaishang	10000	primary
+__prompt__:right foot resting on left knee	右脚放在左膝盖上面〔交叉腿脚〕	youjiaofangzaizuoxigaishangmian	10000	primary
+__prompt__:right foot resting on left knee	右脚放在左膝上〔交叉腿脚〕	youjiaofangzaizuoxishang	10000	primary
+__prompt__:right foot resting on the table	右脚放桌上〔脚部放置〕	youjiaofangzhuoshang	10000	primary
+__prompt__:right foot resting on the table	右脚放桌上面〔脚部放置〕	youjiaofangzhuoshangmian	10000	primary
+__prompt__:right foot resting on the table	右脚放桌子上〔脚部放置〕	youjiaofangzhuozishang	10000	primary
+__prompt__:right foot resting on the table	右脚放桌子上面〔脚部放置〕	youjiaofangzhuozishangmian	10000	primary
+__prompt__:right foot resting on the bench	右脚搁在长椅上〔脚部放置〕	youjiaogezaichangyishang	10000	primary
+__prompt__:right foot resting on the bed	右脚搁在床上〔脚部放置〕	youjiaogezaichuangshang	10000	primary
+__prompt__:right foot resting on the windowsill	右脚搁在窗台上〔脚部放置〕	youjiaogezaichuangtaishang	10000	primary
+__prompt__:right foot resting on the stool	右脚搁在凳上〔脚部放置〕	youjiaogezaidengshang	10000	primary
+__prompt__:right foot resting on the stool	右脚搁在凳子上〔脚部放置〕	youjiaogezaidengzishang	10000	primary
+__prompt__:right foot resting on the floor	右脚搁在地面上〔脚部放置〕	youjiaogezaidimianshang	10000	primary
+__prompt__:right foot resting on the floor	右脚搁在地上〔脚部放置〕	youjiaogezaidishang	10000	primary
+__prompt__:right foot resting on the footstool	右脚搁在脚凳上〔脚部放置〕	youjiaogezaijiaodengshang	10000	primary
+__prompt__:right foot resting on the railing	右脚搁在栏杆上〔脚部放置〕	youjiaogezailanganshang	10000	primary
+__prompt__:right foot resting on the sofa	右脚搁在沙发上〔脚部放置〕	youjiaogezaishafashang	10000	primary
+__prompt__:right foot resting on the rock	右脚搁在石头上〔脚部放置〕	youjiaogezaishitoushang	10000	primary
+__prompt__:right foot resting on the step	右脚搁在台阶上〔脚部放置〕	youjiaogezaitaijieshang	10000	primary
+__prompt__:right foot resting on the chair	右脚搁在椅上〔脚部放置〕	youjiaogezaiyishang	10000	primary
+__prompt__:right foot resting on the chair	右脚搁在椅子上〔脚部放置〕	youjiaogezaiyizishang	10000	primary
+__prompt__:right foot resting on the table	右脚搁在桌上〔脚部放置〕	youjiaogezaizhuoshang	10000	primary
+__prompt__:right foot resting on the table	右脚搁在桌子上〔脚部放置〕	youjiaogezaizhuozishang	10000	primary
 __prompt__:horned_hat	有角帽子〔合并词库〕	youjiaomaozi	3094	alias
 horned_headwear	有角头饰	youjiaotoushi	3769	primary
 __prompt__:right-hand_drive	右驾驶座〔e621〕	youjiashizuo	2490	alias
@@ -253860,6 +254921,107 @@ greaser_fashion	油头党风格	youtoudangfengge	1613	primary
 yutoumocha	柚头摩卡	youtoumoka	1114	primary
 __prompt__:patterned	有图案的〔合并词库〕	youtuande	3045	alias
 __prompt__:patterned_hair	有图案的头发〔合并词库〕	youtuandetoufa	2960	alias
+__prompt__:right leg resting on the bench	右腿搭在长椅上〔腿部放置〕	youtuidazaichangyishang	10000	primary
+__prompt__:right leg resting on the bed	右腿搭在床上〔腿部放置〕	youtuidazaichuangshang	10000	primary
+__prompt__:right leg resting on the windowsill	右腿搭在窗台上〔腿部放置〕	youtuidazaichuangtaishang	10000	primary
+__prompt__:right leg resting on the stool	右腿搭在凳上〔腿部放置〕	youtuidazaidengshang	10000	primary
+__prompt__:right leg resting on the stool	右腿搭在凳子上〔腿部放置〕	youtuidazaidengzishang	10000	primary
+__prompt__:right leg resting on the floor	右腿搭在地面上〔腿部放置〕	youtuidazaidimianshang	10000	primary
+__prompt__:right leg resting on the floor	右腿搭在地上〔腿部放置〕	youtuidazaidishang	10000	primary
+__prompt__:right leg resting on the footstool	右腿搭在脚凳上〔腿部放置〕	youtuidazaijiaodengshang	10000	primary
+__prompt__:right leg resting on the railing	右腿搭在栏杆上〔腿部放置〕	youtuidazailanganshang	10000	primary
+__prompt__:right leg resting on the sofa	右腿搭在沙发上〔腿部放置〕	youtuidazaishafashang	10000	primary
+__prompt__:right leg resting on the rock	右腿搭在石头上〔腿部放置〕	youtuidazaishitoushang	10000	primary
+__prompt__:right leg resting on the step	右腿搭在台阶上〔腿部放置〕	youtuidazaitaijieshang	10000	primary
+__prompt__:right leg resting on the chair	右腿搭在椅上〔腿部放置〕	youtuidazaiyishang	10000	primary
+__prompt__:right leg resting on the chair	右腿搭在椅子上〔腿部放置〕	youtuidazaiyizishang	10000	primary
+__prompt__:right leg resting on the table	右腿搭在桌上〔腿部放置〕	youtuidazaizhuoshang	10000	primary
+__prompt__:right leg resting on the table	右腿搭在桌子上〔腿部放置〕	youtuidazaizhuozishang	10000	primary
+__prompt__:right leg resting across left knee	右腿搭在左膝〔交叉腿脚〕	youtuidazaizuoxi	10000	primary
+__prompt__:right leg resting across left knee	右腿搭在左膝盖上〔交叉腿脚〕	youtuidazaizuoxigaishang	10000	primary
+__prompt__:right leg resting across left knee	右腿搭在左膝盖上面〔交叉腿脚〕	youtuidazaizuoxigaishangmian	10000	primary
+__prompt__:right leg resting across left knee	右腿搭在左膝上〔交叉腿脚〕	youtuidazaizuoxishang	10000	primary
+__prompt__:right leg resting on the bench	右腿放长椅上〔腿部放置〕	youtuifangchangyishang	10000	primary
+__prompt__:right leg resting on the bench	右腿放长椅上面〔腿部放置〕	youtuifangchangyishangmian	10000	primary
+__prompt__:right leg resting on the bed	右腿放床上〔腿部放置〕	youtuifangchuangshang	10000	primary
+__prompt__:right leg resting on the bed	右腿放床上面〔腿部放置〕	youtuifangchuangshangmian	10000	primary
+__prompt__:right leg resting on the windowsill	右腿放窗台上〔腿部放置〕	youtuifangchuangtaishang	10000	primary
+__prompt__:right leg resting on the windowsill	右腿放窗台上面〔腿部放置〕	youtuifangchuangtaishangmian	10000	primary
+__prompt__:right leg resting on the stool	右腿放凳上〔腿部放置〕	youtuifangdengshang	10000	primary
+__prompt__:right leg resting on the stool	右腿放凳上面〔腿部放置〕	youtuifangdengshangmian	10000	primary
+__prompt__:right leg resting on the stool	右腿放凳子上〔腿部放置〕	youtuifangdengzishang	10000	primary
+__prompt__:right leg resting on the stool	右腿放凳子上面〔腿部放置〕	youtuifangdengzishangmian	10000	primary
+__prompt__:right leg resting on the floor	右腿放地面上〔腿部放置〕	youtuifangdimianshang	10000	primary
+__prompt__:right leg resting on the floor	右腿放地面上面〔腿部放置〕	youtuifangdimianshangmian	10000	primary
+__prompt__:right leg resting on the floor	右腿放地上〔腿部放置〕	youtuifangdishang	10000	primary
+__prompt__:right leg resting on the floor	右腿放地上面〔腿部放置〕	youtuifangdishangmian	10000	primary
+__prompt__:right leg resting on the footstool	右腿放脚凳上〔腿部放置〕	youtuifangjiaodengshang	10000	primary
+__prompt__:right leg resting on the footstool	右腿放脚凳上面〔腿部放置〕	youtuifangjiaodengshangmian	10000	primary
+__prompt__:right leg resting on the railing	右腿放栏杆上〔腿部放置〕	youtuifanglanganshang	10000	primary
+__prompt__:right leg resting on the railing	右腿放栏杆上面〔腿部放置〕	youtuifanglanganshangmian	10000	primary
+__prompt__:right leg resting on the sofa	右腿放沙发上〔腿部放置〕	youtuifangshafashang	10000	primary
+__prompt__:right leg resting on the sofa	右腿放沙发上面〔腿部放置〕	youtuifangshafashangmian	10000	primary
+__prompt__:right leg resting on the sofa, left foot resting on the floor	右腿放沙发上左脚放地上〔左右腿脚组合〕	youtuifangshafashangzuojiaofangdishang	10000	primary
+__prompt__:right leg resting on the rock	右腿放石头上〔腿部放置〕	youtuifangshitoushang	10000	primary
+__prompt__:right leg resting on the rock	右腿放石头上面〔腿部放置〕	youtuifangshitoushangmian	10000	primary
+__prompt__:right leg resting on the step	右腿放台阶上〔腿部放置〕	youtuifangtaijieshang	10000	primary
+__prompt__:right leg resting on the step	右腿放台阶上面〔腿部放置〕	youtuifangtaijieshangmian	10000	primary
+__prompt__:right leg resting on the chair	右腿放椅上〔腿部放置〕	youtuifangyishang	10000	primary
+__prompt__:right leg resting on the chair	右腿放椅上面〔腿部放置〕	youtuifangyishangmian	10000	primary
+__prompt__:right leg resting on the chair	右腿放椅子上〔腿部放置〕	youtuifangyizishang	10000	primary
+__prompt__:right leg resting on the chair	右腿放椅子上面〔腿部放置〕	youtuifangyizishangmian	10000	primary
+__prompt__:right leg resting on the bench	右腿放在长椅上〔腿部放置〕	youtuifangzaichangyishang	10000	primary
+__prompt__:right leg resting on the bench	右腿放在长椅上面〔腿部放置〕	youtuifangzaichangyishangmian	10000	primary
+__prompt__:right leg resting on the bed	右腿放在床上〔腿部放置〕	youtuifangzaichuangshang	10000	primary
+__prompt__:right leg resting on the bed	右腿放在床上面〔腿部放置〕	youtuifangzaichuangshangmian	10000	primary
+__prompt__:right leg resting on the windowsill	右腿放在窗台上〔腿部放置〕	youtuifangzaichuangtaishang	10000	primary
+__prompt__:right leg resting on the windowsill	右腿放在窗台上面〔腿部放置〕	youtuifangzaichuangtaishangmian	10000	primary
+__prompt__:right leg resting on the stool	右腿放在凳上〔腿部放置〕	youtuifangzaidengshang	10000	primary
+__prompt__:right leg resting on the stool	右腿放在凳上面〔腿部放置〕	youtuifangzaidengshangmian	10000	primary
+__prompt__:right leg resting on the stool	右腿放在凳子上〔腿部放置〕	youtuifangzaidengzishang	10000	primary
+__prompt__:right leg resting on the stool	右腿放在凳子上面〔腿部放置〕	youtuifangzaidengzishangmian	10000	primary
+__prompt__:right leg resting on the floor	右腿放在地面上〔腿部放置〕	youtuifangzaidimianshang	10000	primary
+__prompt__:right leg resting on the floor	右腿放在地面上面〔腿部放置〕	youtuifangzaidimianshangmian	10000	primary
+__prompt__:right leg resting on the floor	右腿放在地上〔腿部放置〕	youtuifangzaidishang	10000	primary
+__prompt__:right leg resting on the floor	右腿放在地上面〔腿部放置〕	youtuifangzaidishangmian	10000	primary
+__prompt__:right leg resting on the footstool	右腿放在脚凳上〔腿部放置〕	youtuifangzaijiaodengshang	10000	primary
+__prompt__:right leg resting on the footstool	右腿放在脚凳上面〔腿部放置〕	youtuifangzaijiaodengshangmian	10000	primary
+__prompt__:right leg resting on the railing	右腿放在栏杆上〔腿部放置〕	youtuifangzailanganshang	10000	primary
+__prompt__:right leg resting on the railing	右腿放在栏杆上面〔腿部放置〕	youtuifangzailanganshangmian	10000	primary
+__prompt__:right leg resting on the sofa	右腿放在沙发上〔腿部放置〕	youtuifangzaishafashang	10000	primary
+__prompt__:right leg resting on the sofa	右腿放在沙发上面〔腿部放置〕	youtuifangzaishafashangmian	10000	primary
+__prompt__:right leg resting on the rock	右腿放在石头上〔腿部放置〕	youtuifangzaishitoushang	10000	primary
+__prompt__:right leg resting on the rock	右腿放在石头上面〔腿部放置〕	youtuifangzaishitoushangmian	10000	primary
+__prompt__:right leg resting on the step	右腿放在台阶上〔腿部放置〕	youtuifangzaitaijieshang	10000	primary
+__prompt__:right leg resting on the step	右腿放在台阶上面〔腿部放置〕	youtuifangzaitaijieshangmian	10000	primary
+__prompt__:right leg resting on the chair	右腿放在椅上〔腿部放置〕	youtuifangzaiyishang	10000	primary
+__prompt__:right leg resting on the chair	右腿放在椅上面〔腿部放置〕	youtuifangzaiyishangmian	10000	primary
+__prompt__:right leg resting on the chair	右腿放在椅子上〔腿部放置〕	youtuifangzaiyizishang	10000	primary
+__prompt__:right leg resting on the chair	右腿放在椅子上面〔腿部放置〕	youtuifangzaiyizishangmian	10000	primary
+__prompt__:right leg resting on the table	右腿放在桌上〔腿部放置〕	youtuifangzaizhuoshang	10000	primary
+__prompt__:right leg resting on the table	右腿放在桌上面〔腿部放置〕	youtuifangzaizhuoshangmian	10000	primary
+__prompt__:right leg resting on the table	右腿放在桌子上〔腿部放置〕	youtuifangzaizhuozishang	10000	primary
+__prompt__:right leg resting on the table	右腿放在桌子上面〔腿部放置〕	youtuifangzaizhuozishangmian	10000	primary
+__prompt__:right leg resting on the table	右腿放桌上〔腿部放置〕	youtuifangzhuoshang	10000	primary
+__prompt__:right leg resting on the table	右腿放桌上面〔腿部放置〕	youtuifangzhuoshangmian	10000	primary
+__prompt__:right leg resting on the table	右腿放桌子上〔腿部放置〕	youtuifangzhuozishang	10000	primary
+__prompt__:right leg resting on the table	右腿放桌子上面〔腿部放置〕	youtuifangzhuozishangmian	10000	primary
+__prompt__:right leg resting on the bench	右腿搁在长椅上〔腿部放置〕	youtuigezaichangyishang	10000	primary
+__prompt__:right leg resting on the bed	右腿搁在床上〔腿部放置〕	youtuigezaichuangshang	10000	primary
+__prompt__:right leg resting on the windowsill	右腿搁在窗台上〔腿部放置〕	youtuigezaichuangtaishang	10000	primary
+__prompt__:right leg resting on the stool	右腿搁在凳上〔腿部放置〕	youtuigezaidengshang	10000	primary
+__prompt__:right leg resting on the stool	右腿搁在凳子上〔腿部放置〕	youtuigezaidengzishang	10000	primary
+__prompt__:right leg resting on the floor	右腿搁在地面上〔腿部放置〕	youtuigezaidimianshang	10000	primary
+__prompt__:right leg resting on the floor	右腿搁在地上〔腿部放置〕	youtuigezaidishang	10000	primary
+__prompt__:right leg resting on the footstool	右腿搁在脚凳上〔腿部放置〕	youtuigezaijiaodengshang	10000	primary
+__prompt__:right leg resting on the railing	右腿搁在栏杆上〔腿部放置〕	youtuigezailanganshang	10000	primary
+__prompt__:right leg resting on the sofa	右腿搁在沙发上〔腿部放置〕	youtuigezaishafashang	10000	primary
+__prompt__:right leg resting on the rock	右腿搁在石头上〔腿部放置〕	youtuigezaishitoushang	10000	primary
+__prompt__:right leg resting on the step	右腿搁在台阶上〔腿部放置〕	youtuigezaitaijieshang	10000	primary
+__prompt__:right leg resting on the chair	右腿搁在椅上〔腿部放置〕	youtuigezaiyishang	10000	primary
+__prompt__:right leg resting on the chair	右腿搁在椅子上〔腿部放置〕	youtuigezaiyizishang	10000	primary
+__prompt__:right leg resting on the table	右腿搁在桌上〔腿部放置〕	youtuigezaizhuoshang	10000	primary
+__prompt__:right leg resting on the table	右腿搁在桌子上〔腿部放置〕	youtuigezaizhuozishang	10000	primary
 __prompt__:thighband_pantyhose	有腿环的裤袜〔提示词库〕	youtuihuandekuwa	5001	alias
 __prompt__:legged_snake	有腿蛇〔e621〕	youtuishe	2879	alias
 playing_other_gachas	游玩其他抽卡游戏	youwanqitachoukayouxi	2310	primary
@@ -275964,6 +277126,107 @@ __prompt__:sitting_on_shoulder	坐肩膀上〔e621〕	zuojianbangshang	3108	alia
 kei_zama	座间圭	zuojiangui	1042	primary
 __prompt__:sitting_on_shoulder	坐肩上〔e621〕	zuojianshang	3108	alias
 zama_masaaki	座间雅明	zuojianyaming	1381	primary
+__prompt__:left foot resting on the bench	左脚搭在长椅上〔脚部放置〕	zuojiaodazaichangyishang	10000	primary
+__prompt__:left foot resting on the bed	左脚搭在床上〔脚部放置〕	zuojiaodazaichuangshang	10000	primary
+__prompt__:left foot resting on the windowsill	左脚搭在窗台上〔脚部放置〕	zuojiaodazaichuangtaishang	10000	primary
+__prompt__:left foot resting on the stool	左脚搭在凳上〔脚部放置〕	zuojiaodazaidengshang	10000	primary
+__prompt__:left foot resting on the stool	左脚搭在凳子上〔脚部放置〕	zuojiaodazaidengzishang	10000	primary
+__prompt__:left foot resting on the floor	左脚搭在地面上〔脚部放置〕	zuojiaodazaidimianshang	10000	primary
+__prompt__:left foot resting on the floor	左脚搭在地上〔脚部放置〕	zuojiaodazaidishang	10000	primary
+__prompt__:left foot resting on the footstool	左脚搭在脚凳上〔脚部放置〕	zuojiaodazaijiaodengshang	10000	primary
+__prompt__:left foot resting on the railing	左脚搭在栏杆上〔脚部放置〕	zuojiaodazailanganshang	10000	primary
+__prompt__:left foot resting on the sofa	左脚搭在沙发上〔脚部放置〕	zuojiaodazaishafashang	10000	primary
+__prompt__:left foot resting on the rock	左脚搭在石头上〔脚部放置〕	zuojiaodazaishitoushang	10000	primary
+__prompt__:left foot resting on the step	左脚搭在台阶上〔脚部放置〕	zuojiaodazaitaijieshang	10000	primary
+__prompt__:left foot resting on the chair	左脚搭在椅上〔脚部放置〕	zuojiaodazaiyishang	10000	primary
+__prompt__:left foot resting on the chair	左脚搭在椅子上〔脚部放置〕	zuojiaodazaiyizishang	10000	primary
+__prompt__:left foot resting on the table	左脚搭在桌上〔脚部放置〕	zuojiaodazaizhuoshang	10000	primary
+__prompt__:left foot resting on the table	左脚搭在桌子上〔脚部放置〕	zuojiaodazaizhuozishang	10000	primary
+__prompt__:left foot resting on the bench	左脚放长椅上〔脚部放置〕	zuojiaofangchangyishang	10000	primary
+__prompt__:left foot resting on the bench	左脚放长椅上面〔脚部放置〕	zuojiaofangchangyishangmian	10000	primary
+__prompt__:left foot resting on the bed	左脚放床上〔脚部放置〕	zuojiaofangchuangshang	10000	primary
+__prompt__:left foot resting on the bed	左脚放床上面〔脚部放置〕	zuojiaofangchuangshangmian	10000	primary
+__prompt__:left foot resting on the windowsill	左脚放窗台上〔脚部放置〕	zuojiaofangchuangtaishang	10000	primary
+__prompt__:left foot resting on the windowsill	左脚放窗台上面〔脚部放置〕	zuojiaofangchuangtaishangmian	10000	primary
+__prompt__:left foot resting on the stool	左脚放凳上〔脚部放置〕	zuojiaofangdengshang	10000	primary
+__prompt__:left foot resting on the stool	左脚放凳上面〔脚部放置〕	zuojiaofangdengshangmian	10000	primary
+__prompt__:left foot resting on the stool	左脚放凳子上〔脚部放置〕	zuojiaofangdengzishang	10000	primary
+__prompt__:left foot resting on the stool	左脚放凳子上面〔脚部放置〕	zuojiaofangdengzishangmian	10000	primary
+__prompt__:left foot resting on the stool, right foot resting on the floor	左脚放凳子上右脚放地上〔左右腿脚组合〕	zuojiaofangdengzishangyoujiaofangdishang	10000	primary
+__prompt__:left foot resting on the floor	左脚放地面上〔脚部放置〕	zuojiaofangdimianshang	10000	primary
+__prompt__:left foot resting on the floor	左脚放地面上面〔脚部放置〕	zuojiaofangdimianshangmian	10000	primary
+__prompt__:left foot resting on the floor	左脚放地上〔脚部放置〕	zuojiaofangdishang	10000	primary
+__prompt__:left foot resting on the floor	左脚放地上面〔脚部放置〕	zuojiaofangdishangmian	10000	primary
+__prompt__:left foot resting on the footstool	左脚放脚凳上〔脚部放置〕	zuojiaofangjiaodengshang	10000	primary
+__prompt__:left foot resting on the footstool	左脚放脚凳上面〔脚部放置〕	zuojiaofangjiaodengshangmian	10000	primary
+__prompt__:left foot resting on the railing	左脚放栏杆上〔脚部放置〕	zuojiaofanglanganshang	10000	primary
+__prompt__:left foot resting on the railing	左脚放栏杆上面〔脚部放置〕	zuojiaofanglanganshangmian	10000	primary
+__prompt__:left foot resting on the sofa	左脚放沙发上〔脚部放置〕	zuojiaofangshafashang	10000	primary
+__prompt__:left foot resting on the sofa	左脚放沙发上面〔脚部放置〕	zuojiaofangshafashangmian	10000	primary
+__prompt__:left foot resting on the rock	左脚放石头上〔脚部放置〕	zuojiaofangshitoushang	10000	primary
+__prompt__:left foot resting on the rock	左脚放石头上面〔脚部放置〕	zuojiaofangshitoushangmian	10000	primary
+__prompt__:left foot resting on the step	左脚放台阶上〔脚部放置〕	zuojiaofangtaijieshang	10000	primary
+__prompt__:left foot resting on the step	左脚放台阶上面〔脚部放置〕	zuojiaofangtaijieshangmian	10000	primary
+__prompt__:left foot resting on the chair	左脚放椅上〔脚部放置〕	zuojiaofangyishang	10000	primary
+__prompt__:left foot resting on the chair	左脚放椅上面〔脚部放置〕	zuojiaofangyishangmian	10000	primary
+__prompt__:left foot resting on the chair	左脚放椅子上〔脚部放置〕	zuojiaofangyizishang	10000	primary
+__prompt__:left foot resting on the chair	左脚放椅子上面〔脚部放置〕	zuojiaofangyizishangmian	10000	primary
+__prompt__:left foot resting on the bench	左脚放在长椅上〔脚部放置〕	zuojiaofangzaichangyishang	10000	primary
+__prompt__:left foot resting on the bench	左脚放在长椅上面〔脚部放置〕	zuojiaofangzaichangyishangmian	10000	primary
+__prompt__:left foot resting on the bed	左脚放在床上〔脚部放置〕	zuojiaofangzaichuangshang	10000	primary
+__prompt__:left foot resting on the bed	左脚放在床上面〔脚部放置〕	zuojiaofangzaichuangshangmian	10000	primary
+__prompt__:left foot resting on the windowsill	左脚放在窗台上〔脚部放置〕	zuojiaofangzaichuangtaishang	10000	primary
+__prompt__:left foot resting on the windowsill	左脚放在窗台上面〔脚部放置〕	zuojiaofangzaichuangtaishangmian	10000	primary
+__prompt__:left foot resting on the stool	左脚放在凳上〔脚部放置〕	zuojiaofangzaidengshang	10000	primary
+__prompt__:left foot resting on the stool	左脚放在凳上面〔脚部放置〕	zuojiaofangzaidengshangmian	10000	primary
+__prompt__:left foot resting on the stool	左脚放在凳子上〔脚部放置〕	zuojiaofangzaidengzishang	10000	primary
+__prompt__:left foot resting on the stool	左脚放在凳子上面〔脚部放置〕	zuojiaofangzaidengzishangmian	10000	primary
+__prompt__:left foot resting on the floor	左脚放在地面上〔脚部放置〕	zuojiaofangzaidimianshang	10000	primary
+__prompt__:left foot resting on the floor	左脚放在地面上面〔脚部放置〕	zuojiaofangzaidimianshangmian	10000	primary
+__prompt__:left foot resting on the floor	左脚放在地上〔脚部放置〕	zuojiaofangzaidishang	10000	primary
+__prompt__:left foot resting on the floor	左脚放在地上面〔脚部放置〕	zuojiaofangzaidishangmian	10000	primary
+__prompt__:left foot resting on the footstool	左脚放在脚凳上〔脚部放置〕	zuojiaofangzaijiaodengshang	10000	primary
+__prompt__:left foot resting on the footstool	左脚放在脚凳上面〔脚部放置〕	zuojiaofangzaijiaodengshangmian	10000	primary
+__prompt__:left foot resting on the railing	左脚放在栏杆上〔脚部放置〕	zuojiaofangzailanganshang	10000	primary
+__prompt__:left foot resting on the railing	左脚放在栏杆上面〔脚部放置〕	zuojiaofangzailanganshangmian	10000	primary
+__prompt__:left foot resting on the sofa	左脚放在沙发上〔脚部放置〕	zuojiaofangzaishafashang	10000	primary
+__prompt__:left foot resting on the sofa	左脚放在沙发上面〔脚部放置〕	zuojiaofangzaishafashangmian	10000	primary
+__prompt__:left foot resting on the rock	左脚放在石头上〔脚部放置〕	zuojiaofangzaishitoushang	10000	primary
+__prompt__:left foot resting on the rock	左脚放在石头上面〔脚部放置〕	zuojiaofangzaishitoushangmian	10000	primary
+__prompt__:left foot resting on the step	左脚放在台阶上〔脚部放置〕	zuojiaofangzaitaijieshang	10000	primary
+__prompt__:left foot resting on the step	左脚放在台阶上面〔脚部放置〕	zuojiaofangzaitaijieshangmian	10000	primary
+__prompt__:left foot resting on the chair	左脚放在椅上〔脚部放置〕	zuojiaofangzaiyishang	10000	primary
+__prompt__:left foot resting on the chair	左脚放在椅上面〔脚部放置〕	zuojiaofangzaiyishangmian	10000	primary
+__prompt__:left foot resting on the chair	左脚放在椅子上〔脚部放置〕	zuojiaofangzaiyizishang	10000	primary
+__prompt__:left foot resting on the chair	左脚放在椅子上面〔脚部放置〕	zuojiaofangzaiyizishangmian	10000	primary
+__prompt__:left foot resting on right knee	左脚放在右膝〔交叉腿脚〕	zuojiaofangzaiyouxi	10000	primary
+__prompt__:left foot resting on right knee	左脚放在右膝盖上〔交叉腿脚〕	zuojiaofangzaiyouxigaishang	10000	primary
+__prompt__:left foot resting on right knee	左脚放在右膝盖上面〔交叉腿脚〕	zuojiaofangzaiyouxigaishangmian	10000	primary
+__prompt__:left foot resting on right knee	左脚放在右膝上〔交叉腿脚〕	zuojiaofangzaiyouxishang	10000	primary
+__prompt__:left foot resting on the table	左脚放在桌上〔脚部放置〕	zuojiaofangzaizhuoshang	10000	primary
+__prompt__:left foot resting on the table	左脚放在桌上面〔脚部放置〕	zuojiaofangzaizhuoshangmian	10000	primary
+__prompt__:left foot resting on the table	左脚放在桌子上〔脚部放置〕	zuojiaofangzaizhuozishang	10000	primary
+__prompt__:left foot resting on the table	左脚放在桌子上面〔脚部放置〕	zuojiaofangzaizhuozishangmian	10000	primary
+__prompt__:left foot resting on the table	左脚放桌上〔脚部放置〕	zuojiaofangzhuoshang	10000	primary
+__prompt__:left foot resting on the table	左脚放桌上面〔脚部放置〕	zuojiaofangzhuoshangmian	10000	primary
+__prompt__:left foot resting on the table	左脚放桌子上〔脚部放置〕	zuojiaofangzhuozishang	10000	primary
+__prompt__:left foot resting on the table	左脚放桌子上面〔脚部放置〕	zuojiaofangzhuozishangmian	10000	primary
+__prompt__:left foot resting on the bench	左脚搁在长椅上〔脚部放置〕	zuojiaogezaichangyishang	10000	primary
+__prompt__:left foot resting on the bed	左脚搁在床上〔脚部放置〕	zuojiaogezaichuangshang	10000	primary
+__prompt__:left foot resting on the windowsill	左脚搁在窗台上〔脚部放置〕	zuojiaogezaichuangtaishang	10000	primary
+__prompt__:left foot resting on the stool	左脚搁在凳上〔脚部放置〕	zuojiaogezaidengshang	10000	primary
+__prompt__:left foot resting on the stool	左脚搁在凳子上〔脚部放置〕	zuojiaogezaidengzishang	10000	primary
+__prompt__:left foot resting on the floor	左脚搁在地面上〔脚部放置〕	zuojiaogezaidimianshang	10000	primary
+__prompt__:left foot resting on the floor	左脚搁在地上〔脚部放置〕	zuojiaogezaidishang	10000	primary
+__prompt__:left foot resting on the footstool	左脚搁在脚凳上〔脚部放置〕	zuojiaogezaijiaodengshang	10000	primary
+__prompt__:left foot resting on the railing	左脚搁在栏杆上〔脚部放置〕	zuojiaogezailanganshang	10000	primary
+__prompt__:left foot resting on the sofa	左脚搁在沙发上〔脚部放置〕	zuojiaogezaishafashang	10000	primary
+__prompt__:left foot resting on the rock	左脚搁在石头上〔脚部放置〕	zuojiaogezaishitoushang	10000	primary
+__prompt__:left foot resting on the step	左脚搁在台阶上〔脚部放置〕	zuojiaogezaitaijieshang	10000	primary
+__prompt__:left foot resting on the chair	左脚搁在椅上〔脚部放置〕	zuojiaogezaiyishang	10000	primary
+__prompt__:left foot resting on the chair	左脚搁在椅子上〔脚部放置〕	zuojiaogezaiyizishang	10000	primary
+__prompt__:left foot resting on the table	左脚搁在桌上〔脚部放置〕	zuojiaogezaizhuoshang	10000	primary
+__prompt__:left foot resting on the table	左脚搁在桌子上〔脚部放置〕	zuojiaogezaizhuozishang	10000	primary
 __prompt__:fors_wall	作家途径〔合并词库〕	zuojiatujing	2147	alias
 __prompt__:washing_dishes	做家务洗碗〔e621〕	zuojiawuxiwan	2321	alias
 __prompt__:corded_phone	座机电话〔合并词库〕	zuojidianhua	3650	alias
@@ -276299,6 +277562,107 @@ zatou	座头	zuotou	1779	primary
 __prompt__:styling_hair	做头发〔e621〕	zuotoufa	2968	alias
 humpback_whale	座头鲸	zuotoujing	2381	primary
 left-handed_pitcher	左投手	zuotoushou	2218	primary
+__prompt__:left leg resting on the bench	左腿搭在长椅上〔腿部放置〕	zuotuidazaichangyishang	10000	primary
+__prompt__:left leg resting on the bed	左腿搭在床上〔腿部放置〕	zuotuidazaichuangshang	10000	primary
+__prompt__:left leg resting on the windowsill	左腿搭在窗台上〔腿部放置〕	zuotuidazaichuangtaishang	10000	primary
+__prompt__:left leg resting on the stool	左腿搭在凳上〔腿部放置〕	zuotuidazaidengshang	10000	primary
+__prompt__:left leg resting on the stool	左腿搭在凳子上〔腿部放置〕	zuotuidazaidengzishang	10000	primary
+__prompt__:left leg resting on the floor	左腿搭在地面上〔腿部放置〕	zuotuidazaidimianshang	10000	primary
+__prompt__:left leg resting on the floor	左腿搭在地上〔腿部放置〕	zuotuidazaidishang	10000	primary
+__prompt__:left leg resting on the footstool	左腿搭在脚凳上〔腿部放置〕	zuotuidazaijiaodengshang	10000	primary
+__prompt__:left leg resting on the railing	左腿搭在栏杆上〔腿部放置〕	zuotuidazailanganshang	10000	primary
+__prompt__:left leg resting on the sofa	左腿搭在沙发上〔腿部放置〕	zuotuidazaishafashang	10000	primary
+__prompt__:left leg resting on the rock	左腿搭在石头上〔腿部放置〕	zuotuidazaishitoushang	10000	primary
+__prompt__:left leg resting on the step	左腿搭在台阶上〔腿部放置〕	zuotuidazaitaijieshang	10000	primary
+__prompt__:left leg resting on the chair	左腿搭在椅上〔腿部放置〕	zuotuidazaiyishang	10000	primary
+__prompt__:left leg resting on the chair	左腿搭在椅子上〔腿部放置〕	zuotuidazaiyizishang	10000	primary
+__prompt__:left leg resting across right knee	左腿搭在右膝〔交叉腿脚〕	zuotuidazaiyouxi	10000	primary
+__prompt__:left leg resting across right knee	左腿搭在右膝盖上〔交叉腿脚〕	zuotuidazaiyouxigaishang	10000	primary
+__prompt__:left leg resting across right knee	左腿搭在右膝盖上面〔交叉腿脚〕	zuotuidazaiyouxigaishangmian	10000	primary
+__prompt__:left leg resting across right knee	左腿搭在右膝上〔交叉腿脚〕	zuotuidazaiyouxishang	10000	primary
+__prompt__:left leg resting on the table	左腿搭在桌上〔腿部放置〕	zuotuidazaizhuoshang	10000	primary
+__prompt__:left leg resting on the table	左腿搭在桌子上〔腿部放置〕	zuotuidazaizhuozishang	10000	primary
+__prompt__:left leg resting on the bench	左腿放长椅上〔腿部放置〕	zuotuifangchangyishang	10000	primary
+__prompt__:left leg resting on the bench	左腿放长椅上面〔腿部放置〕	zuotuifangchangyishangmian	10000	primary
+__prompt__:left leg resting on the bed	左腿放床上〔腿部放置〕	zuotuifangchuangshang	10000	primary
+__prompt__:left leg resting on the bed	左腿放床上面〔腿部放置〕	zuotuifangchuangshangmian	10000	primary
+__prompt__:left leg resting on the windowsill	左腿放窗台上〔腿部放置〕	zuotuifangchuangtaishang	10000	primary
+__prompt__:left leg resting on the windowsill	左腿放窗台上面〔腿部放置〕	zuotuifangchuangtaishangmian	10000	primary
+__prompt__:left leg resting on the stool	左腿放凳上〔腿部放置〕	zuotuifangdengshang	10000	primary
+__prompt__:left leg resting on the stool	左腿放凳上面〔腿部放置〕	zuotuifangdengshangmian	10000	primary
+__prompt__:left leg resting on the stool	左腿放凳子上〔腿部放置〕	zuotuifangdengzishang	10000	primary
+__prompt__:left leg resting on the stool	左腿放凳子上面〔腿部放置〕	zuotuifangdengzishangmian	10000	primary
+__prompt__:left leg resting on the floor	左腿放地面上〔腿部放置〕	zuotuifangdimianshang	10000	primary
+__prompt__:left leg resting on the floor	左腿放地面上面〔腿部放置〕	zuotuifangdimianshangmian	10000	primary
+__prompt__:left leg resting on the floor	左腿放地上〔腿部放置〕	zuotuifangdishang	10000	primary
+__prompt__:left leg resting on the floor	左腿放地上面〔腿部放置〕	zuotuifangdishangmian	10000	primary
+__prompt__:left leg resting on the footstool	左腿放脚凳上〔腿部放置〕	zuotuifangjiaodengshang	10000	primary
+__prompt__:left leg resting on the footstool	左腿放脚凳上面〔腿部放置〕	zuotuifangjiaodengshangmian	10000	primary
+__prompt__:left leg resting on the railing	左腿放栏杆上〔腿部放置〕	zuotuifanglanganshang	10000	primary
+__prompt__:left leg resting on the railing	左腿放栏杆上面〔腿部放置〕	zuotuifanglanganshangmian	10000	primary
+__prompt__:left leg resting on the sofa	左腿放沙发上〔腿部放置〕	zuotuifangshafashang	10000	primary
+__prompt__:left leg resting on the sofa	左腿放沙发上面〔腿部放置〕	zuotuifangshafashangmian	10000	primary
+__prompt__:left leg resting on the sofa, right foot resting on the floor	左腿放沙发上右脚放地上〔左右腿脚组合〕	zuotuifangshafashangyoujiaofangdishang	10000	primary
+__prompt__:left leg resting on the rock	左腿放石头上〔腿部放置〕	zuotuifangshitoushang	10000	primary
+__prompt__:left leg resting on the rock	左腿放石头上面〔腿部放置〕	zuotuifangshitoushangmian	10000	primary
+__prompt__:left leg resting on the step	左腿放台阶上〔腿部放置〕	zuotuifangtaijieshang	10000	primary
+__prompt__:left leg resting on the step	左腿放台阶上面〔腿部放置〕	zuotuifangtaijieshangmian	10000	primary
+__prompt__:left leg resting on the chair	左腿放椅上〔腿部放置〕	zuotuifangyishang	10000	primary
+__prompt__:left leg resting on the chair	左腿放椅上面〔腿部放置〕	zuotuifangyishangmian	10000	primary
+__prompt__:left leg resting on the chair	左腿放椅子上〔腿部放置〕	zuotuifangyizishang	10000	primary
+__prompt__:left leg resting on the chair	左腿放椅子上面〔腿部放置〕	zuotuifangyizishangmian	10000	primary
+__prompt__:left leg resting on the bench	左腿放在长椅上〔腿部放置〕	zuotuifangzaichangyishang	10000	primary
+__prompt__:left leg resting on the bench	左腿放在长椅上面〔腿部放置〕	zuotuifangzaichangyishangmian	10000	primary
+__prompt__:left leg resting on the bed	左腿放在床上〔腿部放置〕	zuotuifangzaichuangshang	10000	primary
+__prompt__:left leg resting on the bed	左腿放在床上面〔腿部放置〕	zuotuifangzaichuangshangmian	10000	primary
+__prompt__:left leg resting on the windowsill	左腿放在窗台上〔腿部放置〕	zuotuifangzaichuangtaishang	10000	primary
+__prompt__:left leg resting on the windowsill	左腿放在窗台上面〔腿部放置〕	zuotuifangzaichuangtaishangmian	10000	primary
+__prompt__:left leg resting on the stool	左腿放在凳上〔腿部放置〕	zuotuifangzaidengshang	10000	primary
+__prompt__:left leg resting on the stool	左腿放在凳上面〔腿部放置〕	zuotuifangzaidengshangmian	10000	primary
+__prompt__:left leg resting on the stool	左腿放在凳子上〔腿部放置〕	zuotuifangzaidengzishang	10000	primary
+__prompt__:left leg resting on the stool	左腿放在凳子上面〔腿部放置〕	zuotuifangzaidengzishangmian	10000	primary
+__prompt__:left leg resting on the floor	左腿放在地面上〔腿部放置〕	zuotuifangzaidimianshang	10000	primary
+__prompt__:left leg resting on the floor	左腿放在地面上面〔腿部放置〕	zuotuifangzaidimianshangmian	10000	primary
+__prompt__:left leg resting on the floor	左腿放在地上〔腿部放置〕	zuotuifangzaidishang	10000	primary
+__prompt__:left leg resting on the floor	左腿放在地上面〔腿部放置〕	zuotuifangzaidishangmian	10000	primary
+__prompt__:left leg resting on the footstool	左腿放在脚凳上〔腿部放置〕	zuotuifangzaijiaodengshang	10000	primary
+__prompt__:left leg resting on the footstool	左腿放在脚凳上面〔腿部放置〕	zuotuifangzaijiaodengshangmian	10000	primary
+__prompt__:left leg resting on the railing	左腿放在栏杆上〔腿部放置〕	zuotuifangzailanganshang	10000	primary
+__prompt__:left leg resting on the railing	左腿放在栏杆上面〔腿部放置〕	zuotuifangzailanganshangmian	10000	primary
+__prompt__:left leg resting on the sofa	左腿放在沙发上〔腿部放置〕	zuotuifangzaishafashang	10000	primary
+__prompt__:left leg resting on the sofa	左腿放在沙发上面〔腿部放置〕	zuotuifangzaishafashangmian	10000	primary
+__prompt__:left leg resting on the rock	左腿放在石头上〔腿部放置〕	zuotuifangzaishitoushang	10000	primary
+__prompt__:left leg resting on the rock	左腿放在石头上面〔腿部放置〕	zuotuifangzaishitoushangmian	10000	primary
+__prompt__:left leg resting on the step	左腿放在台阶上〔腿部放置〕	zuotuifangzaitaijieshang	10000	primary
+__prompt__:left leg resting on the step	左腿放在台阶上面〔腿部放置〕	zuotuifangzaitaijieshangmian	10000	primary
+__prompt__:left leg resting on the chair	左腿放在椅上〔腿部放置〕	zuotuifangzaiyishang	10000	primary
+__prompt__:left leg resting on the chair	左腿放在椅上面〔腿部放置〕	zuotuifangzaiyishangmian	10000	primary
+__prompt__:left leg resting on the chair	左腿放在椅子上〔腿部放置〕	zuotuifangzaiyizishang	10000	primary
+__prompt__:left leg resting on the chair	左腿放在椅子上面〔腿部放置〕	zuotuifangzaiyizishangmian	10000	primary
+__prompt__:left leg resting on the table	左腿放在桌上〔腿部放置〕	zuotuifangzaizhuoshang	10000	primary
+__prompt__:left leg resting on the table	左腿放在桌上面〔腿部放置〕	zuotuifangzaizhuoshangmian	10000	primary
+__prompt__:left leg resting on the table	左腿放在桌子上〔腿部放置〕	zuotuifangzaizhuozishang	10000	primary
+__prompt__:left leg resting on the table	左腿放在桌子上面〔腿部放置〕	zuotuifangzaizhuozishangmian	10000	primary
+__prompt__:left leg resting on the table	左腿放桌上〔腿部放置〕	zuotuifangzhuoshang	10000	primary
+__prompt__:left leg resting on the table	左腿放桌上面〔腿部放置〕	zuotuifangzhuoshangmian	10000	primary
+__prompt__:left leg resting on the table	左腿放桌子上〔腿部放置〕	zuotuifangzhuozishang	10000	primary
+__prompt__:left leg resting on the table	左腿放桌子上面〔腿部放置〕	zuotuifangzhuozishangmian	10000	primary
+__prompt__:left leg resting on the bench	左腿搁在长椅上〔腿部放置〕	zuotuigezaichangyishang	10000	primary
+__prompt__:left leg resting on the bed	左腿搁在床上〔腿部放置〕	zuotuigezaichuangshang	10000	primary
+__prompt__:left leg resting on the windowsill	左腿搁在窗台上〔腿部放置〕	zuotuigezaichuangtaishang	10000	primary
+__prompt__:left leg resting on the stool	左腿搁在凳上〔腿部放置〕	zuotuigezaidengshang	10000	primary
+__prompt__:left leg resting on the stool	左腿搁在凳子上〔腿部放置〕	zuotuigezaidengzishang	10000	primary
+__prompt__:left leg resting on the floor	左腿搁在地面上〔腿部放置〕	zuotuigezaidimianshang	10000	primary
+__prompt__:left leg resting on the floor	左腿搁在地上〔腿部放置〕	zuotuigezaidishang	10000	primary
+__prompt__:left leg resting on the footstool	左腿搁在脚凳上〔腿部放置〕	zuotuigezaijiaodengshang	10000	primary
+__prompt__:left leg resting on the railing	左腿搁在栏杆上〔腿部放置〕	zuotuigezailanganshang	10000	primary
+__prompt__:left leg resting on the sofa	左腿搁在沙发上〔腿部放置〕	zuotuigezaishafashang	10000	primary
+__prompt__:left leg resting on the rock	左腿搁在石头上〔腿部放置〕	zuotuigezaishitoushang	10000	primary
+__prompt__:left leg resting on the step	左腿搁在台阶上〔腿部放置〕	zuotuigezaitaijieshang	10000	primary
+__prompt__:left leg resting on the chair	左腿搁在椅上〔腿部放置〕	zuotuigezaiyishang	10000	primary
+__prompt__:left leg resting on the chair	左腿搁在椅子上〔腿部放置〕	zuotuigezaiyizishang	10000	primary
+__prompt__:left leg resting on the table	左腿搁在桌上〔腿部放置〕	zuotuigezaizhuoshang	10000	primary
+__prompt__:left leg resting on the table	左腿搁在桌子上〔腿部放置〕	zuotuigezaizhuozishang	10000	primary
 __prompt__:butt_slam	坐臀攻击〔e621〕	zuotungongji	2854	alias
 hidariude	左腕	zuowan	1381	primary
 zuo_wang_dao	坐忘道	zuowangdao	1749	primary

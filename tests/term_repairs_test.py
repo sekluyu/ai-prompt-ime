@@ -5,6 +5,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from term_repairs import repair_rows,expansion_rows,repair_target_keys
+from general_phrases import pose_rows
 
 
 def main():
@@ -15,9 +16,9 @@ def main():
     current={key(r):r for r in rows}
     assert len(current)==len(rows)
     repaired=repair_rows(old)
-    expected={key(r) for r in repaired}|{key(r) for r in expansion_rows()}
+    expected={key(r) for r in repaired}|{key(r) for r in expansion_rows()+pose_rows()}
     assert set(current)==expected,'An unreviewed lookup was removed or added'
-    changed=repair_target_keys()|{key(r) for r in expansion_rows()}
+    changed=repair_target_keys()|{key(r) for r in expansion_rows()+pose_rows()}
     for prior in repaired:
         if key(prior) not in changed:
             assert current[key(prior)]==prior,('Unrelated entry changed',prior,current[key(prior)])

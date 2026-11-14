@@ -13,7 +13,7 @@ from pathlib import Path
 from build_windows_installer import build as build_installer
 
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='0.2.9'
+VERSION='0.2.10'
 LAUNCHER='安装绘画提示词.exe'
 SCHEME_FILES=['booru.schema.yaml','booru.dict.yaml','booru.tsv','booru.annotations.tsv','lua/booru_filter.lua']
 
@@ -93,6 +93,9 @@ def main():
     repairs=json.loads((validation/'term-repairs.json').read_text(encoding='utf-8'))
     assert repairs['status']=='PASS' and repairs['dictionary_sha256']==proof['dictionary_sha256']
     assert repairs['engine_pairs_checked']>0
+    legs=json.loads((validation/'leg-foot-phrases.json').read_text(encoding='utf-8'))
+    assert legs['status']=='PASS' and legs['dictionary_sha256']==proof['dictionary_sha256']
+    assert legs['engine_selections']==legs['new_phrase_mappings']
     archives=[]
     for variant in (['default','dictionary'] if args.include_dictionary else ['default']):
         name=f'ai-prompt-ime-{VERSION}'+('' if variant=='default' else '-'+variant)
@@ -132,7 +135,7 @@ def main():
                 shutil.copy2(validation/'formal-full-engine.json',folder/'validation/baseline-engine-test.json')
                 shutil.copy2(validation/'color-test-full.json',folder/'validation/baseline-color-test.json')
                 shutil.copy2(validation/'prompt-test-full.json',folder/'validation/baseline-prompt-test.json')
-                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json','term-repairs.json']:
+                for evidence_name in ['ranking-slang.json','lua-filter-unit.json','pose-phrases.json','latency.json','term-repairs.json','leg-foot-phrases.json']:
                     shutil.copy2(validation/evidence_name,folder/'validation'/evidence_name)
                 with (src/'booru.tsv').open(encoding='utf-8') as stream:
                     mappings=sum(1 for _ in csv.DictReader(stream,delimiter='\t'))

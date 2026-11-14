@@ -1,4 +1,4 @@
-# booru-annotations-v1	b55dc2defc8918fb69266a2b0bb06d70766ea3c778ee0670c0c7eafb4cfe41fb
+# booru-annotations-v1	c6eed8c7b835225d61ab60ca874179f5832eb00b69648d80d0de0d74580c4778
 L:!	感叹号	0
 L:!!	双重感叹号	0
 L:!?	表情符号〔合并词库〕	0
@@ -13883,6 +13883,30 @@ L:botanical garden	植物园〔提示词库〕	0
 L:botanical_garden	植物园	0
 L:botantouki	牡丹灯笼	0
 L:botaro_kubo	久保太郎	0
+L:both feet resting on the bed	两只脚搭在床上〔脚部放置〕	0
+L:both feet resting on the bench	两只脚搭在长椅上〔脚部放置〕	0
+L:both feet resting on the chair	两只脚搭在椅上〔脚部放置〕	0
+L:both feet resting on the floor	两只脚搭在地面上〔脚部放置〕	0
+L:both feet resting on the footstool	两只脚搭在脚凳上〔脚部放置〕	0
+L:both feet resting on the railing	两只脚搭在栏杆上〔脚部放置〕	0
+L:both feet resting on the rock	两只脚搭在石头上〔脚部放置〕	0
+L:both feet resting on the sofa	两只脚搭在沙发上〔脚部放置〕	0
+L:both feet resting on the step	两只脚搭在台阶上〔脚部放置〕	0
+L:both feet resting on the stool	两只脚搭在凳上〔脚部放置〕	0
+L:both feet resting on the table	两只脚搭在桌上〔脚部放置〕	0
+L:both feet resting on the windowsill	两只脚搭在窗台上〔脚部放置〕	0
+L:both legs resting on the bed	两条腿搭在床上〔腿部放置〕	0
+L:both legs resting on the bench	两条腿搭在长椅上〔腿部放置〕	0
+L:both legs resting on the chair	两条腿搭在椅上〔腿部放置〕	0
+L:both legs resting on the floor	两条腿搭在地面上〔腿部放置〕	0
+L:both legs resting on the footstool	两条腿搭在脚凳上〔腿部放置〕	0
+L:both legs resting on the railing	两条腿搭在栏杆上〔腿部放置〕	0
+L:both legs resting on the rock	两条腿搭在石头上〔腿部放置〕	0
+L:both legs resting on the sofa	两条腿搭在沙发上〔腿部放置〕	0
+L:both legs resting on the step	两条腿搭在台阶上〔腿部放置〕	0
+L:both legs resting on the stool	两条腿搭在凳上〔腿部放置〕	0
+L:both legs resting on the table	两条腿搭在桌上〔腿部放置〕	0
+L:both legs resting on the windowsill	两条腿搭在窗台上〔腿部放置〕	0
 L:both_hands_grabbing_breast	双手抓胸	0
 L:both_hands_on_penis	双手握阴茎〔e621〕	0
 L:both_pregnant	两位孕妇互动〔e621〕	0
@@ -63012,6 +63036,20 @@ L:leeron_littner	天元突破红莲螺岩〔合并词库〕	0
 L:leesuyeon	李秀妍	0
 L:leezpunk	蜥兹朋克〔e621〕	0
 L:lefiya_viridis	洛基眷族〔合并词库〕	0
+L:left foot resting on right knee	左脚放在右膝〔交叉腿脚〕	0
+L:left foot resting on the bed	左脚搭在床上〔脚部放置〕	0
+L:left foot resting on the bench	左脚搭在长椅上〔脚部放置〕	0
+L:left foot resting on the chair	左脚搭在椅上〔脚部放置〕	0
+L:left foot resting on the floor	左脚搭在地面上〔脚部放置〕	0
+L:left foot resting on the footstool	左脚搭在脚凳上〔脚部放置〕	0
+L:left foot resting on the railing	左脚搭在栏杆上〔脚部放置〕	0
+L:left foot resting on the rock	左脚搭在石头上〔脚部放置〕	0
+L:left foot resting on the sofa	左脚搭在沙发上〔脚部放置〕	0
+L:left foot resting on the step	左脚搭在台阶上〔脚部放置〕	0
+L:left foot resting on the stool	左脚搭在凳上〔脚部放置〕	0
+L:left foot resting on the stool, right foot resting on the floor	左脚放凳子上右脚放地上〔左右腿脚组合〕	0
+L:left foot resting on the table	左脚搭在桌上〔脚部放置〕	0
+L:left foot resting on the windowsill	左脚搭在窗台上〔脚部放置〕	0
 L:left hand behind back	左手放背后〔通用姿态·单手〕	0
 L:left hand behind back, right hand touching chest	左手放背后右手摸胸口〔通用姿态·双手〕	0
 L:left hand braced against wall	左手扶墙〔通用姿态·单手〕	0
@@ -63075,6 +63113,20 @@ L:left hand touching shoulder	左手摸肩膀〔通用姿态·单手〕	0
 L:left hand touching shoulder, right hand resting on abdomen	左手摸肩膀右手放腹部〔通用姿态·双手〕	0
 L:left hand touching tail	左手摸尾巴〔通用姿态·单手〕	0
 L:left hand touching tail, right hand touching ear	左手摸尾巴右手摸耳朵〔通用姿态·双手〕	0
+L:left leg resting across right knee	左腿搭在右膝〔交叉腿脚〕	0
+L:left leg resting on the bed	左腿搭在床上〔腿部放置〕	0
+L:left leg resting on the bench	左腿搭在长椅上〔腿部放置〕	0
+L:left leg resting on the chair	左腿搭在椅上〔腿部放置〕	0
+L:left leg resting on the floor	左腿搭在地面上〔腿部放置〕	0
+L:left leg resting on the footstool	左腿搭在脚凳上〔腿部放置〕	0
+L:left leg resting on the railing	左腿搭在栏杆上〔腿部放置〕	0
+L:left leg resting on the rock	左腿搭在石头上〔腿部放置〕	0
+L:left leg resting on the sofa	左腿搭在沙发上〔腿部放置〕	0
+L:left leg resting on the sofa, right foot resting on the floor	左腿放沙发上右脚放地上〔左右腿脚组合〕	0
+L:left leg resting on the step	左腿搭在台阶上〔腿部放置〕	0
+L:left leg resting on the stool	左腿搭在凳上〔腿部放置〕	0
+L:left leg resting on the table	左腿搭在桌上〔腿部放置〕	0
+L:left leg resting on the windowsill	左腿搭在窗台上〔腿部放置〕	0
 L:left-hand_drive	左舵驾驶	0
 L:left-handed	左撇子	0
 L:left-handed_pitcher	左投手	0
@@ -81434,6 +81486,18 @@ L:onda_takeshi	恩田刚	0
 L:ondoku-chan	音读酱	0
 L:ondosaaaa	温度差	0
 L:one eye closed	闭上一只眼〔提示词库〕	0
+L:one foot resting on the bed	脚搭在床上〔脚部放置〕	0
+L:one foot resting on the bench	脚搭在长椅上〔脚部放置〕	0
+L:one foot resting on the chair	脚搭在椅上〔脚部放置〕	0
+L:one foot resting on the floor	脚搭在地面上〔脚部放置〕	0
+L:one foot resting on the footstool	脚搭在脚凳上〔脚部放置〕	0
+L:one foot resting on the railing	脚搭在栏杆上〔脚部放置〕	0
+L:one foot resting on the rock	脚搭在石头上〔脚部放置〕	0
+L:one foot resting on the sofa	脚搭在沙发上〔脚部放置〕	0
+L:one foot resting on the step	脚搭在台阶上〔脚部放置〕	0
+L:one foot resting on the stool	脚搭在凳上〔脚部放置〕	0
+L:one foot resting on the table	脚搭在桌上〔脚部放置〕	0
+L:one foot resting on the windowsill	脚搭在窗台上〔脚部放置〕	0
 L:one hand behind back	一手放背后〔通用姿态·单手〕	0
 L:one hand behind back, the other hand touching chest	一手放背后另一手摸胸口〔通用姿态·双手〕	0
 L:one hand braced against wall	一手扶墙〔通用姿态·单手〕	0
@@ -81498,6 +81562,18 @@ L:one hand touching shoulder, the other hand resting on abdomen	一手摸肩膀�
 L:one hand touching tail	一手摸尾巴〔通用姿态·单手〕	0
 L:one hand touching tail, the other hand touching ear	一手摸尾巴另一手摸耳朵〔通用姿态·双手〕	0
 L:one knee	单膝跪地〔提示词库〕	0
+L:one leg resting on the bed	腿搭在床上〔腿部放置〕	0
+L:one leg resting on the bench	腿搭在长椅上〔腿部放置〕	0
+L:one leg resting on the chair	腿搭在椅上〔腿部放置〕	0
+L:one leg resting on the floor	腿搭在地面上〔腿部放置〕	0
+L:one leg resting on the footstool	腿搭在脚凳上〔腿部放置〕	0
+L:one leg resting on the railing	腿搭在栏杆上〔腿部放置〕	0
+L:one leg resting on the rock	腿搭在石头上〔腿部放置〕	0
+L:one leg resting on the sofa	腿搭在沙发上〔腿部放置〕	0
+L:one leg resting on the step	腿搭在台阶上〔腿部放置〕	0
+L:one leg resting on the stool	腿搭在凳上〔腿部放置〕	0
+L:one leg resting on the table	腿搭在桌上〔腿部放置〕	0
+L:one leg resting on the windowsill	腿搭在窗台上〔腿部放置〕	0
 L:one side up	一边向上〔提示词库〕	0
 L:one-armed_hug	单臂拥抱	0
 L:one-bar_prison	单杆监狱〔e621〕	0
@@ -93310,6 +93386,20 @@ L:rift_apart	分离〔e621〕	0
 L:rigby_(regular_show)	浣熊瑞格比〔e621〕	0
 L:rigel_(op_na_yarou)	猫耳少年〔合并词库〕	0
 L:rigging	舰装	0
+L:right foot resting on left knee	右脚放在左膝〔交叉腿脚〕	0
+L:right foot resting on the bed	右脚搭在床上〔脚部放置〕	0
+L:right foot resting on the bench	右脚搭在长椅上〔脚部放置〕	0
+L:right foot resting on the chair	右脚搭在椅上〔脚部放置〕	0
+L:right foot resting on the floor	右脚搭在地面上〔脚部放置〕	0
+L:right foot resting on the footstool	右脚搭在脚凳上〔脚部放置〕	0
+L:right foot resting on the railing	右脚搭在栏杆上〔脚部放置〕	0
+L:right foot resting on the rock	右脚搭在石头上〔脚部放置〕	0
+L:right foot resting on the sofa	右脚搭在沙发上〔脚部放置〕	0
+L:right foot resting on the step	右脚搭在台阶上〔脚部放置〕	0
+L:right foot resting on the stool	右脚搭在凳上〔脚部放置〕	0
+L:right foot resting on the stool, left foot resting on the floor	右脚放凳子上左脚放地上〔左右腿脚组合〕	0
+L:right foot resting on the table	右脚搭在桌上〔脚部放置〕	0
+L:right foot resting on the windowsill	右脚搭在窗台上〔脚部放置〕	0
 L:right hand behind back	右手放背后〔通用姿态·单手〕	0
 L:right hand braced against wall	右手扶墙〔通用姿态·单手〕	0
 L:right hand clenched into a fist	右手握拳〔通用姿态·单手〕	0
@@ -93345,6 +93435,20 @@ L:right hand touching muzzle	右手摸口鼻〔通用姿态·单手〕	0
 L:right hand touching neck	右手摸脖子〔通用姿态·单手〕	0
 L:right hand touching shoulder	右手摸肩膀〔通用姿态·单手〕	0
 L:right hand touching tail	右手摸尾巴〔通用姿态·单手〕	0
+L:right leg resting across left knee	右腿搭在左膝〔交叉腿脚〕	0
+L:right leg resting on the bed	右腿搭在床上〔腿部放置〕	0
+L:right leg resting on the bench	右腿搭在长椅上〔腿部放置〕	0
+L:right leg resting on the chair	右腿搭在椅上〔腿部放置〕	0
+L:right leg resting on the floor	右腿搭在地面上〔腿部放置〕	0
+L:right leg resting on the footstool	右腿搭在脚凳上〔腿部放置〕	0
+L:right leg resting on the railing	右腿搭在栏杆上〔腿部放置〕	0
+L:right leg resting on the rock	右腿搭在石头上〔腿部放置〕	0
+L:right leg resting on the sofa	右腿搭在沙发上〔腿部放置〕	0
+L:right leg resting on the sofa, left foot resting on the floor	右腿放沙发上左脚放地上〔左右腿脚组合〕	0
+L:right leg resting on the step	右腿搭在台阶上〔腿部放置〕	0
+L:right leg resting on the stool	右腿搭在凳上〔腿部放置〕	0
+L:right leg resting on the table	右腿搭在桌上〔腿部放置〕	0
+L:right leg resting on the windowsill	右腿搭在窗台上〔腿部放置〕	0
 L:right-hand_drive	右舵驾驶	0
 L:right-hook_dog	右勾拳犬	0
 L:right-over-left_kimono	和服〔合并词库〕	0
@@ -113379,6 +113483,18 @@ L:thatcursedrat	那只被诅咒的老鼠	0
 L:thatsallitchief	就这样吧长官	0
 L:thattugboat	那艘拖船	0
 L:the hermit	隐士〔提示词库〕	0
+L:the other foot resting on the bed	另一只脚搭在床上〔脚部放置〕	0
+L:the other foot resting on the bench	另一只脚搭在长椅上〔脚部放置〕	0
+L:the other foot resting on the chair	另一只脚搭在椅上〔脚部放置〕	0
+L:the other foot resting on the floor	另一只脚搭在地面上〔脚部放置〕	0
+L:the other foot resting on the footstool	另一只脚搭在脚凳上〔脚部放置〕	0
+L:the other foot resting on the railing	另一只脚搭在栏杆上〔脚部放置〕	0
+L:the other foot resting on the rock	另一只脚搭在石头上〔脚部放置〕	0
+L:the other foot resting on the sofa	另一只脚搭在沙发上〔脚部放置〕	0
+L:the other foot resting on the step	另一只脚搭在台阶上〔脚部放置〕	0
+L:the other foot resting on the stool	另一只脚搭在凳上〔脚部放置〕	0
+L:the other foot resting on the table	另一只脚搭在桌上〔脚部放置〕	0
+L:the other foot resting on the windowsill	另一只脚搭在窗台上〔脚部放置〕	0
 L:the other hand behind back	另一手放背后〔通用姿态·单手〕	0
 L:the other hand braced against wall	另一手扶墙〔通用姿态·单手〕	0
 L:the other hand clenched into a fist	另一手握拳〔通用姿态·单手〕	0
@@ -113414,6 +113530,18 @@ L:the other hand touching muzzle	另一手摸口鼻〔通用姿态·单手〕	0
 L:the other hand touching neck	另一手摸脖子〔通用姿态·单手〕	0
 L:the other hand touching shoulder	另一手摸肩膀〔通用姿态·单手〕	0
 L:the other hand touching tail	另一手摸尾巴〔通用姿态·单手〕	0
+L:the other leg resting on the bed	另一条腿搭在床上〔腿部放置〕	0
+L:the other leg resting on the bench	另一条腿搭在长椅上〔腿部放置〕	0
+L:the other leg resting on the chair	另一条腿搭在椅上〔腿部放置〕	0
+L:the other leg resting on the floor	另一条腿搭在地面上〔腿部放置〕	0
+L:the other leg resting on the footstool	另一条腿搭在脚凳上〔腿部放置〕	0
+L:the other leg resting on the railing	另一条腿搭在栏杆上〔腿部放置〕	0
+L:the other leg resting on the rock	另一条腿搭在石头上〔腿部放置〕	0
+L:the other leg resting on the sofa	另一条腿搭在沙发上〔腿部放置〕	0
+L:the other leg resting on the step	另一条腿搭在台阶上〔腿部放置〕	0
+L:the other leg resting on the stool	另一条腿搭在凳上〔腿部放置〕	0
+L:the other leg resting on the table	另一条腿搭在桌上〔腿部放置〕	0
+L:the other leg resting on the windowsill	另一条腿搭在窗台上〔腿部放置〕	0
 L:the top of the hill	山顶〔提示词库〕	0
 L:the_a-team	天龙特攻队	0
 L:the_academy_awards	奥斯卡金像奖	0
@@ -374813,6 +374941,18 @@ M:37:__prompt__:one hand touching forehead:yishoumoetou	一手摸额头〔通用
 M:37:__prompt__:one hand touching forehead:yizhishoumoetou	一只手摸额头〔通用姿态·单手〕	1
 M:37:__prompt__:one hand touching shoulder:yishoumojianbang	一手摸肩膀〔通用姿态·单手〕	1
 M:37:__prompt__:one hand touching shoulder:yizhishoumojianbang	一只手摸肩膀〔通用姿态·单手〕	1
+M:37:__prompt__:one leg resting on the bed:tuidazaichuangshang	腿搭在床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:tuifangchuangshang	腿放床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:tuifangchuangshangmian	腿放床上面〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:tuifangzaichuangshang	腿放在床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:tuifangzaichuangshangmian	腿放在床上面〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:tuigezaichuangshang	腿搁在床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuidazaichuangshang	一条腿搭在床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuifangchuangshang	一条腿放床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuifangchuangshangmian	一条腿放床上面〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuifangzaichuangshang	一条腿放在床上〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuifangzaichuangshangmian	一条腿放在床上面〔腿部放置〕	1
+M:37:__prompt__:one leg resting on the bed:yitiaotuigezaichuangshang	一条腿搁在床上〔腿部放置〕	1
 M:37:__prompt__:one-hour_drawing_challenge:huihuatiaozhan	绘画挑战〔合并词库〕	0
 M:37:__prompt__:one-hour_drawing_challenge:yixiaoshihuahuatiaozhan	一小时画画挑战〔合并词库〕	0
 M:37:__prompt__:orange and light brown fur:chengheqianzongsemaofa	橙＋浅棕色皮毛〔皮毛配色〕	1
@@ -377407,6 +377547,12 @@ M:38:__prompt__:leblanc_(league_of_legends):qizhamonv	欺诈魔女〔合并词�
 M:38:__prompt__:left hand holding an object:zuoshouchiwu	左手持物〔通用姿态·单手〕	1
 M:38:__prompt__:left hand touching forehead:zuoshoumoetou	左手摸额头〔通用姿态·单手〕	1
 M:38:__prompt__:left hand touching shoulder:zuoshoumojianbang	左手摸肩膀〔通用姿态·单手〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuidazaichuangshang	左腿搭在床上〔腿部放置〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuifangchuangshang	左腿放床上〔腿部放置〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuifangchuangshangmian	左腿放床上面〔腿部放置〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuifangzaichuangshang	左腿放在床上〔腿部放置〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuifangzaichuangshangmian	左腿放在床上面〔腿部放置〕	1
+M:38:__prompt__:left leg resting on the bed:zuotuigezaichuangshang	左腿搁在床上〔腿部放置〕	1
 M:38:__prompt__:legs_on_another's_shoulders:dietui	叠腿〔合并词库〕	0
 M:38:__prompt__:legs_on_another's_shoulders:jiankangtui	肩扛腿〔合并词库〕	0
 M:38:__prompt__:legs_on_another's_shoulders:tuibuzishi	腿部姿势〔合并词库〕	0
@@ -377596,8 +377742,56 @@ M:38:__prompt__:off-white and dark gray fur:mibaishenhuisepimao	米白＋深灰�
 M:38:__prompt__:off-white and dark gray fur:mibaiyushenhuisemaofa	米白＋深灰色皮毛〔皮毛配色〕	1
 M:38:__prompt__:off-white and dark gray fur:mibaiyushenhuisemaopi	米白＋深灰色皮毛〔皮毛配色〕	1
 M:38:__prompt__:off-white and dark gray fur:mibaiyushenhuisepimao	米白＋深灰色皮毛〔皮毛配色〕	1
+M:38:__prompt__:one foot resting on the bed:jiaodazaichuangshang	脚搭在床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:jiaofangchuangshang	脚放床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:jiaofangchuangshangmian	脚放床上面〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:jiaofangzaichuangshang	脚放在床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:jiaofangzaichuangshangmian	脚放在床上面〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:jiaogezaichuangshang	脚搁在床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaodazaichuangshang	一只脚搭在床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaofangchuangshang	一只脚放床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaofangchuangshangmian	一只脚放床上面〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaofangzaichuangshang	一只脚放在床上〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaofangzaichuangshangmian	一只脚放在床上面〔脚部放置〕	1
+M:38:__prompt__:one foot resting on the bed:yizhijiaogezaichuangshang	一只脚搁在床上〔脚部放置〕	1
 M:38:__prompt__:one hand resting on abdomen:yishoufangfubu	一手放腹部〔通用姿态·单手〕	1
 M:38:__prompt__:one hand resting on abdomen:yizhishoufangfubu	一只手放腹部〔通用姿态·单手〕	1
+M:38:__prompt__:one leg resting on the rock:tuidazaishitoushang	腿搭在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:tuifangshitoushang	腿放石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:tuifangshitoushangmian	腿放石头上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:tuifangzaishitoushang	腿放在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:tuifangzaishitoushangmian	腿放在石头上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:tuigezaishitoushang	腿搁在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuidazaishitoushang	一条腿搭在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuifangshitoushang	一条腿放石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuifangshitoushangmian	一条腿放石头上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuifangzaishitoushang	一条腿放在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuifangzaishitoushangmian	一条腿放在石头上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the rock:yitiaotuigezaishitoushang	一条腿搁在石头上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuidazaishafashang	腿搭在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuifangshafashang	腿放沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuifangshafashangmian	腿放沙发上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuifangzaishafashang	腿放在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuifangzaishafashangmian	腿放在沙发上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:tuigezaishafashang	腿搁在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuidazaishafashang	一条腿搭在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuifangshafashang	一条腿放沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuifangshafashangmian	一条腿放沙发上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuifangzaishafashang	一条腿放在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuifangzaishafashangmian	一条腿放在沙发上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the sofa:yitiaotuigezaishafashang	一条腿搁在沙发上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuidazaitaijieshang	腿搭在台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuifangtaijieshang	腿放台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuifangtaijieshangmian	腿放台阶上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuifangzaitaijieshang	腿放在台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuifangzaitaijieshangmian	腿放在台阶上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:tuigezaitaijieshang	腿搁在台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuidazaitaijieshang	一条腿搭在台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuifangtaijieshang	一条腿放台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuifangtaijieshangmian	一条腿放台阶上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuifangzaitaijieshang	一条腿放在台阶上〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuifangzaitaijieshangmian	一条腿放在台阶上面〔腿部放置〕	1
+M:38:__prompt__:one leg resting on the step:yitiaotuigezaitaijieshang	一条腿搁在台阶上〔腿部放置〕	1
 M:38:__prompt__:ooarai_naval_school_uniform:daxinvzixueyuanzhifu	大洗女子学园制服〔合并词库〕	0
 M:38:__prompt__:oohashi_high_school_uniform:daqiaogaoxiaoxiaofu	大桥高校校服〔合并词库〕	0
 M:38:__prompt__:oozora_subaru_(1st_costume):dakongmao	大空昴〔合并词库〕	0
@@ -378545,6 +378739,30 @@ M:39:__prompt__:bokusatsu_tenshi_dokuro-chan:pushatianshi	扑杀天使〔合并�
 M:39:__prompt__:boothill_(honkai:_star_rail):botiou	波提欧〔合并词库〕	0
 M:39:__prompt__:boothill_(honkai:_star_rail):xingqiongtiedao	星穹铁道〔合并词库〕	0
 M:39:__prompt__:boothill_(honkai:_star_rail):yinheyouxia	银河游侠〔合并词库〕	0
+M:39:__prompt__:both feet resting on the bed:liangzhijiaodazaichuangshang	两只脚搭在床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:liangzhijiaofangchuangshang	两只脚放床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:liangzhijiaofangchuangshangmian	两只脚放床上面〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:liangzhijiaofangzaichuangshang	两只脚放在床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:liangzhijiaofangzaichuangshangmian	两只脚放在床上面〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:liangzhijiaogezaichuangshang	两只脚搁在床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaodazaichuangshang	双脚搭在床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaofangchuangshang	双脚放床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaofangchuangshangmian	双脚放床上面〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaofangzaichuangshang	双脚放在床上〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaofangzaichuangshangmian	双脚放在床上面〔脚部放置〕	1
+M:39:__prompt__:both feet resting on the bed:shuangjiaogezaichuangshang	双脚搁在床上〔脚部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuidazaichuangshang	两条腿搭在床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuifangchuangshang	两条腿放床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuifangchuangshangmian	两条腿放床上面〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuifangzaichuangshang	两条腿放在床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuifangzaichuangshangmian	两条腿放在床上面〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:liangtiaotuigezaichuangshang	两条腿搁在床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuidazaichuangshang	双腿搭在床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuifangchuangshang	双腿放床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuifangchuangshangmian	双腿放床上面〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuifangzaichuangshang	双腿放在床上〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuifangzaichuangshangmian	双腿放在床上面〔腿部放置〕	1
+M:39:__prompt__:both legs resting on the bed:shuangtuigezaichuangshang	双腿搁在床上〔腿部放置〕	1
 M:39:__prompt__:both_sexes_in_same_situation:bingxingshuangxingxingwei	并行双性行为〔e621〕	0
 M:39:__prompt__:both_sexes_in_same_situation:nannvtongzishi	男女同姿势〔e621〕	0
 M:39:__prompt__:both_sexes_in_same_situation:shuangxingtongchangjing	双性同场景〔e621〕	0
@@ -379338,7 +379556,31 @@ M:39:__prompt__:kubo-san_wa_mob_wo_yurusanai:qingchunlianai	青春恋爱〔合�
 M:39:__prompt__:ladybug_(miraculous_ladybug):piaochongshaonv	瓢虫少女〔合并词库〕	0
 M:39:__prompt__:ladybug_(miraculous_ladybug):qijishaonvxianshipisong	奇迹少女限时批送〔合并词库〕	0
 M:39:__prompt__:laplace_(kamitsubaki_studio):lapulasi	拉普拉斯〔合并词库〕	0
+M:39:__prompt__:left foot resting on the bed:zuojiaodazaichuangshang	左脚搭在床上〔脚部放置〕	1
+M:39:__prompt__:left foot resting on the bed:zuojiaofangchuangshang	左脚放床上〔脚部放置〕	1
+M:39:__prompt__:left foot resting on the bed:zuojiaofangchuangshangmian	左脚放床上面〔脚部放置〕	1
+M:39:__prompt__:left foot resting on the bed:zuojiaofangzaichuangshang	左脚放在床上〔脚部放置〕	1
+M:39:__prompt__:left foot resting on the bed:zuojiaofangzaichuangshangmian	左脚放在床上面〔脚部放置〕	1
+M:39:__prompt__:left foot resting on the bed:zuojiaogezaichuangshang	左脚搁在床上〔脚部放置〕	1
 M:39:__prompt__:left hand resting on abdomen:zuoshoufangfubu	左手放腹部〔通用姿态·单手〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuidazaishitoushang	左腿搭在石头上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuifangshitoushang	左腿放石头上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuifangshitoushangmian	左腿放石头上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuifangzaishitoushang	左腿放在石头上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuifangzaishitoushangmian	左腿放在石头上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the rock:zuotuigezaishitoushang	左腿搁在石头上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuidazaishafashang	左腿搭在沙发上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuifangshafashang	左腿放沙发上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuifangshafashangmian	左腿放沙发上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuifangzaishafashang	左腿放在沙发上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuifangzaishafashangmian	左腿放在沙发上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the sofa:zuotuigezaishafashang	左腿搁在沙发上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuidazaitaijieshang	左腿搭在台阶上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuifangtaijieshang	左腿放台阶上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuifangtaijieshangmian	左腿放台阶上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuifangzaitaijieshang	左腿放在台阶上〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuifangzaitaijieshangmian	左腿放在台阶上面〔腿部放置〕	1
+M:39:__prompt__:left leg resting on the step:zuotuigezaitaijieshang	左腿搁在台阶上〔腿部放置〕	1
 M:39:__prompt__:light gray and dark gray fur:qianhuiheshenhuisemaofa	浅灰＋深灰色皮毛〔皮毛配色〕	1
 M:39:__prompt__:light gray and dark gray fur:qianhuiheshenhuisemaopi	浅灰＋深灰色皮毛〔皮毛配色〕	1
 M:39:__prompt__:light gray and dark gray fur:qianhuiheshenhuisepimao	浅灰＋深灰色皮毛〔皮毛配色〕	1
@@ -379597,8 +379839,152 @@ M:39:__prompt__:oinari-sama_(kemono_friends):huliyouren	狐狸友人〔e621〕	0
 M:39:__prompt__:oinari-sama_(kemono_friends):shouniangdongwuyuan	兽娘动物园〔e621〕	0
 M:39:__prompt__:oinari-sama_(kemono_friends):yudaoheyang	御稻荷様〔e621〕	0
 M:39:__prompt__:omaru_polka_(school_uniform):weiwanboluoka	尾丸波罗卡〔合并词库〕	0
+M:39:__prompt__:one foot resting on the rock:jiaodazaishitoushang	脚搭在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:jiaofangshitoushang	脚放石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:jiaofangshitoushangmian	脚放石头上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:jiaofangzaishitoushang	脚放在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:jiaofangzaishitoushangmian	脚放在石头上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:jiaogezaishitoushang	脚搁在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaodazaishitoushang	一只脚搭在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaofangshitoushang	一只脚放石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaofangshitoushangmian	一只脚放石头上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaofangzaishitoushang	一只脚放在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaofangzaishitoushangmian	一只脚放在石头上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the rock:yizhijiaogezaishitoushang	一只脚搁在石头上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaodazaishafashang	脚搭在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaofangshafashang	脚放沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaofangshafashangmian	脚放沙发上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaofangzaishafashang	脚放在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaofangzaishafashangmian	脚放在沙发上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:jiaogezaishafashang	脚搁在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaodazaishafashang	一只脚搭在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaofangshafashang	一只脚放沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaofangshafashangmian	一只脚放沙发上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaofangzaishafashang	一只脚放在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaofangzaishafashangmian	一只脚放在沙发上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the sofa:yizhijiaogezaishafashang	一只脚搁在沙发上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaodazaitaijieshang	脚搭在台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaofangtaijieshang	脚放台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaofangtaijieshangmian	脚放台阶上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaofangzaitaijieshang	脚放在台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaofangzaitaijieshangmian	脚放在台阶上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:jiaogezaitaijieshang	脚搁在台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaodazaitaijieshang	一只脚搭在台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaofangtaijieshang	一只脚放台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaofangtaijieshangmian	一只脚放台阶上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaofangzaitaijieshang	一只脚放在台阶上〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaofangzaitaijieshangmian	一只脚放在台阶上面〔脚部放置〕	1
+M:39:__prompt__:one foot resting on the step:yizhijiaogezaitaijieshang	一只脚搁在台阶上〔脚部放置〕	1
 M:39:__prompt__:one hand braced against wall:yishoufuqiang	一手扶墙〔通用姿态·单手〕	1
 M:39:__prompt__:one hand braced against wall:yizhishoufuqiang	一只手扶墙〔通用姿态·单手〕	1
+M:39:__prompt__:one leg resting on the bench:tuidazaichangyishang	腿搭在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:tuifangchangyishang	腿放长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:tuifangchangyishangmian	腿放长椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:tuifangzaichangyishang	腿放在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:tuifangzaichangyishangmian	腿放在长椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:tuigezaichangyishang	腿搁在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuidazaichangyishang	一条腿搭在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuifangchangyishang	一条腿放长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuifangchangyishangmian	一条腿放长椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuifangzaichangyishang	一条腿放在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuifangzaichangyishangmian	一条腿放在长椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the bench:yitiaotuigezaichangyishang	一条腿搁在长椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuidazaiyishang	腿搭在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuidazaiyizishang	腿搭在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangyishang	腿放椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangyishangmian	腿放椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangyizishang	腿放椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangyizishangmian	腿放椅子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangzaiyishang	腿放在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangzaiyishangmian	腿放在椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangzaiyizishang	腿放在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuifangzaiyizishangmian	腿放在椅子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuigezaiyishang	腿搁在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:tuigezaiyizishang	腿搁在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuidazaiyishang	一条腿搭在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuidazaiyizishang	一条腿搭在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangyishang	一条腿放椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangyishangmian	一条腿放椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangyizishang	一条腿放椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangyizishangmian	一条腿放椅子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangzaiyishang	一条腿放在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangzaiyishangmian	一条腿放在椅上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangzaiyizishang	一条腿放在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuifangzaiyizishangmian	一条腿放在椅子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuigezaiyishang	一条腿搁在椅上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the chair:yitiaotuigezaiyizishang	一条腿搁在椅子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuidazaidimianshang	腿搭在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuidazaidishang	腿搭在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangdimianshang	腿放地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangdimianshangmian	腿放地面上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangdishang	腿放地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangdishangmian	腿放地上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangzaidimianshang	腿放在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangzaidimianshangmian	腿放在地面上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangzaidishang	腿放在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuifangzaidishangmian	腿放在地上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuigezaidimianshang	腿搁在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:tuigezaidishang	腿搁在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuidazaidimianshang	一条腿搭在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuidazaidishang	一条腿搭在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangdimianshang	一条腿放地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangdimianshangmian	一条腿放地面上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangdishang	一条腿放地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangdishangmian	一条腿放地上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangzaidimianshang	一条腿放在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangzaidimianshangmian	一条腿放在地面上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangzaidishang	一条腿放在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuifangzaidishangmian	一条腿放在地上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuigezaidimianshang	一条腿搁在地面上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the floor:yitiaotuigezaidishang	一条腿搁在地上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuidazaidengshang	腿搭在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuidazaidengzishang	腿搭在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangdengshang	腿放凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangdengshangmian	腿放凳上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangdengzishang	腿放凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangdengzishangmian	腿放凳子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangzaidengshang	腿放在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangzaidengshangmian	腿放在凳上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangzaidengzishang	腿放在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuifangzaidengzishangmian	腿放在凳子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuigezaidengshang	腿搁在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:tuigezaidengzishang	腿搁在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuidazaidengshang	一条腿搭在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuidazaidengzishang	一条腿搭在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangdengshang	一条腿放凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangdengshangmian	一条腿放凳上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangdengzishang	一条腿放凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangdengzishangmian	一条腿放凳子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangzaidengshang	一条腿放在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangzaidengshangmian	一条腿放在凳上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangzaidengzishang	一条腿放在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuifangzaidengzishangmian	一条腿放在凳子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuigezaidengshang	一条腿搁在凳上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the stool:yitiaotuigezaidengzishang	一条腿搁在凳子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuidazaizhuoshang	腿搭在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuidazaizhuozishang	腿搭在桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzaizhuoshang	腿放在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzaizhuoshangmian	腿放在桌上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzaizhuozishang	腿放在桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzaizhuozishangmian	腿放在桌子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzhuoshang	腿放桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzhuoshangmian	腿放桌上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzhuozishang	腿放桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuifangzhuozishangmian	腿放桌子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuigezaizhuoshang	腿搁在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:tuigezaizhuozishang	腿搁在桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuidazaizhuoshang	一条腿搭在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuidazaizhuozishang	一条腿搭在桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzaizhuoshang	一条腿放在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzaizhuoshangmian	一条腿放在桌上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzaizhuozishang	一条腿放在桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzaizhuozishangmian	一条腿放在桌子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzhuoshang	一条腿放桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzhuoshangmian	一条腿放桌上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzhuozishang	一条腿放桌子上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuifangzhuozishangmian	一条腿放桌子上面〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuigezaizhuoshang	一条腿搁在桌上〔腿部放置〕	1
+M:39:__prompt__:one leg resting on the table:yitiaotuigezaizhuozishang	一条腿搁在桌子上〔腿部放置〕	1
 M:39:__prompt__:ookami_kodomo_no_ame_to_yuki:donghuadianying	动画电影〔合并词库〕	0
 M:39:__prompt__:ookami_kodomo_no_ame_to_yuki:langhai	狼孩〔合并词库〕	0
 M:39:__prompt__:ookami_kodomo_no_ame_to_yuki:xitianshou	细田守〔合并词库〕	0
@@ -379858,6 +380244,12 @@ M:39:__prompt__:rhinedottir_(genshin_impact):laiyinduote	莱茵多特〔合并�
 M:39:__prompt__:right hand holding an object:youshouchiwu	右手持物〔通用姿态·单手〕	1
 M:39:__prompt__:right hand touching forehead:youshoumoetou	右手摸额头〔通用姿态·单手〕	1
 M:39:__prompt__:right hand touching shoulder:youshoumojianbang	右手摸肩膀〔通用姿态·单手〕	1
+M:39:__prompt__:right leg resting on the bed:youtuidazaichuangshang	右腿搭在床上〔腿部放置〕	1
+M:39:__prompt__:right leg resting on the bed:youtuifangchuangshang	右腿放床上〔腿部放置〕	1
+M:39:__prompt__:right leg resting on the bed:youtuifangchuangshangmian	右腿放床上面〔腿部放置〕	1
+M:39:__prompt__:right leg resting on the bed:youtuifangzaichuangshang	右腿放在床上〔腿部放置〕	1
+M:39:__prompt__:right leg resting on the bed:youtuifangzaichuangshangmian	右腿放在床上面〔腿部放置〕	1
+M:39:__prompt__:right leg resting on the bed:youtuigezaichuangshang	右腿搁在床上〔腿部放置〕	1
 M:39:__prompt__:ring_of_light_(blue_archive):guangquan	光圈〔合并词库〕	0
 M:39:__prompt__:robella_(girls'_frontline_2):luobeila	洛贝拉〔合并词库〕	0
 M:39:__prompt__:romancing_saga_minstrel_song:langmanshajia	浪漫沙加〔合并词库〕	0
@@ -380645,6 +381037,78 @@ M:40:__prompt__:blazing_cartesia_the_virtuous:aikelaixiyabianti	艾克莱西亚�
 M:40:__prompt__:blazing_cartesia_the_virtuous:hezhishengnvkaertexiya	赫之圣女卡尔特西亚〔合并词库〕	0
 M:40:__prompt__:blubberbeast_(genshin_impact):fengdan	枫丹〔合并词库〕	0
 M:40:__prompt__:blubberbeast_(genshin_impact):paopaoshou	泡泡兽〔合并词库〕	0
+M:40:__prompt__:both feet resting on the rock:liangzhijiaodazaishitoushang	两只脚搭在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:liangzhijiaofangshitoushang	两只脚放石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:liangzhijiaofangshitoushangmian	两只脚放石头上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:liangzhijiaofangzaishitoushang	两只脚放在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:liangzhijiaofangzaishitoushangmian	两只脚放在石头上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:liangzhijiaogezaishitoushang	两只脚搁在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaodazaishitoushang	双脚搭在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaofangshitoushang	双脚放石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaofangshitoushangmian	双脚放石头上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaofangzaishitoushang	双脚放在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaofangzaishitoushangmian	双脚放在石头上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the rock:shuangjiaogezaishitoushang	双脚搁在石头上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaodazaishafashang	两只脚搭在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaofangshafashang	两只脚放沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaofangshafashangmian	两只脚放沙发上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaofangzaishafashang	两只脚放在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaofangzaishafashangmian	两只脚放在沙发上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:liangzhijiaogezaishafashang	两只脚搁在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaodazaishafashang	双脚搭在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaofangshafashang	双脚放沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaofangshafashangmian	双脚放沙发上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaofangzaishafashang	双脚放在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaofangzaishafashangmian	双脚放在沙发上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the sofa:shuangjiaogezaishafashang	双脚搁在沙发上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaodazaitaijieshang	两只脚搭在台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaofangtaijieshang	两只脚放台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaofangtaijieshangmian	两只脚放台阶上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaofangzaitaijieshang	两只脚放在台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaofangzaitaijieshangmian	两只脚放在台阶上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:liangzhijiaogezaitaijieshang	两只脚搁在台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaodazaitaijieshang	双脚搭在台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaofangtaijieshang	双脚放台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaofangtaijieshangmian	双脚放台阶上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaofangzaitaijieshang	双脚放在台阶上〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaofangzaitaijieshangmian	双脚放在台阶上面〔脚部放置〕	1
+M:40:__prompt__:both feet resting on the step:shuangjiaogezaitaijieshang	双脚搁在台阶上〔脚部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuidazaishitoushang	两条腿搭在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuifangshitoushang	两条腿放石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuifangshitoushangmian	两条腿放石头上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuifangzaishitoushang	两条腿放在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuifangzaishitoushangmian	两条腿放在石头上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:liangtiaotuigezaishitoushang	两条腿搁在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuidazaishitoushang	双腿搭在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuifangshitoushang	双腿放石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuifangshitoushangmian	双腿放石头上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuifangzaishitoushang	双腿放在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuifangzaishitoushangmian	双腿放在石头上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the rock:shuangtuigezaishitoushang	双腿搁在石头上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuidazaishafashang	两条腿搭在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuifangshafashang	两条腿放沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuifangshafashangmian	两条腿放沙发上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuifangzaishafashang	两条腿放在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuifangzaishafashangmian	两条腿放在沙发上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:liangtiaotuigezaishafashang	两条腿搁在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuidazaishafashang	双腿搭在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuifangshafashang	双腿放沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuifangshafashangmian	双腿放沙发上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuifangzaishafashang	双腿放在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuifangzaishafashangmian	双腿放在沙发上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the sofa:shuangtuigezaishafashang	双腿搁在沙发上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuidazaitaijieshang	两条腿搭在台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuifangtaijieshang	两条腿放台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuifangtaijieshangmian	两条腿放台阶上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuifangzaitaijieshang	两条腿放在台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuifangzaitaijieshangmian	两条腿放在台阶上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:liangtiaotuigezaitaijieshang	两条腿搁在台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuidazaitaijieshang	双腿搭在台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuifangtaijieshang	双腿放台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuifangtaijieshangmian	双腿放台阶上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuifangzaitaijieshang	双腿放在台阶上〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuifangzaitaijieshangmian	双腿放在台阶上面〔腿部放置〕	1
+M:40:__prompt__:both legs resting on the step:shuangtuigezaitaijieshang	双腿搁在台阶上〔腿部放置〕	1
 M:40:__prompt__:bronya_zaychik_(haxxor_bunny):heiketu	黑客兔〔合并词库〕	0
 M:40:__prompt__:bronya_zaychik_(haxxor_bunny):michenghaitu	迷城骇兔〔合并词库〕	0
 M:40:__prompt__:bronya_zaychik_(snowy_sniper):wulaeryinlang	乌拉尔银狼〔合并词库〕	0
@@ -381049,7 +381513,79 @@ M:40:__prompt__:kris_(dark_world)_(deltarune):sanjiaofuwen	三角符文〔合并
 M:40:__prompt__:kuromorimine_military_uniform:junfu	军服〔合并词库〕	0
 M:40:__prompt__:lapwing_face_tracking_redraws:fengtoumaijimianbubuzhuozhonghui	凤头麦鸡面部捕捉重绘〔合并词库〕	0
 M:40:__prompt__:lce_(identity)_(project_moon):bianyugongsi	边狱公司〔合并词库〕	0
+M:40:__prompt__:left foot resting on the rock:zuojiaodazaishitoushang	左脚搭在石头上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the rock:zuojiaofangshitoushang	左脚放石头上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the rock:zuojiaofangshitoushangmian	左脚放石头上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the rock:zuojiaofangzaishitoushang	左脚放在石头上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the rock:zuojiaofangzaishitoushangmian	左脚放在石头上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the rock:zuojiaogezaishitoushang	左脚搁在石头上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaodazaishafashang	左脚搭在沙发上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaofangshafashang	左脚放沙发上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaofangshafashangmian	左脚放沙发上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaofangzaishafashang	左脚放在沙发上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaofangzaishafashangmian	左脚放在沙发上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the sofa:zuojiaogezaishafashang	左脚搁在沙发上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaodazaitaijieshang	左脚搭在台阶上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaofangtaijieshang	左脚放台阶上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaofangtaijieshangmian	左脚放台阶上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaofangzaitaijieshang	左脚放在台阶上〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaofangzaitaijieshangmian	左脚放在台阶上面〔脚部放置〕	1
+M:40:__prompt__:left foot resting on the step:zuojiaogezaitaijieshang	左脚搁在台阶上〔脚部放置〕	1
 M:40:__prompt__:left hand braced against wall:zuoshoufuqiang	左手扶墙〔通用姿态·单手〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuidazaichangyishang	左腿搭在长椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuifangchangyishang	左腿放长椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuifangchangyishangmian	左腿放长椅上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuifangzaichangyishang	左腿放在长椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuifangzaichangyishangmian	左腿放在长椅上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the bench:zuotuigezaichangyishang	左腿搁在长椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuidazaiyishang	左腿搭在椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuidazaiyizishang	左腿搭在椅子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangyishang	左腿放椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangyishangmian	左腿放椅上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangyizishang	左腿放椅子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangyizishangmian	左腿放椅子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangzaiyishang	左腿放在椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangzaiyishangmian	左腿放在椅上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangzaiyizishang	左腿放在椅子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuifangzaiyizishangmian	左腿放在椅子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuigezaiyishang	左腿搁在椅上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the chair:zuotuigezaiyizishang	左腿搁在椅子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuidazaidimianshang	左腿搭在地面上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuidazaidishang	左腿搭在地上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangdimianshang	左腿放地面上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangdimianshangmian	左腿放地面上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangdishang	左腿放地上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangdishangmian	左腿放地上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangzaidimianshang	左腿放在地面上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangzaidimianshangmian	左腿放在地面上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangzaidishang	左腿放在地上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuifangzaidishangmian	左腿放在地上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuigezaidimianshang	左腿搁在地面上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the floor:zuotuigezaidishang	左腿搁在地上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuidazaidengshang	左腿搭在凳上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuidazaidengzishang	左腿搭在凳子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangdengshang	左腿放凳上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangdengshangmian	左腿放凳上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangdengzishang	左腿放凳子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangdengzishangmian	左腿放凳子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangzaidengshang	左腿放在凳上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangzaidengshangmian	左腿放在凳上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangzaidengzishang	左腿放在凳子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuifangzaidengzishangmian	左腿放在凳子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuigezaidengshang	左腿搁在凳上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the stool:zuotuigezaidengzishang	左腿搁在凳子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuidazaizhuoshang	左腿搭在桌上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuidazaizhuozishang	左腿搭在桌子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzaizhuoshang	左腿放在桌上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzaizhuoshangmian	左腿放在桌上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzaizhuozishang	左腿放在桌子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzaizhuozishangmian	左腿放在桌子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzhuoshang	左腿放桌上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzhuoshangmian	左腿放桌上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzhuozishang	左腿放桌子上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuifangzhuozishangmian	左腿放桌子上面〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuigezaizhuoshang	左腿搁在桌上〔腿部放置〕	1
+M:40:__prompt__:left leg resting on the table:zuotuigezaizhuozishang	左腿搁在桌子上〔腿部放置〕	1
 M:40:__prompt__:light brown and dark gray fur:qianzongheshenhuisemaofa	浅棕＋深灰色皮毛〔皮毛配色〕	1
 M:40:__prompt__:light brown and dark gray fur:qianzongheshenhuisemaopi	浅棕＋深灰色皮毛〔皮毛配色〕	1
 M:40:__prompt__:light brown and dark gray fur:qianzongheshenhuisepimao	浅棕＋深灰色皮毛〔皮毛配色〕	1
@@ -381268,6 +381804,114 @@ M:40:__prompt__:official_alternate_hair_color:guanfangyisefaxing	官方异色发
 M:40:__prompt__:official_alternate_skin_color:bianti	变体〔合并词库〕	0
 M:40:__prompt__:official_alternate_skin_color:guanfang	官方〔合并词库〕	0
 M:40:__prompt__:omniscient_reader's_viewpoint:quanzhiduzhe	全知读者〔e621〕	0
+M:40:__prompt__:one foot resting on the bench:jiaodazaichangyishang	脚搭在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:jiaofangchangyishang	脚放长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:jiaofangchangyishangmian	脚放长椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:jiaofangzaichangyishang	脚放在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:jiaofangzaichangyishangmian	脚放在长椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:jiaogezaichangyishang	脚搁在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaodazaichangyishang	一只脚搭在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaofangchangyishang	一只脚放长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaofangchangyishangmian	一只脚放长椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaofangzaichangyishang	一只脚放在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaofangzaichangyishangmian	一只脚放在长椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the bench:yizhijiaogezaichangyishang	一只脚搁在长椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaodazaiyishang	脚搭在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaodazaiyizishang	脚搭在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangyishang	脚放椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangyishangmian	脚放椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangyizishang	脚放椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangyizishangmian	脚放椅子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangzaiyishang	脚放在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangzaiyishangmian	脚放在椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangzaiyizishang	脚放在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaofangzaiyizishangmian	脚放在椅子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaogezaiyishang	脚搁在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:jiaogezaiyizishang	脚搁在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaodazaiyishang	一只脚搭在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaodazaiyizishang	一只脚搭在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangyishang	一只脚放椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangyishangmian	一只脚放椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangyizishang	一只脚放椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangyizishangmian	一只脚放椅子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangzaiyishang	一只脚放在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangzaiyishangmian	一只脚放在椅上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangzaiyizishang	一只脚放在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaofangzaiyizishangmian	一只脚放在椅子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaogezaiyishang	一只脚搁在椅上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the chair:yizhijiaogezaiyizishang	一只脚搁在椅子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaodazaidimianshang	脚搭在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaodazaidishang	脚搭在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangdimianshang	脚放地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangdimianshangmian	脚放地面上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangdishang	脚放地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangdishangmian	脚放地上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangzaidimianshang	脚放在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangzaidimianshangmian	脚放在地面上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangzaidishang	脚放在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaofangzaidishangmian	脚放在地上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaogezaidimianshang	脚搁在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:jiaogezaidishang	脚搁在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaodazaidimianshang	一只脚搭在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaodazaidishang	一只脚搭在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangdimianshang	一只脚放地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangdimianshangmian	一只脚放地面上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangdishang	一只脚放地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangdishangmian	一只脚放地上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangzaidimianshang	一只脚放在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangzaidimianshangmian	一只脚放在地面上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangzaidishang	一只脚放在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaofangzaidishangmian	一只脚放在地上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaogezaidimianshang	一只脚搁在地面上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the floor:yizhijiaogezaidishang	一只脚搁在地上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaodazaidengshang	脚搭在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaodazaidengzishang	脚搭在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangdengshang	脚放凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangdengshangmian	脚放凳上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangdengzishang	脚放凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangdengzishangmian	脚放凳子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangzaidengshang	脚放在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangzaidengshangmian	脚放在凳上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangzaidengzishang	脚放在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaofangzaidengzishangmian	脚放在凳子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaogezaidengshang	脚搁在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:jiaogezaidengzishang	脚搁在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaodazaidengshang	一只脚搭在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaodazaidengzishang	一只脚搭在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangdengshang	一只脚放凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangdengshangmian	一只脚放凳上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangdengzishang	一只脚放凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangdengzishangmian	一只脚放凳子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangzaidengshang	一只脚放在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangzaidengshangmian	一只脚放在凳上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangzaidengzishang	一只脚放在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaofangzaidengzishangmian	一只脚放在凳子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaogezaidengshang	一只脚搁在凳上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the stool:yizhijiaogezaidengzishang	一只脚搁在凳子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaodazaizhuoshang	脚搭在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaodazaizhuozishang	脚搭在桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzaizhuoshang	脚放在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzaizhuoshangmian	脚放在桌上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzaizhuozishang	脚放在桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzaizhuozishangmian	脚放在桌子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzhuoshang	脚放桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzhuoshangmian	脚放桌上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzhuozishang	脚放桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaofangzhuozishangmian	脚放桌子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaogezaizhuoshang	脚搁在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:jiaogezaizhuozishang	脚搁在桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaodazaizhuoshang	一只脚搭在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaodazaizhuozishang	一只脚搭在桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzaizhuoshang	一只脚放在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzaizhuoshangmian	一只脚放在桌上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzaizhuozishang	一只脚放在桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzaizhuozishangmian	一只脚放在桌子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzhuoshang	一只脚放桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzhuoshangmian	一只脚放桌上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzhuozishang	一只脚放桌子上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaofangzhuozishangmian	一只脚放桌子上面〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaogezaizhuoshang	一只脚搁在桌上〔脚部放置〕	1
+M:40:__prompt__:one foot resting on the table:yizhijiaogezaizhuozishang	一只脚搁在桌子上〔脚部放置〕	1
 M:40:__prompt__:one hand clenched into a fist:yishouwoquan	一手握拳〔通用姿态·单手〕	1
 M:40:__prompt__:one hand clenched into a fist:yizhishouwoquan	一只手握拳〔通用姿态·单手〕	1
 M:40:__prompt__:orange and beige color scheme:chengmipeise	橙＋米配色〔通用短语〕	1
@@ -381376,7 +382020,31 @@ M:40:__prompt__:rapunzel_(pure_grace)_(nikke):nvshenxiaodui	女神小队〔合�
 M:40:__prompt__:recorder_(musical_instrument):shudi	竖笛〔e621〕	0
 M:40:__prompt__:red_hood_(retro_days)_(nikke):hongmao	红帽〔合并词库〕	0
 M:40:__prompt__:relax_teatime_(project_sekai):youxichangjing	游戏场景〔合并词库〕	0
+M:40:__prompt__:right foot resting on the bed:youjiaodazaichuangshang	右脚搭在床上〔脚部放置〕	1
+M:40:__prompt__:right foot resting on the bed:youjiaofangchuangshang	右脚放床上〔脚部放置〕	1
+M:40:__prompt__:right foot resting on the bed:youjiaofangchuangshangmian	右脚放床上面〔脚部放置〕	1
+M:40:__prompt__:right foot resting on the bed:youjiaofangzaichuangshang	右脚放在床上〔脚部放置〕	1
+M:40:__prompt__:right foot resting on the bed:youjiaofangzaichuangshangmian	右脚放在床上面〔脚部放置〕	1
+M:40:__prompt__:right foot resting on the bed:youjiaogezaichuangshang	右脚搁在床上〔脚部放置〕	1
 M:40:__prompt__:right hand resting on abdomen:youshoufangfubu	右手放腹部〔通用姿态·单手〕	1
+M:40:__prompt__:right leg resting on the rock:youtuidazaishitoushang	右腿搭在石头上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the rock:youtuifangshitoushang	右腿放石头上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the rock:youtuifangshitoushangmian	右腿放石头上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the rock:youtuifangzaishitoushang	右腿放在石头上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the rock:youtuifangzaishitoushangmian	右腿放在石头上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the rock:youtuigezaishitoushang	右腿搁在石头上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuidazaishafashang	右腿搭在沙发上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuifangshafashang	右腿放沙发上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuifangshafashangmian	右腿放沙发上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuifangzaishafashang	右腿放在沙发上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuifangzaishafashangmian	右腿放在沙发上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the sofa:youtuigezaishafashang	右腿搁在沙发上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuidazaitaijieshang	右腿搭在台阶上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuifangtaijieshang	右腿放台阶上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuifangtaijieshangmian	右腿放台阶上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuifangzaitaijieshang	右腿放在台阶上〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuifangzaitaijieshangmian	右腿放在台阶上面〔腿部放置〕	1
+M:40:__prompt__:right leg resting on the step:youtuigezaitaijieshang	右腿搁在台阶上〔腿部放置〕	1
 M:40:__prompt__:rita_rossweisse_(umbral_rose):nvwushen	女武神〔合并词库〕	0
 M:40:__prompt__:rita_rossweisse_(umbral_rose):tianming	天命〔合并词库〕	0
 M:40:__prompt__:royal_guard_(ragnarok_online):huangjiashouwei	皇家守卫〔合并词库〕	0
@@ -381796,6 +382464,222 @@ M:41:__prompt__:boku_no_kanojo_wa_ningyohime!?:ningyuji	宁鱼姬〔合并词库
 M:41:__prompt__:boku_no_kanojo_wa_ningyohime!?:renyugongzhu	人鱼公主〔合并词库〕	0
 M:41:__prompt__:bokura_no_live_kimi_to_no_life:youxibiaoti	游戏标题〔合并词库〕	0
 M:41:__prompt__:bokutachi_wa_hitotsu_no_hikari:zuopinming	作品名〔合并词库〕	0
+M:41:__prompt__:both feet resting on the bench:liangzhijiaodazaichangyishang	两只脚搭在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:liangzhijiaofangchangyishang	两只脚放长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:liangzhijiaofangchangyishangmian	两只脚放长椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:liangzhijiaofangzaichangyishang	两只脚放在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:liangzhijiaofangzaichangyishangmian	两只脚放在长椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:liangzhijiaogezaichangyishang	两只脚搁在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaodazaichangyishang	双脚搭在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaofangchangyishang	双脚放长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaofangchangyishangmian	双脚放长椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaofangzaichangyishang	双脚放在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaofangzaichangyishangmian	双脚放在长椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the bench:shuangjiaogezaichangyishang	双脚搁在长椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaodazaiyishang	两只脚搭在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaodazaiyizishang	两只脚搭在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangyishang	两只脚放椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangyishangmian	两只脚放椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangyizishang	两只脚放椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangyizishangmian	两只脚放椅子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangzaiyishang	两只脚放在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangzaiyishangmian	两只脚放在椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangzaiyizishang	两只脚放在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaofangzaiyizishangmian	两只脚放在椅子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaogezaiyishang	两只脚搁在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:liangzhijiaogezaiyizishang	两只脚搁在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaodazaiyishang	双脚搭在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaodazaiyizishang	双脚搭在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangyishang	双脚放椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangyishangmian	双脚放椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangyizishang	双脚放椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangyizishangmian	双脚放椅子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangzaiyishang	双脚放在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangzaiyishangmian	双脚放在椅上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangzaiyizishang	双脚放在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaofangzaiyizishangmian	双脚放在椅子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaogezaiyishang	双脚搁在椅上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the chair:shuangjiaogezaiyizishang	双脚搁在椅子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaodazaidimianshang	两只脚搭在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaodazaidishang	两只脚搭在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangdimianshang	两只脚放地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangdimianshangmian	两只脚放地面上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangdishang	两只脚放地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangdishangmian	两只脚放地上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangzaidimianshang	两只脚放在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangzaidimianshangmian	两只脚放在地面上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangzaidishang	两只脚放在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaofangzaidishangmian	两只脚放在地上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaogezaidimianshang	两只脚搁在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:liangzhijiaogezaidishang	两只脚搁在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaodazaidimianshang	双脚搭在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaodazaidishang	双脚搭在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangdimianshang	双脚放地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangdimianshangmian	双脚放地面上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangdishang	双脚放地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangdishangmian	双脚放地上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangzaidimianshang	双脚放在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangzaidimianshangmian	双脚放在地面上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangzaidishang	双脚放在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaofangzaidishangmian	双脚放在地上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaogezaidimianshang	双脚搁在地面上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the floor:shuangjiaogezaidishang	双脚搁在地上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaodazaidengshang	两只脚搭在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaodazaidengzishang	两只脚搭在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangdengshang	两只脚放凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangdengshangmian	两只脚放凳上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangdengzishang	两只脚放凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangdengzishangmian	两只脚放凳子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangzaidengshang	两只脚放在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangzaidengshangmian	两只脚放在凳上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangzaidengzishang	两只脚放在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaofangzaidengzishangmian	两只脚放在凳子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaogezaidengshang	两只脚搁在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:liangzhijiaogezaidengzishang	两只脚搁在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaodazaidengshang	双脚搭在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaodazaidengzishang	双脚搭在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangdengshang	双脚放凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangdengshangmian	双脚放凳上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangdengzishang	双脚放凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangdengzishangmian	双脚放凳子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangzaidengshang	双脚放在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangzaidengshangmian	双脚放在凳上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangzaidengzishang	双脚放在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaofangzaidengzishangmian	双脚放在凳子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaogezaidengshang	双脚搁在凳上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the stool:shuangjiaogezaidengzishang	双脚搁在凳子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaodazaizhuoshang	两只脚搭在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaodazaizhuozishang	两只脚搭在桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzaizhuoshang	两只脚放在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzaizhuoshangmian	两只脚放在桌上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzaizhuozishang	两只脚放在桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzaizhuozishangmian	两只脚放在桌子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzhuoshang	两只脚放桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzhuoshangmian	两只脚放桌上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzhuozishang	两只脚放桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaofangzhuozishangmian	两只脚放桌子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaogezaizhuoshang	两只脚搁在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:liangzhijiaogezaizhuozishang	两只脚搁在桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaodazaizhuoshang	双脚搭在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaodazaizhuozishang	双脚搭在桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzaizhuoshang	双脚放在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzaizhuoshangmian	双脚放在桌上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzaizhuozishang	双脚放在桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzaizhuozishangmian	双脚放在桌子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzhuoshang	双脚放桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzhuoshangmian	双脚放桌上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzhuozishang	双脚放桌子上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaofangzhuozishangmian	双脚放桌子上面〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaogezaizhuoshang	双脚搁在桌上〔脚部放置〕	1
+M:41:__prompt__:both feet resting on the table:shuangjiaogezaizhuozishang	双脚搁在桌子上〔脚部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuidazaichangyishang	两条腿搭在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuifangchangyishang	两条腿放长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuifangchangyishangmian	两条腿放长椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuifangzaichangyishang	两条腿放在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuifangzaichangyishangmian	两条腿放在长椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:liangtiaotuigezaichangyishang	两条腿搁在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuidazaichangyishang	双腿搭在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuifangchangyishang	双腿放长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuifangchangyishangmian	双腿放长椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuifangzaichangyishang	双腿放在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuifangzaichangyishangmian	双腿放在长椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the bench:shuangtuigezaichangyishang	双腿搁在长椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuidazaiyishang	两条腿搭在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuidazaiyizishang	两条腿搭在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangyishang	两条腿放椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangyishangmian	两条腿放椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangyizishang	两条腿放椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangyizishangmian	两条腿放椅子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangzaiyishang	两条腿放在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangzaiyishangmian	两条腿放在椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangzaiyizishang	两条腿放在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuifangzaiyizishangmian	两条腿放在椅子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuigezaiyishang	两条腿搁在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:liangtiaotuigezaiyizishang	两条腿搁在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuidazaiyishang	双腿搭在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuidazaiyizishang	双腿搭在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangyishang	双腿放椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangyishangmian	双腿放椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangyizishang	双腿放椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangyizishangmian	双腿放椅子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangzaiyishang	双腿放在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangzaiyishangmian	双腿放在椅上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangzaiyizishang	双腿放在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuifangzaiyizishangmian	双腿放在椅子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuigezaiyishang	双腿搁在椅上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the chair:shuangtuigezaiyizishang	双腿搁在椅子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuidazaidimianshang	两条腿搭在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuidazaidishang	两条腿搭在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangdimianshang	两条腿放地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangdimianshangmian	两条腿放地面上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangdishang	两条腿放地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangdishangmian	两条腿放地上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangzaidimianshang	两条腿放在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangzaidimianshangmian	两条腿放在地面上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangzaidishang	两条腿放在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuifangzaidishangmian	两条腿放在地上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuigezaidimianshang	两条腿搁在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:liangtiaotuigezaidishang	两条腿搁在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuidazaidimianshang	双腿搭在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuidazaidishang	双腿搭在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangdimianshang	双腿放地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangdimianshangmian	双腿放地面上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangdishang	双腿放地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangdishangmian	双腿放地上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangzaidimianshang	双腿放在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangzaidimianshangmian	双腿放在地面上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangzaidishang	双腿放在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuifangzaidishangmian	双腿放在地上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuigezaidimianshang	双腿搁在地面上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the floor:shuangtuigezaidishang	双腿搁在地上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuidazaidengshang	两条腿搭在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuidazaidengzishang	两条腿搭在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangdengshang	两条腿放凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangdengshangmian	两条腿放凳上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangdengzishang	两条腿放凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangdengzishangmian	两条腿放凳子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangzaidengshang	两条腿放在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangzaidengshangmian	两条腿放在凳上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangzaidengzishang	两条腿放在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuifangzaidengzishangmian	两条腿放在凳子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuigezaidengshang	两条腿搁在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:liangtiaotuigezaidengzishang	两条腿搁在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuidazaidengshang	双腿搭在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuidazaidengzishang	双腿搭在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangdengshang	双腿放凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangdengshangmian	双腿放凳上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangdengzishang	双腿放凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangdengzishangmian	双腿放凳子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangzaidengshang	双腿放在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangzaidengshangmian	双腿放在凳上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangzaidengzishang	双腿放在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuifangzaidengzishangmian	双腿放在凳子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuigezaidengshang	双腿搁在凳上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the stool:shuangtuigezaidengzishang	双腿搁在凳子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuidazaizhuoshang	两条腿搭在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuidazaizhuozishang	两条腿搭在桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzaizhuoshang	两条腿放在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzaizhuoshangmian	两条腿放在桌上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzaizhuozishang	两条腿放在桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzaizhuozishangmian	两条腿放在桌子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzhuoshang	两条腿放桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzhuoshangmian	两条腿放桌上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzhuozishang	两条腿放桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuifangzhuozishangmian	两条腿放桌子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuigezaizhuoshang	两条腿搁在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:liangtiaotuigezaizhuozishang	两条腿搁在桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuidazaizhuoshang	双腿搭在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuidazaizhuozishang	双腿搭在桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzaizhuoshang	双腿放在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzaizhuoshangmian	双腿放在桌上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzaizhuozishang	双腿放在桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzaizhuozishangmian	双腿放在桌子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzhuoshang	双腿放桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzhuoshangmian	双腿放桌上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzhuozishang	双腿放桌子上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuifangzhuozishangmian	双腿放桌子上面〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuigezaizhuoshang	双腿搁在桌上〔腿部放置〕	1
+M:41:__prompt__:both legs resting on the table:shuangtuigezaizhuozishang	双腿搁在桌子上〔腿部放置〕	1
 M:41:__prompt__:bow_experiment_(resident_evil):gongshiyanti	弓实验体〔e621〕	0
 M:41:__prompt__:bow_experiment_(resident_evil):shenghuaweijigongshiyanti	生化危机弓实验体〔e621〕	0
 M:41:__prompt__:breast_sucking_through_clothes:geyixiru	隔衣吸乳〔合并词库〕	0
@@ -382104,6 +382988,60 @@ M:41:__prompt__:le_fantasque_(warship_girls_r):faguoquzhujian	法国驱逐舰〔
 M:41:__prompt__:le_fantasque_(warship_girls_r):kongxiang	空想〔合并词库〕	0
 M:41:__prompt__:lee-enfield_(girls'_frontline):shaoqian	少前〔合并词库〕	0
 M:41:__prompt__:lee-enfield_(girls'_frontline):shuandongbuqiang	栓动步枪〔合并词库〕	0
+M:41:__prompt__:left foot resting on the bench:zuojiaodazaichangyishang	左脚搭在长椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the bench:zuojiaofangchangyishang	左脚放长椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the bench:zuojiaofangchangyishangmian	左脚放长椅上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the bench:zuojiaofangzaichangyishang	左脚放在长椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the bench:zuojiaofangzaichangyishangmian	左脚放在长椅上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the bench:zuojiaogezaichangyishang	左脚搁在长椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaodazaiyishang	左脚搭在椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaodazaiyizishang	左脚搭在椅子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangyishang	左脚放椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangyishangmian	左脚放椅上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangyizishang	左脚放椅子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangyizishangmian	左脚放椅子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangzaiyishang	左脚放在椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangzaiyishangmian	左脚放在椅上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangzaiyizishang	左脚放在椅子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaofangzaiyizishangmian	左脚放在椅子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaogezaiyishang	左脚搁在椅上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the chair:zuojiaogezaiyizishang	左脚搁在椅子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaodazaidimianshang	左脚搭在地面上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaodazaidishang	左脚搭在地上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangdimianshang	左脚放地面上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangdimianshangmian	左脚放地面上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangdishang	左脚放地上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangdishangmian	左脚放地上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangzaidimianshang	左脚放在地面上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangzaidimianshangmian	左脚放在地面上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangzaidishang	左脚放在地上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaofangzaidishangmian	左脚放在地上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaogezaidimianshang	左脚搁在地面上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the floor:zuojiaogezaidishang	左脚搁在地上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaodazaidengshang	左脚搭在凳上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaodazaidengzishang	左脚搭在凳子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangdengshang	左脚放凳上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangdengshangmian	左脚放凳上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangdengzishang	左脚放凳子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangdengzishangmian	左脚放凳子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangzaidengshang	左脚放在凳上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangzaidengshangmian	左脚放在凳上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangzaidengzishang	左脚放在凳子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaofangzaidengzishangmian	左脚放在凳子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaogezaidengshang	左脚搁在凳上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the stool:zuojiaogezaidengzishang	左脚搁在凳子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaodazaizhuoshang	左脚搭在桌上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaodazaizhuozishang	左脚搭在桌子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzaizhuoshang	左脚放在桌上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzaizhuoshangmian	左脚放在桌上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzaizhuozishang	左脚放在桌子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzaizhuozishangmian	左脚放在桌子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzhuoshang	左脚放桌上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzhuoshangmian	左脚放桌上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzhuozishang	左脚放桌子上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaofangzhuozishangmian	左脚放桌子上面〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaogezaizhuoshang	左脚搁在桌上〔脚部放置〕	1
+M:41:__prompt__:left foot resting on the table:zuojiaogezaizhuozishang	左脚搁在桌子上〔脚部放置〕	1
 M:41:__prompt__:left hand clenched into a fist:zuoshouwoquan	左手握拳〔通用姿态·单手〕	1
 M:41:__prompt__:leonmitchelli_galette_des_rois:jialaitewangguo	加莱特王国〔e621〕	0
 M:41:__prompt__:libeccio_(swimsuit)_(kancolle):libeiqiao	利贝乔〔合并词库〕	0
@@ -382321,6 +383259,18 @@ M:41:__prompt__:off-white and tan color scheme:mibaisehuanghesepeise	米白＋�
 M:41:__prompt__:off-white and tan color scheme:mibaiseyuhuanghese	米白＋黄褐配色〔通用短语〕	1
 M:41:__prompt__:official_alternate_hair_length:guanfangtidaitoufachangdu	官方替代头发长度〔合并词库〕	0
 M:41:__prompt__:official_alternate_hair_length:toufa	头发〔合并词库〕	0
+M:41:__prompt__:one leg resting on the railing:tuidazailanganshang	腿搭在栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:tuifanglanganshang	腿放栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:tuifanglanganshangmian	腿放栏杆上面〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:tuifangzailanganshang	腿放在栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:tuifangzailanganshangmian	腿放在栏杆上面〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:tuigezailanganshang	腿搁在栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuidazailanganshang	一条腿搭在栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuifanglanganshang	一条腿放栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuifanglanganshangmian	一条腿放栏杆上面〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuifangzailanganshang	一条腿放在栏杆上〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuifangzailanganshangmian	一条腿放在栏杆上面〔腿部放置〕	1
+M:41:__prompt__:one leg resting on the railing:yitiaotuigezailanganshang	一条腿搁在栏杆上〔腿部放置〕	1
 M:41:__prompt__:orange and purple color scheme:chengseyuzise	橙＋紫配色〔通用短语〕	1
 M:41:__prompt__:orange and purple color scheme:chengsezisepeise	橙＋紫配色〔通用短语〕	1
 M:41:__prompt__:orange and purple color scheme:chengzipeise	橙＋紫配色〔通用短语〕	1
@@ -382400,7 +383350,79 @@ M:41:__prompt__:rennala_queen_of_the_full_moon:manyuenvwang	满月女王〔合�
 M:41:__prompt__:resident_evil_-_code:_veronica:shenghuaweiji	生化危机〔合并词库〕	0
 M:41:__prompt__:rhodes_island_logo_(arknights):huizhang	徽章〔合并词库〕	0
 M:41:__prompt__:ribeyrolles_(girls'_frontline):libeiluole	利贝罗勒〔合并词库〕	0
+M:41:__prompt__:right foot resting on the rock:youjiaodazaishitoushang	右脚搭在石头上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the rock:youjiaofangshitoushang	右脚放石头上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the rock:youjiaofangshitoushangmian	右脚放石头上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the rock:youjiaofangzaishitoushang	右脚放在石头上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the rock:youjiaofangzaishitoushangmian	右脚放在石头上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the rock:youjiaogezaishitoushang	右脚搁在石头上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaodazaishafashang	右脚搭在沙发上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaofangshafashang	右脚放沙发上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaofangshafashangmian	右脚放沙发上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaofangzaishafashang	右脚放在沙发上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaofangzaishafashangmian	右脚放在沙发上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the sofa:youjiaogezaishafashang	右脚搁在沙发上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaodazaitaijieshang	右脚搭在台阶上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaofangtaijieshang	右脚放台阶上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaofangtaijieshangmian	右脚放台阶上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaofangzaitaijieshang	右脚放在台阶上〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaofangzaitaijieshangmian	右脚放在台阶上面〔脚部放置〕	1
+M:41:__prompt__:right foot resting on the step:youjiaogezaitaijieshang	右脚搁在台阶上〔脚部放置〕	1
 M:41:__prompt__:right hand braced against wall:youshoufuqiang	右手扶墙〔通用姿态·单手〕	1
+M:41:__prompt__:right leg resting on the bench:youtuidazaichangyishang	右腿搭在长椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the bench:youtuifangchangyishang	右腿放长椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the bench:youtuifangchangyishangmian	右腿放长椅上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the bench:youtuifangzaichangyishang	右腿放在长椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the bench:youtuifangzaichangyishangmian	右腿放在长椅上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the bench:youtuigezaichangyishang	右腿搁在长椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuidazaiyishang	右腿搭在椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuidazaiyizishang	右腿搭在椅子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangyishang	右腿放椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangyishangmian	右腿放椅上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangyizishang	右腿放椅子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangyizishangmian	右腿放椅子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangzaiyishang	右腿放在椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangzaiyishangmian	右腿放在椅上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangzaiyizishang	右腿放在椅子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuifangzaiyizishangmian	右腿放在椅子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuigezaiyishang	右腿搁在椅上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the chair:youtuigezaiyizishang	右腿搁在椅子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuidazaidimianshang	右腿搭在地面上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuidazaidishang	右腿搭在地上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangdimianshang	右腿放地面上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangdimianshangmian	右腿放地面上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangdishang	右腿放地上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangdishangmian	右腿放地上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangzaidimianshang	右腿放在地面上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangzaidimianshangmian	右腿放在地面上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangzaidishang	右腿放在地上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuifangzaidishangmian	右腿放在地上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuigezaidimianshang	右腿搁在地面上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the floor:youtuigezaidishang	右腿搁在地上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuidazaidengshang	右腿搭在凳上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuidazaidengzishang	右腿搭在凳子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangdengshang	右腿放凳上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangdengshangmian	右腿放凳上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangdengzishang	右腿放凳子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangdengzishangmian	右腿放凳子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangzaidengshang	右腿放在凳上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangzaidengshangmian	右腿放在凳上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangzaidengzishang	右腿放在凳子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuifangzaidengzishangmian	右腿放在凳子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuigezaidengshang	右腿搁在凳上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the stool:youtuigezaidengzishang	右腿搁在凳子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuidazaizhuoshang	右腿搭在桌上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuidazaizhuozishang	右腿搭在桌子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzaizhuoshang	右腿放在桌上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzaizhuoshangmian	右腿放在桌上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzaizhuozishang	右腿放在桌子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzaizhuozishangmian	右腿放在桌子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzhuoshang	右腿放桌上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzhuoshangmian	右腿放桌上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzhuozishang	右腿放桌子上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuifangzhuozishangmian	右腿放桌子上面〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuigezaizhuoshang	右腿搁在桌上〔腿部放置〕	1
+M:41:__prompt__:right leg resting on the table:youtuigezaizhuozishang	右腿搁在桌子上〔腿部放置〕	1
 M:41:__prompt__:rodent_powered_(softestpuffss):shichiqudong	噬齿驱动〔e621〕	0
 M:41:__prompt__:romeo_to_cinderella_(vocaloid):luomiouyuxinderuila	罗密欧与辛德瑞拉〔合并词库〕	0
 M:41:__prompt__:rorisakyubasu-chan_(mochiyuki):luolimeimo	萝莉魅魔〔合并词库〕	0
@@ -383125,6 +384147,16 @@ M:42:__prompt__:koyuki_(pajamas)_(blue_archive):shuiyiban	睡衣版〔合并词�
 M:42:__prompt__:kuso_zako_choroin_nishiga_hachi:zayuaojiaoxiheba	杂鱼傲娇西贺八〔合并词库〕	0
 M:42:__prompt__:kyuusaikei_v-ttara_messiah-chan:jiushizhujiang	救世主酱〔合并词库〕	0
 M:42:__prompt__:kyuusaikei_v-ttara_messiah-chan:xunizhubo	虚拟主播〔合并词库〕	0
+M:42:__prompt__:left foot resting on right knee:zuojiaofangzaiyouxi	左脚放在右膝〔交叉腿脚〕	1
+M:42:__prompt__:left foot resting on right knee:zuojiaofangzaiyouxigaishang	左脚放在右膝盖上〔交叉腿脚〕	1
+M:42:__prompt__:left foot resting on right knee:zuojiaofangzaiyouxigaishangmian	左脚放在右膝盖上面〔交叉腿脚〕	1
+M:42:__prompt__:left foot resting on right knee:zuojiaofangzaiyouxishang	左脚放在右膝上〔交叉腿脚〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuidazailanganshang	左腿搭在栏杆上〔腿部放置〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuifanglanganshang	左腿放栏杆上〔腿部放置〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuifanglanganshangmian	左腿放栏杆上面〔腿部放置〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuifangzailanganshang	左腿放在栏杆上〔腿部放置〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuifangzailanganshangmian	左腿放在栏杆上面〔腿部放置〕	1
+M:42:__prompt__:left leg resting on the railing:zuotuigezailanganshang	左腿搁在栏杆上〔腿部放置〕	1
 M:42:__prompt__:light gray and red color scheme:qianhuihongpeise	浅灰＋红配色〔通用短语〕	1
 M:42:__prompt__:light gray and red color scheme:qianhuisehongsepeise	浅灰＋红配色〔通用短语〕	1
 M:42:__prompt__:light gray and red color scheme:qianhuiseyuhongse	浅灰＋红配色〔通用短语〕	1
@@ -383279,6 +384311,18 @@ M:42:__prompt__:off-white and pink color scheme:mibaisefensepeise	米白＋粉�
 M:42:__prompt__:off-white and pink color scheme:mibaiseyufenhongse	米白＋粉红配色〔通用短语〕	1
 M:42:__prompt__:off-white and pink color scheme:mibaiseyufense	米白＋粉配色〔通用短语〕	1
 M:42:__prompt__:officer_flint_(foresttherotten):fulintejingguan	弗林特警官〔e621〕	0
+M:42:__prompt__:one foot resting on the railing:jiaodazailanganshang	脚搭在栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:jiaofanglanganshang	脚放栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:jiaofanglanganshangmian	脚放栏杆上面〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:jiaofangzailanganshang	脚放在栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:jiaofangzailanganshangmian	脚放在栏杆上面〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:jiaogezailanganshang	脚搁在栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaodazailanganshang	一只脚搭在栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaofanglanganshang	一只脚放栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaofanglanganshangmian	一只脚放栏杆上面〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaofangzailanganshang	一只脚放在栏杆上〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaofangzailanganshangmian	一只脚放在栏杆上面〔脚部放置〕	1
+M:42:__prompt__:one foot resting on the railing:yizhijiaogezailanganshang	一只脚搁在栏杆上〔脚部放置〕	1
 M:42:__prompt__:orange_pekoe_(girls_und_panzer):jupeike	橘佩可〔合并词库〕	0
 M:42:__prompt__:orange_pekoe_(girls_und_panzer):shenggeluoliannanvxueyuan	圣葛罗莉安娜女学院〔合并词库〕	0
 M:42:__prompt__:ordo_mediare_sisters_(ironlily):xiunv	修女〔合并词库〕	0
@@ -383353,6 +384397,64 @@ M:42:__prompt__:reno_(reno_bunnino)_(azur_lane):yidaliquzhu	意大利驱逐〔�
 M:42:__prompt__:rickshaw_student_(blue_archive):baiguiyexinglianmengxueyuan	百鬼夜行联盟学院〔合并词库〕	0
 M:42:__prompt__:rickshaw_student_(blue_archive):landang	蓝档〔合并词库〕	0
 M:42:__prompt__:rickshaw_student_(blue_archive):renlichexuesheng	人力车学生〔合并词库〕	0
+M:42:__prompt__:right foot resting on left knee:youjiaofangzaizuoxi	右脚放在左膝〔交叉腿脚〕	1
+M:42:__prompt__:right foot resting on left knee:youjiaofangzaizuoxigaishang	右脚放在左膝盖上〔交叉腿脚〕	1
+M:42:__prompt__:right foot resting on left knee:youjiaofangzaizuoxigaishangmian	右脚放在左膝盖上面〔交叉腿脚〕	1
+M:42:__prompt__:right foot resting on left knee:youjiaofangzaizuoxishang	右脚放在左膝上〔交叉腿脚〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaodazaichangyishang	右脚搭在长椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaofangchangyishang	右脚放长椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaofangchangyishangmian	右脚放长椅上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaofangzaichangyishang	右脚放在长椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaofangzaichangyishangmian	右脚放在长椅上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the bench:youjiaogezaichangyishang	右脚搁在长椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaodazaiyishang	右脚搭在椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaodazaiyizishang	右脚搭在椅子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangyishang	右脚放椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangyishangmian	右脚放椅上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangyizishang	右脚放椅子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangyizishangmian	右脚放椅子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangzaiyishang	右脚放在椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangzaiyishangmian	右脚放在椅上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangzaiyizishang	右脚放在椅子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaofangzaiyizishangmian	右脚放在椅子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaogezaiyishang	右脚搁在椅上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the chair:youjiaogezaiyizishang	右脚搁在椅子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaodazaidimianshang	右脚搭在地面上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaodazaidishang	右脚搭在地上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangdimianshang	右脚放地面上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangdimianshangmian	右脚放地面上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangdishang	右脚放地上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangdishangmian	右脚放地上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangzaidimianshang	右脚放在地面上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangzaidimianshangmian	右脚放在地面上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangzaidishang	右脚放在地上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaofangzaidishangmian	右脚放在地上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaogezaidimianshang	右脚搁在地面上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the floor:youjiaogezaidishang	右脚搁在地上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaodazaidengshang	右脚搭在凳上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaodazaidengzishang	右脚搭在凳子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangdengshang	右脚放凳上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangdengshangmian	右脚放凳上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangdengzishang	右脚放凳子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangdengzishangmian	右脚放凳子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangzaidengshang	右脚放在凳上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangzaidengshangmian	右脚放在凳上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangzaidengzishang	右脚放在凳子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaofangzaidengzishangmian	右脚放在凳子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaogezaidengshang	右脚搁在凳上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the stool:youjiaogezaidengzishang	右脚搁在凳子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaodazaizhuoshang	右脚搭在桌上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaodazaizhuozishang	右脚搭在桌子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzaizhuoshang	右脚放在桌上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzaizhuoshangmian	右脚放在桌上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzaizhuozishang	右脚放在桌子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzaizhuozishangmian	右脚放在桌子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzhuoshang	右脚放桌上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzhuoshangmian	右脚放桌上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzhuozishang	右脚放桌子上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaofangzhuozishangmian	右脚放桌子上面〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaogezaizhuoshang	右脚搁在桌上〔脚部放置〕	1
+M:42:__prompt__:right foot resting on the table:youjiaogezaizhuozishang	右脚搁在桌子上〔脚部放置〕	1
 M:42:__prompt__:right hand clenched into a fist:youshouwoquan	右手握拳〔通用姿态·单手〕	1
 M:42:__prompt__:ro635_(mod3)_(girls'_frontline):shenjingshengji	神经升级〔合并词库〕	0
 M:42:__prompt__:ro635_(mod3)_(girls'_frontline):shuangsuiji	双随机〔合并词库〕	0
@@ -383606,6 +384708,30 @@ M:43:__prompt__:blue and light gray color scheme:lanseqianhuisepeise	蓝＋浅�
 M:43:__prompt__:blue and light gray color scheme:lanseyuqianhuise	蓝＋浅灰配色〔通用短语〕	1
 M:43:__prompt__:boku_no_risou_no_isekai_seikatsu:wolixiangdeyishijieshenghuo	我理想的异世界生活〔合并词库〕	0
 M:43:__prompt__:boku_no_risou_no_isekai_seikatsu:yishijie	异世界〔合并词库〕	0
+M:43:__prompt__:both feet resting on the railing:liangzhijiaodazailanganshang	两只脚搭在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:liangzhijiaofanglanganshang	两只脚放栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:liangzhijiaofanglanganshangmian	两只脚放栏杆上面〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:liangzhijiaofangzailanganshang	两只脚放在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:liangzhijiaofangzailanganshangmian	两只脚放在栏杆上面〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:liangzhijiaogezailanganshang	两只脚搁在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaodazailanganshang	双脚搭在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaofanglanganshang	双脚放栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaofanglanganshangmian	双脚放栏杆上面〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaofangzailanganshang	双脚放在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaofangzailanganshangmian	双脚放在栏杆上面〔脚部放置〕	1
+M:43:__prompt__:both feet resting on the railing:shuangjiaogezailanganshang	双脚搁在栏杆上〔脚部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuidazailanganshang	两条腿搭在栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuifanglanganshang	两条腿放栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuifanglanganshangmian	两条腿放栏杆上面〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuifangzailanganshang	两条腿放在栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuifangzailanganshangmian	两条腿放在栏杆上面〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:liangtiaotuigezailanganshang	两条腿搁在栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuidazailanganshang	双腿搭在栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuifanglanganshang	双腿放栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuifanglanganshangmian	双腿放栏杆上面〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuifangzailanganshang	双腿放在栏杆上〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuifangzailanganshangmian	双腿放在栏杆上面〔腿部放置〕	1
+M:43:__prompt__:both legs resting on the railing:shuangtuigezailanganshang	双腿搁在栏杆上〔腿部放置〕	1
 M:43:__prompt__:boudica_(first_ascension)_(fate):budika	布狄卡〔合并词库〕	0
 M:43:__prompt__:boudica_(third_ascension)_(fate):disanzailin	第三再临〔合并词库〕	0
 M:43:__prompt__:boyfriend_(friday_night_funkin'):lanfashuochangshou	蓝发说唱手〔合并词库〕	0
@@ -384041,6 +385167,12 @@ M:43:__prompt__:kuzuha_(2nd_costume)_(nijisanji):diertaofuzhuang	第二套服装
 M:43:__prompt__:kuzuha_(2nd_costume)_(nijisanji):youxiri	游戏日〔合并词库〕	0
 M:43:__prompt__:laika_(laika_aged_through_blood):laika	莱卡〔e621〕	0
 M:43:__prompt__:laika_(laika_aged_through_blood):yongshengzhanshilaika	永生战士莱卡〔e621〕	0
+M:43:__prompt__:left foot resting on the railing:zuojiaodazailanganshang	左脚搭在栏杆上〔脚部放置〕	1
+M:43:__prompt__:left foot resting on the railing:zuojiaofanglanganshang	左脚放栏杆上〔脚部放置〕	1
+M:43:__prompt__:left foot resting on the railing:zuojiaofanglanganshangmian	左脚放栏杆上面〔脚部放置〕	1
+M:43:__prompt__:left foot resting on the railing:zuojiaofangzailanganshang	左脚放在栏杆上〔脚部放置〕	1
+M:43:__prompt__:left foot resting on the railing:zuojiaofangzailanganshangmian	左脚放在栏杆上面〔脚部放置〕	1
+M:43:__prompt__:left foot resting on the railing:zuojiaogezailanganshang	左脚搁在栏杆上〔脚部放置〕	1
 M:43:__prompt__:leisurely_otter_(genshin_impact):fengdanyeshengdongwu	枫丹野生动物〔合并词库〕	0
 M:43:__prompt__:leonardo_da_vinci_(rider)_(fate):luolidafenqi	萝莉达芬奇〔合并词库〕	0
 M:43:__prompt__:lich_(monster_girl_encyclopedia):busizu	不死族〔合并词库〕	0
@@ -384226,6 +385358,18 @@ M:43:__prompt__:one hand hanging loosely at side:yishouziranxiachui	一手自然
 M:43:__prompt__:one hand hanging loosely at side:yizhishouziranxiachui	一只手自然下垂〔通用姿态·单手〕	1
 M:43:__prompt__:one hand supporting back of head:yishoufuhounao	一手扶后脑〔通用姿态·单手〕	1
 M:43:__prompt__:one hand supporting back of head:yizhishoufuhounao	一只手扶后脑〔通用姿态·单手〕	1
+M:43:__prompt__:one leg resting on the footstool:tuidazaijiaodengshang	腿搭在脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:tuifangjiaodengshang	腿放脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:tuifangjiaodengshangmian	腿放脚凳上面〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:tuifangzaijiaodengshang	腿放在脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:tuifangzaijiaodengshangmian	腿放在脚凳上面〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:tuigezaijiaodengshang	腿搁在脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuidazaijiaodengshang	一条腿搭在脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuifangjiaodengshang	一条腿放脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuifangjiaodengshangmian	一条腿放脚凳上面〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuifangzaijiaodengshang	一条腿放在脚凳上〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuifangzaijiaodengshangmian	一条腿放在脚凳上面〔腿部放置〕	1
+M:43:__prompt__:one leg resting on the footstool:yitiaotuigezaijiaodengshang	一条腿搁在脚凳上〔腿部放置〕	1
 M:43:__prompt__:oozora_haruka_(harukana_receive):dakongyao	大空遥〔合并词库〕	0
 M:43:__prompt__:oozora_haruka_(harukana_receive):halukanajieshou	哈鲁卡纳接收〔合并词库〕	0
 M:43:__prompt__:oozora_haruka_(harukana_receive):shatanpaiqiubu	沙滩排球部〔合并词库〕	0
@@ -384300,6 +385444,12 @@ M:43:__prompt__:reverse_stand_and_carry_position:xingzishi	性姿势〔e621〕	0
 M:43:__prompt__:reverse_stand_and_carry_position:zhanlihourushi	站立后入式〔e621〕	0
 M:43:__prompt__:rice_shower_(casual)_(umamusume):xiuxianzhuang	休闲装〔合并词库〕	0
 M:43:__prompt__:rider_(learning_with_manga!_fgo):tunvlang	兔女郎〔合并词库〕	0
+M:43:__prompt__:right leg resting on the railing:youtuidazailanganshang	右腿搭在栏杆上〔腿部放置〕	1
+M:43:__prompt__:right leg resting on the railing:youtuifanglanganshang	右腿放栏杆上〔腿部放置〕	1
+M:43:__prompt__:right leg resting on the railing:youtuifanglanganshangmian	右腿放栏杆上面〔腿部放置〕	1
+M:43:__prompt__:right leg resting on the railing:youtuifangzailanganshang	右腿放在栏杆上〔腿部放置〕	1
+M:43:__prompt__:right leg resting on the railing:youtuifangzailanganshangmian	右腿放在栏杆上面〔腿部放置〕	1
+M:43:__prompt__:right leg resting on the railing:youtuigezailanganshang	右腿搁在栏杆上〔腿部放置〕	1
 M:43:__prompt__:roon_(dark_red_grin)_(azur_lane):anhongsedeweixiao	暗红色的微笑〔合并词库〕	0
 M:43:__prompt__:rune_factory:_guardians_of_azuma:nongchangmoni	农场模拟〔合并词库〕	0
 M:43:__prompt__:sanada_yukimura_(sengoku_basara):zhanguowujiang	战国武将〔合并词库〕	0
@@ -384357,6 +385507,12 @@ M:43:__prompt__:the other hand touching forehead:lingyishoumoetou	另一手摸�
 M:43:__prompt__:the other hand touching forehead:lingyizhishoumoetou	另一只手摸额头〔通用姿态·单手〕	1
 M:43:__prompt__:the other hand touching shoulder:lingyishoumojianbang	另一手摸肩膀〔通用姿态·单手〕	1
 M:43:__prompt__:the other hand touching shoulder:lingyizhishoumojianbang	另一只手摸肩膀〔通用姿态·单手〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuidazaichuangshang	另一条腿搭在床上〔腿部放置〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuifangchuangshang	另一条腿放床上〔腿部放置〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuifangchuangshangmian	另一条腿放床上面〔腿部放置〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuifangzaichuangshang	另一条腿放在床上〔腿部放置〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuifangzaichuangshangmian	另一条腿放在床上面〔腿部放置〕	1
+M:43:__prompt__:the other leg resting on the bed:lingyitiaotuigezaichuangshang	另一条腿搁在床上〔腿部放置〕	1
 M:43:__prompt__:the_count_of_monte_cristo_(fate):yankuwang	岩窟王〔合并词库〕	0
 M:43:__prompt__:the_elder_scrolls_iii:_morrowind:shanggujuanzhouxilie	上古卷轴系列〔合并词库〕	0
 M:43:__prompt__:the_legend_of_zelda:_four_swords:saierda	塞尔达〔合并词库〕	0
@@ -384778,6 +385934,12 @@ M:44:__prompt__:kuroi_kuroneko_(katsumata_hiroki):yuanchuangmaoniang	原创猫�
 M:44:__prompt__:kylar_(male)_(degrees_of_lewdity):kailaer	凯拉尔〔合并词库〕	0
 M:44:__prompt__:left hand hanging loosely at side:zuoshouziranxiachui	左手自然下垂〔通用姿态·单手〕	1
 M:44:__prompt__:left hand supporting back of head:zuoshoufuhounao	左手扶后脑〔通用姿态·单手〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuidazaijiaodengshang	左腿搭在脚凳上〔腿部放置〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuifangjiaodengshang	左腿放脚凳上〔腿部放置〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuifangjiaodengshangmian	左腿放脚凳上面〔腿部放置〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuifangzaijiaodengshang	左腿放在脚凳上〔腿部放置〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuifangzaijiaodengshangmian	左腿放在脚凳上面〔腿部放置〕	1
+M:44:__prompt__:left leg resting on the footstool:zuotuigezaijiaodengshang	左腿搁在脚凳上〔腿部放置〕	1
 M:44:__prompt__:leonardo_da_vinci_(caster)_(fate):mengnalishaxingxiang	蒙娜丽莎形象〔合并词库〕	0
 M:44:__prompt__:light brown and blue color scheme:qianzonglanpeise	浅棕＋蓝配色〔通用短语〕	1
 M:44:__prompt__:light brown and blue color scheme:qianzongselansepeise	浅棕＋蓝配色〔通用短语〕	1
@@ -384947,6 +386109,30 @@ M:44:__prompt__:off-white and silver color scheme:mibaiyinpeise	米白＋银配�
 M:44:__prompt__:off-white and yellow color scheme:mibaihuangpeise	米白＋黄配色〔通用短语〕	1
 M:44:__prompt__:off-white and yellow color scheme:mibaisehuangsepeise	米白＋黄配色〔通用短语〕	1
 M:44:__prompt__:off-white and yellow color scheme:mibaiseyuhuangse	米白＋黄配色〔通用短语〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaodazaijiaodengshang	脚搭在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaofangjiaodengshang	脚放脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaofangjiaodengshangmian	脚放脚凳上面〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaofangzaijiaodengshang	脚放在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaofangzaijiaodengshangmian	脚放在脚凳上面〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:jiaogezaijiaodengshang	脚搁在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaodazaijiaodengshang	一只脚搭在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaofangjiaodengshang	一只脚放脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaofangjiaodengshangmian	一只脚放脚凳上面〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaofangzaijiaodengshang	一只脚放在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaofangzaijiaodengshangmian	一只脚放在脚凳上面〔脚部放置〕	1
+M:44:__prompt__:one foot resting on the footstool:yizhijiaogezaijiaodengshang	一只脚搁在脚凳上〔脚部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuidazaichuangtaishang	腿搭在窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuifangchuangtaishang	腿放窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuifangchuangtaishangmian	腿放窗台上面〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuifangzaichuangtaishang	腿放在窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuifangzaichuangtaishangmian	腿放在窗台上面〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:tuigezaichuangtaishang	腿搁在窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuidazaichuangtaishang	一条腿搭在窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuifangchuangtaishang	一条腿放窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuifangchuangtaishangmian	一条腿放窗台上面〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuifangzaichuangtaishang	一条腿放在窗台上〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuifangzaichuangtaishangmian	一条腿放在窗台上面〔腿部放置〕	1
+M:44:__prompt__:one leg resting on the windowsill:yitiaotuigezaichuangtaishang	一条腿搁在窗台上〔腿部放置〕	1
 M:44:__prompt__:ookami_mio_(hololive_summer_2019):dashenling	大神澪〔合并词库〕	0
 M:44:__prompt__:ookami_mio_(hololive_summer_2019):xiarijiaqi	夏日假期〔合并词库〕	0
 M:44:__prompt__:orange and dark gray color scheme:chengseshenhuisepeise	橙＋深灰配色〔通用短语〕	1
@@ -385003,6 +386189,12 @@ M:44:__prompt__:reed_the_flame_shadow_(arknights):yanyingweicao	焰影苇草〔�
 M:44:__prompt__:reed_the_flame_shadow_(arknights):yiliaoganyuan	医疗干员〔合并词库〕	0
 M:44:__prompt__:renri_no_chigiri_wo_kimi_to_shiru:riwenbiaoti	日文标题〔合并词库〕	0
 M:44:__prompt__:renri_no_chigiri_wo_kimi_to_shiru:yunijiexialianlizhiqi	与你结下连理之契〔合并词库〕	0
+M:44:__prompt__:right foot resting on the railing:youjiaodazailanganshang	右脚搭在栏杆上〔脚部放置〕	1
+M:44:__prompt__:right foot resting on the railing:youjiaofanglanganshang	右脚放栏杆上〔脚部放置〕	1
+M:44:__prompt__:right foot resting on the railing:youjiaofanglanganshangmian	右脚放栏杆上面〔脚部放置〕	1
+M:44:__prompt__:right foot resting on the railing:youjiaofangzailanganshang	右脚放在栏杆上〔脚部放置〕	1
+M:44:__prompt__:right foot resting on the railing:youjiaofangzailanganshangmian	右脚放在栏杆上面〔脚部放置〕	1
+M:44:__prompt__:right foot resting on the railing:youjiaogezailanganshang	右脚搁在栏杆上〔脚部放置〕	1
 M:44:__prompt__:rita_rossweisse_(fallen_rosemary):shiluomidie	失落迷迭〔合并词库〕	0
 M:44:__prompt__:rock_wa_lady_no_tashinami_deshite:biaoti	标题〔合并词库〕	0
 M:44:__prompt__:rock_wa_lady_no_tashinami_deshite:yaogunnaishunvzhishihao	摇滚乃淑女之嗜好〔合并词库〕	0
@@ -385069,8 +386261,32 @@ M:44:__prompt__:tea_party_militant_(blue_archive):chahuizabing	茶会杂兵〔�
 M:44:__prompt__:temptations_ballad_(visual_novel):youhuoxushiqu	诱惑叙事曲〔e621〕	0
 M:44:__prompt__:tetia_(tongari_boushi_no_atelier):jianmaozidemofagongfang	尖帽子的魔法工房〔合并词库〕	0
 M:44:__prompt__:tetia_(tongari_boushi_no_atelier):teshiya	特媞雅〔合并词库〕	0
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaodazaichuangshang	另一只脚搭在床上〔脚部放置〕	1
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaofangchuangshang	另一只脚放床上〔脚部放置〕	1
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaofangchuangshangmian	另一只脚放床上面〔脚部放置〕	1
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaofangzaichuangshang	另一只脚放在床上〔脚部放置〕	1
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaofangzaichuangshangmian	另一只脚放在床上面〔脚部放置〕	1
+M:44:__prompt__:the other foot resting on the bed:lingyizhijiaogezaichuangshang	另一只脚搁在床上〔脚部放置〕	1
 M:44:__prompt__:the other hand resting on abdomen:lingyishoufangfubu	另一手放腹部〔通用姿态·单手〕	1
 M:44:__prompt__:the other hand resting on abdomen:lingyizhishoufangfubu	另一只手放腹部〔通用姿态·单手〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuidazaishitoushang	另一条腿搭在石头上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuifangshitoushang	另一条腿放石头上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuifangshitoushangmian	另一条腿放石头上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuifangzaishitoushang	另一条腿放在石头上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuifangzaishitoushangmian	另一条腿放在石头上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the rock:lingyitiaotuigezaishitoushang	另一条腿搁在石头上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuidazaishafashang	另一条腿搭在沙发上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuifangshafashang	另一条腿放沙发上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuifangshafashangmian	另一条腿放沙发上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuifangzaishafashang	另一条腿放在沙发上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuifangzaishafashangmian	另一条腿放在沙发上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the sofa:lingyitiaotuigezaishafashang	另一条腿搁在沙发上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuidazaitaijieshang	另一条腿搭在台阶上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuifangtaijieshang	另一条腿放台阶上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuifangtaijieshangmian	另一条腿放台阶上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuifangzaitaijieshang	另一条腿放在台阶上〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuifangzaitaijieshangmian	另一条腿放在台阶上面〔腿部放置〕	1
+M:44:__prompt__:the other leg resting on the step:lingyitiaotuigezaitaijieshang	另一条腿搁在台阶上〔腿部放置〕	1
 M:44:__prompt__:the_adventures_of_sherlock_holmes:xiaoshuo	小说〔合并词库〕	0
 M:44:__prompt__:the_great_ace_attorney_2:_resolve:maoxian	冒险〔合并词库〕	0
 M:44:__prompt__:the_great_ace_attorney_2:_resolve:nizhuancaipan	逆转裁判〔合并词库〕	0
@@ -385187,6 +386403,30 @@ M:45:__prompt__:black-tailed_gull_(kemono_friends):dongwupengyou	动物朋友〔
 M:45:__prompt__:black-tailed_gull_(kemono_friends):haimao	海猫〔合并词库〕	0
 M:45:__prompt__:black-tailed_gull_(kemono_friends):heiweiou	黑尾鸥〔合并词库〕	0
 M:45:__prompt__:blue_poison_(elite_ii)_(arknights):landu	蓝毒〔合并词库〕	0
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaodazaijiaodengshang	两只脚搭在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaofangjiaodengshang	两只脚放脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaofangjiaodengshangmian	两只脚放脚凳上面〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaofangzaijiaodengshang	两只脚放在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaofangzaijiaodengshangmian	两只脚放在脚凳上面〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:liangzhijiaogezaijiaodengshang	两只脚搁在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaodazaijiaodengshang	双脚搭在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaofangjiaodengshang	双脚放脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaofangjiaodengshangmian	双脚放脚凳上面〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaofangzaijiaodengshang	双脚放在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaofangzaijiaodengshangmian	双脚放在脚凳上面〔脚部放置〕	1
+M:45:__prompt__:both feet resting on the footstool:shuangjiaogezaijiaodengshang	双脚搁在脚凳上〔脚部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuidazaijiaodengshang	两条腿搭在脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuifangjiaodengshang	两条腿放脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuifangjiaodengshangmian	两条腿放脚凳上面〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuifangzaijiaodengshang	两条腿放在脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuifangzaijiaodengshangmian	两条腿放在脚凳上面〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:liangtiaotuigezaijiaodengshang	两条腿搁在脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuidazaijiaodengshang	双腿搭在脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuifangjiaodengshang	双腿放脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuifangjiaodengshangmian	双腿放脚凳上面〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuifangzaijiaodengshang	双腿放在脚凳上〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuifangzaijiaodengshangmian	双腿放在脚凳上面〔腿部放置〕	1
+M:45:__prompt__:both legs resting on the footstool:shuangtuigezaijiaodengshang	双腿搁在脚凳上〔腿部放置〕	1
 M:45:__prompt__:brown and light brown color scheme:heqianzongpeise	褐＋浅棕配色〔通用短语〕	1
 M:45:__prompt__:brown and light brown color scheme:heseqianzongsepeise	褐＋浅棕配色〔通用短语〕	1
 M:45:__prompt__:brown and light brown color scheme:heseyuqianzongse	褐＋浅棕配色〔通用短语〕	1
@@ -385348,6 +386588,22 @@ M:45:__prompt__:lapis_(homely_apron)_(fire_emblem):jujiaweiqun	居家围裙〔�
 M:45:__prompt__:lapis_(homely_apron)_(fire_emblem):labisi	拉碧斯〔合并词库〕	0
 M:45:__prompt__:lappland_the_decadenza_(arknights):huangwulapulande	荒芜拉普兰德〔合并词库〕	0
 M:45:__prompt__:lappland_the_decadenza_(arknights):lapulandeyiti	拉普兰德异体〔合并词库〕	0
+M:45:__prompt__:left foot resting on the footstool:zuojiaodazaijiaodengshang	左脚搭在脚凳上〔脚部放置〕	1
+M:45:__prompt__:left foot resting on the footstool:zuojiaofangjiaodengshang	左脚放脚凳上〔脚部放置〕	1
+M:45:__prompt__:left foot resting on the footstool:zuojiaofangjiaodengshangmian	左脚放脚凳上面〔脚部放置〕	1
+M:45:__prompt__:left foot resting on the footstool:zuojiaofangzaijiaodengshang	左脚放在脚凳上〔脚部放置〕	1
+M:45:__prompt__:left foot resting on the footstool:zuojiaofangzaijiaodengshangmian	左脚放在脚凳上面〔脚部放置〕	1
+M:45:__prompt__:left foot resting on the footstool:zuojiaogezaijiaodengshang	左脚搁在脚凳上〔脚部放置〕	1
+M:45:__prompt__:left leg resting across right knee:zuotuidazaiyouxi	左腿搭在右膝〔交叉腿脚〕	1
+M:45:__prompt__:left leg resting across right knee:zuotuidazaiyouxigaishang	左腿搭在右膝盖上〔交叉腿脚〕	1
+M:45:__prompt__:left leg resting across right knee:zuotuidazaiyouxigaishangmian	左腿搭在右膝盖上面〔交叉腿脚〕	1
+M:45:__prompt__:left leg resting across right knee:zuotuidazaiyouxishang	左腿搭在右膝上〔交叉腿脚〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuidazaichuangtaishang	左腿搭在窗台上〔腿部放置〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuifangchuangtaishang	左腿放窗台上〔腿部放置〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuifangchuangtaishangmian	左腿放窗台上面〔腿部放置〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuifangzaichuangtaishang	左腿放在窗台上〔腿部放置〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuifangzaichuangtaishangmian	左腿放在窗台上面〔腿部放置〕	1
+M:45:__prompt__:left leg resting on the windowsill:zuotuigezaichuangtaishang	左腿搁在窗台上〔腿部放置〕	1
 M:45:__prompt__:light brown and beige color scheme:qianzongmipeise	浅棕＋米配色〔通用短语〕	1
 M:45:__prompt__:light brown and beige color scheme:qianzongsemisepeise	浅棕＋米配色〔通用短语〕	1
 M:45:__prompt__:light brown and beige color scheme:qianzongseyumise	浅棕＋米配色〔通用短语〕	1
@@ -385443,6 +386699,18 @@ M:45:__prompt__:oda_nobunaga_(maou_avenger)_(fate):diliutianmowang	第六天魔�
 M:45:__prompt__:oda_nobunaga_(maou_avenger)_(fate):fuchouzhe	复仇者〔合并词库〕	0
 M:45:__prompt__:oda_nobunaga_(maou_avenger)_(fate):mowangxinzhang	魔王信长〔合并词库〕	0
 M:45:__prompt__:ombok_diving_and_delivery_services:maoxian	冒险〔合并词库〕	0
+M:45:__prompt__:one foot resting on the windowsill:jiaodazaichuangtaishang	脚搭在窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:jiaofangchuangtaishang	脚放窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:jiaofangchuangtaishangmian	脚放窗台上面〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:jiaofangzaichuangtaishang	脚放在窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:jiaofangzaichuangtaishangmian	脚放在窗台上面〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:jiaogezaichuangtaishang	脚搁在窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaodazaichuangtaishang	一只脚搭在窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaofangchuangtaishang	一只脚放窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaofangchuangtaishangmian	一只脚放窗台上面〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaofangzaichuangtaishang	一只脚放在窗台上〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaofangzaichuangtaishangmian	一只脚放在窗台上面〔脚部放置〕	1
+M:45:__prompt__:one foot resting on the windowsill:yizhijiaogezaichuangtaishang	一只脚搁在窗台上〔脚部放置〕	1
 M:45:__prompt__:one_finger_selfie_challenge_(meme):biaoqingbao	表情包〔合并词库〕	0
 M:45:__prompt__:one_finger_selfie_challenge_(meme):tiaozhan	挑战〔合并词库〕	0
 M:45:__prompt__:one_finger_selfie_challenge_(meme):zipai	自拍〔合并词库〕	0
@@ -385510,6 +386778,16 @@ M:45:__prompt__:richeh_(tongari_boushi_no_atelier):liqiye	丽奇耶〔合并词�
 M:45:__prompt__:richeh_(tongari_boushi_no_atelier):xuetu	学徒〔合并词库〕	0
 M:45:__prompt__:right hand hanging loosely at side:youshouziranxiachui	右手自然下垂〔通用姿态·单手〕	1
 M:45:__prompt__:right hand supporting back of head:youshoufuhounao	右手扶后脑〔通用姿态·单手〕	1
+M:45:__prompt__:right leg resting across left knee:youtuidazaizuoxi	右腿搭在左膝〔交叉腿脚〕	1
+M:45:__prompt__:right leg resting across left knee:youtuidazaizuoxigaishang	右腿搭在左膝盖上〔交叉腿脚〕	1
+M:45:__prompt__:right leg resting across left knee:youtuidazaizuoxigaishangmian	右腿搭在左膝盖上面〔交叉腿脚〕	1
+M:45:__prompt__:right leg resting across left knee:youtuidazaizuoxishang	右腿搭在左膝上〔交叉腿脚〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuidazaijiaodengshang	右腿搭在脚凳上〔腿部放置〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuifangjiaodengshang	右腿放脚凳上〔腿部放置〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuifangjiaodengshangmian	右腿放脚凳上面〔腿部放置〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuifangzaijiaodengshang	右腿放在脚凳上〔腿部放置〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuifangzaijiaodengshangmian	右腿放在脚凳上面〔腿部放置〕	1
+M:45:__prompt__:right leg resting on the footstool:youtuigezaijiaodengshang	右腿搁在脚凳上〔腿部放置〕	1
 M:45:__prompt__:rita_rossweisse_(maid_of_celestia):tianjienvpu	天界女仆〔合并词库〕	0
 M:45:__prompt__:rita_rossweisse_(maid_of_celestia):tidaibiaozhuang	替代表装〔合并词库〕	0
 M:45:__prompt__:rpk-16_(renate)_(girls'_frontline):shixishengbaodao	实习生报到〔合并词库〕	0
@@ -385571,8 +386849,80 @@ M:45:__prompt__:tan and golden orange color scheme:huangheseyujinchengse	黄褐�
 M:45:__prompt__:tan and golden yellow color scheme:huanghejinhuangpeise	黄褐＋金黄配色〔通用短语〕	1
 M:45:__prompt__:tan and golden yellow color scheme:huanghesejinhuangsepeise	黄褐＋金黄配色〔通用短语〕	1
 M:45:__prompt__:tan and golden yellow color scheme:huangheseyujinhuangse	黄褐＋金黄配色〔通用短语〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaodazaishitoushang	另一只脚搭在石头上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaofangshitoushang	另一只脚放石头上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaofangshitoushangmian	另一只脚放石头上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaofangzaishitoushang	另一只脚放在石头上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaofangzaishitoushangmian	另一只脚放在石头上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the rock:lingyizhijiaogezaishitoushang	另一只脚搁在石头上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaodazaishafashang	另一只脚搭在沙发上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaofangshafashang	另一只脚放沙发上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaofangshafashangmian	另一只脚放沙发上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaofangzaishafashang	另一只脚放在沙发上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaofangzaishafashangmian	另一只脚放在沙发上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the sofa:lingyizhijiaogezaishafashang	另一只脚搁在沙发上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaodazaitaijieshang	另一只脚搭在台阶上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaofangtaijieshang	另一只脚放台阶上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaofangtaijieshangmian	另一只脚放台阶上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaofangzaitaijieshang	另一只脚放在台阶上〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaofangzaitaijieshangmian	另一只脚放在台阶上面〔脚部放置〕	1
+M:45:__prompt__:the other foot resting on the step:lingyizhijiaogezaitaijieshang	另一只脚搁在台阶上〔脚部放置〕	1
 M:45:__prompt__:the other hand braced against wall:lingyishoufuqiang	另一手扶墙〔通用姿态·单手〕	1
 M:45:__prompt__:the other hand braced against wall:lingyizhishoufuqiang	另一只手扶墙〔通用姿态·单手〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuidazaichangyishang	另一条腿搭在长椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuifangchangyishang	另一条腿放长椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuifangchangyishangmian	另一条腿放长椅上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuifangzaichangyishang	另一条腿放在长椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuifangzaichangyishangmian	另一条腿放在长椅上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the bench:lingyitiaotuigezaichangyishang	另一条腿搁在长椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuidazaiyishang	另一条腿搭在椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuidazaiyizishang	另一条腿搭在椅子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangyishang	另一条腿放椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangyishangmian	另一条腿放椅上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangyizishang	另一条腿放椅子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangyizishangmian	另一条腿放椅子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangzaiyishang	另一条腿放在椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangzaiyishangmian	另一条腿放在椅上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangzaiyizishang	另一条腿放在椅子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuifangzaiyizishangmian	另一条腿放在椅子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuigezaiyishang	另一条腿搁在椅上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the chair:lingyitiaotuigezaiyizishang	另一条腿搁在椅子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuidazaidimianshang	另一条腿搭在地面上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuidazaidishang	另一条腿搭在地上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangdimianshang	另一条腿放地面上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangdimianshangmian	另一条腿放地面上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangdishang	另一条腿放地上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangdishangmian	另一条腿放地上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangzaidimianshang	另一条腿放在地面上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangzaidimianshangmian	另一条腿放在地面上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangzaidishang	另一条腿放在地上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuifangzaidishangmian	另一条腿放在地上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuigezaidimianshang	另一条腿搁在地面上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the floor:lingyitiaotuigezaidishang	另一条腿搁在地上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuidazaidengshang	另一条腿搭在凳上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuidazaidengzishang	另一条腿搭在凳子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangdengshang	另一条腿放凳上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangdengshangmian	另一条腿放凳上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangdengzishang	另一条腿放凳子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangdengzishangmian	另一条腿放凳子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangzaidengshang	另一条腿放在凳上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangzaidengshangmian	另一条腿放在凳上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangzaidengzishang	另一条腿放在凳子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuifangzaidengzishangmian	另一条腿放在凳子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuigezaidengshang	另一条腿搁在凳上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the stool:lingyitiaotuigezaidengzishang	另一条腿搁在凳子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuidazaizhuoshang	另一条腿搭在桌上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuidazaizhuozishang	另一条腿搭在桌子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzaizhuoshang	另一条腿放在桌上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzaizhuoshangmian	另一条腿放在桌上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzaizhuozishang	另一条腿放在桌子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzaizhuozishangmian	另一条腿放在桌子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzhuoshang	另一条腿放桌上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzhuoshangmian	另一条腿放桌上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzhuozishang	另一条腿放桌子上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuifangzhuozishangmian	另一条腿放桌子上面〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuigezaizhuoshang	另一条腿搁在桌上〔腿部放置〕	1
+M:45:__prompt__:the other leg resting on the table:lingyitiaotuigezaizhuozishang	另一条腿搁在桌子上〔腿部放置〕	1
 M:45:__prompt__:the_great_ace_attorney:_adventures:nizhuancaipan	逆转裁判〔合并词库〕	0
 M:45:__prompt__:the_great_ace_attorney:_adventures:youxizuopin	游戏作品〔合并词库〕	0
 M:45:__prompt__:the_legend_of_zelda:_majora's_mask:saierda	塞尔达〔合并词库〕	0
@@ -385672,6 +387022,30 @@ M:46:__prompt__:blue and golden yellow color scheme:lanjinhuangpeise	蓝＋金�
 M:46:__prompt__:blue and golden yellow color scheme:lansejinhuangsepeise	蓝＋金黄配色〔通用短语〕	1
 M:46:__prompt__:blue and golden yellow color scheme:lanseyujinhuangse	蓝＋金黄配色〔通用短语〕	1
 M:46:__prompt__:blue with white chest pleated skirt:tianlanzhequn	天蓝褶裙〔提示词库〕	0
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaodazaichuangtaishang	两只脚搭在窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaofangchuangtaishang	两只脚放窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaofangchuangtaishangmian	两只脚放窗台上面〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaofangzaichuangtaishang	两只脚放在窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaofangzaichuangtaishangmian	两只脚放在窗台上面〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:liangzhijiaogezaichuangtaishang	两只脚搁在窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaodazaichuangtaishang	双脚搭在窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaofangchuangtaishang	双脚放窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaofangchuangtaishangmian	双脚放窗台上面〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaofangzaichuangtaishang	双脚放在窗台上〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaofangzaichuangtaishangmian	双脚放在窗台上面〔脚部放置〕	1
+M:46:__prompt__:both feet resting on the windowsill:shuangjiaogezaichuangtaishang	双脚搁在窗台上〔脚部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuidazaichuangtaishang	两条腿搭在窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuifangchuangtaishang	两条腿放窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuifangchuangtaishangmian	两条腿放窗台上面〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuifangzaichuangtaishang	两条腿放在窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuifangzaichuangtaishangmian	两条腿放在窗台上面〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:liangtiaotuigezaichuangtaishang	两条腿搁在窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuidazaichuangtaishang	双腿搭在窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuifangchuangtaishang	双腿放窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuifangchuangtaishangmian	双腿放窗台上面〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuifangzaichuangtaishang	双腿放在窗台上〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuifangzaichuangtaishangmian	双腿放在窗台上面〔腿部放置〕	1
+M:46:__prompt__:both legs resting on the windowsill:shuangtuigezaichuangtaishang	双腿搁在窗台上〔腿部放置〕	1
 M:46:__prompt__:bradamante_(first_ascension)_(fate):buladamante	布拉达曼特〔合并词库〕	0
 M:46:__prompt__:bradamante_(first_ascension)_(fate):diyizailin	第一再临〔合并词库〕	0
 M:46:__prompt__:bradamante_(third_ascension)_(fate):bijinikaijia	比基尼铠甲〔合并词库〕	0
@@ -385894,6 +387268,12 @@ M:46:__prompt__:last_order_(toaru_majutsu_no_index):chaodiancipao	超电磁炮�
 M:46:__prompt__:last_order_(toaru_majutsu_no_index):meimeiwangluo	妹妹网络〔合并词库〕	0
 M:46:__prompt__:last_order_(toaru_majutsu_no_index):mofajinshumulu	魔法禁书目录〔合并词库〕	0
 M:46:__prompt__:last_order_(toaru_majutsu_no_index):zuihouzhizuo	最后之作〔合并词库〕	0
+M:46:__prompt__:left foot resting on the windowsill:zuojiaodazaichuangtaishang	左脚搭在窗台上〔脚部放置〕	1
+M:46:__prompt__:left foot resting on the windowsill:zuojiaofangchuangtaishang	左脚放窗台上〔脚部放置〕	1
+M:46:__prompt__:left foot resting on the windowsill:zuojiaofangchuangtaishangmian	左脚放窗台上面〔脚部放置〕	1
+M:46:__prompt__:left foot resting on the windowsill:zuojiaofangzaichuangtaishang	左脚放在窗台上〔脚部放置〕	1
+M:46:__prompt__:left foot resting on the windowsill:zuojiaofangzaichuangtaishangmian	左脚放在窗台上面〔脚部放置〕	1
+M:46:__prompt__:left foot resting on the windowsill:zuojiaogezaichuangtaishang	左脚搁在窗台上〔脚部放置〕	1
 M:46:__prompt__:lexington_(cv-16)_(warship_girls_r):aisaikesiji	埃塞克斯级〔合并词库〕	0
 M:46:__prompt__:lexington_(cv-16)_(warship_girls_r):hangkongmujian	航空母舰〔合并词库〕	0
 M:46:__prompt__:life_at_the_hakurei_shrine_(touhou):dongmanchangjing	动漫场景〔合并词库〕	0
@@ -386012,6 +387392,18 @@ M:46:__prompt__:raora_panthera_(holonatsu_paradise):xiaritiantang	夏日天堂�
 M:46:__prompt__:reien_girl's_academy_school_uniform:lianennvzixueyuanzhifu	怜恩女子学院制服〔合并词库〕	0
 M:46:__prompt__:richard_i_(second_ascension)_(fate):xiuxianzhuang	休闲装〔合并词库〕	0
 M:46:__prompt__:richard_i_(second_ascension)_(fate):yingling	英灵〔合并词库〕	0
+M:46:__prompt__:right foot resting on the footstool:youjiaodazaijiaodengshang	右脚搭在脚凳上〔脚部放置〕	1
+M:46:__prompt__:right foot resting on the footstool:youjiaofangjiaodengshang	右脚放脚凳上〔脚部放置〕	1
+M:46:__prompt__:right foot resting on the footstool:youjiaofangjiaodengshangmian	右脚放脚凳上面〔脚部放置〕	1
+M:46:__prompt__:right foot resting on the footstool:youjiaofangzaijiaodengshang	右脚放在脚凳上〔脚部放置〕	1
+M:46:__prompt__:right foot resting on the footstool:youjiaofangzaijiaodengshangmian	右脚放在脚凳上面〔脚部放置〕	1
+M:46:__prompt__:right foot resting on the footstool:youjiaogezaijiaodengshang	右脚搁在脚凳上〔脚部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuidazaichuangtaishang	右腿搭在窗台上〔腿部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuifangchuangtaishang	右腿放窗台上〔腿部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuifangchuangtaishangmian	右腿放窗台上面〔腿部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuifangzaichuangtaishang	右腿放在窗台上〔腿部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuifangzaichuangtaishangmian	右腿放在窗台上面〔腿部放置〕	1
+M:46:__prompt__:right leg resting on the windowsill:youtuigezaichuangtaishang	右腿搁在窗台上〔腿部放置〕	1
 M:46:__prompt__:rockhopper_penguin_(kemono_friends):qiebiaoyanqihua	企鹅表演企划〔合并词库〕	0
 M:46:__prompt__:rockhopper_penguin_(kemono_friends):yantiao	岩跳〔合并词库〕	0
 M:46:__prompt__:rockhopper_penguin_(kemono_friends):yantiaoqie	岩跳企鹅〔合并词库〕	0
@@ -386059,6 +387451,60 @@ M:46:__prompt__:tamamo_cat_(third_ascension)_(fate):yuzaoqianchuan	玉藻前传�
 M:46:__prompt__:teenage_mutant_ninja_turtles_(1987):jiugui	旧亀〔e621〕	0
 M:46:__prompt__:teenage_mutant_ninja_turtles_(1987):katong	卡通〔e621〕	0
 M:46:__prompt__:teenage_mutant_ninja_turtles_(1987):renzhe	忍者〔e621〕	0
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaodazaichangyishang	另一只脚搭在长椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaofangchangyishang	另一只脚放长椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaofangchangyishangmian	另一只脚放长椅上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaofangzaichangyishang	另一只脚放在长椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaofangzaichangyishangmian	另一只脚放在长椅上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the bench:lingyizhijiaogezaichangyishang	另一只脚搁在长椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaodazaiyishang	另一只脚搭在椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaodazaiyizishang	另一只脚搭在椅子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangyishang	另一只脚放椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangyishangmian	另一只脚放椅上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangyizishang	另一只脚放椅子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangyizishangmian	另一只脚放椅子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangzaiyishang	另一只脚放在椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangzaiyishangmian	另一只脚放在椅上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangzaiyizishang	另一只脚放在椅子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaofangzaiyizishangmian	另一只脚放在椅子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaogezaiyishang	另一只脚搁在椅上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the chair:lingyizhijiaogezaiyizishang	另一只脚搁在椅子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaodazaidimianshang	另一只脚搭在地面上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaodazaidishang	另一只脚搭在地上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangdimianshang	另一只脚放地面上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangdimianshangmian	另一只脚放地面上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangdishang	另一只脚放地上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangdishangmian	另一只脚放地上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangzaidimianshang	另一只脚放在地面上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangzaidimianshangmian	另一只脚放在地面上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangzaidishang	另一只脚放在地上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaofangzaidishangmian	另一只脚放在地上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaogezaidimianshang	另一只脚搁在地面上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the floor:lingyizhijiaogezaidishang	另一只脚搁在地上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaodazaidengshang	另一只脚搭在凳上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaodazaidengzishang	另一只脚搭在凳子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangdengshang	另一只脚放凳上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangdengshangmian	另一只脚放凳上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangdengzishang	另一只脚放凳子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangdengzishangmian	另一只脚放凳子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangzaidengshang	另一只脚放在凳上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangzaidengshangmian	另一只脚放在凳上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangzaidengzishang	另一只脚放在凳子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaofangzaidengzishangmian	另一只脚放在凳子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaogezaidengshang	另一只脚搁在凳上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the stool:lingyizhijiaogezaidengzishang	另一只脚搁在凳子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaodazaizhuoshang	另一只脚搭在桌上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaodazaizhuozishang	另一只脚搭在桌子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzaizhuoshang	另一只脚放在桌上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzaizhuoshangmian	另一只脚放在桌上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzaizhuozishang	另一只脚放在桌子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzaizhuozishangmian	另一只脚放在桌子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzhuoshang	另一只脚放桌上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzhuoshangmian	另一只脚放桌上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzhuozishang	另一只脚放桌子上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaofangzhuozishangmian	另一只脚放桌子上面〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaogezaizhuoshang	另一只脚搁在桌上〔脚部放置〕	1
+M:46:__prompt__:the other foot resting on the table:lingyizhijiaogezaizhuozishang	另一只脚搁在桌子上〔脚部放置〕	1
 M:46:__prompt__:the other hand clenched into a fist:lingyishouwoquan	另一手握拳〔通用姿态·单手〕	1
 M:46:__prompt__:the other hand clenched into a fist:lingyizhishouwoquan	另一只手握拳〔通用姿态·单手〕	1
 M:46:__prompt__:the_legend_of_zelda:_the_minish_cap:maoxian	冒险〔合并词库〕	0
@@ -386401,6 +387847,12 @@ M:47:__prompt__:reticulated_giraffe_(kemono_friends):caoyuanpengyou	草原朋友
 M:47:__prompt__:reticulated_giraffe_(kemono_friends):changjingluzu	长颈鹿组〔e621〕	0
 M:47:__prompt__:reticulated_giraffe_(kemono_friends):dongwupengyou	动物朋友〔e621〕	0
 M:47:__prompt__:reticulated_giraffe_(kemono_friends):wangwenchangjinglu	网纹长颈鹿〔e621〕	0
+M:47:__prompt__:right foot resting on the windowsill:youjiaodazaichuangtaishang	右脚搭在窗台上〔脚部放置〕	1
+M:47:__prompt__:right foot resting on the windowsill:youjiaofangchuangtaishang	右脚放窗台上〔脚部放置〕	1
+M:47:__prompt__:right foot resting on the windowsill:youjiaofangchuangtaishangmian	右脚放窗台上面〔脚部放置〕	1
+M:47:__prompt__:right foot resting on the windowsill:youjiaofangzaichuangtaishang	右脚放在窗台上〔脚部放置〕	1
+M:47:__prompt__:right foot resting on the windowsill:youjiaofangzaichuangtaishangmian	右脚放在窗台上面〔脚部放置〕	1
+M:47:__prompt__:right foot resting on the windowsill:youjiaogezaichuangtaishang	右脚搁在窗台上〔脚部放置〕	1
 M:47:__prompt__:rose_(mahoutsukai_rose_no_sado_life):mofashiluozedeshinveshenghuo	魔法使罗泽的施虐生活〔合并词库〕	0
 M:47:__prompt__:roxanne_(isekai_meikyuu_de_harem_wo):langrenzu	狼人族〔合并词库〕	0
 M:47:__prompt__:roxanne_(isekai_meikyuu_de_harem_wo):luokeshan	罗克珊〔合并词库〕	0
@@ -386439,6 +387891,12 @@ M:47:__prompt__:texas_(winter_messenger)_(arknights):heigangguoji	黑钢国际�
 M:47:__prompt__:tharja_("normal_girl")_(fire_emblem):dongjishizhe	冬季使者〔合并词库〕	0
 M:47:__prompt__:tharja_("normal_girl")_(fire_emblem):leijia	蕾贾〔合并词库〕	0
 M:47:__prompt__:tharja_("normal_girl")_(fire_emblem):shengdan	圣诞〔合并词库〕	0
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuidazailanganshang	另一条腿搭在栏杆上〔腿部放置〕	1
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuifanglanganshang	另一条腿放栏杆上〔腿部放置〕	1
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuifanglanganshangmian	另一条腿放栏杆上面〔腿部放置〕	1
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuifangzailanganshang	另一条腿放在栏杆上〔腿部放置〕	1
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuifangzailanganshangmian	另一条腿放在栏杆上面〔腿部放置〕	1
+M:47:__prompt__:the other leg resting on the railing:lingyitiaotuigezailanganshang	另一条腿搁在栏杆上〔腿部放置〕	1
 M:47:__prompt__:the_children_(zettai_karen_children):donghuajuese	动画角色〔合并词库〕	0
 M:47:__prompt__:the_children_(zettai_karen_children):juesezu	角色组〔合并词库〕	0
 M:47:__prompt__:the_complex_adventures_of_eddie_puss:kelisisaweinuowangluomanhua	克里斯萨维诺网络漫画〔e621〕	0
@@ -386765,6 +388223,12 @@ M:48:__prompt__:tenochtitlan_(first_ascension)_(fate):diyizailin	第一再临〔
 M:48:__prompt__:tenochtitlan_(first_ascension)_(fate):tenuoqiditelan	特诺奇蒂特兰〔合并词库〕	0
 M:48:__prompt__:tezcatlipoca_(first_ascension)_(fate):tezikateliboka	特兹卡特利波卡〔合并词库〕	0
 M:48:__prompt__:tezcatlipoca_(first_ascension)_(fate):yanjing	烟镜〔合并词库〕	0
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaodazailanganshang	另一只脚搭在栏杆上〔脚部放置〕	1
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaofanglanganshang	另一只脚放栏杆上〔脚部放置〕	1
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaofanglanganshangmian	另一只脚放栏杆上面〔脚部放置〕	1
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaofangzailanganshang	另一只脚放在栏杆上〔脚部放置〕	1
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaofangzailanganshangmian	另一只脚放在栏杆上面〔脚部放置〕	1
+M:48:__prompt__:the other foot resting on the railing:lingyizhijiaogezailanganshang	另一只脚搁在栏杆上〔脚部放置〕	1
 M:48:__prompt__:the_legend_of_zelda:_echoes_of_wisdom:saierda	塞尔达〔合并词库〕	0
 M:48:__prompt__:the_legend_of_zelda:_link's_awakening:maoxian	冒险〔合并词库〕	0
 M:48:__prompt__:the_legend_of_zelda:_link's_awakening:saierdaxilie	塞尔达系列〔合并词库〕	0
@@ -387015,6 +388479,12 @@ M:49:__prompt__:the other hand hanging loosely at side:lingyishouziranxiachui	�
 M:49:__prompt__:the other hand hanging loosely at side:lingyizhishouziranxiachui	另一只手自然下垂〔通用姿态·单手〕	1
 M:49:__prompt__:the other hand supporting back of head:lingyishoufuhounao	另一手扶后脑〔通用姿态·单手〕	1
 M:49:__prompt__:the other hand supporting back of head:lingyizhishoufuhounao	另一只手扶后脑〔通用姿态·单手〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuidazaijiaodengshang	另一条腿搭在脚凳上〔腿部放置〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuifangjiaodengshang	另一条腿放脚凳上〔腿部放置〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuifangjiaodengshangmian	另一条腿放脚凳上面〔腿部放置〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuifangzaijiaodengshang	另一条腿放在脚凳上〔腿部放置〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuifangzaijiaodengshangmian	另一条腿放在脚凳上面〔腿部放置〕	1
+M:49:__prompt__:the other leg resting on the footstool:lingyitiaotuigezaijiaodengshang	另一条腿搁在脚凳上〔腿部放置〕	1
 M:49:__prompt__:the_grim_adventures_of_billy_and_mandy:bierhemandi	比尔和曼迪〔e621〕	0
 M:49:__prompt__:the_grim_adventures_of_billy_and_mandy:biman	比曼〔e621〕	0
 M:49:__prompt__:the_grim_adventures_of_billy_and_mandy:katong	卡通〔e621〕	0
@@ -387900,6 +389370,18 @@ M:50:__prompt__:that_time_i_got_reincarnated_as_a_slime:guanyuwozhuanshengbianch
 M:50:__prompt__:that_time_i_got_reincarnated_as_a_slime:shilaimu	史莱姆〔e621〕	0
 M:50:__prompt__:that_time_i_got_reincarnated_as_a_slime:zhuanshengdongman	转生动漫〔e621〕	0
 M:50:__prompt__:that_time_i_got_reincarnated_as_a_slime:zhuanshengshilaimu	转生史莱姆〔e621〕	0
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaodazaijiaodengshang	另一只脚搭在脚凳上〔脚部放置〕	1
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaofangjiaodengshang	另一只脚放脚凳上〔脚部放置〕	1
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaofangjiaodengshangmian	另一只脚放脚凳上面〔脚部放置〕	1
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaofangzaijiaodengshang	另一只脚放在脚凳上〔脚部放置〕	1
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaofangzaijiaodengshangmian	另一只脚放在脚凳上面〔脚部放置〕	1
+M:50:__prompt__:the other foot resting on the footstool:lingyizhijiaogezaijiaodengshang	另一只脚搁在脚凳上〔脚部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuidazaichuangtaishang	另一条腿搭在窗台上〔腿部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuifangchuangtaishang	另一条腿放窗台上〔腿部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuifangchuangtaishangmian	另一条腿放窗台上面〔腿部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuifangzaichuangtaishang	另一条腿放在窗台上〔腿部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuifangzaichuangtaishangmian	另一条腿放在窗台上面〔腿部放置〕	1
+M:50:__prompt__:the other leg resting on the windowsill:lingyitiaotuigezaichuangtaishang	另一条腿搁在窗台上〔腿部放置〕	1
 M:50:__prompt__:the_legend_of_zelda:_a_link_to_the_past:maoxian	冒险〔合并词库〕	0
 M:50:__prompt__:the_legend_of_zelda:_a_link_to_the_past:saierda	塞尔达〔合并词库〕	0
 M:50:__prompt__:the_legend_of_zelda:_breath_of_the_wild:kuangyezhixi	旷野之息〔合并词库〕	0
@@ -388095,6 +389577,12 @@ M:51:__prompt__:tashkent_(the_bound_cruiser)_(azur_lane):shoufudexunyangjian	受
 M:51:__prompt__:tashkent_(the_bound_cruiser)_(azur_lane):tashigan	塔什干〔合并词库〕	0
 M:51:__prompt__:texas_(ambience_synesthesia)_(arknights):dekesasi	德克萨斯〔合并词库〕	0
 M:51:__prompt__:texas_(ambience_synesthesia)_(arknights):fenweixietongpifu	氛围协同皮肤〔合并词库〕	0
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaodazaichuangtaishang	另一只脚搭在窗台上〔脚部放置〕	1
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaofangchuangtaishang	另一只脚放窗台上〔脚部放置〕	1
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaofangchuangtaishangmian	另一只脚放窗台上面〔脚部放置〕	1
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaofangzaichuangtaishang	另一只脚放在窗台上〔脚部放置〕	1
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaofangzaichuangtaishangmian	另一只脚放在窗台上面〔脚部放置〕	1
+M:51:__prompt__:the other foot resting on the windowsill:lingyizhijiaogezaichuangtaishang	另一只脚搁在窗台上〔脚部放置〕	1
 M:51:__prompt__:thors_military_academy_class_vii_uniform:junfu	军服〔合并词库〕	0
 M:51:__prompt__:thors_military_academy_class_vii_uniform:xueyuanzhifu	学院制服〔合并词库〕	0
 M:51:__prompt__:uesugi_kenshin_(second_ascension)_(fate):dierzailin	第二再临〔合并词库〕	0
@@ -393419,6 +394907,7 @@ M:72:__prompt__:artoria_caster_(swimsuit_berserker)_(second_ascension)_(fate):di
 M:72:__prompt__:artoria_caster_(swimsuit_berserker)_(second_ascension)_(fate):yongzhuangkuangzhanshi	泳装狂战士〔合并词库〕	0
 M:72:__prompt__:chouzetsusaikawa_tenshi-chan_(needy_girl_overdose_exhibition):guanfangtidaifu	官方替代服〔合并词库〕	0
 M:72:__prompt__:chouzetsusaikawa_tenshi-chan_(needy_girl_overdose_exhibition):zhanlanxianding	展览限定〔合并词库〕	0
+M:72:__prompt__:left leg resting on the sofa, right foot resting on the floor:zuotuifangshafashangyoujiaofangdishang	左腿放沙发上右脚放地上〔左右腿脚组合〕	1
 M:72:__prompt__:legendary_shield_(small_shield)_(tate_no_yuusha_no_nariagari):dunpai	盾牌〔合并词库〕	0
 M:72:__prompt__:lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life:yishijie	异世界〔合并词库〕	0
 M:72:__prompt__:minamoto_no_raikou_(swimsuit_lancer)_(first_ascension)_(fate):diyizailin	第一再临〔合并词库〕	0
@@ -393428,6 +394917,7 @@ M:72:__prompt__:one hand resting on abdomen, the other hand touching shoulder:yi
 M:72:__prompt__:one hand resting on abdomen, the other hand touching shoulder:yizhishoufangfubulingyizhishoumojianbang	一只手放腹部另一只手摸肩膀〔通用姿态·双手〕	1
 M:72:__prompt__:one hand touching shoulder, the other hand resting on abdomen:yishoumojianbanglingyishoufangfubu	一手摸肩膀另一手放腹部〔通用姿态·双手〕	1
 M:72:__prompt__:one hand touching shoulder, the other hand resting on abdomen:yizhishoumojianbanglingyizhishoufangfubu	一只手摸肩膀另一只手放腹部〔通用姿态·双手〕	1
+M:72:__prompt__:right leg resting on the sofa, left foot resting on the floor:youtuifangshafashangzuojiaofangdishang	右腿放沙发上左脚放地上〔左右腿脚组合〕	1
 M:72:totsuzen_kaijin_ken_jimuin_no_ore_ga_mahou_shoujo-tachi_wo_otosu_hanashi:turanguairenjianshiwuyuandewoduoluomofashaonvmendegushi	突然怪人兼事务员的我堕落魔法少女们的故事	1
 M:72:tsuihousareta_cheat_fuyo_majutsushi_wa_kimama_na_second_life_wo_oukasuru:beifangzhudeguabifumoshikaiqisuixinsuoyudedierrensheng	被放逐的挂逼附魔师开启随心所欲的第二人生	1
 M:73:__prompt__:abigail_williams_(swimsuit_foreigner)_(first_ascension)_(fate):waixingren	外星人〔合并词库〕	0
@@ -393447,8 +394937,10 @@ M:73:isekai_one_turn_kill_nee-san:_ane_douhan_no_isekai_seikatsu_hajimemashita:y
 M:73:kibishii_onna_joushi_ga_koukousei_ni_modottara_ore_ni_deredere_suru_riyuu:yanlinvshangsihuidaogaozhonghouduiwobaiyibaishundeliyou	严厉女上司回到高中后对我百依百顺的理由	1
 M:74:__prompt__:abigail_williams_(swimsuit_foreigner)_(second_ascension)_(fate):dierzailin	第二再临〔合并词库〕	0
 M:74:__prompt__:abigail_williams_(swimsuit_foreigner)_(second_ascension)_(fate):yixingshen	异星神〔合并词库〕	0
+M:74:__prompt__:left foot resting on the stool, right foot resting on the floor:zuojiaofangdengzishangyoujiaofangdishang	左脚放凳子上右脚放地上〔左右腿脚组合〕	1
 M:74:__prompt__:miyamoto_musashi_(swimsuit_berserker)_(second_ascension)_(fate):dierzailin	第二再临〔合并词库〕	0
 M:74:__prompt__:miyamoto_musashi_(swimsuit_berserker)_(second_ascension)_(fate):yongzhuangkuangzhanshi	泳装狂战士〔合并词库〕	0
+M:74:__prompt__:right foot resting on the stool, left foot resting on the floor:youjiaofangdengzishangzuojiaofangdishang	右脚放凳子上左脚放地上〔左右腿脚组合〕	1
 M:75:__prompt__:frankenstein's_monster_(swimsuit_saber)_(third_ascension)_(fate):baisesidai	白色丝带〔合并词库〕	0
 M:75:__prompt__:frankenstein's_monster_(swimsuit_saber)_(third_ascension)_(fate):disanzailin	第三再临〔合并词库〕	0
 M:75:__prompt__:motto!_haramase!_honoo_no_oppai_isekai_chou_ero_succubus_gakuen!:yishijie	异世界〔合并词库〕	0
